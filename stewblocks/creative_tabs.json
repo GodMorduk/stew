@@ -1,0 +1,23 @@
+{
+  "content": [
+    {
+      "type": "creativeTab",
+      "entries": [
+        {
+          "id": "stew_blocks_stone",
+          "icon": "stewblocks:cat_stone"
+        }
+      ]
+    },
+ {
+      "type": "creativeTab",
+      "entries": [
+        {
+          "id": "stew_blocks_decor",
+          "icon": "stewblocks:cat_decor"
+        }
+      ]
+    }	
+   ]
+}
+	

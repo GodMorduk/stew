@@ -1,0 +1,14 @@
+{
+   "blocks":[
+      {
+         "type": "block:simple",
+         "entries":[
+            {
+               "id": "bulk_apples",
+               "material": "tnt",
+               "creativeTab": "stew_blocks_decor"
+            }
+         ]
+      }
+   ]
+}

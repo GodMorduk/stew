@@ -1,0 +1,14 @@
+{
+   "blocks":[
+      {
+         "type": "block:orientable:directional",
+         "entries":[
+            {
+               "id": "scrap_hardware_core",
+               "material": "tnt",
+               "creativeTab": "stew_blocks_decor"
+            }
+         ]
+      }
+   ]
+}

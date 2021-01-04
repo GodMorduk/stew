@@ -1,0 +1,7 @@
+{
+    "parent": "block/orientable_vertical",
+    "textures": {
+        "front": "stewblocks:blocks/scrap_hardware_core",
+        "side": "stewblocks:blocks/scrap_hardware_core_side"
+    }
+}

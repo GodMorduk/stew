@@ -1,0 +1,14 @@
+{
+   "blocks":[
+      {
+         "type": "block:simple",
+         "entries":[
+            {
+               "id": "brick_plastered_white",
+               "material": "rock",
+               "creativeTab": "stew_blocks_stone"
+            }
+         ]
+      }
+   ]
+}

@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "stewblocks:blocks/bulk_barrel_a_bottom",
+        "top": "stewblocks:blocks/bulk_apples",
+        "side": "stewblocks:blocks/bulk_barrel_a_01_side"
+    }
+}

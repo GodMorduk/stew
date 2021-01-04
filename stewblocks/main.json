@@ -1,0 +1,16 @@
+{
+  "imports": [
+    {
+      "file": "brick.json"
+    },
+    {
+      "file": "bulk.json"
+    },
+    {
+      "file": "scrap.json"
+    },
+    { 
+      "file": "creative_tabs.json"
+    }
+  ]
+}
