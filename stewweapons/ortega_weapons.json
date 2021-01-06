@@ -1,0 +1,503 @@
+{
+	"items": [{
+			"type": "item:sword",
+			"entries": [{
+				"id": "anicent_blade",
+				"creativeTab": "stew_weapons",
+				"attackSpeed": -2.4,
+				"damage": 9,
+				"material": "diamond"
+			}]
+		},
+		{
+			"type": "item:axe",
+			"entries": [{
+				"id": "axe",
+				"creativeTab": "stew_weapons",
+				"attackSpeed": -2.4,
+				"damage": 6,
+				"material": "iron"
+			}]
+		},
+		{
+			"type": "item:sword",
+			"entries": [{
+				"id": "basalt_cleaver",
+				"creativeTab": "stew_weapons",
+				"attackSpeed": -2.5,
+				"damage": 7,
+				"material": "diamond"
+			}]
+		},
+		{
+			"type": "item:sword",
+			"entries": [{
+				"id": "blade_trost",
+				"creativeTab": "stew_weapons",
+				"attackSpeed": -2.2,
+				"damage": 4,
+				"material": "iron"
+			}]
+		},
+		{
+			"type": "item:axe",
+			"entries": [{
+				"id": "blader_cutter",
+				"creativeTab": "stew_weapons",
+				"attackSpeed": -2.3,
+				"damage": 7,
+				"material": "iron"
+			}]
+		},
+		{
+			"type": "item:sword",
+			"entries": [{
+				"id": "blader_cutter_1",
+				"creativeTab": "stew_weapons",
+				"attackSpeed": -2.2,
+				"damage": 8,
+				"material": "iron"
+			}]
+		},
+		{
+			"type": "item:sword",
+			"entries": [{
+				"id": "blue_laser_sword",
+				"creativeTab": "stew_weapons",
+				"attackSpeed": -2.4,
+				"damage": 7,
+				"material": "diamond"
+			}]
+		},
+		{
+			"type": "item:axe",
+			"entries": [{
+				"id": "chainsaw",
+				"creativeTab": "stew_weapons",
+				"attackSpeed": -2.3,
+				"damage": 6,
+				"material": "iron"
+			}]
+		},
+		{
+			"type": "item:axe",
+			"entries": [{
+				"id": "chainsaw_1",
+				"creativeTab": "stew_weapons",
+				"attackSpeed": -2.2,
+				"damage": 6,
+				"material": "iron"
+			}]
+		},
+		{
+			"type": "item:sword",
+			"entries": [{
+				"id": "crystal_sword",
+				"creativeTab": "stew_weapons",
+				"attackSpeed": -2.4,
+				"damage": 8,
+				"material": "diamond"
+			}]
+		},
+		{
+			"type": "item:sword",
+			"entries": [{
+				"id": "curved_sword",
+				"creativeTab": "stew_weapons",
+				"attackSpeed": -2.8,
+				"damage": 7,
+				"material": "iron"
+			}]
+		},
+		{
+			"type": "item:sword",
+			"entries": [{
+				"id": "cutter",
+				"creativeTab": "stew_weapons",
+				"attackSpeed": -3,
+				"damage": 10,
+				"material": "iron"
+			}]
+		},
+		{
+			"type": "item:sword",
+			"entries": [{
+				"id": "dagger",
+				"creativeTab": "stew_weapons",
+				"attackSpeed": -2,
+				"damage": 5,
+				"material": "iron"
+			}]
+		},
+		{
+			"type": "item:pickaxe",
+			"entries": [{
+				"id": "deepdrill",
+				"creativeTab": "stew_weapons",
+				"attackSpeed": -2.4,
+				"damage": 6,
+				"material": "iron"
+			}]
+		},
+		{
+			"type": "item:pickaxe",
+			"entries": [{
+				"id": "hand_drill",
+				"creativeTab": "stew_weapons",
+				"attackSpeed": -2.4,
+				"damage": 6,
+				"material": "iron"
+			}]
+		},
+		{
+			"type": "item:sword",
+			"entries": [{
+				"id": "dragon_wrath",
+				"creativeTab": "stew_weapons",
+				"attackSpeed": -2.25,
+				"damage": 8,
+				"material": "iron"
+			}]
+		},
+		{
+			"type": "item:pickaxe",
+			"entries": [{
+				"id": "drill",
+				"creativeTab": "stew_weapons",
+				"attackSpeed": -2.4,
+				"damage": 6,
+				"material": "iron"
+			}]
+		},
+		{
+			"type": "item:axe",
+			"entries": [{
+				"id": "electroaxe",
+				"creativeTab": "stew_weapons",
+				"attackSpeed": -2.5,
+				"damage": 7,
+				"material": "diamond"
+			}]
+		},
+		{
+			"type": "item:sword",
+			"entries": [{
+				"id": "energy_glavie",
+				"creativeTab": "stew_weapons",
+				"attackSpeed": -2.8,
+				"damage": 9,
+				"material": "iron"
+			}]
+		},
+		{
+			"type": "item:sword",
+			"entries": [{
+				"id": "energy_whip",
+				"creativeTab": "stew_weapons",
+				"attackSpeed": -2.4,
+				"damage": 6,
+				"material": "iron"
+			}]
+		},
+		{
+			"type": "item:sword",
+			"entries": [{
+				"id": "long_dagger",
+				"creativeTab": "stew_weapons",
+				"attackSpeed": -2.2,
+				"damage": 5,
+				"material": "iron"
+			}]
+		},
+		{
+			"type": "item:axe",
+			"entries": [{
+				"id": "fireaxe",
+				"creativeTab": "stew_weapons",
+				"attackSpeed": -2.6,
+				"damage": 8,
+				"material": "iron"
+			}]
+		},
+		{
+			"type": "item:sword",
+			"entries": [{
+				"id": "garmonizator",
+				"creativeTab": "stew_weapons",
+				"attackSpeed": -2.4,
+				"damage": 7,
+				"material": "diamond"
+			}]
+		},
+		{
+			"type": "item:sword",
+			"entries": [{
+				"id": "glavie",
+				"creativeTab": "stew_weapons",
+				"attackSpeed": -2.8,
+				"damage": 8,
+				"material": "iron"
+			}]
+		},
+		{
+			"type": "item:sword",
+			"entries": [{
+				"id": "industrial_hammer",
+				"creativeTab": "stew_weapons",
+				"attackSpeed": -3.5,
+				"damage": 15,
+				"material": "iron"
+			}]
+		},
+		{
+			"type": "item:sword",
+			"entries": [{
+				"id": "katana",
+				"creativeTab": "stew_weapons",
+				"attackSpeed": -2.5,
+				"damage": 7,
+				"material": "iron"
+			}]
+		},
+		{
+			"type": "item:sword",
+			"entries": [{
+				"id": "khopesh",
+				"creativeTab": "stew_weapons",
+				"attackSpeed": -2.75,
+				"damage": 9,
+				"material": "iron"
+			}]
+		},
+		{
+			"type": "item:sword",
+			"entries": [{
+				"id": "kris",
+				"creativeTab": "stew_weapons",
+				"attackSpeed": -2.2,
+				"damage": 6,
+				"material": "iron"
+			}]
+		},
+		{
+			"type": "item:sword",
+			"entries": [{
+				"id": "laser_razor",
+				"creativeTab": "stew_weapons",
+				"attackSpeed": -3.1,
+				"damage": 11,
+				"material": "iron"
+			}]
+		},
+		{
+			"type": "item:sword",
+			"entries": [{
+				"id": "machete",
+				"creativeTab": "stew_weapons",
+				"attackSpeed": -2.5,
+				"damage": 6,
+				"material": "iron"
+			}]
+		},
+		{
+			"type": "item:sword",
+			"entries": [{
+				"id": "machete_1",
+				"creativeTab": "stew_weapons",
+				"attackSpeed": -2.5,
+				"damage": 6,
+				"material": "iron"
+			}]
+		},
+		{
+			"type": "item:sword",
+			"entries": [{
+				"id": "magnet_mace",
+				"creativeTab": "stew_weapons",
+				"attackSpeed": -2.4,
+				"damage": 7,
+				"material": "iron"
+			}]
+		},
+		{
+			"type": "item:sword",
+			"entries": [{
+				"id": "monomolecural_blade",
+				"creativeTab": "stew_weapons",
+				"attackSpeed": -2.2,
+				"damage": 7,
+				"material": "diamond"
+			}]
+		},
+		{
+			"type": "item:sword",
+			"entries": [{
+				"id": "negotiator",
+				"creativeTab": "stew_weapons",
+				"attackSpeed": -2.3,
+				"damage": 6,
+				"material": "diamond"
+			}]
+		},
+		{
+			"type": "item:sword",
+			"entries": [{
+				"id": "plasma_torch",
+				"creativeTab": "stew_weapons",
+				"attackSpeed": -2.8,
+				"damage": 9,
+				"material": "gold"
+			}]
+		},
+		{
+			"type": "item:sword",
+			"entries": [{
+				"id": "poison_dagger",
+				"creativeTab": "stew_weapons",
+				"attackSpeed": -2.4,
+				"damage": 4,
+				"material": "iron"
+			}]
+		},
+		{
+			"type": "item:sword",
+			"entries": [{
+				"id": "positron_opressor",
+				"creativeTab": "stew_weapons",
+				"attackSpeed": -2.4,
+				"damage": 4,
+				"material": "iron"
+			}]
+		},
+		{
+			"type": "item:sword",
+			"entries": [{
+				"id": "rogosvet",
+				"creativeTab": "stew_weapons",
+				"attackSpeed": -2.4,
+				"damage": 6,
+				"material": "diamond"
+			}]
+		},
+		{
+			"type": "item:sword",
+			"entries": [{
+				"id": "rope_hook",
+				"creativeTab": "stew_weapons",
+				"attackSpeed": -2.3,
+				"damage": 5,
+				"material": "iron"
+			}]
+		},
+		{
+			"type": "item:sword",
+			"entries": [{
+				"id": "rusty_sword",
+				"creativeTab": "stew_weapons",
+				"attackSpeed": -2.4,
+				"damage": 4,
+				"material": "stone"
+			}]
+		},
+		{
+			"type": "item:sword",
+			"entries": [{
+				"id": "shock_baton",
+				"creativeTab": "stew_weapons",
+				"attackSpeed": -2.5,
+				"damage": 7,
+				"material": "iron"
+			}]
+		},
+		{
+			"type": "item:sword",
+			"entries": [{
+				"id": "short_blade",
+				"creativeTab": "stew_weapons",
+				"attackSpeed": -2.4,
+				"damage": 7,
+				"material": "iron"
+			}]
+		},
+		{
+			"type": "item:sword",
+			"entries": [{
+				"id": "solid_light_baton",
+				"creativeTab": "stew_weapons",
+				"attackSpeed": -2.4,
+				"damage": 6,
+				"material": "diamond"
+			}]
+		},
+		{
+			"type": "item:sword",
+			"entries": [{
+				"id": "spear",
+				"creativeTab": "stew_weapons",
+				"attackSpeed": -3,
+				"damage": 9,
+				"material": "iron"
+			}]
+		},
+		{
+			"type": "item:sword",
+			"entries": [{
+				"id": "strange_sword",
+				"creativeTab": "stew_weapons",
+				"attackSpeed": -2.4,
+				"damage": 11,
+				"material": "diamond"
+			}]
+		},
+		{
+			"type": "item:sword",
+			"entries": [{
+				"id": "sword",
+				"creativeTab": "stew_weapons",
+				"attackSpeed": -2.7,
+				"damage": 8,
+				"material": "iron"
+			}]
+		},
+		{
+			"type": "item:sword",
+			"entries": [{
+				"id": "thermal_blade",
+				"creativeTab": "stew_weapons",
+				"attackSpeed": -2.4,
+				"damage": 11,
+				"material": "gold"
+			}]
+		},
+		{
+			"type": "item:sword",
+			"entries": [{
+				"id": "vibroblade",
+				"creativeTab": "stew_weapons",
+				"attackSpeed": -2.5,
+				"damage": 6,
+				"material": "iron"
+			}]
+		},
+		{
+			"type": "item:sword",
+			"entries": [{
+				"id": "vibroblade_1",
+				"creativeTab": "stew_weapons",
+				"attackSpeed": -2.5,
+				"damage": 8,
+				"material": "diamond"
+			}]
+		},
+		{
+			"type": "item:sword",
+			"entries": [{
+				"id": "winged_sword",
+				"creativeTab": "stew_weapons",
+				"attackSpeed": -2.6,
+				"damage": 7,
+				"material": "iron"
+			}]
+		}
+	]
+}

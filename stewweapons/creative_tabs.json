@@ -1,0 +1,13 @@
+{
+   "imports":[
+	  {
+         "type":"creativeTab",
+         "entries":[
+            {
+               "id": "stew_weapons",
+               "icon": "stewweapons:cutter"
+            }
+         ]
+      }
+   ]
+}
