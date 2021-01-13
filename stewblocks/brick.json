@@ -9,6 +9,16 @@
                "creativeTab": "stew_blocks_stone"
             }
          ]
+      },
+      {
+         "type": "block:simple",
+         "entries":[
+            {
+               "id": "brick_plastered_red",
+               "material": "rock",
+               "creativeTab": "stew_blocks_stone"
+            }
+         ]
       }
    ]
 }
