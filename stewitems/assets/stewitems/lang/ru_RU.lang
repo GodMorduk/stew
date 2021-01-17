@@ -1,0 +1,21 @@
+itemGroup.stewfood=Stew: food
+
+item.stewitems.food_bottle_water.name=Бутилированная вода
+item.stewitems.food_canned_berries.name=Консервированные ягоды
+item.stewitems.food_canned_bugs.name=Консервированные жуки
+item.stewitems.food_canned_cuicari.name=Консервированные фрукты
+item.stewitems.food_canned_fish.name=Консервированная рыба
+item.stewitems.food_canned_food.name=Консервированное нечто
+item.stewitems.food_canned_meat.name=Консервированное мясо
+item.stewitems.food_canned_milk.name=Консервированное молоко
+item.stewitems.food_cooked_meat_1.name=Жареное мясо
+item.stewitems.food_cooked_meat.name=Жареное мясо
+item.stewitems.food_insect_meat.name=Жареное мясо насекомого
+item.stewitems.food_meat_raw.name=Сырое мясо
+item.stewitems.food_meat_raw_1.name=Сырое мясо
+item.stewitems.food_meat_raw_2.name=Сырое мясо
+item.stewitems.food_meat_reptile.name=Сырое мясо рептилии
+item.stewitems.food_snack_drink.name=Растворимый порошок
+item.stewitems.food_snack_meat.name=Мясной баточник
+item.stewitems.food_snack_psy.name=Конфетки
+item.stewitems.food_snack_serup.name=Сладкий сироп

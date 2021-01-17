@@ -1,0 +1,9 @@
+{
+    "tabs": [{
+        "type": "creativeTab",
+        "entries": [{
+            "id": "stewfood",
+            "icon": "stewitems:food_canned_bugs"
+        }]
+    }]
+}				
