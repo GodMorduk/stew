@@ -1,0 +1,8 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "top": "stewblocks:blocks/railing_test_top",
+        "front": "stewblocks:blocks/railing_test",
+        "side": "stewblocks:blocks/railing_test_side"
+    }
+}

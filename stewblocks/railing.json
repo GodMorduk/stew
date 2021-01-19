@@ -1,0 +1,15 @@
+{
+   "blocks":[
+      {
+         "type": "block:orientable:directional",
+         "entries":[
+            {
+               "id": "railing_test",
+               "material": "iron",
+               "creativeTab": "stew_blocks_decor",
+			   "collisionBounds": { "from": [0, 0, 0], "to": [8, 1, 8]}
+            }
+         ]
+      }      
+   ]
+}
