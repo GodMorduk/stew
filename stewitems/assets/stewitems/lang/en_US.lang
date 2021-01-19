@@ -1,0 +1,21 @@
+itemGroup.stewfood=Stew: food
+
+item.stewitems.food_bottle_water.name=Bottled Water
+item.stewitems.food_canned_berries.name=Canned Berries
+item.stewitems.food_canned_bugs.name=Canned Insects
+item.stewitems.food_canned_cuicari.name=Canned Fruit
+item.stewitems.food_canned_fish.name=Canned Fish
+item.stewitems.food_canned_food.name=Canned Something
+item.stewitems.food_canned_meat.name=Canned Meat
+item.stewitems.food_canned_milk.name=Canned Milk
+item.stewitems.food_cooked_m eat_1.name=Cooked meat
+item.stewitems.food_cooked_meat.name=Cooked meat
+item.stewitems.food_insect_meat.name=Cooked insect meat
+item.stewitems.food_meat_raw.name=Raw meat
+item.stewitems.food_meat_raw_1.name=Raw meat
+item.stewitems.food_meat_raw_2.name=Raw meat
+item.stewitems.food_meat_reptile.name=Raw reptile meat
+item.stewitems.food_snack_drink.name=Instant powder
+item.stewitems.food_snack_meat.name=Meat snack
+item.stewitems.food_snack_psy.name=Candy snack
+item.stewitems.food_snack_serup.name=Serup snack

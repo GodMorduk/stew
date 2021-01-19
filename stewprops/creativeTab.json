@@ -1,0 +1,9 @@
+{
+    "tabs": [{
+        "type": "creativeTab",
+        "entries": [{
+            "id": "stewprops",
+            "icon": "stewprops:etc"
+        }]
+    }]
+}				
