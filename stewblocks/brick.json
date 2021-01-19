@@ -4,7 +4,7 @@
          "type": "block:simple",
          "entries":[
             {
-               "id": "brick_plastered_white",
+               "id": "brick_plastered_gray",
                "material": "rock",
                "creativeTab": "stew_blocks_stone"
             }
@@ -14,11 +14,151 @@
          "type": "block:simple",
          "entries":[
             {
-               "id": "brick_plastered_red",
+               "id": "brick_plastered_black",
                "material": "rock",
                "creativeTab": "stew_blocks_stone"
             }
          ]
+      },
+      {
+               "type": "block:simple",
+               "entries":[
+                  {
+                     "id": "brick_plastered_blue",
+                     "material": "rock",
+                     "creativeTab": "stew_blocks_stone"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries":[
+            {
+               "id": "brick_plastered_brown",
+               "material": "rock",
+               "creativeTab": "stew_blocks_stone"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries":[
+            {
+               "id": "brick_plastered_cyan",
+               "material": "rock",
+               "creativeTab": "stew_blocks_stone"
+            }
+         ]
+      },
+      {
+               "type": "block:simple",
+               "entries":[
+            {
+                     "id": "brick_plastered_green",
+                     "material": "rock",
+                     "creativeTab": "stew_blocks_stone"
+                  }
+               ]
+            },
+            {
+               "type": "block:simple",
+               "entries":[
+                  {
+                     "id": "brick_plastered_light_blue",
+                     "material": "rock",
+                     "creativeTab": "stew_blocks_stone"
+                  }
+               ]
+            },
+            {
+               "type": "block:simple",
+               "entries":[
+                  {
+                     "id": "brick_plastered_light_gray",
+                     "material": "rock",
+                     "creativeTab": "stew_blocks_stone"
+                  }
+               ]
+            },
+            {
+               "type": "block:simple",
+               "entries":[
+                  {
+                     "id": "brick_plastered_lime",
+                     "material": "rock",
+                     "creativeTab": "stew_blocks_stone"
+                  }
+               ]
+            },
+            {
+               "type": "block:simple",
+               "entries":[
+                  {
+                     "id": "brick_plastered_magenta",
+                     "material": "rock",
+                     "creativeTab": "stew_blocks_stone"
+                  }
+               ]
+            },
+            {
+               "type": "block:simple",
+               "entries":[
+                  {
+                     "id": "brick_plastered_orange",
+                     "material": "rock",
+                     "creativeTab": "stew_blocks_stone"
+                  }
+               ]
+            },
+            {
+               "type": "block:simple",
+               "entries":[
+                  {
+                     "id": "brick_plastered_pink",
+                     "material": "rock",
+                     "creativeTab": "stew_blocks_stone"
+                  }
+               ]
+            },
+            {
+               "type": "block:simple",
+               "entries":[
+                  {
+                     "id": "brick_plastered_purple",
+                     "material": "rock",
+                     "creativeTab": "stew_blocks_stone"
+                  }
+               ]
+            },
+            {
+               "type": "block:simple",
+               "entries":[
+                  {
+                     "id": "brick_plastered_red",
+                     "material": "rock",
+                     "creativeTab": "stew_blocks_stone"
+                  }
+               ]
+            },
+            {
+               "type": "block:simple",
+               "entries":[
+                  {
+                     "id": "brick_plastered_white",
+                     "material": "rock",
+                     "creativeTab": "stew_blocks_stone"
+                  }
+               ]
+            },
+            {
+               "type": "block:simple",
+               "entries":[
+                  {
+                     "id": "brick_plastered_yellow",
+                     "material": "rock",
+                     "creativeTab": "stew_blocks_stone"
+                  }
+               ]
+            }
+         ]
       }
-   ]
-}

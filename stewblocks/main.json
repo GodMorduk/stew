@@ -10,7 +10,11 @@
       "file": "scrap.json"
     },
     { 
+      "file": "railing.json"
+    },
+    { 
       "file": "creative_tabs.json"
-    }
+    }	
   ]
 }
+

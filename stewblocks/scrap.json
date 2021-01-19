@@ -1,14 +1,34 @@
 {
    "blocks":[
       {
-         "type": "block:orientable:directional",
+         "type": "block:orientable:horizontal",
          "entries":[
             {
                "id": "scrap_hardware_core",
-               "material": "tnt",
+               "material": "iron",
                "creativeTab": "stew_blocks_decor"
             }
          ]
-      }
+      },
+      {
+         "type": "block:orientable:horizontal",
+         "entries":[
+            {
+               "id": "scrap_hardware_battery",
+               "material": "iron",
+               "creativeTab": "stew_blocks_decor"
+            }
+         ]
+      },
+      {
+         "type": "block:orientable:horizontal",
+         "entries":[
+            {
+               "id": "scrap_hardware_clono",
+               "material": "iron",
+               "creativeTab": "stew_blocks_decor"
+            }
+         ]
+      }        
    ]
 }
