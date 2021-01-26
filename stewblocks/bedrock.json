@@ -1,0 +1,87 @@
+{
+    "blocks":[
+       {
+          "type": "block:simple",
+          "entries":[
+             {
+                "id": "bedrock_bricks",
+                "material": "rock",
+                "creativeTab": "stew_blocks_stone"
+             }
+          ]
+       },
+       {
+       "type": "block:simple",
+          "entries":[
+             {
+                "id": "bedrock_bricks_mossy",
+                "material": "rock",
+                "creativeTab": "stew_blocks_decor"
+             }
+          ]
+       },
+       {
+              "type": "block:simple",
+              "entries":[
+                 {
+                    "id": "bedrock_small_bricks",
+                    "material": "rock",
+                    "creativeTab": "stew_blocks_stone"
+                 }
+              ]
+           },
+           {
+           "type": "block:simple",
+              "entries":[
+                 {
+                    "id": "bedrock_small_bricks_damaged",
+                    "material": "rock",
+                    "creativeTab": "stew_blocks_decor"
+                 }
+              ]
+           },   
+           {
+              "type": "block:simple",
+              "entries":[
+                 {
+                    "id": "bedrock_smooth",
+                    "material": "rock",
+                    "creativeTab": "stew_blocks_stone"
+                 }
+              ]
+           },
+           {
+           "type": "block:simple",
+              "entries":[
+                 {
+                    "id": "bedrock_capital_gargoyle",
+                    "material": "rock",
+                    "creativeTab": "stew_blocks_decor"
+                 }
+              ]
+           },   
+           {
+              "type": "block:simple",
+              "entries":[
+                 {
+                    "id": "bedrock_tile_hexagon",
+                    "material": "rock",
+                    "creativeTab": "stew_blocks_stone"
+                 }
+              ]
+           },
+           {
+           "type": "block:simple",
+              "entries":[
+                 {
+                    "id": "bedrock_tile_square",
+                    "material": "rock",
+                    "creativeTab": "stew_blocks_decor"
+                 }
+              ]
+           }   
+        ]
+     }
+
+
+ 

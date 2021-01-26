@@ -14,7 +14,13 @@
     },
     { 
       "file": "creative_tabs.json"
-    }	
+    },
+    { 
+      "file": "bedrock.json"
+    },
+    { 
+      "file": "shelf.json"
+    }
   ]
 }
 

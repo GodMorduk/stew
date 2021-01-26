@@ -1,0 +1,8 @@
+
+   {
+   "parent": "stewblocks:block/railing_horizontal",
+    "textures": {
+        "face": "stewblocks:blocks/railing_test",
+        "side": "stewblocks:blocks/railing_test_top"
+    }
+}
