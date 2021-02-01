@@ -7,7 +7,7 @@
           "id": "shelf_books_faded",
           "creativeTab": "stew_blocks_decor",
           "itemModel": "stewblocks:shelf_books_faded",
-          "tileEntity": "stewblocks:shelf_test",
+          "tileEntity": "stewblocks:shelf",
           "gui": "stewblocks:shelf"
         }
       ]
@@ -16,7 +16,7 @@
       "type": "tileentity:simple",
       "entries": [
         {
-          "id": "shelf_test",
+          "id": "shelf",
           "modules": [
             {
               "type": "inventory",
@@ -72,7 +72,7 @@
             {
               "text": "container.shelf",
               "x": 8,
-              "y": 6
+              "y": 26
             },
             {
               "text": "container.inventory",
@@ -80,6 +80,222 @@
               "y": 73
             }
           ]
+        }
+      ]
+    },
+    {
+      "type": "block:orientable:horizontal",
+      "entries": [
+        {
+          "id": "shelf_supply",
+          "creativeTab": "stew_blocks_decor",
+          "itemModel": "stewblocks:shelf_supply",
+          "tileEntity": "stewblocks:shelf",
+          "gui": "stewblocks:shelf"
+        }
+      ]
+    },
+    {
+      "type": "block:orientable:horizontal",
+      "entries": [
+        {
+          "id": "shelf_abandoned",
+          "creativeTab": "stew_blocks_decor",
+          "itemModel": "stewblocks:shelf_abandoned",
+          "tileEntity": "stewblocks:shelf",
+          "gui": "stewblocks:shelf"
+        }
+      ]
+    },
+    {
+      "type": "block:orientable:horizontal",
+      "entries": [
+        {
+          "id": "shelf_arch_01",
+          "creativeTab": "stew_blocks_decor",
+          "itemModel": "stewblocks:shelf_arch_01",
+          "tileEntity": "stewblocks:shelf",
+          "gui": "stewblocks:shelf"
+        }
+      ]
+    },
+    {
+      "type": "block:orientable:horizontal",
+      "entries": [
+        {
+          "id": "shelf_arch_02",
+          "creativeTab": "stew_blocks_decor",
+          "itemModel": "stewblocks:shelf_arch_02",
+          "tileEntity": "stewblocks:shelf",
+          "gui": "stewblocks:shelf"
+        }
+      ]
+    },
+    {
+      "type": "block:orientable:horizontal",
+      "entries": [
+        {
+          "id": "shelf_books",
+          "creativeTab": "stew_blocks_decor",
+          "itemModel": "stewblocks:shelf_books",
+          "tileEntity": "stewblocks:shelf",
+          "gui": "stewblocks:shelf"
+        }
+      ]
+    },
+    {
+      "type": "block:orientable:horizontal",
+      "entries": [
+        {
+          "id": "shelf_crockery",
+          "creativeTab": "stew_blocks_decor",
+          "itemModel": "stewblocks:shelf_crockery",
+          "tileEntity": "stewblocks:shelf",
+          "gui": "stewblocks:shelf"
+        }
+      ]
+    },
+    {
+      "type": "block:orientable:horizontal",
+      "entries": [
+        {
+          "id": "shelf_hardware",
+          "creativeTab": "stew_blocks_decor",
+          "itemModel": "stewblocks:shelf_hardware",
+          "tileEntity": "stewblocks:shelf",
+          "gui": "stewblocks:shelf"
+        }
+      ]
+    },
+    {
+      "type": "block:orientable:horizontal",
+      "entries": [
+        {
+          "id": "shelf_journals",
+          "creativeTab": "stew_blocks_decor",
+          "itemModel": "stewblocks:shelf_journals",
+          "tileEntity": "stewblocks:shelf",
+          "gui": "stewblocks:shelf"
+        }
+      ]
+    },
+    {
+      "type": "block:orientable:horizontal",
+      "entries": [
+        {
+          "id": "shelf_medicine",
+          "creativeTab": "stew_blocks_decor",
+          "itemModel": "stewblocks:shelf_medicine",
+          "tileEntity": "stewblocks:shelf",
+          "gui": "stewblocks:shelf"
+        }
+      ]
+    },
+    {
+      "type": "block:orientable:horizontal",
+      "entries": [
+        {
+          "id": "shelf_scrolls_01",
+          "creativeTab": "stew_blocks_decor",
+          "itemModel": "stewblocks:shelf_scrolls_01",
+          "tileEntity": "stewblocks:shelf",
+          "gui": "stewblocks:shelf"
+        }
+      ]
+    },
+    {
+      "type": "block:orientable:horizontal",
+      "entries": [
+        {
+          "id": "shelf_scrolls_02",
+          "creativeTab": "stew_blocks_decor",
+          "itemModel": "stewblocks:shelf_scrolls_02",
+          "tileEntity": "stewblocks:shelf",
+          "gui": "stewblocks:shelf"
+        }
+      ]
+    },
+    {
+      "type": "block:orientable:horizontal",
+      "entries": [
+        {
+          "id": "shelf_stuff",
+          "creativeTab": "stew_blocks_decor",
+          "itemModel": "stewblocks:shelf_stuff",
+          "tileEntity": "stewblocks:shelf",
+          "gui": "stewblocks:shelf"
+        }
+      ]
+    },
+    {
+      "type": "block:orientable:horizontal",
+      "entries": [
+        {
+          "id": "shelf_trophies",
+          "creativeTab": "stew_blocks_decor",
+          "itemModel": "stewblocks:shelf_trophies",
+          "tileEntity": "stewblocks:shelf",
+          "gui": "stewblocks:shelf"
+        }
+      ]
+    },
+    {
+      "type": "block:orientable:horizontal",
+      "entries": [
+        {
+          "id": "shelf_wardrobe",
+          "creativeTab": "stew_blocks_decor",
+          "itemModel": "stewblocks:shelf_wardrobe",
+          "tileEntity": "stewblocks:shelf",
+          "gui": "stewblocks:shelf"
+        }
+      ]
+    },
+    {
+      "type": "block:orientable:horizontal",
+      "entries": [
+        {
+          "id": "shelf_wardrobe_poor",
+          "creativeTab": "stew_blocks_decor",
+          "itemModel": "stewblocks:shelf_wardrobe_poor",
+          "tileEntity": "stewblocks:shelf",
+          "gui": "stewblocks:shelf"
+        }
+      ]
+    },
+    {
+      "type": "block:orientable:horizontal",
+      "entries": [
+        {
+          "id": "shelf_wine_01",
+          "creativeTab": "stew_blocks_decor",
+          "itemModel": "stewblocks:shelf_wine_01",
+          "tileEntity": "stewblocks:shelf",
+          "gui": "stewblocks:shelf"
+        }
+      ]
+    },
+    {
+      "type": "block:orientable:horizontal",
+      "entries": [
+        {
+          "id": "shelf_wine_02",
+          "creativeTab": "stew_blocks_decor",
+          "itemModel": "stewblocks:shelf_wine_02",
+          "tileEntity": "stewblocks:shelf",
+          "gui": "stewblocks:shelf"
+        }
+      ]
+    },
+    {
+      "type": "block:orientable:horizontal",
+      "entries": [
+        {
+          "id": "shelf_wine_03",
+          "creativeTab": "stew_blocks_decor",
+          "itemModel": "stewblocks:shelf_wine_03",
+          "tileEntity": "stewblocks:shelf",
+          "gui": "stewblocks:shelf"
         }
       ]
     }

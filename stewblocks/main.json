@@ -20,6 +20,9 @@
     },
     { 
       "file": "shelf.json"
+    },
+    { 
+      "file": "terracota.json"
     }
   ]
 }
