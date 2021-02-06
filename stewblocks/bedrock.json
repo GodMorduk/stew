@@ -79,9 +79,41 @@
                     "creativeTab": "stew_blocks_stone"
                  }
               ]
-           }   
-        ]
-     }
-
+           },   
+           {
+            "type": "block:stairs",
+            "entries": [
+              {
+                "id": "bedrock_brick_stairs",
+                "creativeTab": "stew_blocks_stone",
+                "material": "rock",
+                "itemModel": "stewblocks:bedrock_brick_stairs",
+                "modelState": {
+                  "block": "stewblocks:bedrock_bricks"
+                },
+                "hardness": 1
+              }
+            ]
+         },
+         {
+          "type": "block:slab",
+          "entries": [
+            {
+              "id": "bedrock_brick_slab",
+              "creativeTab": "stew_blocks_stone",
+              "material": "rock",
+              "itemModel": "stewblocks:bedrock_brick_half_slab",
+              "doubleSlab": {
+                "block": "stewblocks:bedrock_bricks",
+                "properties": {
+                  "subtype": "subtype0"
+              },
+              "hardness": 1
+            }
+          }
+          ]
+        }
+      ] 
+      }
 
  

@@ -23,6 +23,9 @@
     },
     { 
       "file": "terracota.json"
+    },
+    { 
+      "file": "test.json"
     }
   ]
 }

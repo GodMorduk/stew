@@ -298,6 +298,114 @@
           "gui": "stewblocks:shelf"
         }
       ]
+    },
+    {
+      "type": "block:orientable:horizontal",
+      "entries": [
+        {
+          "id": "locker_file",
+          "creativeTab": "stew_blocks_decor",
+          "itemModel": "stewblocks:locker_file",
+          "tileEntity": "stewblocks:shelf",
+          "gui": "stewblocks:shelf"
+        }
+      ]
+    },
+    {
+      "type": "block:orientable:horizontal",
+      "entries": [
+        {
+          "id": "locker_iron",
+          "creativeTab": "stew_blocks_decor",
+          "itemModel": "stewblocks:locker_iron",
+          "tileEntity": "stewblocks:shelf",
+          "gui": "stewblocks:shelf"
+        }
+      ]
+    },
+    {
+      "type": "block:orientable:horizontal",
+      "entries": [
+        {
+          "id": "locker_metal_yellow",
+          "creativeTab": "stew_blocks_decor",
+          "itemModel": "stewblocks:locker_metal_yellow",
+          "tileEntity": "stewblocks:shelf",
+          "gui": "stewblocks:shelf"
+        }
+      ]
+    },
+    {
+      "type": "block:orientable:horizontal",
+      "entries": [
+        {
+          "id": "locker_wooden_drawer",
+          "creativeTab": "stew_blocks_decor",
+          "itemModel": "stewblocks:locker_wooden_drawer",
+          "tileEntity": "stewblocks:shelf",
+          "gui": "stewblocks:shelf"
+        }
+      ]
+    },
+    {
+      "type": "block:orientable:horizontal",
+      "entries": [
+        {
+          "id": "locker_wooden_elven",
+          "creativeTab": "stew_blocks_decor",
+          "itemModel": "stewblocks:locker_wooden_elven",
+          "tileEntity": "stewblocks:shelf",
+          "gui": "stewblocks:shelf"
+        }
+      ]
+    },
+    {
+      "type": "block:orientable:horizontal",
+      "entries": [
+        {
+          "id": "locker_wooden_glass",
+          "creativeTab": "stew_blocks_decor",
+          "itemModel": "stewblocks:locker_wooden_glass",
+          "tileEntity": "stewblocks:shelf",
+          "gui": "stewblocks:shelf"
+        }
+      ]
+    },
+    {
+      "type": "block:orientable:horizontal",
+      "entries": [
+        {
+          "id": "locker_wooden_grid",
+          "creativeTab": "stew_blocks_decor",
+          "itemModel": "stewblocks:locker_wooden_grid",
+          "tileEntity": "stewblocks:shelf",
+          "gui": "stewblocks:shelf"
+        }
+      ]
+    },
+    {
+      "type": "block:orientable:horizontal",
+      "entries": [
+        {
+          "id": "locker_wooden_rich",
+          "creativeTab": "stew_blocks_decor",
+          "itemModel": "stewblocks:locker_wooden_rich",
+          "tileEntity": "stewblocks:shelf",
+          "gui": "stewblocks:shelf"
+        }
+      ]
+    },
+    {
+      "type": "block:orientable:horizontal",
+      "entries": [
+        {
+          "id": "locker_wooden_rustic",
+          "creativeTab": "stew_blocks_decor",
+          "itemModel": "stewblocks:locker_wooden_rustic",
+          "tileEntity": "stewblocks:shelf",
+          "gui": "stewblocks:shelf"
+        }
+      ]
     }
   ]
 }
