@@ -1,0 +1,8 @@
+{
+    "variants": {
+    "facing=north": { "model": "stewblocks:shelf_trophies" },
+    "facing=south": { "model": "stewblocks:shelf_trophies", "y": 180 },
+    "facing=west":  { "model": "stewblocks:shelf_trophies", "y": 270 },
+    "facing=east":  { "model": "stewblocks:shelf_trophies", "y": 90 }
+}
+}

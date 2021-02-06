@@ -1,0 +1,8 @@
+{
+    "variants": {
+    "facing=north": { "model": "stewblocks:locker_metal_yellow" },
+    "facing=south": { "model": "stewblocks:locker_metal_yellow", "y": 180 },
+    "facing=west":  { "model": "stewblocks:locker_metal_yellow", "y": 270 },
+    "facing=east":  { "model": "stewblocks:locker_metal_yellow", "y": 90 }
+}
+}

@@ -1,0 +1,14 @@
+{
+    "blocks":[
+       {
+          "type": "block:simple",
+          "entries":[
+             {
+                "id": "cladding_red",
+                "material": "rock",
+                "creativeTab": "stew_blocks_stone"
+               }
+            ]
+         }
+      ]
+   }

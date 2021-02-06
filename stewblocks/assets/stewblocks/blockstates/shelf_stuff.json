@@ -1,0 +1,8 @@
+{
+    "variants": {
+    "facing=north": { "model": "stewblocks:shelf_stuff" },
+    "facing=south": { "model": "stewblocks:shelf_stuff", "y": 180 },
+    "facing=west":  { "model": "stewblocks:shelf_stuff", "y": 270 },
+    "facing=east":  { "model": "stewblocks:shelf_stuff", "y": 90 }
+}
+}

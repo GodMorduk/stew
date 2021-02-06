@@ -1,0 +1,7 @@
+{
+    "parent": "block/stewblocks:cube_end_side",
+    "textures": {
+        "end": "stewblocks:blocks/wall_ornament_03",
+        "side": "stewblocks:blocks/wall_ornament_03_top"
+    }
+}

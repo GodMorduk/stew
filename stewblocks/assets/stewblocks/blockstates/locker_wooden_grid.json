@@ -1,0 +1,8 @@
+{
+    "variants": {
+    "facing=north": { "model": "stewblocks:locker_wooden_grid" },
+    "facing=south": { "model": "stewblocks:locker_wooden_grid", "y": 180 },
+    "facing=west":  { "model": "stewblocks:locker_wooden_grid", "y": 270 },
+    "facing=east":  { "model": "stewblocks:locker_wooden_grid", "y": 90 }
+}
+}

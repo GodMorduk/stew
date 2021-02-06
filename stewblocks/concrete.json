@@ -1,0 +1,24 @@
+{
+   "blocks":[
+      {
+         "type": "block:simple",
+         "entries":[
+            {
+               "id": "concrete_rust_ornament",
+               "material": "rock",
+               "creativeTab": "stew_blocks_stone"
+            }
+         ]
+      },
+	  {
+	  "type": "block:simple",
+         "entries":[
+            {
+               "id": "concrete_rust_front",
+               "material": "rock",
+               "creativeTab": "stew_blocks_decor"
+            }
+         ]
+      }   
+   ]
+}

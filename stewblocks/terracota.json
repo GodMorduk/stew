@@ -1,0 +1,65 @@
+{
+   "blocks":[
+      {
+         "type": "block:simple",
+         "entries":[
+            {
+                "id": "mosaic_blue",
+                "material": "rock",
+                "creativeTab": "stew_blocks_stone"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries":[
+            {
+               "id": "mosaic_indian",
+               "material": "rock",
+               "creativeTab": "stew_blocks_stone"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries":[
+            {
+               "id": "mosaic_red",
+               "material": "rock",
+               "creativeTab": "stew_blocks_stone"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries":[
+            {
+               "id": "mosaic_rhombus",
+               "material": "rock",
+               "creativeTab": "stew_blocks_stone"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries":[
+            {
+               "id": "mosaic_romani",
+               "material": "rock",
+               "creativeTab": "stew_blocks_stone"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries":[
+            {
+               "id": "mosaic_spanisharabic",
+               "material": "rock",
+               "creativeTab": "stew_blocks_stone"
+            }
+         ]
+      }
+
+   ]
+}     

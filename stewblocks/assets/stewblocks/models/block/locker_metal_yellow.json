@@ -1,0 +1,8 @@
+{
+    "parent": "stewblocks:block/shelf",
+    "textures": {
+        "face": "stewblocks:blocks/locker_metal_yellow",
+        "top": "stewblocks:blocks/locker_metal_yellow_top",        
+        "side": "stewblocks:blocks/locker_metal_yellow_top"
+    }
+}

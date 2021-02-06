@@ -1,0 +1,8 @@
+{
+    "parent": "stewblocks:block/shelf",
+    "textures": {
+        "face": "stewblocks:blocks/shelf_arch_01",
+        "top": "stewblocks:blocks/wood_02",        
+        "side": "stewblocks:blocks/wood_01"
+    }
+}
