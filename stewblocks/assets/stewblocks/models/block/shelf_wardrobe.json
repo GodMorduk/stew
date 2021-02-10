@@ -1,5 +1,5 @@
 {
-    "parent": "stewblocks:block/shelf",
+    "parent": "stewblocks:block/top_side_face",
     "textures": {
         "face": "stewblocks:blocks/shelf_wardrobe",
         "top": "stewblocks:blocks/wood_02",        

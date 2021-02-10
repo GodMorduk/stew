@@ -1,8 +1,10 @@
 {
     "variants": {
-    "facing=north": { "model": "stewblocks:railing_test" },
-    "facing=south": { "model": "stewblocks:railing_test", "y": 180 },
-    "facing=west":  { "model": "stewblocks:railing_test", "y": 270 },
-    "facing=east":  { "model": "stewblocks:railing_test", "y": 90 }
-}
-}
+      "facing=north": {"model": "stewblocks:railing_test_horizontal", "y": 0},
+      "facing=east": {"model": "stewblocks:railing_test_horizontal", "y": 90},
+      "facing=south": {"model": "stewblocks:railing_test_horizontal", "y": 180},
+      "facing=west": {"model": "stewblocks:railing_test_horizontal", "y": 270},
+      "facing=up": {"model": "stewblocks:railing_test_vertical"},
+      "facing=down": {"model": "stewblocks:railing_test_vertical", "x": 180}
+    }
+  }
