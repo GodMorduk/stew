@@ -1,0 +1,21 @@
+{
+   "blocks":[
+      {
+         "type": "block:simple",
+         "entries":[
+            {
+                "id": "effect_smoke_black",
+                "material": "tnt",
+                "renderLayer": "mippedCutout",               
+                "creativeTab": "stew_blocks_decor",
+                "hardness": 1,
+                "isPassable": true,
+                "isFullCube": false,               
+                "isOpaqueCube": false,              
+                "opacity": 0,   
+                "collisionBounds": null  
+            }
+         ]
+      }
+   ]
+}     

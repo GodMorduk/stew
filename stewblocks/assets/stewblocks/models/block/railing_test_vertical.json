@@ -1,8 +1,0 @@
-
-   {
-   "parent": "stewblocks:block/railing_vertical",
-    "textures": {
-        "face": "stewblocks:blocks/railing_test",
-        "side": "stewblocks:blocks/wood_01"
-    }
-}

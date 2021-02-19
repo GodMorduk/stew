@@ -10,9 +10,6 @@
       "file": "scrap.json"
     },
     { 
-      "file": "railing.json"
-    },
-    { 
       "file": "creative_tabs.json"
     },
     { 
@@ -25,7 +22,13 @@
       "file": "terracota.json"
     },
     { 
-      "file": "test.json"
+      "file": "railing.json"
+    },
+    { 
+      "file": "effects.json"
+    },
+    { 
+      "file": "objects.json"
     }
   ]
 }

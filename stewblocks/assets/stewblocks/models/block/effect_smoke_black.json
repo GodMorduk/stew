@@ -1,0 +1,6 @@
+{
+    "parent": "block/cross",
+    "textures": {
+        "cross": "stewblocks:blocks/effect_smoke_black"
+    }
+}

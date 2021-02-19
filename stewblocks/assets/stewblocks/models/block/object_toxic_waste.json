@@ -1,0 +1,10 @@
+{
+    "parent": "block/cactuse",
+    "ambientocclusion": false,
+    "textures": {
+        "particle": "stewblocks:blocks/object_toxic_waste",
+        "bottom": "stewblocks:blocks/object_toxic_waste_bottom",
+        "top": "stewblocks:blocks/object_toxic_waste_top",
+        "side": "stewblocks:blocks/object_toxic_waste"
+    }
+}
