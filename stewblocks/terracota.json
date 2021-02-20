@@ -59,6 +59,19 @@
                "creativeTab": "stew_blocks_stone"
             }
          ]
+      },
+      {
+         "type": "block:orientable:directional",
+         "entries":[
+            {
+               "id": "wall_ornament_01",
+               "creativeTab": "stew_blocks_stone",
+               "material": "rock",
+               "itemModel": "stewblocks:wall_ornament_01",
+               "hardness": 1,
+               "faceBySide": true
+             }
+         ]
       }
 
    ]

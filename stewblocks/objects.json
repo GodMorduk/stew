@@ -3,20 +3,19 @@
       {
          "type": "block:simple",
          "entries":[
-            {
-                "id": "object_toxic_waste",
-                "creativeTab": "stew_blocks_decor",
-                "material": "iron",
-                "itemModel": "stewblocks:object_toxic_waste",
-                "hardness": 1,
-                "renderLayer": "mippedCutout",
-                "faceBySide": true,
-                "isPassable": false,
-                "isFullCube": false,
-                "isOpaqueCube": false,
-                "opacity": 0
-            }
-         ]
-      }
-   ]
+     {
+        "id": "object_toxic_waste",
+        "creativeTab": "stew_blocks_decor",
+        "material": "wood",
+        "itemModel": "stewblocks:object_toxic_waste",
+        "hardness": 1,
+        "renderLayer": "mippedCutout",
+        "isPassable": false,
+        "isFullCube": false,
+        "isOpaqueCube": false,
+        "opacity": 0
+}
+]
 }     
+]
+}
