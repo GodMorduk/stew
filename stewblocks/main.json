@@ -29,6 +29,9 @@
     },
     { 
       "file": "objects.json"
+    },
+    { 
+      "file": "_containers.json"
     }
   ]
 }
