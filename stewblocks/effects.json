@@ -7,7 +7,7 @@
                 "id": "effect_smoke_black",
                 "material": "tnt",
                 "renderLayer": "mippedCutout",               
-                "creativeTab": "stew_blocks_decor",
+                "creativeTab": "stew_blocks_effects",
                 "hardness": 1,
                 "isPassable": true,
                 "isFullCube": false,               

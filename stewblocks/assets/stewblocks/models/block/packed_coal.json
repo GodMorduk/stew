@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "stewblocks:blocks/barrel_a_bottom",
+        "top": "stewblocks:blocks/packed_coal",
+        "side": "stewblocks:blocks/packed_coal_side"
+    }
+}

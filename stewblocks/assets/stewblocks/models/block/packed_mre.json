@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "stewblocks:blocks/packed_mre",
+        "top": "stewblocks:blocks/packed_mre",
+        "side": "stewblocks:blocks/packed_mre_side"
+    }
+}

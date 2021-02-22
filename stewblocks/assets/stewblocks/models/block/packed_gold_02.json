@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "stewblocks:blocks/crate_b_side",
+        "top": "stewblocks:blocks/packed_gold_02",
+        "side": "stewblocks:blocks/barrel_a_bottom"
+    }
+}

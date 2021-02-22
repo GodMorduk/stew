@@ -76,6 +76,16 @@
    }
 }
 ]
+},
+{
+   "type": "block:simple",
+   "entries":[
+      {
+         "id": "object_vase_chicken",
+         "material": "tnt",
+         "creativeTab": "stew_blocks_decor"
+      }
+   ]
 }    
 ]
 }
