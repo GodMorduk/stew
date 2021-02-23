@@ -6,7 +6,7 @@
             {
                 "id": "effect_smoke_black",
                 "material": "tnt",
-                "renderLayer": "mippedCutout",               
+                "renderLayer": "translucent",              
                 "creativeTab": "stew_blocks_effects",
                 "hardness": 1,
                 "isPassable": true,
@@ -16,6 +16,93 @@
                 "collisionBounds": null  
             }
          ]
-      }
+      },
+      {
+         "type": "block:simple",
+         "entries":[
+            {
+                "id": "effect_fireflies",
+                "material": "tnt",
+                "renderLayer": "translucent",              
+                "creativeTab": "stew_blocks_effects",
+                "hardness": 1,
+                "light" : 7,
+                "isPassable": true,
+                "isFullCube": false,               
+                "isOpaqueCube": false,              
+                "opacity": 0,   
+                "collisionBounds": null  
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries":[
+            {
+                "id": "effect_flies",
+                "material": "tnt",
+                "renderLayer": "translucent",             
+                "creativeTab": "stew_blocks_effects",
+                "hardness": 1,
+                "isPassable": true,
+                "isFullCube": false,               
+                "isOpaqueCube": false,              
+                "opacity": 0,   
+                "collisionBounds": null  
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries":[
+            {
+                "id": "effect_matrix",
+                "material": "tnt",
+                "renderLayer": "translucent",          
+                "creativeTab": "stew_blocks_effects",
+                "hardness": 1,
+                "isPassable": true,
+                "isFullCube": false,               
+                "isOpaqueCube": false,              
+                "opacity": 0,   
+                "collisionBounds": null  
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries":[
+            {
+                "id": "effect_rising_steam",
+                "material": "tnt",
+                "renderLayer": "translucent",              
+                "creativeTab": "stew_blocks_effects",
+                "hardness": 1,
+                "isPassable": true,
+                "isFullCube": false,               
+                "isOpaqueCube": false,              
+                "opacity": 0,   
+                "collisionBounds": null  
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries":[
+            {
+                "id": "effect_smoke_white",
+                "material": "tnt",
+                "renderLayer": "translucent",              
+                "creativeTab": "stew_blocks_effects",
+                "hardness": 1,
+                "isPassable": true,
+                "isFullCube": false,               
+                "isOpaqueCube": false,              
+                "opacity": 0,   
+                "collisionBounds": null  
+            }
+         ]
+      }   
    ]
-}     
+}
+    

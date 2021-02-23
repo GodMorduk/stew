@@ -1,0 +1,10 @@
+{
+    "variants": {
+      "facing=north": { "model": "stewblocks:force_field_beams", "x": 90, "y": 0, "uvlock": true},
+      "facing=east": { "model": "stewblocks:force_field_beams", "x": 90, "y": 90, "uvlock": true },
+      "facing=south": { "model": "stewblocks:force_field_beams", "x": 90, "y": 180, "uvlock": true },
+      "facing=west": { "model": "stewblocks:force_field_beams", "x": 90, "y": 270, "uvlock": true },
+      "facing=up": { "model": "stewblocks:force_field_beams", "uvlock": true },
+      "facing=down": { "model": "stewblocks:force_field_beams", "x": 180, "uvlock": true }
+    }
+  }

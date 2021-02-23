@@ -37,6 +37,12 @@
       "file": "gardening.json"
     },
     { 
+      "file": "force_field.json"
+    },
+    { 
+      "file": "ambience.json"
+    },
+    { 
       "file": "_containers.json"
     }
   ]

@@ -10,7 +10,8 @@
           "canSustainLeaves" : true,
           "hardness" : 0.5,
           "sustainedPlants": ["Plains", "Desert"],                              
-          "creativeTab": "stew_blocks_decor"
+          "creativeTab": "stew_blocks_decor",
+          "opacity": 0
         }
     ]
  },

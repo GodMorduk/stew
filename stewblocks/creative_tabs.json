@@ -26,8 +26,16 @@
         "icon": "stewblocks:effect_smoke_black"
     }  
  ]
- }
+},
+{
+  "type": "creativeTab",
+  "entries": [
+    {
+      "id": "stew_blocks_ambience",
+      "icon": "stewblocks:pile_bones_01"
+  }  
+]
+}
 ]
 }
 
-	

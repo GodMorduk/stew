@@ -1,5 +1,5 @@
 {
-    "parent": "block/cross",
+    "parent": "stewblocks:block/stew_cross",
     "textures": {
         "cross": "stewblocks:blocks/effect_smoke_black"
     }

@@ -81,11 +81,42 @@
    "type": "block:simple",
    "entries":[
       {
-         "id": "object_vase_chicken",
+         "id": "object_vase",
+         "subtypes": [0, 1, 2, 3, 4, 5, 6],
+         "itemModel": {
+           "0": "stewblocks:object_vase_chicken",
+           "1": "stewblocks:object_vase_dragon",
+           "2": "stewblocks:object_vase_crown",
+           "3": "stewblocks:object_vase_scales",
+           "4": "stewblocks:object_vase_stars",
+           "5": "stewblocks:object_vase_tree",
+           "6": "stewblocks:object_vase_waves"
+         },
          "material": "tnt",
-         "creativeTab": "stew_blocks_decor"
+         "opacity": 0,
+         "creativeTab": "stew_blocks_decor",
+         "isFullCube": false,
+         "isOpaqueCube": false,
+         "sustainedPlants": ["Plains", "Desert"],   
+         "canSustainLeaves" : true    
       }
    ]
-}    
+},
+{
+   "type": "block:simple",
+   "entries":[
+      {
+         "id": "object_sack_gold",
+         "material": "tnt",
+         "opacity": 0,
+         "creativeTab": "stew_blocks_decor",
+         "isFullCube": false,
+         "isOpaqueCube": false,
+         "bounds": {"from": [0.2, 0, 0.2], "to": [0.8, 0.4, 0.8] },
+         "selectionBounds": {"from": [0.2, 0, 0.2], "to": [0.8, 0.4, 0.8] },
+         "collisionBounds": { "from": [0.2, 0, 0.2], "to": [0.8, 0.4, 0.8] }
+       }
+      ]
+   }
 ]
 }

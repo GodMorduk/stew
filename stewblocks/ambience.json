@@ -1,0 +1,124 @@
+{
+    "blocks":[
+       {
+          "type": "block:simple",
+          "entries":[
+             {
+                "id": "pile_bones_01",
+                "material": "rock",
+                "creativeTab": "stew_blocks_ambience"
+             }
+          ]
+       },
+       {
+        "type": "block:simple",
+        "entries":[
+           {
+              "id": "pile_bones_02",
+              "material": "rock",
+              "creativeTab": "stew_blocks_ambience"
+           }
+        ]
+     },
+     {
+        "type": "block:simple",
+        "entries":[
+           {
+              "id": "pile_bones_03",
+              "material": "rock",
+              "creativeTab": "stew_blocks_ambience"
+           }
+        ]
+     },
+     {
+        "type": "block:simple",
+        "entries":[
+           {
+              "id": "garbage",
+              "material": "rock",
+              "creativeTab": "stew_blocks_ambience"
+           }
+        ]
+    },
+    {
+       "type": "block:simple",
+       "entries":[
+          {
+             "id": "gold_coins",
+             "material": "rock",
+             "creativeTab": "stew_blocks_ambience"
+          }
+       ]
+    },
+    {
+       "type": "block:simple",
+       "entries":[
+          {
+             "id": "guts_brown",
+             "material": "rock",
+             "creativeTab": "stew_blocks_ambience"
+          }
+       ]
+      },
+      {
+         "type": "block:simple",
+         "entries":[
+            {
+               "id": "guts_red",
+               "material": "rock",
+               "creativeTab": "stew_blocks_ambience"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries":[
+            {
+               "id": "organic_blue",
+               "material": "rock",
+               "creativeTab": "stew_blocks_ambience"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries":[
+            {
+               "id": "organic_lightgray",
+               "material": "rock",
+               "creativeTab": "stew_blocks_ambience"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries":[
+            {
+               "id": "organic_purple",
+               "material": "rock",
+               "creativeTab": "stew_blocks_ambience"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries":[
+            {
+               "id": "organic_red",
+               "material": "rock",
+               "creativeTab": "stew_blocks_ambience"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries":[
+            {
+               "id": "pile_books",
+               "material": "rock",
+               "creativeTab": "stew_blocks_ambience"
+            }
+         ]
+      }
+    ]
+}

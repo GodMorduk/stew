@@ -1,0 +1,10 @@
+
+  {
+    "parent": "stewblocks:block/thin_slab",
+    "textures": {  
+      "front": "stewblocks:blocks/force_field_matrix",
+      "back": "stewblocks:blocks/force_field_matrix",     
+      "side": "stewblocks:blocks/force_field_matrix"
+    }
+  }
+  

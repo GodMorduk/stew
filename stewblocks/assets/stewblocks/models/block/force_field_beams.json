@@ -1,0 +1,9 @@
+
+  {
+    "parent": "stewblocks:block/thin_slab",
+    "textures": {  
+      "front": "stewblocks:blocks/force_field_beams",
+      "back": "stewblocks:blocks/force_field_beams",     
+      "side": "stewblocks:blocks/force_field_beams"
+    }
+  }
