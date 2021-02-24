@@ -1,4 +1,5 @@
 itemGroup.stewfood=Stew: food
+itemGroup.stewextra=Stew: extra
 
 item.stewitems.food_bottle_water.name=Bottled Water
 item.stewitems.food_canned_berries.name=Canned Berries
@@ -8,14 +9,32 @@ item.stewitems.food_canned_fish.name=Canned Fish
 item.stewitems.food_canned_food.name=Canned Something
 item.stewitems.food_canned_meat.name=Canned Meat
 item.stewitems.food_canned_milk.name=Canned Milk
-item.stewitems.food_cooked_m eat_1.name=Cooked meat
-item.stewitems.food_cooked_meat.name=Cooked meat
-item.stewitems.food_insect_meat.name=Cooked insect meat
-item.stewitems.food_meat_raw.name=Raw meat
-item.stewitems.food_meat_raw_1.name=Raw meat
-item.stewitems.food_meat_raw_2.name=Raw meat
-item.stewitems.food_meat_reptile.name=Raw reptile meat
-item.stewitems.food_snack_drink.name=Instant powder
-item.stewitems.food_snack_meat.name=Meat snack
-item.stewitems.food_snack_psy.name=Candy snack
-item.stewitems.food_snack_serup.name=Serup snack
+item.stewitems.food_cooked_m eat_1.name=Cooked Meat
+item.stewitems.food_cooked_meat.name=Cooked Meat
+item.stewitems.food_insect_meat.name=Cooked Insect Meat
+item.stewitems.food_meat_raw.name=Raw Meat
+item.stewitems.food_meat_raw_1.name=Raw Meat
+item.stewitems.food_meat_raw_2.name=Raw Meat
+item.stewitems.food_meat_reptile.name=Raw Reptile Meat
+item.stewitems.food_snack_drink.name=Instant Powder
+item.stewitems.food_snack_meat.name=Meat Snack
+item.stewitems.food_snack_psy.name=Candy Snack
+item.stewitems.food_snack_serup.name=Serup Snack
+
+item.stewitems.coupon_0.name=1 Coupon
+item.stewitems.coupon_1.name=10 Coupon
+item.stewitems.coupon_2.name=100 Coupon
+item.stewitems.coupon_3.name=1000 Coupon
+item.stewitems.coupon_special.name="Special" Coupon
+item.stewitems.moneybundle_0.name=Small Coupon Bundle
+item.stewitems.moneybundle_1.name=Solid Coupon Bundle
+item.stewitems.moneybundle_2.name=Average Coupon Bundle
+item.stewitems.moneybundle_3.name=Big Coupon Bundle
+item.stewitems.moneybundle_4.name=Huge Coupon Bundle
+item.stewitems.moneybundle_5.name=Legendary Coupon Bundle
+item.stewitems.vilent_0.name=Vilent
+item.stewitems.vilent_1.name=10 Vilents
+item.stewitems.vilent_2.name=100 Vilents
+item.stewitems.vilent_3.name=1000 Vilents
+
+ш

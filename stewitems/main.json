@@ -1,10 +1,12 @@
 {
-  "imports": [
-	{
-      "file": "creativeTab.json"
-    },
-	{
-      "file": "items_food.json"
-    }
-   ]
+	"imports": [{
+			"file": "creativeTab.json"
+		},
+		{
+			"file": "items_food.json"
+		},
+		{
+			"file": "items_currency.json"
+		}
+	]
 }

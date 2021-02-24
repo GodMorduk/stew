@@ -1,4 +1,5 @@
-itemGroup.stewfood=Stew: food
+itemGroup.stewfood=Stew: еда
+itemGroup.stewextra=Stew: разное
 
 item.stewitems.food_bottle_water.name=Бутилированная вода
 item.stewitems.food_canned_berries.name=Консервированные ягоды
@@ -19,3 +20,19 @@ item.stewitems.food_snack_drink.name=Растворимый порошок
 item.stewitems.food_snack_meat.name=Мясной баточник
 item.stewitems.food_snack_psy.name=Конфетки
 item.stewitems.food_snack_serup.name=Сладкий сироп
+
+item.stewitems.coupon_0.name=1 купон
+item.stewitems.coupon_1.name=10 купонов
+item.stewitems.coupon_2.name=100 купонов
+item.stewitems.coupon_3.name=1000 купонов
+item.stewitems.coupon_special.name="Особый" купон
+item.stewitems.moneybundle_0.name=Маленькая пачка купонов
+item.stewitems.moneybundle_1.name=Солидная пачка купонов
+item.stewitems.moneybundle_2.name=Внушительная пачка купонов
+item.stewitems.moneybundle_3.name=Уважаемая пачка купонов
+item.stewitems.moneybundle_4.name=Огромная пачка купонов
+item.stewitems.moneybundle_5.name=Легендарная пачка купонов
+item.stewitems.vilent_0.name=Вилент
+item.stewitems.vilent_1.name=10 вилентов
+item.stewitems.vilent_2.name=100 вилентов
+item.stewitems.vilent_3.name=1000 вилентов

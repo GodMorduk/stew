@@ -1,9 +1,17 @@
 {
-    "tabs": [{
-        "type": "creativeTab",
-        "entries": [{
-            "id": "stewfood",
-            "icon": "stewitems:food_canned_bugs"
-        }]
-    }]
-}				
+	"tabs": [{
+			"type": "creativeTab",
+			"entries": [{
+				"id": "stewfood",
+				"icon": "stewitems:food_canned_bugs"
+			}]
+		},
+		{
+			"type": "creativeTab",
+			"entries": [{
+				"id": "stewextra",
+				"icon": "stewitems:coupon_special"
+			}]
+		}
+	]
+}
