@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "stewblocks:blocks/ruin_tomb_marble",
+        "top": "stewblocks:blocks/ruin_tomb_marble",
+        "side": "stewblocks:blocks/ruin_tomb_marble_ornament"
+    }
+  }

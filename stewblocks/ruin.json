@@ -1,0 +1,184 @@
+{
+    "blocks":[
+       {
+          "type": "block:simple",
+          "entries":[
+             {
+                "id": "ruin_urian_concrete_01",
+                "material": "rock",
+                "creativeTab": "stew_blocks_ruin"
+            }
+        ]
+     },
+     {
+        "type": "block:simple",
+        "entries":[
+           {
+              "id": "ruin_urian_brick_01",
+              "material": "rock",
+              "creativeTab": "stew_blocks_ruin"
+          }
+      ]
+    },
+    {
+       "type": "block:simple",
+       "entries":[
+          {
+             "id": "ruin_urban_tile_red",
+             "material": "rock",
+             "creativeTab": "stew_blocks_ruin"
+         }
+     ]
+    },
+    {
+       "type": "block:simple",
+       "entries":[
+          {
+             "id": "ruin_urban_tank_bloody",
+             "material": "rock",
+             "creativeTab": "stew_blocks_ruin"
+         }
+     ]
+    },
+    {
+       "type": "block:simple",
+       "entries":[
+          {
+             "id": "ruin_urban_sewer_wall_01",
+             "material": "rock",
+             "creativeTab": "stew_blocks_ruin"
+         }
+     ]
+    },
+    {
+       "type": "block:simple",
+       "entries":[
+          {
+             "id": "ruin_urban_sewer_wall_02",
+             "material": "rock",
+             "creativeTab": "stew_blocks_ruin"
+         }
+     ]
+    },
+    {
+       "type": "block:simple",
+       "entries":[
+          {
+             "id": "ruin_urban_messy_plaster",
+             "material": "rock",
+             "creativeTab": "stew_blocks_ruin"
+         }
+     ]
+    },
+    {
+       "type": "block:simple",
+       "entries":[
+          {
+             "id": "ruin_tomb_marble",
+             "material": "rock",
+             "creativeTab": "stew_blocks_ruin"
+         }
+     ]
+    },
+    {
+       "type": "block:simple",
+       "entries":[
+          {
+             "id": "ruin_tomb_marble_ornament",
+             "material": "rock",
+             "creativeTab": "stew_blocks_ruin"
+         }
+     ]
+    },
+    {
+       "type": "block:simple",
+       "entries":[
+          {
+             "id": "ruin_old_plaster_brick",
+             "material": "rock",
+             "creativeTab": "stew_blocks_ruin"
+         }
+     ]
+    },
+    {
+       "type": "block:simple",
+       "entries":[
+          {
+             "id": "ruin_old_plaster_base",
+             "material": "rock",
+             "creativeTab": "stew_blocks_ruin"
+         }
+     ]
+    },
+    {
+       "type": "block:simple",
+       "entries":[
+          {
+             "id": "ruin_machinery_tile_green",
+             "material": "rock",
+             "creativeTab": "stew_blocks_ruin"
+         }
+     ]
+    },
+    {
+       "type": "block:simple",
+       "entries":[
+          {
+             "id": "ruin_machinery_red",
+             "material": "rock",
+             "creativeTab": "stew_blocks_ruin"
+         }
+     ]
+    },
+    {
+       "type": "block:simple",
+       "entries":[
+          {
+             "id": "ruin_machinery_orange",
+             "material": "rock",
+             "creativeTab": "stew_blocks_ruin"
+         }
+     ]
+    },
+    {
+       "type": "block:simple",
+       "entries":[
+          {
+             "id": "ruin_machinery_green",
+             "material": "rock",
+             "creativeTab": "stew_blocks_ruin"
+         }
+     ]
+    },
+    {
+       "type": "block:simple",
+       "entries":[
+          {
+             "id": "ruin_machinery_base_gray",
+             "material": "rock",
+             "creativeTab": "stew_blocks_ruin"
+         }
+     ]
+    },
+    {
+       "type": "block:simple",
+       "entries":[
+          {
+             "id": "ruin_eldritch_stone_sigil",
+             "material": "rock",
+             "creativeTab": "stew_blocks_ruin"
+         }
+     ]
+    },
+    {
+       "type": "block:simple",
+       "entries":[
+          {
+             "id": "ruin_eldritch_obsidian_sigil",
+             "material": "rock",
+             "creativeTab": "stew_blocks_ruin"
+         }
+     ]
+  }
+   ]
+}

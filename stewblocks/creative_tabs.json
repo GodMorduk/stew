@@ -35,6 +35,15 @@
       "icon": "stewblocks:pile_bones_01"
   }  
 ]
+},
+{
+  "type": "creativeTab",
+  "entries": [
+    {
+      "id": "stew_blocks_ruin",
+      "icon": "stewblocks:ruin_urian_brick_01"
+  }  
+]
 }
 ]
 }

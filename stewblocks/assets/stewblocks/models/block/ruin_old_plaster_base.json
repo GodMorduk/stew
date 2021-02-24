@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "stewblocks:blocks/ruin_old_plaster_brick",
+        "top": "stewblocks:blocks/ruin_old_plaster_brick",
+        "side": "stewblocks:blocks/ruin_old_plaster_base"
+    }
+  }
