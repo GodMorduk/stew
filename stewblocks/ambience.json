@@ -31,11 +31,12 @@
         ]
      },
      {
-        "type": "block:simple",
+        "type": "block:snow",
         "entries":[
            {
               "id": "garbage",
               "material": "rock",
+              "snowball": "stewprops:random_junk_00",
               "creativeTab": "stew_blocks_ambience"
            }
         ]

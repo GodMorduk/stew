@@ -117,6 +117,17 @@
          "collisionBounds": { "from": [0.2, 0, 0.2], "to": [0.8, 0.4, 0.8] }
        }
       ]
+   },
+   {
+      "type": "block:simple",
+      "entries":[
+         {
+            "id": "object_barrel_green",
+            "material": "iron",
+            "soundType" : "metal",
+            "creativeTab": "stew_blocks_decor"
+         }
+      ]
    }
 ]
 }

@@ -46,6 +46,12 @@
       "file": "ruin.json"
     },
     { 
+      "file": "box.json"
+    },
+    { 
+      "file": "glass.json"
+    },
+    { 
       "file": "_containers.json"
     }
   ]

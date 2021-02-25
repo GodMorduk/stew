@@ -102,7 +102,99 @@
                 "collisionBounds": null  
             }
          ]
-      }   
+      },
+      {
+         "type": "block:simple",
+         "entries":[
+            {
+                "id": "effect_fire",
+                "material": "tnt",
+                "renderLayer": "mippedCutout",              
+                "creativeTab": "stew_blocks_effects",
+                "hardness": 1,
+                "isPassable": true,
+                "isFullCube": false,               
+                "isOpaqueCube": false,              
+                "opacity": 0,  
+                "light" : 10, 
+                "collisionBounds": null  
+            }
+         ]
+      },
+      {
+         "type": "block:orientable:directional",
+         "entries":[
+      {
+        "id": "effect_water_calm",
+        "creativeTab": "stew_blocks_effects",
+        "material": "rock",
+         "itemModel": "stewblocks:effect_water_calm",
+        "hardness": 1,
+        "renderLayer": "translucent",
+        "faceBySide": true,
+        "isPassable": true,
+        "isFullCube": false,
+        "tint": "water",
+        "isOpaqueCube": false,
+        "opacity": 0,
+        "hideAdjacentSides": true,
+        "bounds": {
+          "0": { "from": [0, 0.8125, 0], "to": [1, 1, 1] },
+          "1": { "from": [0, 0, 0], "to": [1, 0.1875, 1] },
+          "2": { "from": [0, 0, 0.8125], "to": [1, 1, 1] },
+          "3": { "from": [0, 0, 0], "to": [1, 1, 0.1875] },
+          "4": { "from": [0.8125, 0, 0], "to": [1, 1, 1] },
+          "5": { "from": [0, 0, 0], "to": [0.1875, 1, 1] }
+       },
+       "selectionBounds": {
+          "0": { "from": [0, 0.8125, 0], "to": [1, 1, 1] },
+          "1": { "from": [0, 0, 0], "to": [1, 0.1875, 1] },
+          "2": { "from": [0, 0, 0.8125], "to": [1, 1, 1] },
+          "3": { "from": [0, 0, 0], "to": [1, 1, 0.1875] },
+          "4": { "from": [0.8125, 0, 0], "to": [1, 1, 1] },
+          "5": { "from": [0, 0, 0], "to": [0.1875, 1, 1] }
+       },
+       "collisionBounds": null  
+      }      
+      ]
+   },
+   {
+      "type": "block:orientable:directional",
+      "entries":[
+   {
+     "id": "effect_water_flowing",
+     "creativeTab": "stew_blocks_effects",
+     "material": "rock",
+      "itemModel": "stewblocks:effect_water_flowing",
+     "hardness": 1,
+     "renderLayer": "translucent",
+     "faceBySide": true,
+     "isPassable": true,
+     "isFullCube": false,
+     "tint": "water",
+     "isOpaqueCube": false,
+     "opacity": 0,
+     "hideAdjacentSides": true,
+     "bounds": {
+       "0": { "from": [0, 0.8125, 0], "to": [1, 1, 1] },
+       "1": { "from": [0, 0, 0], "to": [1, 0.1875, 1] },
+       "2": { "from": [0, 0, 0.8125], "to": [1, 1, 1] },
+       "3": { "from": [0, 0, 0], "to": [1, 1, 0.1875] },
+       "4": { "from": [0.8125, 0, 0], "to": [1, 1, 1] },
+       "5": { "from": [0, 0, 0], "to": [0.1875, 1, 1] }
+    },
+    "selectionBounds": {
+       "0": { "from": [0, 0.8125, 0], "to": [1, 1, 1] },
+       "1": { "from": [0, 0, 0], "to": [1, 0.1875, 1] },
+       "2": { "from": [0, 0, 0.8125], "to": [1, 1, 1] },
+       "3": { "from": [0, 0, 0], "to": [1, 1, 0.1875] },
+       "4": { "from": [0.8125, 0, 0], "to": [1, 1, 1] },
+       "5": { "from": [0, 0, 0], "to": [0.1875, 1, 1] }
+    },
+    "collisionBounds": null  
+   }      
+   ]
+   } 
    ]
 }
     

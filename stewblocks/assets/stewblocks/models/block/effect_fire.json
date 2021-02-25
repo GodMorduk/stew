@@ -1,0 +1,6 @@
+{
+    "parent": "stewblocks:block/stew_cross",
+    "textures": {
+        "cross": "minecraft:blocks/fire_layer_0"
+    }
+}

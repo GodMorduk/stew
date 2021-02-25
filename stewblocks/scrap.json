@@ -29,6 +29,28 @@
                "creativeTab": "stew_blocks_decor"
             }
          ]
-      }      
+      },
+      {
+         "type": "block:orientable:horizontal",
+         "entries":[
+            {
+               "id": "scrap_hardware_processor",
+               "material": "iron",
+               "soundType" : "metal",
+               "creativeTab": "stew_blocks_decor"
+            }
+         ]
+      },
+      {
+         "type": "block:orientable:horizontal",
+         "entries":[
+            {
+               "id": "scrap_hardware_coil",
+               "material": "iron",
+               "soundType" : "metal",
+               "creativeTab": "stew_blocks_decor"
+            }
+         ]
+      }  
    ]
 }

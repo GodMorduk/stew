@@ -1,0 +1,8 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "top": "stewblocks:blocks/scrap_hardware_04",
+        "front": "stewblocks:blocks/scrap_hardware_coil",
+        "side": "stewblocks:blocks/scrap_hardware_05"
+    }
+}

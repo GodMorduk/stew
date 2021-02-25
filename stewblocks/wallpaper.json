@@ -1,0 +1,136 @@
+{
+"blocks":[
+    {
+       "type": "block:simple",
+       "entries":[
+          {
+              "id": "wallpaper_black",
+              "material": "wood",
+              "isWood" : true,
+              "soundType" : "wood",
+              "creativeTab": "stew_blocks_stone"
+          }
+       ]
+    },
+    {
+        "type": "block:simple",
+        "entries":[
+           {
+               "id": "wallpaper_blue_pattern",
+               "material": "wood",
+               "isWood" : true,
+               "soundType" : "wood",
+               "creativeTab": "stew_blocks_stone"
+           }
+        ]
+    },
+    {
+        "type": "block:simple",
+        "entries":[
+           {
+               "id": "wallpaper_blue",
+               "material": "wood",
+               "isWood" : true,
+               "soundType" : "wood",
+               "creativeTab": "stew_blocks_stone"
+           }
+        ]
+    },
+    {
+        "type": "block:simple",
+        "entries":[
+           {
+               "id": "wallpaper_green_pattern",
+               "material": "wood",
+               "isWood" : true,
+               "soundType" : "wood",
+               "creativeTab": "stew_blocks_stone"
+           }
+        ]
+    },
+    {
+        "type": "block:simple",
+        "entries":[
+           {
+               "id": "wallpaper_green",
+               "material": "wood",
+               "isWood" : true,
+               "soundType" : "wood",
+               "creativeTab": "stew_blocks_stone"
+           }
+        ]
+    },
+    {
+        "type": "block:simple",
+        "entries":[
+           {
+               "id": "wallpaper_orange",
+               "material": "wood",
+               "isWood" : true,
+               "soundType" : "wood",
+               "creativeTab": "stew_blocks_stone"
+           }
+        ]
+    },
+    {
+        "type": "block:simple",
+        "entries":[
+           {
+               "id": "wallpaper_purple_pattern",
+               "material": "wood",
+               "isWood" : true,
+               "soundType" : "wood",
+               "creativeTab": "stew_blocks_stone"
+           }
+        ]
+    },
+    {
+        "type": "block:simple",
+        "entries":[
+           {
+               "id": "wallpaper_purple",
+               "material": "wood",
+               "isWood" : true,
+               "soundType" : "wood",
+               "creativeTab": "stew_blocks_stone"
+           }
+        ]
+    },
+    {
+        "type": "block:simple",
+        "entries":[
+           {
+               "id": "wallpaper_red_floristic",
+               "material": "wood",
+               "isWood" : true,
+               "soundType" : "wood",
+               "creativeTab": "stew_blocks_stone"
+           }
+        ]
+    },
+    {
+        "type": "block:simple",
+        "entries":[
+           {
+               "id": "wallpaper_red_pattern",
+               "material": "wood",
+               "isWood" : true,
+               "soundType" : "wood",
+               "creativeTab": "stew_blocks_stone"
+           }
+        ]
+    },
+    {
+        "type": "block:simple",
+        "entries":[
+           {
+               "id": "wallpaper_red",
+               "material": "wood",
+               "isWood" : true,
+               "soundType" : "wood",
+               "creativeTab": "stew_blocks_stone"
+            }
+        ]
+     }
+  ]
+}  

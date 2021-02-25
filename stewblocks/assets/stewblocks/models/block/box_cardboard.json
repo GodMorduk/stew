@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "stewblocks:blocks/box_cardboard_top",
+        "top": "stewblocks:blocks/box_cardboard_top",
+        "side": "stewblocks:blocks/box_cardboard"
+    }
+  }

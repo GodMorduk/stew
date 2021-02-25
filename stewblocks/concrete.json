@@ -19,6 +19,26 @@
                "creativeTab": "stew_blocks_decor"
             }
          ]
-      }   
+      },
+      {
+      "type": "block:simple",
+          "entries":[
+             {
+                "id": "concrete_reinforced_old",
+                "material": "rock",
+                "creativeTab": "stew_blocks_decor"
+             }
+          ]
+         },
+         {
+         "type": "block:simple",
+             "entries":[
+                {
+                   "id": "rebar_old",
+                   "material": "rock",
+                   "creativeTab": "stew_blocks_decor"
+                }
+             ]
+          } 
    ]
 }

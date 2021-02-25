@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "top": "stewblocks:blocks/ruin_urban_concrete_reinforced_top",
+        "side": "stewblocks:blocks/ruin_urban_concrete_reinforced",
+        "bottom": "stewblocks:blocks/ruin_urban_concrete_reinforced_top"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "parent": "stewblocks:block/thin_slab",
+    "textures": {  
+      "front": "minecraft:blocks/water_still",
+      "back": "minecraft:blocks/water_still",     
+      "side": "minecraft:blocks/water_still"
+    }
+  }

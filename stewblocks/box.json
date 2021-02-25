@@ -1,0 +1,46 @@
+{
+"blocks":[
+    {
+       "type": "block:simple",
+       "entries":[
+          {
+             "id": "box_old_metal",
+             "material": "iron",
+             "creativeTab": "stew_blocks_decor",
+             "soundType" : "iron",
+             "hardness" : 1,
+             "tileEntity": "stewblocks:box",
+             "gui": "stewblocks:box"
+          }
+       ]
+    },
+    {
+      "type": "block:simple",
+      "entries":[
+         {
+            "id": "box_wicker",
+            "material": "wood",
+            "creativeTab": "stew_blocks_decor",
+            "soundType" : "wood",
+            "hardness" : 1,
+            "tileEntity": "stewblocks:box",
+            "gui": "stewblocks:box"
+         }
+      ]
+   },
+   {
+     "type": "block:simple",
+     "entries":[
+        {
+           "id": "box_cardboard",
+           "material": "wood",
+           "creativeTab": "stew_blocks_decor",
+           "soundType" : "leaves",
+           "hardness" : 1,
+           "tileEntity": "stewblocks:box",
+           "gui": "stewblocks:box"
+        }
+     ]
+  }
+ ]
+}

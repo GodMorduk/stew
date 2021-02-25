@@ -179,6 +179,52 @@
              "creativeTab": "stew_blocks_ruin"
          }
      ]
-  }
+    },
+    {
+       "type": "block:simple",
+       "entries":[
+          {
+             "id": "ruin_urban_tile_white",
+             "material": "rock",
+             "creativeTab": "stew_blocks_ruin"
+         }
+     ]
+    },
+    {
+       "type": "block:simple",
+       "entries":[
+          {
+             "id": "ruin_urban_tile_white_damaged",
+             "material": "rock",
+             "creativeTab": "stew_blocks_ruin"
+         }
+     ]
+  },
+  {
+   "type": "block:simple",
+       "entries":[
+          {
+             "id": "ruin_urban_concrete_reinforced",
+             "material": "rock",
+             "creativeTab": "stew_blocks_ruin"
+          }
+       ]
+      },
+      {
+      "type": "block:simple",
+          "entries":[
+             {
+                "id": "ruin_urban_rebar",
+                "material": "iron",
+                "creativeTab": "stew_blocks_ruin",
+                "renderLayer": "mippedCutout",              
+                "hardness": 1,
+                "isPassable": true,
+                "isFullCube": false,               
+                "isOpaqueCube": false,              
+                "opacity": 0                  
+             }
+          ]
+       } 
    ]
 }
