@@ -4,41 +4,86 @@
          "type": "block:simple",
          "entries":[
             {
-               "id": "concrete_rust_ornament",
+               "id": "concrete_faded_ornament",
                "material": "rock",
                "creativeTab": "stew_blocks_stone"
             }
          ]
       },
+      {
+         "type": "block:orientable:directional",
+         "entries":[
+            {
+               "id": "concrete_faded_base",
+               "creativeTab": "stew_blocks_stone",
+               "material": "rock",
+               "itemModel": "stewblocks:concrete_faded_base",
+               "hardness": 1,
+               "faceBySide": true
+             }
+          ]
+       },
+   {
+      "type": "block:orientable:directional",
+      "entries":[
+         {
+            "id": "concrete_faded_capital",
+            "creativeTab": "stew_blocks_stone",
+            "material": "rock",
+            "itemModel": "stewblocks:concrete_faded_capital",
+            "hardness": 1,
+            "faceBySide": true
+          }
+       ]
+    },
 	  {
 	  "type": "block:simple",
          "entries":[
             {
-               "id": "concrete_rust_front",
+               "id": "concrete_faded_brick",
                "material": "rock",
-               "creativeTab": "stew_blocks_decor"
+               "creativeTab": "stew_blocks_stone"
             }
          ]
       },
       {
-      "type": "block:simple",
-          "entries":[
-             {
-                "id": "concrete_reinforced_old",
-                "material": "rock",
-                "creativeTab": "stew_blocks_decor"
+         "type": "block:orientable:directional",
+         "entries":[
+            {
+               "id": "concrete_faded_pillar",
+               "creativeTab": "stew_blocks_stone",
+               "material": "rock",
+               "itemModel": "stewblocks:concrete_faded_pillar",
+               "hardness": 1,
+               "faceBySide": true
              }
           ]
          },
          {
-         "type": "block:simple",
-             "entries":[
-                {
-                   "id": "rebar_old",
-                   "material": "rock",
-                   "creativeTab": "stew_blocks_decor"
+            "type": "block:orientable:directional",
+            "entries":[
+               {
+                  "id": "concrete_faded_cornice",
+                  "creativeTab": "stew_blocks_stone",
+                  "material": "rock",
+                  "itemModel": "stewblocks:concrete_faded_cornice",
+                  "hardness": 1,
+                  "faceBySide": true
                 }
              ]
-          } 
+          }, 
+            {
+               "type": "block:orientable:directional",
+               "entries":[
+                  {
+                     "id": "asphalt",
+                     "creativeTab": "stew_blocks_stone",
+                     "material": "rock",
+                     "itemModel": "stewblocks:asphalt",
+                     "hardness": 1,
+                     "faceBySide": true
+                   }
+                ]
+             } 
    ]
 }

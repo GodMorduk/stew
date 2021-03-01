@@ -1,0 +1,7 @@
+{
+    "parent": "block/pane_side",
+    "textures": {
+        "edge": "stewblocks:blocks/laser_barrier_top",
+        "pane": "stewblocks:blocks/laser_barrier"
+    }
+  }

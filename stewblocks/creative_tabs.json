@@ -44,7 +44,17 @@
       "icon": "stewblocks:ruin_urian_brick_01"
   }  
 ]
+},
+{
+  "type": "creativeTab",
+  "entries": [
+    {
+      "id": "stew_blocks_furniture",
+      "icon": "stewblocks:console"
+  }  
+]
 }
 ]
 }
+
 

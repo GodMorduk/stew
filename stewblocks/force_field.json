@@ -254,9 +254,22 @@
     "3": { "from": [0, 0, 0], "to": [1, 1, 0.1875] },
     "4": { "from": [0.8125, 0, 0], "to": [1, 1, 1] },
     "5": { "from": [0, 0, 0], "to": [0.1875, 1, 1] }
-  }
+   }
+}      
+]
+},
+{
+  "type": "block:pane",
+  "entries": [
+    {
+      "id": "laser_barrier",
+      "material": "glass",
+      "renderLayer": "translucent",
+      "creativeTab": "stew_blocks_effects",
+      "itemModel": "stewblocks:laser_barrier",
+      "hideAdjacentSides": true
+    }
+  ]
 }      
 ]
 }
-    ]
- }

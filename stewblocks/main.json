@@ -52,6 +52,12 @@
       "file": "glass.json"
     },
     { 
+      "file": "concrete.json"
+    },
+    { 
+      "file": "furniture.json"
+    },
+    { 
       "file": "_containers.json"
     }
   ]

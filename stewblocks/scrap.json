@@ -51,6 +51,33 @@
                "creativeTab": "stew_blocks_decor"
             }
          ]
-      }  
+      },
+      {
+         "type": "block:orientable:directional",
+         "entries":[
+            {
+               "id": "scrap_wires",
+               "creativeTab": "stew_blocks_decor",
+               "material": "rock",
+               "itemModel": "stewblocks:scrap_wires",
+               "hardness": 1,
+               "faceBySide": true
+             }
+         ]
+      },
+      {
+         "type": "block:orientable:directional",
+         "entries":[
+            {
+               "id": "scrap_accelerator_base",
+               "creativeTab": "stew_blocks_decor",
+               "material": "rock",
+               "itemModel": "stewblocks:scrap_accelerator_base",
+               "hardness": 1,
+               "light" : 10,               
+               "faceBySide": true
+             }
+         ]
+      }
    ]
 }

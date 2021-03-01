@@ -1,0 +1,21 @@
+{
+    "blocks":[
+       {
+          "type": "block:orientable:horizontal",
+          "entries":[
+             {
+                "id": "console",
+                "material": "iron",
+                "creativeTab": "stew_blocks_furniture",
+                "hardness": 1,
+                "renderLayer": "mippedCutout",
+                "faceBySide": true,
+                "isPassable": false,
+                "isFullCube": false,
+                "isOpaqueCube": false,
+                "opacity": 0             
+             }
+          ]
+       }
+    ]
+}

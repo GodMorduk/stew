@@ -1,0 +1,10 @@
+{
+    "variants": {
+      "facing=north": { "model": "stewblocks:concrete_faded_cornice", "x": 90, "y": 0},
+      "facing=east": { "model": "stewblocks:concrete_faded_cornice", "x": 90, "y": 90},
+      "facing=south": { "model": "stewblocks:concrete_faded_cornice", "x": 90, "y": 180},
+      "facing=west": { "model": "stewblocks:concrete_faded_cornice", "x": 90, "y": 270},
+      "facing=up": { "model": "stewblocks:concrete_faded_cornice" },
+      "facing=down": { "model": "stewblocks:concrete_faded_cornice", "x": 180 }
+    }
+  }

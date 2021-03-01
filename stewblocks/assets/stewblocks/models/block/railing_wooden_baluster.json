@@ -3,6 +3,6 @@
     "textures": {  
       "front": "stewblocks:blocks/railing_wooden_baluster",
       "back": "stewblocks:blocks/railing_wooden_baluster",     
-      "side": "stewblocks:blocks/railing_wooden_baluster_side"
+      "side": "stewblocks:blocks/railing_wooden_baluster"
     }
   }
