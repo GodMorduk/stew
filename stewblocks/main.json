@@ -58,6 +58,9 @@
       "file": "furniture.json"
     },
     { 
+      "file": "wallpaper.json"
+    },
+    { 
       "file": "_containers.json"
     }
   ]
