@@ -1364,26 +1364,6 @@
          "type":"item:simple",
          "entries":[
             {
-               "id":"medicine_syringe10",
-               "creativeTab":"stewprops",
-               "model":"stewprops:medicine_syringe10"
-            }
-         ]
-      },
-      {
-         "type":"item:simple",
-         "entries":[
-            {
-               "id":"medicine_syringe11",
-               "creativeTab":"stewprops",
-               "model":"stewprops:medicine_syringe11"
-            }
-         ]
-      },
-      {
-         "type":"item:simple",
-         "entries":[
-            {
                "id":"medicine_syringe_00",
                "creativeTab":"stewprops",
                "model":"stewprops:medicine_syringe_00"
@@ -1477,6 +1457,26 @@
                "id":"medicine_syringe_09",
                "creativeTab":"stewprops",
                "model":"stewprops:medicine_syringe_09"
+            }
+         ]
+      },
+      {
+         "type":"item:simple",
+         "entries":[
+            {
+               "id":"medicine_syringe_10",
+               "creativeTab":"stewprops",
+               "model":"stewprops:medicine_syringe_10"
+            }
+         ]
+      },
+      {
+         "type":"item:simple",
+         "entries":[
+            {
+               "id":"medicine_syringe_11",
+               "creativeTab":"stewprops",
+               "model":"stewprops:medicine_syringe_11"
             }
          ]
       },

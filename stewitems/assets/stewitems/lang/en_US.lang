@@ -1,5 +1,6 @@
 itemGroup.stewfood=Stew: food
 itemGroup.stewextra=Stew: extra
+itemGroup.stewmeds=Stew: medicine
 
 item.stewitems.food_bottle_water.name=Bottled Water
 item.stewitems.food_canned_berries.name=Canned Berries
@@ -37,4 +38,36 @@ item.stewitems.vilent_1.name=10 Vilents
 item.stewitems.vilent_2.name=100 Vilents
 item.stewitems.vilent_3.name=1000 Vilents
 
-ш
+item.stewitems.medicine_scanner.name=Medicine Scanner
+item.stewitems.fingerbox.name=Fingerbox
+item.stewitems.medicine_corpideks.name=Corpidex
+item.stewitems.medicine_nicotine_gum.name=Nicotine Gum
+item.stewitems.medicine_antidote.name=Sprodex
+item.stewitems.medicine_tranquilizer.name=Galoperidol
+item.stewitems.medicine_painkiller.name=Aketil Acid
+item.stewitems.medicine_twyrine.name=Twyrine
+item.stewitems.medicine_grox.name=Grox
+item.stewitems.medicine_phenophasine.name=Phenophasine Ointment
+item.stewitems.medicine_nictogenic.name=Nictogenic
+item.stewitems.medicine_valkyrine.name=Valkyrine
+item.stewitems.medicine_nanits.name=Nanites
+item.stewitems.medicine_bandage.name=Bangage
+item.stewitems.medicine_inhaler.name=Inhaler "Jet"
+item.stewitems.medicine_blood.name=Blood Packet
+item.stewitems.medicine_medx.name=Eifusin
+item.stewitems.medicine_strong_pheromones.name=Pheromones
+item.stewitems.medicine_sunscreen_spray.name=Sunscreen Spray
+item.stewitems.medicine_elixir.name=Meliss Elixir
+item.stewitems.medicine_neuropozine.name=Neuropozine
+item.stewitems.medicine_painkillers.name=Aketil Acid
+item.stewitems.medicine_yoln_tear.name="Yoln Tear"
+item.stewitems.medicine_stamina_inhaler.name=Healing Inhaler
+item.stewitems.medicine_nanite_injection.name=Nanite Injection
+item.stewitems.medicine_karusto_perfume.name=Karusto Perfume	
+item.stewitems.medicine_stimpack.name=Stimpak
+item.stewitems.medicine_antidepressants.name=Antidepressants
+item.stewitems.medicine_protein_pill.name=Beafcake-400
+item.stewitems.medicine_freezing_powder.name=Freezing Dust
+item.stewitems.medicine_ironskin_pills.name=Steel Nuts
+item.stewitems.medicine_inner_light.name=Innerlight Elixir
+item.stewitems.medicine_heating_paste.name=Heating Paste

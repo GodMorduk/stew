@@ -1,0 +1,846 @@
+{
+   "item":[
+      {
+         "type":"item:simple",
+         "entries":[
+            {
+               "id":"fingerbox",
+               "creativeTab":"stewmeds",
+               "model":"stewprops:box_brown",
+               "information":[
+                  "Настоящий фингербокс!",
+                  "Самое время похвастаться перед остальными."
+               ]
+            },
+            {
+               "id":"medicine_scanner",
+               "creativeTab":"stewmeds",
+               "model":"stewprops:tech_device_monocle",
+               "information":[
+                  "Высокотехнологичное устройство, позволяющее диагностировать различные внутренние повреждения организма",
+                  "Рано или поздно придётся поменять батарейки"
+               ]
+            }
+         ]
+      },
+      {
+         "type":"item:food",
+         "entries":[
+            {
+               "id":"medicine_blood",
+               "creativeTab":"stewmeds",
+               "model":"stewprops:medicine_blood_pack",
+               "information":[
+                  "Универсальная кровь, используемая для переливания. Она вряд ли залечит открытые раны, но укрепит ваше тело в целом. Вампирам эта кровь не подходит.",
+                  "§9Better then cooled!",
+                  "§lЭффекты:",
+                  "Слабость I на 1 минуту.",
+                  "Восстанавливает 15 единиц целостности."
+               ],
+               "potionEffects":[
+                  {
+                     "id":"minecraft:weakness",
+                     "duration":1
+                  },
+                  {
+                     "id":"misca:restoreIntegrity",
+                     "duration":1,
+                     "amplifier":2
+                  }
+               ],
+               "potionEffectProbability":1.0,
+               "maxStack":64,
+               "healAmount":0,
+               "saturation":0,
+               "useAction":"drink",
+               "alwaysEdible":true,
+               "isWolfFood":false
+            },
+            {
+               "id":"medicine_inhaler",
+               "creativeTab":"stewmeds",
+               "model":"stewprops:medicine_inhaler_00",
+               "information":[
+                  "Ингалятор с сильнодействующим регенеративным веществом. Противопоказано астматикам! Вызывает сильную отдышку и усталость.",
+                  "§lЭффекты:",
+                  "Регенерация: восстанавливает 8 ХП.",
+                  "Убавляет 10 единиц стамины."
+               ],
+               "potionEffects":[
+                  {
+                     "id":"minecraft:regeneration",
+                     "duration":400
+                  },
+                  {
+                     "id":"misca:damageStamina",
+                     "duration":1,
+                     "amplifier":1
+                  }
+               ],
+               "potionEffectProbability":1.0,
+               "maxStack":64,
+               "healAmount":0,
+               "saturation":0,
+               "useAction":"drink",
+               "alwaysEdible":true,
+               "isWolfFood":false
+            },
+            {
+               "id":"medicine_bandage",
+               "creativeTab":"stewmeds",
+               "model":"stewprops:medicine_medpack",
+               "information":[
+                  "Прочный эластичный бинт. Он не только поможет залечить раны, но и укрепит общее состояние вашего тела.",
+                  "§lЭффекты:",
+                  "Регенерация: восстанавливает 6 ХП.",
+                  "Восстанавливает 5 единиц целостности."
+               ],
+               "potionEffects":[
+                  {
+                     "id":"minecraft:regeneration",
+                     "duration":300
+                  },
+                  {
+                     "id":"misca:restoreIntegrity",
+                     "duration":1,
+                     "amplifier":0
+                  }
+               ],
+               "potionEffectProbability":1.0,
+               "maxStack":64,
+               "healAmount":0,
+               "saturation":0,
+               "useAction":"eat",
+               "alwaysEdible":true,
+               "isWolfFood":false
+            },
+            {
+               "id":"medicine_nanits",
+               "creativeTab":"stewmeds",
+               "model":"stewprops:random_device_04",
+               "information":[
+                  "Наниты для ремонта синтетической плоти. Может быть опасно для органиков!",
+                  "§lЭффекты:",
+                  "Замедление II на время действия. Восстанавливает 10 ХП."
+               ],
+               "potionEffects":[
+                  {
+                     "id":"minecraft:regeneration",
+                     "duration":500
+                  },
+                  {
+                     "id":"minecraft:slowness",
+                     "duration":500,
+                     "amplifier":2
+                  }
+               ],
+               "potionEffectProbability":1.0,
+               "maxStack":64,
+               "healAmount":0,
+               "saturation":0,
+               "useAction":"eat",
+               "alwaysEdible":true,
+               "isWolfFood":false
+            },
+            {
+               "id":"medicine_valkyrine",
+               "creativeTab":"stewmeds",
+               "model":"stewprops:medicine_syringe_01",
+               "information":[
+                  "Мощный стимулятор. Ранее применялся как допинг для легкоатлетов и солдат. При частом использовании вызывает нарушения ЦНС.",
+                  "§lЭффекты:",
+                  "Ускорение II и Прыжок I на 5 минут.",
+                  "Убавляет 10 единиц ментального здоровья."
+               ],
+               "potionEffects":[
+                  {
+                     "id":"minecraft:speed",
+                     "duration":6000,
+                     "amplifier":2
+                  },
+                  {
+                     "id":"minecraft:jump_boost",
+                     "duration":6000
+                  },
+                  {
+                     "id":"misca:damageSanity",
+                     "duration":1,
+                     "amplifier":1
+                  }
+               ],
+               "potionEffectProbability":1.0,
+               "maxStack":64,
+               "healAmount":0,
+               "saturation":0,
+               "useAction":"drink",
+               "alwaysEdible":true,
+               "isWolfFood":false
+            },
+            {
+               "id":"medicine_nictogenic",
+               "creativeTab":"stewmeds",
+               "model":"stewprops:medicine_syringe_11",
+               "information":[
+                  "Инъекция никтогеника позволяет более чётко воспринимать объекты в темноте. Говорят, это выжимка из секрекции аунсальского крота.",
+                  "§lЭффекты:",
+                  "Ночное зрение на 25 минут.",
+                  "Убавляет 10 единиц стамины."
+               ],
+               "potionEffects":[
+                  {
+                     "id":"minecraft:night_vision",
+                     "duration":30000
+                  }
+               ],
+               "potionEffectProbability":1.0,
+               "maxStack":64,
+               "healAmount":0,
+               "saturation":0,
+               "useAction":"drink",
+               "alwaysEdible":true,
+               "isWolfFood":false
+            },
+            {
+               "id":"medicine_antidote",
+               "creativeTab":"stewmeds",
+               "model":"stewprops:medicine_pill_09",
+               "information":[
+                  "Вещество Спродекс, нейтрализующее воздействие большинства известных на Планах ядов. Однажды у самого создателя препарата антидота под рукой не оказалось...",
+                  "§lЭффекты:",
+                  "Снимает все эффекты, подобно молоку."
+               ],
+               "potionEffects":[
+                  {
+                     "id":"botania:clear",
+                     "duration":300
+                  }
+               ],
+               "potionEffectProbability":1.0,
+               "maxStack":64,
+               "healAmount":0,
+               "saturation":0,
+               "useAction":"drink",
+               "alwaysEdible":true,
+               "isWolfFood":false
+            },
+            {
+               "id":"medicine_phenophasine",
+               "creativeTab":"stewmeds",
+               "model":"stewprops:paste_common",
+               "information":[
+                  "Фенофазиновая мазь позволяет на время охладить кожные покровы и повысить их огнеупорность. Незаменимое средство для тех, кто любит играть с огнём.",
+                  "§lЭффекты:",
+                  "На 3 минуты дает защиту от огня."
+               ],
+               "potionEffects":[
+                  {
+                     "id":"minecraft:fire_resistance",
+                     "duration":3600
+                  }
+               ],
+               "potionEffectProbability":1.0,
+               "maxStack":64,
+               "healAmount":0,
+               "saturation":0,
+               "useAction":"eat",
+               "alwaysEdible":true,
+               "isWolfFood":false
+            },
+            {
+               "id":"medicine_corpideks",
+               "creativeTab":"stewmeds",
+               "model":"stewprops:bottle_blue_00",
+               "information":[
+                  "Сироп с необычным вкусом, устраняющий последствия интоксикационного синдрома. Ваш лучший друг после хорошей попойки.",
+                  "§lЭффекты:",
+                  "Восстанавливает 1 ХП."
+               ],
+               "potionEffects":[
+                  {
+                     "id":"minecraft:regeneration",
+                     "duration":60
+                  }
+               ],
+               "potionEffectProbability":1.0,
+               "maxStack":64,
+               "healAmount":2,
+               "saturation":0,
+               "useAction":"drink",
+               "alwaysEdible":true,
+               "isWolfFood":false
+            },
+            {
+               "id":"medicine_grox",
+               "creativeTab":"stewmeds",
+               "model":"stewprops:nature_larva",
+               "information":[
+                  "При правильной обработке личинка грокса ненадолго укрепляет мышцы. Осторожно, укус грокса приводит к мышечному параличу!",
+                  "§lЭффекты:",
+                  "Сила II на 2 минуты.",
+                  "Восстанавливает 10 единиц стамины."
+               ],
+               "potionEffects":[
+                  {
+                     "id":"minecraft:strength",
+                     "duration":2400,
+                     "amplifier":2
+                  },
+                  {
+                     "id":"misca:restoreStamina",
+                     "duration":1,
+                     "amplifier":1
+                  }
+               ],
+               "potionEffectProbability":1.0,
+               "maxStack":1,
+               "healAmount":4,
+               "saturation":0,
+               "useAction":"eat",
+               "alwaysEdible":true,
+               "isWolfFood":false
+            },
+            {
+               "id":"medicine_nicotine_gum",
+               "creativeTab":"stewmeds",
+               "model":"stewprops:etc",
+               "information":[
+                  "Обычная жвачка, содержащая никотин, для случаев, когда курение запрещено."
+               ],
+               "potionEffects":[
+                  {
+                     "id":"minecraft:hunger",
+                     "duration":100
+                  }
+               ],
+               "potionEffectProbability":1.0,
+               "maxStack":64,
+               "healAmount":0,
+               "saturation":0,
+               "useAction":"eat",
+               "alwaysEdible":true,
+               "isWolfFood":false
+            },
+            {
+               "id":"medicine_yoln_tear",
+               "creativeTab":"stewmeds",
+               "model":"stewprops:random_biomass_00",
+               "information":[
+                  "Слизь, дарующая возможность дышать под водой. Принимается перорально. Вкус такой же противный, как и запах.",
+                  "§lЭффекты:",
+                  "Дыхание под водой на 5 минут."
+               ],
+               "potionEffects":[
+                  {
+                     "id":"minecraft:water_breathing",
+                     "duration":6000
+                  }
+               ],
+               "potionEffectProbability":1.0,
+               "maxStack":64,
+               "healAmount":0,
+               "saturation":0,
+               "useAction":"eat",
+               "alwaysEdible":true,
+               "isWolfFood":false
+            },
+            {
+               "id":"medicine_twyrine",
+               "creativeTab":"stewmeds",
+               "model":"stewprops:bottle_closed_00",
+               "information":[
+                  "Горькая настойка на травах, растущих в окрестностях Города. Незначительно укрепляет иммунитет и, согласно слухам, открывает взору скрытые вещи.",
+                  "§lЭффекты:",
+                  "Замутняет зрение на одну минуту.",
+                  "Поднимает Искажение на 5."
+               ],
+               "potionEffects":[
+                  {
+                     "id":"thaumcraft:blurredvision",
+                     "duration":1200
+                  },
+                  {
+                     "id":"misca:restoreCorruption",
+                     "duration":1,
+                     "amplifier":0
+                  }
+               ],
+               "potionEffectProbability":1.0,
+               "maxStack":1,
+               "healAmount":4,
+               "saturation":0,
+               "useAction":"drink",
+               "alwaysEdible":true,
+               "isWolfFood":false
+            },
+            {
+               "id":"medicine_tranquilizer",
+               "creativeTab":"stewmeds",
+               "model":"stewprops:medicine_syringe_10",
+               "information":[
+                  "Транквилизатор, обладающий мощным седативным и антипсихотическим действием. При длительном приёме вызывает необратимые изменения психики.",
+                  "§lЭффекты:",
+                  "Накладывает слабость II и замедление на 10 минут.",
+                  "Восстанавливает 25 ментального здоровья."
+               ],
+               "potionEffects":[
+                  {
+                     "id":"minecraft:weakness",
+                     "duration":60000,
+                     "amplifier":2
+                  },
+                  {
+                     "id":"minecraft:slowness",
+                     "duration":60000
+                  },
+                  {
+                     "id":"misca:restoreSanity",
+                     "duration":1,
+                     "amplifier":4
+                  }
+               ],
+               "potionEffectProbability":1.0,
+               "maxStack":64,
+               "healAmount":0,
+               "saturation":0,
+               "useAction":"drink",
+               "alwaysEdible":true,
+               "isWolfFood":false
+            },
+            {
+               "id":"medicine_painkillers",
+               "creativeTab":"stewmeds",
+               "model":"stewprops:medicine_pill_container_04",
+               "information":[
+                  "Болеутоляющее, производимое по лицензии Содружества Лекарей Планов. Поможет унять даже максимальную боль.",
+                  "§lЭффекты:",
+                  "Восстанавливает 4 ХП, дает кратковременную тошноту."
+               ],
+               "potionEffects":[
+                  {
+                     "id":"minecraft:instant_health",
+                     "duration":1
+                  },
+                  {
+                     "id":"minecraft:nausea",
+                     "duration":100
+                  }
+               ],
+               "maxStack":64,
+               "healAmount":0,
+               "saturation":0,
+               "useAction":"eat",
+               "alwaysEdible":true,
+               "isWolfFood":false
+            },
+            {
+               "id":"medicine_medx",
+               "creativeTab":"stewmeds",
+               "model":"stewprops:medicine_syringe_00",
+               "information":[
+                  "Наркотическое вещество, вводящее в состояние эйфории. Вызывает привыкание и кучу мерзких побочек, даже при кратковременном применении. Может быть вредно для сердца.",
+                  "§lЭффекты:",
+                  "Восстанавливает 75 ментального здоровья.",
+                  "Снимает 30 целостности."
+               ],
+               "potionEffects":[
+                  {
+                     "id":"minecraft:restoreSanity",
+                     "amplifier":14,
+                     "duration":1
+                  },
+                  {
+                     "id":"minecraft:damageIntegrity",
+                     "amplifier":5,
+                     "duration":1
+                  }
+               ],
+               "maxStack":64,
+               "healAmount":0,
+               "saturation":0,
+               "useAction":"eat",
+               "alwaysEdible":true,
+               "isWolfFood":false
+            },
+            {
+               "id":"medicine_nanite_injection",
+               "creativeTab":"stewmeds",
+               "model":"stewprops:medicine_injector",
+               "information":[
+                  "Инъекция нанитов, которые перестраивают организм на клеточном уровне. Позволяет восстановить большинство поврежденных частей тела, но это чудовищно болезненно. Рекомендуется обездвижить того, на ком это применяется, поскольку от адской боли велик соблазн самоубийства.",
+                  "§lЭффекты:",
+                  "Восстанавливает 75 целостности",
+                  "Снимает 50 стамины и 25 менталки.",
+                  "Накладывает замедление I и слабость I на 15 минут."
+               ],
+               "potionEffects":[
+                  {
+                     "id":"misca:restoreIntegrity",
+                     "amplifier":14,
+                     "duration":1
+                  },
+                  {
+                     "id":"misca:damageStamina",
+                     "amplifier":9,
+                     "duration":1
+                  },
+                  {
+                     "id":"misca:damageSanity",
+                     "amplifier":4,
+                     "duration":1
+                  },
+                  {
+                     "id":"minecraft:weakness",
+                     "amplifier":1,
+                     "duration":18000
+                  },
+                  {
+                     "id":"minecraft:slowness",
+                     "amplifier":1,
+                     "duration":18000
+                  }
+               ],
+               "maxStack":64,
+               "healAmount":0,
+               "saturation":0,
+               "useAction":"eat",
+               "alwaysEdible":true,
+               "isWolfFood":false
+            },
+            {
+               "id":"medicine_antidepressants",
+               "creativeTab":"stewmeds",
+               "model":"stewprops:medicine_pill_container_00",
+               "information":[
+                  "Базовые антидепрессанты. Помогают от плохого настроения и умственной усталости. Вызывают привыкание в больших количествах.",
+                  "§lЭффекты:",
+                  "Восстанавливает 15 ментального здоровья"
+               ],
+               "potionEffects":[
+                  {
+                     "id":"misca:restoreSanity",
+                     "amplifier":2,
+                     "duration":1
+                  }
+               ],
+               "maxStack":64,
+               "healAmount":0,
+               "saturation":0,
+               "useAction":"eat",
+               "alwaysEdible":true,
+               "isWolfFood":false
+            },
+            {
+               "id":"medicine_stamina_inhaler",
+               "creativeTab":"stewmeds",
+               "model":"stewprops:medicine_inhaler_05",
+               "information":[
+                  "При вдыхании дает ощущение силы и легкости. Помогает при усталости от физических нагрузок и астматических приступах. Запрещен в ряде мест, как допинг.",
+                  "§lЭффекты:",
+                  "Восстанавливает 20 стамины"
+               ],
+               "potionEffects":[
+                  {
+                     "id":"misca:restoreStamina",
+                     "amplifier":4,
+                     "duration":1
+                  }
+               ],
+               "maxStack":64,
+               "healAmount":0,
+               "saturation":0,
+               "useAction":"eat",
+               "alwaysEdible":true,
+               "isWolfFood":false
+            },
+            {
+               "id":"medicine_stimpack",
+               "creativeTab":"stewmeds",
+               "model":"stewprops:medicine_stimpak",
+               "information":[
+                  "Мощный состав разнообразных веществ в этом шприце вызывает усиленную регенерацию тела. Неплохо залечивает даже глубокие раны. Популярен везде ввиду отсутствия негативных побочных эффектов, кроме излишнего чувства голода.",
+                  "§lЭффекты:",
+                  "Восстанавливает 25 целосности.",
+                  "Восстанавливает 10 сердец здоровья."
+               ],
+               "potionEffects":[
+                  {
+                     "id":"minecraft:regeneration",
+                     "amplifier":1,
+                     "duration":1000
+                  },
+                  {
+                     "id":"misca:restoreIntegrity",
+                     "amplifier":4,
+                     "duration":1
+                  },
+                  {
+                     "id":"minecraft:hunger",
+                     "amplifier":1000,
+                     "duration":1
+                  }
+               ],
+               "maxStack":64,
+               "healAmount":0,
+               "saturation":0,
+               "useAction":"eat",
+               "alwaysEdible":true,
+               "isWolfFood":false
+            },
+            {
+               "id":"medicine_karusto_perfume",
+               "creativeTab":"stewmeds",
+               "model":"stewprops:perfume_00",
+               "information":[
+                  "Жидкость, распыляемая на тело цели. Сильно пахнет мускусом. Рецепт держится в секрете, но ее точно производят где-то в Городе. Восстанавливает вашу связь с Осью, повреждая ваше тело из за временных колебаний Стабильности.",
+                  "§lЭффекты:",
+                  "Убирает 35 единиц искажения",
+                  "Снимает 40 единиц целосности."
+               ],
+               "potionEffects":[
+                  {
+                     "id":"misca:damageCorruption",
+                     "amplifier":3,
+                     "duration":1
+                  },
+                  {
+                     "id":"misca:damageIntegrity",
+                     "amplifier":7,
+                     "duration":1
+                  }
+               ],
+               "maxStack":64,
+               "healAmount":0,
+               "saturation":0,
+               "useAction":"eat",
+               "alwaysEdible":true,
+               "isWolfFood":false
+            },
+            {
+               "id":"medicine_strong_pheromones",
+               "creativeTab":"stewmeds",
+               "model":"stewprops:perfume_04",
+               "information":[
+                  "Искуственные феромоны, получаемые в результате специфических химических реакций. Является символом мужественности и мужской силы. Очень прибавляет сил, но может вызывать параноидальные состояния и манию величия, а так же вводит человека в состояние огромного психоэмоционального возбуждения.",
+                  "§lЭффекты:",
+                  "Восстанавливает 90 единиц стамины.",
+                  "Снимает 40 единиц ментального здоровья."
+               ],
+               "potionEffects":[
+                  {
+                     "id":"misca:restoreStamina",
+                     "amplifier":15,
+                     "duration":1
+                  },
+                  {
+                     "id":"misca:damageSanity",
+                     "amplifier":7,
+                     "duration":1
+                  }
+               ],
+               "maxStack":64,
+               "healAmount":0,
+               "saturation":0,
+               "useAction":"eat",
+               "alwaysEdible":true,
+               "isWolfFood":false
+            },
+            {
+               "id":"medicine_elixir",
+               "creativeTab":"stewmeds",
+               "model":"stewprops:bottle_blue_02",
+               "information":[
+                  "Синий концентрированный сироп с характерной фруктовой отдушкой. По мнению исследователей из Города, помогает от Искажения, хоть и вызывает мышечную слабость вкупе с приступом лени.",
+                  "§lЭффекты:",
+                  "Снимает 10 единиц Искажения.",
+                  "Снимает 20 единиц стамины."
+               ],
+               "potionEffects":[
+                  {
+                     "id":"misca:damageCorruption",
+                     "amplifier":1,
+                     "duration":1
+                  },
+                  {
+                     "id":"misca:damageStamina",
+                     "amplifier":3,
+                     "duration":1
+                  }
+               ],
+               "maxStack":64,
+               "healAmount":0,
+               "saturation":0,
+               "useAction":"eat",
+               "alwaysEdible":true,
+               "isWolfFood":false
+            },
+            {
+               "id":"medicine_neuropozine",
+               "creativeTab":"stewmeds",
+               "model":"stewprops:medicine_syringe_09",
+               "information":[
+                  "Сильный иммунодепрессант, позволяющий бороться с отторжением имплантов организмом. Имеет длительный эффект.",
+                  "§lЭффекты:",
+                  "На 25 минут добавляет эффект нейропозина."
+               ],
+               "potionEffects":[
+                  {
+                     "id":"cyberware:neuropozyne",
+                     "amplifier":1,
+                     "duration": 30000
+                  }
+               ],
+               "maxStack":64,
+               "healAmount":0,
+               "saturation":0,
+               "useAction":"eat",
+               "alwaysEdible":true,
+               "isWolfFood":false
+            },
+            {
+               "id":"medicine_protein_pill",
+               "creativeTab":"stewmeds",
+               "model":"stewprops:medicine_pill_00",
+               "information":[
+                  "Таблетка, которая значительно улучшает работу мускулатуры и кровообращение. Широко известна среди атлетов для интенсивных тренировок. Вызывает сильную жажду.",
+                  "§lЭффекты:",
+                  "На 3 минуты добавляет Спешку III уровня.",
+				  "На 3 минуты накладывает жажду I уровня."
+               ],
+               "potionEffects":[
+                  {
+                     "id":"minecraft:haste",
+                     "amplifier":3,
+                     "duration": 3600
+                  },
+                  {
+                     "id":"toughasnails:thirst",
+                     "amplifier":1,
+                     "duration": 3600
+                  }
+               ],
+               "maxStack":64,
+               "healAmount":0,
+               "saturation":0,
+               "useAction":"eat",
+               "alwaysEdible":true,
+               "isWolfFood":false
+            },
+            {
+               "id":"medicine_inner_light",
+               "creativeTab":"stewmeds",
+               "model":"stewprops:bottle_yellow_00",
+               "information":[
+                  "Известное среди исследователей и шахтеров зелье. При употреблении внутрь оно заставляет выпившего светиться в течении небольшого количества времени.",
+                  "§lЭффекты:",
+                  "На 25 минут выпившее существо начинает светиться."
+               ],
+               "potionEffects":[
+                  {
+                     "id":"ancientspellcraft:candlelight",
+                     "amplifier":1,
+                     "duration": 30000
+                  }
+               ],
+               "maxStack":64,
+               "healAmount":0,
+               "saturation":0,
+               "useAction":"eat",
+               "alwaysEdible":true,
+               "isWolfFood":false
+            },
+            {
+               "id":"medicine_ironskin_pills",
+               "creativeTab":"stewmeds",
+               "model":"stewprops:medicine_pills_pouch_02",
+               "information":[
+                  "Горькие таблетки, которые вызывают неестественную биохимическую реакцию кожных покровов, что способствует их огрубению. Защищает от физического урона на короткий срок.",
+                  "§lЭффекты:",
+                  "На 4 минуты добавляет эффект защиты I."
+               ],
+               "potionEffects":[
+                  {
+                     "id":"minecraft:resistance",
+                     "amplifier":1,
+                     "duration": 4800
+                  }
+               ],
+               "maxStack":64,
+               "healAmount":0,
+               "saturation":0,
+               "useAction":"eat",
+               "alwaysEdible":true,
+               "isWolfFood":false
+            },
+            {
+               "id":"medicine_heating_paste",
+               "creativeTab":"stewmeds",
+               "model":"stewprops:paste_fiery",
+               "information":[
+                  "Согревающий крем, которую нужно нанести на открытые или поврежденные участки тела. Защищает от обморожения, помогает, если оно уже случилось.",
+                  "§lЭффекты:",
+                  "На 25 минут добавляет эффект защиты от переохлаждения."
+               ],
+               "potionEffects":[
+                  {
+                     "id":"toughasnails:cold_resistance",
+                     "amplifier":1,
+                     "duration": 30000
+                  }
+               ],
+               "maxStack":64,
+               "healAmount":0,
+               "saturation":0,
+               "useAction":"eat",
+               "alwaysEdible":true,
+               "isWolfFood":false
+            },
+            {
+               "id":"medicine_freezing_powder",
+               "creativeTab":"stewmeds",
+               "model":"stewprops:medicine_pills_pouch_06",
+               "information":[
+                  "Порошок, который всегда остается холодным. Помогает при ушибах, тепловых ударах, ожогах и общей гипертермии.",
+                  "§lЭффекты:",
+                  "На 25 минут добавляет эффект защиты от гипертермии."
+               ],
+               "potionEffects":[
+                  {
+                     "id":"toughasnails:heat_resistance",
+                     "amplifier":1,
+                     "duration": 30000
+                  }
+               ],
+               "maxStack":64,
+               "healAmount":0,
+               "saturation":0,
+               "useAction":"eat",
+               "alwaysEdible":true,
+               "isWolfFood":false
+            },
+            {
+               "id":"medicine_sunscreen_spray",
+               "creativeTab":"stewmeds",
+               "model":"stewprops:perfume_02",
+               "information":[
+                  "Спрей, защищающий от ультрафиолетовых лучей. Используется для защиты кожи от прямых солнечных лучей и особенно любим вампирами.",
+                  "§lЭффекты:",
+                  "На 25 минут добавляет эффект защиты от солнца."
+               ],
+               "potionEffects":[
+                  {
+                     "id":"vampirism:sunscreen",
+                     "amplifier":1,
+                     "duration": 30000
+                  }
+               ],
+               "maxStack":64,
+               "healAmount":0,
+               "saturation":0,
+               "useAction":"eat",
+               "alwaysEdible":true,
+               "isWolfFood":false
+            }
+         ]
+      }
+   ]
+}

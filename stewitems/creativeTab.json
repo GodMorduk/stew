@@ -12,6 +12,13 @@
 				"id": "stewextra",
 				"icon": "stewitems:coupon_special"
 			}]
+		},
+		{
+			"type": "creativeTab",
+			"entries": [{
+				"id": "stewmeds",
+				"icon": "stewitems:medicine_blood"
+			}]
 		}
 	]
 }
