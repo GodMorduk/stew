@@ -1,0 +1,28 @@
+{
+    "blocks":[
+        {
+            "type": "block:door",
+            "entries": [
+              {
+                "id": "door_wire",
+                "creativeTab": "stew_blocks_decor",
+                "itemModel": "stewblocks:door_wire",
+                "opensWithRedstone": false,
+                "opensWithHands":  true
+            }      
+        ]
+        },
+        {
+            "type": "block:door",
+            "entries": [
+              {
+                "id": "door_air_lock",
+                "creativeTab": "stew_blocks_decor",
+                "itemModel": "stewblocks:door_air_lock",
+                "opensWithRedstone": false,
+                "opensWithHands":  true
+            }      
+        ]
+        }
+        ]
+     }

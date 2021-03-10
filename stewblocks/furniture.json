@@ -4,7 +4,7 @@
           "type": "block:orientable:horizontal",
           "entries":[
              {
-                "id": "console",
+                "id": "furniture_console_blue",
                 "material": "iron",
                 "creativeTab": "stew_blocks_furniture",
                 "hardness": 1,
@@ -16,6 +16,23 @@
                 "opacity": 0             
              }
           ]
-       }
+       },
+       {
+         "type": "block:orientable:horizontal",
+         "entries":[
+            {
+               "id": "furniture_books",
+               "material": "iron",
+               "creativeTab": "stew_blocks_furniture",
+               "hardness": 1,
+               "renderLayer": "mippedCutout",
+               "faceBySide": true,
+               "isPassable": false,
+               "isFullCube": false,
+               "isOpaqueCube": false,
+               "opacity": 0             
+            }
+         ]
+      }
     ]
 }
