@@ -64,9 +64,31 @@
       "file": "door.json"
     },
     { 
+      "file": "cladding.json"
+    },
+    { 
+      "file": "cloth.json"
+    },
+    { 
+      "file": "wood.json"
+    },
+    { 
+      "file": "roofing.json"
+    },
+    { 
+      "file": "plasteel.json"
+    },
+    { 
+      "file": "metal.json"
+    },
+    { 
+      "file": "brick_plastered_window.json"
+    },
+    { 
       "file": "_containers.json"
     }
   ]
 }
+
 
 

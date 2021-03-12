@@ -1,5 +1,12 @@
 {
-    "variants": {
-      "normal": {"model": "stewblocks:pile_bones_01"}
-    }
+  "variants": {
+      "layers=1":  { "model": "stewblocks:pile_bones_01_height2" },
+      "layers=2":  { "model": "stewblocks:pile_bones_01_height4" },
+      "layers=3":  { "model": "stewblocks:pile_bones_01_height6" },
+      "layers=4":  { "model": "stewblocks:pile_bones_01_height8" },
+      "layers=5":  { "model": "stewblocks:pile_bones_01_height10" },
+      "layers=6":  { "model": "stewblocks:pile_bones_01_height12" },
+      "layers=7":  { "model": "stewblocks:pile_bones_01_height14" },
+      "layers=8":  { "model": "stewblocks:pile_bones_01" }
   }
+}

@@ -1,0 +1,8 @@
+{
+    "parent": "stewblocks:block/thin_slab",
+    "textures": {  
+      "front": "stewblocks:blocks/cloth_hide_white",
+      "back": "stewblocks:blocks/cloth_hide_white",     
+      "side": "stewblocks:blocks/cloth_hide_white"
+    }
+  }

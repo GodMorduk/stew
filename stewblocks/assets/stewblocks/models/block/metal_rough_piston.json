@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "top": "stewblocks:blocks/metal_rough_piston_top",
+        "side": "stewblocks:blocks/metal_rough_piston",
+        "bottom": "stewblocks:blocks/metal_rough_piston_top"
+    }
+}

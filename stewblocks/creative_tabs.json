@@ -49,8 +49,26 @@
   "type": "creativeTab",
   "entries": [
     {
+      "id": "stew_blocks_metal",
+      "icon": "stewblocks:cladding_red"
+  }  
+]
+},
+{
+  "type": "creativeTab",
+  "entries": [
+    {
+      "id": "stew_blocks_wood",
+      "icon": "stewblocks:wood_carved_spruce"
+  }  
+]
+},
+{
+  "type": "creativeTab",
+  "entries": [
+    {
       "id": "stew_blocks_furniture",
-      "icon": "stewblocks:console"
+      "icon": "stewblocks:furniture_console_blue"
   }  
 ]
 }

@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "stewblocks:blocks/old_metal_rivet_02"
+    }
+}

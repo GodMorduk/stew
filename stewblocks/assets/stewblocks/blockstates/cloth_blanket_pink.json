@@ -1,0 +1,10 @@
+{
+    "variants": {
+    "facing=north": { "model": "stewblocks:cloth_blanket_pink", "x": 90, "y": 0, "uvlock": true},
+    "facing=east": { "model": "stewblocks:cloth_blanket_pink", "x": 90, "y": 90, "uvlock": true },
+    "facing=south": { "model": "stewblocks:cloth_blanket_pink", "x": 90, "y": 180, "uvlock": true },
+    "facing=west": { "model": "stewblocks:cloth_blanket_pink", "x": 90, "y": 270, "uvlock": true },
+    "facing=up": { "model": "stewblocks:cloth_blanket_pink", "uvlock": true },
+    "facing=down": { "model": "stewblocks:cloth_blanket_pink", "x": 180, "uvlock": true }
+  }
+}

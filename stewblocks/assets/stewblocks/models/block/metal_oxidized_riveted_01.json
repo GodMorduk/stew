@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "stewblocks:blocks/metal_oxidized_riveted_01"
+    }
+}

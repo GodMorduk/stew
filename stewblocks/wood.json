@@ -1,0 +1,74 @@
+{
+    "blocks":[
+       {
+          "type": "block:simple",
+          "entries":[
+             {
+                "id": "wood_carved_acacia",
+                "material": "wood",
+                "creativeTab": "stew_blocks_wood"
+             }
+          ]
+       },
+       {
+        "type": "block:simple",
+        "entries":[
+           {
+              "id": "wood_carved_darkoak",
+              "material": "wood",
+              "creativeTab": "stew_blocks_wood"
+           }
+        ]
+     },
+     {
+        "type": "block:simple",
+        "entries":[
+           {
+              "id": "wood_carved_jungle",
+              "material": "wood",
+              "creativeTab": "stew_blocks_wood"
+           }
+        ]
+     },
+     {
+        "type": "block:simple",
+        "entries":[
+           {
+              "id": "wood_carved_spruce",
+              "material": "wood",
+              "creativeTab": "stew_blocks_wood"
+           }
+        ]
+     },
+     {
+        "type": "block:simple",
+        "entries":[
+           {
+              "id": "wood_carved_zoak",
+              "material": "wood",
+              "creativeTab": "stew_blocks_wood"
+           }
+        ]
+     },
+     {
+        "type": "block:simple",
+        "entries":[
+           {
+              "id": "wooden_panel_lily",
+              "material": "wood",
+              "creativeTab": "stew_blocks_wood"
+           }
+        ]
+     },
+       {
+        "type": "block:simple",
+        "entries":[
+           {
+              "id": "wood_carved_birch",
+              "material": "wood",
+              "creativeTab": "stew_blocks_wood"
+           }
+        ]
+     }
+    ]
+ }

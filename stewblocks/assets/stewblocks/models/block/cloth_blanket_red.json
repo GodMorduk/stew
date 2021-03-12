@@ -1,0 +1,8 @@
+{
+    "parent": "stewblocks:block/thin_slab",
+    "textures": {  
+      "front": "stewblocks:blocks/cloth_blanket_red",
+      "back": "stewblocks:blocks/cloth_blanket_red",     
+      "side": "stewblocks:blocks/cloth_blanket_red"
+    }
+  }

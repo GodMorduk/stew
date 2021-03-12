@@ -1,122 +1,74 @@
 {
-    "blocks":[
-       {
-          "type": "block:simple",
-          "entries":[
-             {
-                "id": "pile_bones_01",
-                "material": "rock",
-                "creativeTab": "stew_blocks_ambience"
-             }
-          ]
-       },
-       {
-        "type": "block:simple",
-        "entries":[
+   "blocks":[
+      {
+         "type": "block:snow",
+         "entries":[
+            {
+              "id": "pile_bones_01",
+              "material": "grass",
+              "snowball": "minecraft:bone",
+              "creativeTab": "stew_blocks_ambience"
+           },
            {
               "id": "pile_bones_02",
-              "material": "rock",
+              "material": "grass",
+              "snowball": "minecraft:bone",
               "creativeTab": "stew_blocks_ambience"
-           }
-        ]
-     },
-     {
-        "type": "block:simple",
-        "entries":[
+           },
            {
               "id": "pile_bones_03",
-              "material": "rock",
+              "material": "grass",
+              "snowball": "minecraft:bone",
               "creativeTab": "stew_blocks_ambience"
-           }
-        ]
-     },
-     {
-        "type": "block:snow",
-        "entries":[
+           },
            {
               "id": "garbage",
-              "material": "rock",
+              "material": "grass",
               "snowball": "stewprops:random_junk_00",
               "creativeTab": "stew_blocks_ambience"
-           }
-        ]
-    },
-    {
-       "type": "block:simple",
-       "entries":[
-          {
+           },
+           {
              "id": "gold_coins",
-             "material": "rock",
+             "material": "grass",
+             "snowball": "minecraft:gold_ingot",
              "creativeTab": "stew_blocks_ambience"
-          }
-       ]
-    },
-    {
-       "type": "block:simple",
-       "entries":[
-          {
+           },
+           {
              "id": "guts_brown",
-             "material": "rock",
+             "material": "grass",
+             "snowball": "minecraft:rotten_flesh",
              "creativeTab": "stew_blocks_ambience"
-          }
-       ]
-      },
-      {
-         "type": "block:simple",
-         "entries":[
-            {
+           },
+           {
                "id": "guts_red",
-               "material": "rock",
+               "material": "grass",
+               "snowball": "minecraft:rotten_flesh",
                "creativeTab": "stew_blocks_ambience"
-            }
-         ]
-      },
-      {
-         "type": "block:simple",
-         "entries":[
+            },
             {
                "id": "organic_blue",
-               "material": "rock",
+               "material": "grass",
                "creativeTab": "stew_blocks_ambience"
-            }
-         ]
-      },
-      {
-         "type": "block:simple",
-         "entries":[
+            },
             {
                "id": "organic_lightgray",
-               "material": "rock",
+               "material": "grass",
                "creativeTab": "stew_blocks_ambience"
-            }
-         ]
-      },
-      {
-         "type": "block:simple",
-         "entries":[
+            },
             {
                "id": "organic_purple",
-               "material": "rock",
+               "material": "grass",
                "creativeTab": "stew_blocks_ambience"
-            }
-         ]
-      },
-      {
-         "type": "block:simple",
-         "entries":[
+            },
             {
                "id": "organic_red",
-               "material": "rock",
+               "material": "grass",
                "creativeTab": "stew_blocks_ambience"
-            }
-         ]
-      },
-      {
-         "type": "block:simple",
-         "entries":[
+            },
             {
                "id": "pile_books",
-               "material": "rock",
+               "snowball": "minecraft:book",
+               "material": "grass",
                "creativeTab": "stew_blocks_ambience"
             }
          ]

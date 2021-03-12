@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "facing=north": { "model": "stewblocks:sheet_metal_old", "x": 90, "y": 0, "uvlock": true},
+    "facing=east": { "model": "stewblocks:sheet_metal_old", "x": 90, "y": 90, "uvlock": true },
+    "facing=south": { "model": "stewblocks:sheet_metal_old", "x": 90, "y": 180, "uvlock": true },
+    "facing=west": { "model": "stewblocks:sheet_metal_old", "x": 90, "y": 270, "uvlock": true },
+    "facing=up": { "model": "stewblocks:sheet_metal_old", "uvlock": true },
+    "facing=down": { "model": "stewblocks:sheet_metal_old", "x": 180, "uvlock": true }
+  }
+}

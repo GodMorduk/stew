@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "top": "stewblocks:blocks/plasteel_basic",
+        "side": "stewblocks:blocks/plasteel_panel_ocher_barred",
+        "bottom": "stewblocks:blocks/plasteel_basic"
+    }
+}

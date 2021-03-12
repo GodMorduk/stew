@@ -1,5 +1,12 @@
 {
-    "variants": {
-      "normal": {"model": "stewblocks:gold_coins"}
-    }
+  "variants": {
+      "layers=1":  { "model": "stewblocks:gold_coins_height2" },
+      "layers=2":  { "model": "stewblocks:gold_coins_height4" },
+      "layers=3":  { "model": "stewblocks:gold_coins_height6" },
+      "layers=4":  { "model": "stewblocks:gold_coins_height8" },
+      "layers=5":  { "model": "stewblocks:gold_coins_height10" },
+      "layers=6":  { "model": "stewblocks:gold_coins_height12" },
+      "layers=7":  { "model": "stewblocks:gold_coins_height14" },
+      "layers=8":  { "model": "stewblocks:gold_coins" }
   }
+}

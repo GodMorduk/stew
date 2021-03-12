@@ -1,0 +1,11 @@
+
+{
+  "variants": {
+    "facing=north": { "model": "stewblocks:plasteel_panel_white_pillar", "x": 90, "y": 0},
+    "facing=east": { "model": "stewblocks:plasteel_panel_white_pillar", "x": 90, "y": 90},
+    "facing=south": { "model": "stewblocks:plasteel_panel_white_pillar", "x": 90, "y": 180},
+    "facing=west": { "model": "stewblocks:plasteel_panel_white_pillar", "x": 90, "y": 270},
+    "facing=up": { "model": "stewblocks:plasteel_panel_white_pillar" },
+    "facing=down": { "model": "stewblocks:plasteel_panel_white_pillar", "x": 180 }
+  }
+}
