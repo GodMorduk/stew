@@ -1,0 +1,7 @@
+{
+  "parent": "stewblocks:block/curtain",
+  "textures": {
+    "all": "stewblocks:blocks/curtain_black",
+    "particle": "stewblocks:blocks/curtain_black"
+  }
+}

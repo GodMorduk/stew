@@ -1,0 +1,284 @@
+{
+    "blocks":[
+ {
+          "type": "block:orientable:directional",
+          "entries":[
+      {
+         "id": "curtain_black",
+         "creativeTab": "stew_blocks_decor",
+         "material": "wood",
+         "itemModel": "stewblocks:curtain_black",
+         "hardness": 1,
+         "renderLayer": "mippedCutout",
+         "faceBySide": true,
+         "isPassable": true,
+         "isFullCube": false,
+         "isOpaqueCube": false,
+         "opacity": 0,
+         "bounds": {
+            "0": { "from": [0, 0.9167, 0], "to": [1, 1, 1] },
+            "1": { "from": [0, 0, 0], "to": [1, 0.08330000000000004, 1] },
+            "2": { "from": [0, 0, 0.9167], "to": [1, 1, 1] },
+            "3": { "from": [0, 0, 0], "to": [1, 1, 0.08330000000000004] },
+            "4": { "from": [0.9167, 0, 0], "to": [1, 1, 1] },
+            "5": { "from": [0, 0, 0], "to": [0.08330000000000004, 1, 1] }
+         },
+         "selectionBounds": {
+            "0": { "from": [0, 0.9167, 0], "to": [1, 1, 1] },
+            "1": { "from": [0, 0, 0], "to": [1, 0.08330000000000004, 1] },
+            "2": { "from": [0, 0, 0.9167], "to": [1, 1, 1] },
+            "3": { "from": [0, 0, 0], "to": [1, 1, 0.08330000000000004] },
+            "4": { "from": [0.9167, 0, 0], "to": [1, 1, 1] },
+            "5": { "from": [0, 0, 0], "to": [0.08330000000000004, 1, 1] }
+         },
+         "collisionBounds": null  
+ }
+]
+},
+{
+          "type": "block:orientable:directional",
+          "entries":[
+      {
+         "id": "curtain_blue",
+         "creativeTab": "stew_blocks_decor",
+         "material": "wood",
+         "itemModel": "stewblocks:curtain_blue",
+         "hardness": 1,
+         "renderLayer": "mippedCutout",
+         "faceBySide": true,
+         "isPassable": true,
+         "isFullCube": false,
+         "isOpaqueCube": false,
+         "opacity": 0,
+         "bounds": {
+            "0": { "from": [0, 0.9167, 0], "to": [1, 1, 1] },
+            "1": { "from": [0, 0, 0], "to": [1, 0.08330000000000004, 1] },
+            "2": { "from": [0, 0, 0.9167], "to": [1, 1, 1] },
+            "3": { "from": [0, 0, 0], "to": [1, 1, 0.08330000000000004] },
+            "4": { "from": [0.9167, 0, 0], "to": [1, 1, 1] },
+            "5": { "from": [0, 0, 0], "to": [0.08330000000000004, 1, 1] }
+         },
+         "selectionBounds": {
+            "0": { "from": [0, 0.9167, 0], "to": [1, 1, 1] },
+            "1": { "from": [0, 0, 0], "to": [1, 0.08330000000000004, 1] },
+            "2": { "from": [0, 0, 0.9167], "to": [1, 1, 1] },
+            "3": { "from": [0, 0, 0], "to": [1, 1, 0.08330000000000004] },
+            "4": { "from": [0.9167, 0, 0], "to": [1, 1, 1] },
+            "5": { "from": [0, 0, 0], "to": [0.08330000000000004, 1, 1] }
+         },
+         "collisionBounds": null  
+ }
+]
+},
+{
+          "type": "block:orientable:directional",
+          "entries":[
+      {
+         "id": "curtain_brown",
+         "creativeTab": "stew_blocks_decor",
+         "material": "wood",
+         "itemModel": "stewblocks:curtain_brown",
+         "hardness": 1,
+         "renderLayer": "mippedCutout",
+         "faceBySide": true,
+         "isPassable": true,
+         "isFullCube": false,
+         "isOpaqueCube": false,
+         "opacity": 0,
+         "bounds": {
+            "0": { "from": [0, 0.9167, 0], "to": [1, 1, 1] },
+            "1": { "from": [0, 0, 0], "to": [1, 0.08330000000000004, 1] },
+            "2": { "from": [0, 0, 0.9167], "to": [1, 1, 1] },
+            "3": { "from": [0, 0, 0], "to": [1, 1, 0.08330000000000004] },
+            "4": { "from": [0.9167, 0, 0], "to": [1, 1, 1] },
+            "5": { "from": [0, 0, 0], "to": [0.08330000000000004, 1, 1] }
+         },
+         "selectionBounds": {
+            "0": { "from": [0, 0.9167, 0], "to": [1, 1, 1] },
+            "1": { "from": [0, 0, 0], "to": [1, 0.08330000000000004, 1] },
+            "2": { "from": [0, 0, 0.9167], "to": [1, 1, 1] },
+            "3": { "from": [0, 0, 0], "to": [1, 1, 0.08330000000000004] },
+            "4": { "from": [0.9167, 0, 0], "to": [1, 1, 1] },
+            "5": { "from": [0, 0, 0], "to": [0.08330000000000004, 1, 1] }
+         },
+         "collisionBounds": null  
+ }
+]
+},
+{
+          "type": "block:orientable:directional",
+          "entries":[
+      {
+         "id": "curtain_green",
+         "creativeTab": "stew_blocks_decor",
+         "material": "wood",
+         "itemModel": "stewblocks:curtain_green",
+         "hardness": 1,
+         "renderLayer": "mippedCutout",
+         "faceBySide": true,
+         "isPassable": true,
+         "isFullCube": false,
+         "isOpaqueCube": false,
+         "opacity": 0,
+         "bounds": {
+            "0": { "from": [0, 0.9167, 0], "to": [1, 1, 1] },
+            "1": { "from": [0, 0, 0], "to": [1, 0.08330000000000004, 1] },
+            "2": { "from": [0, 0, 0.9167], "to": [1, 1, 1] },
+            "3": { "from": [0, 0, 0], "to": [1, 1, 0.08330000000000004] },
+            "4": { "from": [0.9167, 0, 0], "to": [1, 1, 1] },
+            "5": { "from": [0, 0, 0], "to": [0.08330000000000004, 1, 1] }
+         },
+         "selectionBounds": {
+            "0": { "from": [0, 0.9167, 0], "to": [1, 1, 1] },
+            "1": { "from": [0, 0, 0], "to": [1, 0.08330000000000004, 1] },
+            "2": { "from": [0, 0, 0.9167], "to": [1, 1, 1] },
+            "3": { "from": [0, 0, 0], "to": [1, 1, 0.08330000000000004] },
+            "4": { "from": [0.9167, 0, 0], "to": [1, 1, 1] },
+            "5": { "from": [0, 0, 0], "to": [0.08330000000000004, 1, 1] }
+         },
+         "collisionBounds": null  
+ }
+]
+},
+{
+          "type": "block:orientable:directional",
+          "entries":[
+      {
+         "id": "curtain_magenta",
+         "creativeTab": "stew_blocks_decor",
+         "material": "wood",
+         "itemModel": "stewblocks:curtain_magenta",
+         "hardness": 1,
+         "renderLayer": "mippedCutout",
+         "faceBySide": true,
+         "isPassable": true,
+         "isFullCube": false,
+         "isOpaqueCube": false,
+         "opacity": 0,
+         "bounds": {
+            "0": { "from": [0, 0.9167, 0], "to": [1, 1, 1] },
+            "1": { "from": [0, 0, 0], "to": [1, 0.08330000000000004, 1] },
+            "2": { "from": [0, 0, 0.9167], "to": [1, 1, 1] },
+            "3": { "from": [0, 0, 0], "to": [1, 1, 0.08330000000000004] },
+            "4": { "from": [0.9167, 0, 0], "to": [1, 1, 1] },
+            "5": { "from": [0, 0, 0], "to": [0.08330000000000004, 1, 1] }
+         },
+         "selectionBounds": {
+            "0": { "from": [0, 0.9167, 0], "to": [1, 1, 1] },
+            "1": { "from": [0, 0, 0], "to": [1, 0.08330000000000004, 1] },
+            "2": { "from": [0, 0, 0.9167], "to": [1, 1, 1] },
+            "3": { "from": [0, 0, 0], "to": [1, 1, 0.08330000000000004] },
+            "4": { "from": [0.9167, 0, 0], "to": [1, 1, 1] },
+            "5": { "from": [0, 0, 0], "to": [0.08330000000000004, 1, 1] }
+         },
+         "collisionBounds": null  
+ }
+]
+},
+{
+          "type": "block:orientable:directional",
+          "entries":[
+      {
+         "id": "curtain_red",
+         "creativeTab": "stew_blocks_decor",
+         "material": "wood",
+         "itemModel": "stewblocks:curtain_red",
+         "hardness": 1,
+         "renderLayer": "mippedCutout",
+         "faceBySide": true,
+         "isPassable": true,
+         "isFullCube": false,
+         "isOpaqueCube": false,
+         "opacity": 0,
+         "bounds": {
+            "0": { "from": [0, 0.9167, 0], "to": [1, 1, 1] },
+            "1": { "from": [0, 0, 0], "to": [1, 0.08330000000000004, 1] },
+            "2": { "from": [0, 0, 0.9167], "to": [1, 1, 1] },
+            "3": { "from": [0, 0, 0], "to": [1, 1, 0.08330000000000004] },
+            "4": { "from": [0.9167, 0, 0], "to": [1, 1, 1] },
+            "5": { "from": [0, 0, 0], "to": [0.08330000000000004, 1, 1] }
+         },
+         "selectionBounds": {
+            "0": { "from": [0, 0.9167, 0], "to": [1, 1, 1] },
+            "1": { "from": [0, 0, 0], "to": [1, 0.08330000000000004, 1] },
+            "2": { "from": [0, 0, 0.9167], "to": [1, 1, 1] },
+            "3": { "from": [0, 0, 0], "to": [1, 1, 0.08330000000000004] },
+            "4": { "from": [0.9167, 0, 0], "to": [1, 1, 1] },
+            "5": { "from": [0, 0, 0], "to": [0.08330000000000004, 1, 1] }
+         },
+         "collisionBounds": null  
+ }
+]
+},
+{
+          "type": "block:orientable:directional",
+          "entries":[
+      {
+         "id": "curtain_white",
+         "creativeTab": "stew_blocks_decor",
+         "material": "wood",
+         "itemModel": "stewblocks:curtain_white",
+         "hardness": 1,
+         "renderLayer": "mippedCutout",
+         "faceBySide": true,
+         "isPassable": true,
+         "isFullCube": false,
+         "isOpaqueCube": false,
+         "opacity": 0,
+         "bounds": {
+            "0": { "from": [0, 0.9167, 0], "to": [1, 1, 1] },
+            "1": { "from": [0, 0, 0], "to": [1, 0.08330000000000004, 1] },
+            "2": { "from": [0, 0, 0.9167], "to": [1, 1, 1] },
+            "3": { "from": [0, 0, 0], "to": [1, 1, 0.08330000000000004] },
+            "4": { "from": [0.9167, 0, 0], "to": [1, 1, 1] },
+            "5": { "from": [0, 0, 0], "to": [0.08330000000000004, 1, 1] }
+         },
+         "selectionBounds": {
+            "0": { "from": [0, 0.9167, 0], "to": [1, 1, 1] },
+            "1": { "from": [0, 0, 0], "to": [1, 0.08330000000000004, 1] },
+            "2": { "from": [0, 0, 0.9167], "to": [1, 1, 1] },
+            "3": { "from": [0, 0, 0], "to": [1, 1, 0.08330000000000004] },
+            "4": { "from": [0.9167, 0, 0], "to": [1, 1, 1] },
+            "5": { "from": [0, 0, 0], "to": [0.08330000000000004, 1, 1] }
+         },
+         "collisionBounds": null  
+ }
+]
+},
+{
+          "type": "block:orientable:directional",
+          "entries":[
+      {
+         "id": "curtain_worn_brown",
+         "creativeTab": "stew_blocks_decor",
+         "material": "wood",
+         "itemModel": "stewblocks:curtain_worn_brown",
+         "hardness": 1,
+         "renderLayer": "mippedCutout",
+         "faceBySide": true,
+         "isPassable": true,
+         "isFullCube": false,
+         "isOpaqueCube": false,
+         "opacity": 0,
+         "bounds": {
+            "0": { "from": [0, 0.9167, 0], "to": [1, 1, 1] },
+            "1": { "from": [0, 0, 0], "to": [1, 0.08330000000000004, 1] },
+            "2": { "from": [0, 0, 0.9167], "to": [1, 1, 1] },
+            "3": { "from": [0, 0, 0], "to": [1, 1, 0.08330000000000004] },
+            "4": { "from": [0.9167, 0, 0], "to": [1, 1, 1] },
+            "5": { "from": [0, 0, 0], "to": [0.08330000000000004, 1, 1] }
+         },
+         "selectionBounds": {
+            "0": { "from": [0, 0.9167, 0], "to": [1, 1, 1] },
+            "1": { "from": [0, 0, 0], "to": [1, 0.08330000000000004, 1] },
+            "2": { "from": [0, 0, 0.9167], "to": [1, 1, 1] },
+            "3": { "from": [0, 0, 0], "to": [1, 1, 0.08330000000000004] },
+            "4": { "from": [0.9167, 0, 0], "to": [1, 1, 1] },
+            "5": { "from": [0, 0, 0], "to": [0.08330000000000004, 1, 1] }
+         },
+         "collisionBounds": null  
+         }      
+      ]
+      }
+      ]
+   }

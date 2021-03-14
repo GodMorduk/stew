@@ -1,0 +1,7 @@
+{
+  "parent": "stewblocks:block/curtain",
+  "textures": {
+    "all": "stewblocks:blocks/curtain_red",
+    "particle": "stewblocks:blocks/curtain_red"
+  }
+}

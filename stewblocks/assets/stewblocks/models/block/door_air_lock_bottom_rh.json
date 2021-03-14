@@ -1,5 +1,5 @@
 {
-    "parent": "stewblocks:block/stew_door_sliding_bottom",
+    "parent": "block/door_bottom_rh",
     "textures": {
         "bottom": "stewblocks:blocks/door_air_lock_lower",
         "top": "stewblocks:blocks/door_air_lock_upper"

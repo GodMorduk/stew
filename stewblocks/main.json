@@ -85,6 +85,9 @@
       "file": "brick_plastered_window.json"
     },
     { 
+      "file": "curtain.json"
+    },
+    { 
       "file": "_containers.json"
     }
   ]
