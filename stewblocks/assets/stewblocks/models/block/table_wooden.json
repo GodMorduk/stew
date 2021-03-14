@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "stewblocks:blocks/table_wooden_top",
+        "top": "stewblocks:blocks/table_wooden_bottom",
+        "side": "stewblocks:blocks/table_wooden_side"
+    }
+}

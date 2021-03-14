@@ -5,7 +5,7 @@
             "entries": [
               {
                 "id": "door_wire",
-                "creativeTab": "stew_blocks_decor",
+                "creativeTab": "stew_blocks_furniture",
                 "itemModel": "stewblocks:door_wire",
                 "opensWithRedstone": false,
                 "opensWithHands":  true
@@ -17,7 +17,7 @@
           "entries": [
             {
               "id": "door_air_lock",
-              "creativeTab": "stew_blocks_decor",
+              "creativeTab": "stew_blocks_furniture",
               "itemModel": "stewblocks:door_air_lock",
               "opensWithHands": true
             }
