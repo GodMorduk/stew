@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "stewblocks:blocks/door_air_lock_hazard_upper"
+    }
+    }

@@ -1,0 +1,10 @@
+{
+    "variants": {
+      "facing=north": { "model": "stewblocks:backrest_wood_rounded", "x": 90, "y": 0, "uvlock": true},
+      "facing=east": { "model": "stewblocks:backrest_wood_rounded", "x": 90, "y": 90, "uvlock": true },
+      "facing=south": { "model": "stewblocks:backrest_wood_rounded", "x": 90, "y": 180, "uvlock": true },
+      "facing=west": { "model": "stewblocks:backrest_wood_rounded", "x": 90, "y": 270, "uvlock": true },
+      "facing=up": { "model": "stewblocks:backrest_wood_rounded", "uvlock": true },
+      "facing=down": { "model": "stewblocks:backrest_wood_rounded", "x": 180, "uvlock": true }
+    }
+  }

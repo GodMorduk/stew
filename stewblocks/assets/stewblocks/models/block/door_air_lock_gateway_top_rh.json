@@ -1,0 +1,7 @@
+{
+    "parent": "block/door_top_rh",
+    "textures": {
+        "bottom": "stewblocks:blocks/door_air_lock_gateway_lower",
+        "top": "stewblocks:blocks/door_air_lock_gateway_upper"
+    }
+}

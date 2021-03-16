@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "facing=north": { "model": "stewblocks:brick_plaster_base", "x": 90, "y": 0},
+    "facing=east": { "model": "stewblocks:brick_plaster_base", "x": 90, "y": 90},
+    "facing=south": { "model": "stewblocks:brick_plaster_base", "x": 90, "y": 180},
+    "facing=west": { "model": "stewblocks:brick_plaster_base", "x": 90, "y": 270},
+    "facing=up": { "model": "stewblocks:brick_plaster_masonry" },
+    "facing=down": { "model": "stewblocks:brick_plaster_masonry", "x": 180 }
+  }
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "block/door_top_rh",
+    "textures": {
+        "bottom": "stewblocks:blocks/door_modern_blue_lower",
+        "top": "stewblocks:blocks/door_modern_blue_upper"
+    }
+}

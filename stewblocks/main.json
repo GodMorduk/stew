@@ -88,6 +88,9 @@
       "file": "curtain.json"
     },
     { 
+      "file": "tiles.json"
+    },
+    { 
       "file": "_containers.json"
     }
   ]

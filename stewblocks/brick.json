@@ -158,7 +158,89 @@
                      "material": "rock",
                      "creativeTab": "stew_blocks_stone"
                   }
+				  
+               ]
+            },
+            {
+               "type": "block:simple",
+               "entries":[
+                  {
+                     "id": "brick_pink",
+                     "material": "rock",
+                     "creativeTab": "stew_blocks_stone"
+                  }
+               ]
+            },
+            {
+               "type": "block:simple",
+               "entries":[
+                  {
+                     "id": "brick_scarlet",
+                     "material": "rock",
+                     "creativeTab": "stew_blocks_stone"
+                  }
+               ]
+            },
+            {
+               "type": "block:simple",
+               "entries":[
+                  {
+                     "id": "brick_scarlet_mossy",
+                     "material": "rock",
+                     "creativeTab": "stew_blocks_stone"
+                  }
+               ]
+            },
+            {
+               "type": "block:simple",
+               "entries":[
+                  {
+                     "id": "brick_shabby_crimson",
+                     "material": "rock",
+                     "creativeTab": "stew_blocks_stone"
+                  }
+               ]
+            },
+            {
+               "type": "block:simple",
+               "entries":[
+                  {
+                     "id": "brick_shabby_ocher",
+                     "material": "rock",
+                     "creativeTab": "stew_blocks_stone"
+                  }
+               ]
+            },
+            {
+               "type": "block:simple",
+               "entries":[
+                  {
+                     "id": "brick_plaster_base",
+                     "material": "rock",
+                     "creativeTab": "stew_blocks_stone"
+                  }
+               ]
+            },
+            {
+               "type": "block:simple",
+               "entries":[
+                  {
+                     "id": "brick_plaster_masonry",
+                     "material": "rock",
+                     "creativeTab": "stew_blocks_stone"
+                  }
+               ]
+            },
+            {
+               "type": "block:simple",
+               "entries":[
+                  {
+                     "id": "brick_plaster_trim",
+                     "material": "rock",
+                     "creativeTab": "stew_blocks_stone"
+                  }
                ]
             }
          ]
       }
+   

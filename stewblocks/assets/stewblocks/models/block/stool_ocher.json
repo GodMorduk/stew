@@ -1,0 +1,8 @@
+{
+    "parent": "block/half_slab",
+    "textures": {
+        "bottom": "stewblocks:blocks/table_wooden_top",
+        "top": "stewblocks:blocks/stool_ocher",
+        "side": "stewblocks:blocks/stool_ocher_side"
+    }
+}

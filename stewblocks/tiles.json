@@ -1,0 +1,34 @@
+{
+   "blocks":[
+      {
+         "type": "block:simple",
+         "entries":[
+            {
+               "id": "tiles_clay_mixed",
+               "material": "rock",
+               "creativeTab": "stew_blocks_stone"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries":[
+            {
+               "id": "tiles_clay_dark",
+               "material": "rock",
+               "creativeTab": "stew_blocks_stone"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries":[
+            {
+                "id": "tiles_clay_light",
+                "material": "rock",
+                "creativeTab": "stew_blocks_stone"
+            }
+         ]
+      }
+ ]
+ }

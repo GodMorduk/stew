@@ -22,6 +22,303 @@
               "opensWithHands": true
             }
           ]
+        },
+        {
+          "type": "block:slidingDoor",
+          "entries": [
+            {
+              "id": "door_blast_red",
+              "creativeTab": "stew_blocks_furniture",
+              "itemModel": "stewblocks:door_blast_red",
+              "opensWithHands": true
+            }
+          ]
+        },
+        {
+          "type": "block:slidingDoor",
+          "entries": [
+            {
+              "id": "door_iron_future",
+              "creativeTab": "stew_blocks_furniture",
+              "itemModel": "stewblocks:door_iron_future",
+              "opensWithHands": true
+            }
+          ]
+        },
+        {
+          "type": "block:slidingDoor",
+          "entries": [
+            {
+              "id": "door_iron_exitsign",
+              "creativeTab": "stew_blocks_furniture",
+              "itemModel": "stewblocks:door_iron_exitsign",
+              "opensWithHands": true
+            }
+          ]
+        },
+        {
+            "type": "block:door",
+            "entries": [
+              {
+                "id": "door_air_lock_gateway",
+                "creativeTab": "stew_blocks_furniture",
+                "itemModel": "stewblocks:door_air_lock_gateway",
+                "opensWithRedstone": false,
+                "opensWithHands":  true
+            }      
+        ]
+        },
+        {
+            "type": "block:door",
+            "entries": [
+              {
+                "id": "door_air_lock_hazard",
+                "creativeTab": "stew_blocks_furniture",
+                "itemModel": "stewblocks:door_air_lock_hazard",
+                "opensWithRedstone": false,
+                "opensWithHands":  true
+            }      
+        ]
+        },
+        {
+            "type": "block:door",
+            "entries": [
+              {
+                "id": "door_broken",
+                "creativeTab": "stew_blocks_furniture",
+                "itemModel": "stewblocks:door_broken",
+                "opensWithRedstone": false,
+                "opensWithHands":  true
+            }      
+        ]
+        },
+        {
+            "type": "block:door",
+            "entries": [
+              {
+                "id": "door_face",
+                "creativeTab": "stew_blocks_furniture",
+                "itemModel": "stewblocks:door_face",
+                "opensWithRedstone": false,
+                "opensWithHands":  true
+            }      
+        ]
+        },
+        {
+            "type": "block:door",
+            "entries": [
+              {
+                "id": "door_fancy_square",
+                "creativeTab": "stew_blocks_furniture",
+                "itemModel": "stewblocks:door_fancy_square",
+                "opensWithRedstone": false,
+                "opensWithHands":  true
+            }      
+        ]
+        },
+        {
+            "type": "block:door",
+            "entries": [
+              {
+                "id": "door_generic_wooden",
+                "creativeTab": "stew_blocks_furniture",
+                "itemModel": "stewblocks:door_generic_wooden",
+                "opensWithRedstone": false,
+                "opensWithHands":  true
+            }      
+        ]
+        },
+        {
+            "type": "block:door",
+            "entries": [
+              {
+                "id": "door_iron_cage",
+                "creativeTab": "stew_blocks_furniture",
+                "itemModel": "stewblocks:door_iron_cage",
+                "opensWithRedstone": false,
+                "opensWithHands":  true
+            }      
+        ]
+        },
+        {
+            "type": "block:door",
+            "entries": [
+              {
+                "id": "door_iron_dark",
+                "creativeTab": "stew_blocks_furniture",
+                "itemModel": "stewblocks:door_iron_dark",
+                "opensWithRedstone": false,
+                "opensWithHands":  true
+            }      
+        ]
+        },
+        {
+            "type": "block:door",
+            "entries": [
+              {
+                "id": "door_iron",
+                "creativeTab": "stew_blocks_furniture",
+                "itemModel": "stewblocks:door_iron",
+                "opensWithRedstone": false,
+                "opensWithHands":  true
+            }      
+        ]
+        },
+        {
+            "type": "block:door",
+            "entries": [
+              {
+                "id": "door_iron_rail",
+                "creativeTab": "stew_blocks_furniture",
+                "itemModel": "stewblocks:door_iron_rail",
+                "opensWithRedstone": false,
+                "opensWithHands":  true
+            }      
+        ]
+        },
+        {
+            "type": "block:door",
+            "entries": [
+              {
+                "id": "door_iron_steelplate",
+                "creativeTab": "stew_blocks_furniture",
+                "itemModel": "stewblocks:door_iron_steelplate",
+                "opensWithRedstone": false,
+                "opensWithHands":  true
+            }      
+        ]
+        },
+        {
+            "type": "block:door",
+            "entries": [
+              {
+                "id": "door_junk",
+                "creativeTab": "stew_blocks_furniture",
+                "itemModel": "stewblocks:door_junk",
+                "opensWithRedstone": false,
+                "opensWithHands":  true
+            }      
+        ]
+        },
+        {
+            "type": "block:door",
+            "entries": [
+              {
+                "id": "door_junk_broken",
+                "creativeTab": "stew_blocks_furniture",
+                "itemModel": "stewblocks:door_junk_broken",
+                "opensWithRedstone": false,
+                "opensWithHands":  true
+            }      
+        ]
+        },
+        {
+            "type": "block:door",
+            "entries": [
+              {
+                "id": "door_junk_old",
+                "creativeTab": "stew_blocks_furniture",
+                "itemModel": "stewblocks:door_junk_old",
+                "opensWithRedstone": false,
+                "opensWithHands":  true
+            }      
+        ]
+        },
+        {
+            "type": "block:door",
+            "entries": [
+              {
+                "id": "door_modern_blue",
+                "creativeTab": "stew_blocks_furniture",
+                "itemModel": "stewblocks:door_modern_blue",
+                "opensWithRedstone": false,
+                "opensWithHands":  true
+            }      
+        ]
+        },
+        {
+            "type": "block:door",
+            "entries": [
+              {
+                "id": "door_modern_gray",
+                "creativeTab": "stew_blocks_furniture",
+                "itemModel": "stewblocks:door_modern_gray",
+                "opensWithRedstone": false,
+                "opensWithHands":  true
+            }      
+        ]
+        },
+        {
+            "type": "block:door",
+            "entries": [
+              {
+                "id": "door_modern_green",
+                "creativeTab": "stew_blocks_furniture",
+                "itemModel": "stewblocks:door_modern_green",
+                "opensWithRedstone": false,
+                "opensWithHands":  true
+            }      
+        ]
+        },
+        {
+            "type": "block:door",
+            "entries": [
+              {
+                "id": "door_modern_red",
+                "creativeTab": "stew_blocks_furniture",
+                "itemModel": "stewblocks:door_modern_red",
+                "opensWithRedstone": false,
+                "opensWithHands":  true
+            }      
+        ]
+        },
+        {
+            "type": "block:door",
+            "entries": [
+              {
+                "id": "door_reinforced",
+                "creativeTab": "stew_blocks_furniture",
+                "itemModel": "stewblocks:door_reinforced",
+                "opensWithRedstone": false,
+                "opensWithHands":  true
+            }      
+        ]
+        },
+        {
+            "type": "block:door",
+            "entries": [
+              {
+                "id": "door_shutters_shut",
+                "creativeTab": "stew_blocks_furniture",
+                "itemModel": "stewblocks:door_shutters_shut",
+                "opensWithRedstone": false,
+                "opensWithHands":  true
+            }      
+        ]
+        },
+        {
+            "type": "block:door",
+            "entries": [
+              {
+                "id": "door_shutters_shut_dark",
+                "creativeTab": "stew_blocks_furniture",
+                "itemModel": "stewblocks:door_shutters_shut_dark",
+                "opensWithRedstone": false,
+                "opensWithHands":  true
+            }      
+        ]
+        },
+        {
+            "type": "block:door",
+            "entries": [
+              {
+                "id": "door_shutters",
+                "creativeTab": "stew_blocks_furniture",
+                "itemModel": "stewblocks:door_shutters",
+                "opensWithRedstone": false,
+                "opensWithHands":  true
+            }      
+        ]
         }
         ]
      }

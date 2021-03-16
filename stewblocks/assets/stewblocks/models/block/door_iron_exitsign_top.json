@@ -1,0 +1,7 @@
+{
+    "parent": "block/door_top",
+    "textures": {
+        "bottom": "stewblocks:blocks/door_iron_exitsign_lower",
+        "top": "stewblocks:blocks/door_iron_exitsign_upper"
+    }
+}

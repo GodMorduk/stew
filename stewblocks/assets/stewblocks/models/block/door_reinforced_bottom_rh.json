@@ -1,0 +1,7 @@
+{
+    "parent": "block/door_bottom_rh",
+    "textures": {
+        "bottom": "stewblocks:blocks/door_reinforced_lower",
+        "top": "stewblocks:blocks/door_reinforced_upper"
+    }
+}

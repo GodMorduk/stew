@@ -1,0 +1,7 @@
+{
+    "parent": "block/door_bottom",
+    "textures": {
+        "bottom": "stewblocks:blocks/door_junk_old_bottom",
+        "top": "stewblocks:blocks/door_junk_old_top"
+    }
+}
