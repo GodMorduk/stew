@@ -1,8 +1,51 @@
 {
    "item":[
       {
-         "type":"item:simple",
+         "type":"item:food",
          "entries":[
+            {
+               "id":"laudanum",
+               "creativeTab":"stewmeds",
+               "model":"stewprops:laudanum",
+               "information":[
+                  "Красновато-коричневая и чрезвычайно горькая настойка. Является сильным обезбаливающим и при злобоупотреблении вызывает привыкание.",
+				  "Часто используется в качестве дешевой альтернативы алкоголю теми, кто хочет забыться в себе.",
+                  "§lЭффекты:",
+                  "Накладывает слабость II и замедление на 10 минут.",
+                  "Восстанавливает 25 единиц ментального здоровья."
+               ],
+               "potionEffects":[
+                  {
+                     "id":"minecraft:weakness",
+                     "duration":60000,
+                     "amplifier":2
+                  },
+                  {
+                     "id":"minecraft:slowness",
+                     "duration":60000
+                  },
+                  {
+                     "id":"misca:damageStamina",
+                     "duration":1,
+                     "amplifier":4
+                  }
+               ],
+               "potionEffectProbability":1.0,
+               "maxStack":16,
+               "healAmount":0,
+               "saturation":0,
+               "useAction":"drink",
+               "alwaysEdible":true,
+               "isWolfFood":false
+            },
+			{
+               "id":"rubbing_alcohol",
+               "creativeTab":"stewmeds",
+               "model":"stewprops:rubbing_alcohol",
+               "information":[
+                  "Медицинский спирт сделанный в домашних условиях."
+               ]
+            },
             {
                "id":"fingerbox",
                "creativeTab":"stewmeds",

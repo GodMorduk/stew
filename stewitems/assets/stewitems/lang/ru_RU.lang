@@ -2,6 +2,9 @@ itemGroup.stewfood=Stew: еда
 itemGroup.stewextra=Stew: разное
 itemGroup.stewmeds=Stew: медицина
 
+item.stewitems.laudanum.name=Лауданум
+item.stewitems.rubbing_alcohol.name=Медицинский спирт
+
 item.stewitems.food_bottle_water.name=Бутилированная вода
 item.stewitems.food_canned_berries.name=Консервированные ягоды
 item.stewitems.food_canned_bugs.name=Консервированные жуки

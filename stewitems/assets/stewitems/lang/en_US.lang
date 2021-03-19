@@ -2,6 +2,9 @@ itemGroup.stewfood=Stew: food
 itemGroup.stewextra=Stew: extra
 itemGroup.stewmeds=Stew: medicine
 
+item.stewitems.laudanum.name=Laudanum
+item.stewitems.rubbing_alcohol.name=Rubbing Alcohol
+
 item.stewitems.food_bottle_water.name=Bottled Water
 item.stewitems.food_canned_berries.name=Canned Berries
 item.stewitems.food_canned_bugs.name=Canned Insects
