@@ -1,0 +1,8 @@
+{
+    "parent": "stewblocks:block/thin_slab",
+    "textures": {  
+      "front": "minecraft:blocks/cobblestone",
+      "back": "minecraft:blocks/cobblestone",     
+      "side": "minecraft:blocks/cobblestone"
+    }
+}

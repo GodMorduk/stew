@@ -1,0 +1,10 @@
+{
+    "variants": {
+      "facing=north": { "model": "stewblocks:railing_glass", "x": 90, "y": 0, "uvlock": true},
+      "facing=east": { "model": "stewblocks:railing_glass", "x": 90, "y": 90, "uvlock": true },
+      "facing=south": { "model": "stewblocks:railing_glass", "x": 90, "y": 180, "uvlock": true },
+      "facing=west": { "model": "stewblocks:railing_glass", "x": 90, "y": 270, "uvlock": true },
+      "facing=up": { "model": "stewblocks:railing_glass", "uvlock": true },
+      "facing=down": { "model": "stewblocks:railing_glass", "x": 180, "uvlock": true }
+    }
+}

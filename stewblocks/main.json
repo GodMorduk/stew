@@ -91,6 +91,9 @@
       "file": "tiles.json"
     },
     { 
+      "file": "light.json"
+    },
+    { 
       "file": "_containers.json"
     }
   ]

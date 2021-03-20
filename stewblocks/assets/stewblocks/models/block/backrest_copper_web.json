@@ -1,8 +1,20 @@
 {
-    "parent": "stewblocks:block/thin_slab",
-    "textures": {  
-      "front": "stewblocks:blocks/backrest_copper_web",
-      "back": "stewblocks:blocks/backrest_copper_web",     
-      "side": "stewblocks:blocks/backrest_copper_web"
-    }
+	"textures": {
+		"all": "stewblocks:blocks/backrest_copper_web",
+		"particle": "stewblocks:blocks/backrest_copper_web"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 15],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#all"},
+				"east": {"uv": [0, 0, 1, 16], "texture": "#all"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#all"},
+				"west": {"uv": [0, 0, 1, 16], "texture": "#all"},
+				"up": {"uv": [0, 0.5, 16, 1.5], "texture": "#all"},
+				"down": {"uv": [0, 15, 16, 16], "texture": "#all"}
+			}
+		}
+	]
 }

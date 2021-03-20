@@ -177,7 +177,7 @@
         ]
         },
         {
-            "type": "block:door",
+            "type": "block:slidingDoor",
             "entries": [
               {
                 "id": "door_iron_steelplate",

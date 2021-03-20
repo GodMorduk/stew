@@ -1,8 +1,20 @@
 {
-    "parent": "stewblocks:block/thin_slab",
-    "textures": {  
-      "front": "stewblocks:blocks/railing_birch",
-      "back": "stewblocks:blocks/railing_birch",     
-      "side": "stewblocks:blocks/railing_birch"
-    }
+	"textures": {
+		"all": "stewblocks:blocks/railing_birch",
+		"particle": "stewblocks:blocks/railing_birch"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 15],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#all"},
+				"east": {"uv": [0, 0, 1, 16], "texture": "#all"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#all"},
+				"west": {"uv": [0, 0, 1, 16], "texture": "#all"},
+				"up": {"uv": [0, 0.5, 16, 1.5], "texture": "#all"},
+				"down": {"uv": [0, 15, 16, 16], "texture": "#all"}
+			}
+		}
+	]
 }

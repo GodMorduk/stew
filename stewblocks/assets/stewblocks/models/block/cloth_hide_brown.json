@@ -2,7 +2,7 @@
     "parent": "stewblocks:block/thin_slab",
     "textures": {  
       "front": "stewblocks:blocks/cloth_hide_brown",
-      "back": "stewblocks:blocks/cloth_hide_brown",     
+      "back": "stewblocks:blocks/cloth_hide_bottom",     
       "side": "stewblocks:blocks/cloth_hide_brown"
     }
   }

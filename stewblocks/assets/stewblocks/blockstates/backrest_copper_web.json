@@ -1,10 +1,10 @@
-{
+ {
     "variants": {
-      "facing=north": { "model": "stewblocks:backrest_copper_web", "x": 90, "y": 0, "uvlock": true},
-      "facing=east": { "model": "stewblocks:backrest_copper_web", "x": 90, "y": 90, "uvlock": true },
-      "facing=south": { "model": "stewblocks:backrest_copper_web", "x": 90, "y": 180, "uvlock": true },
-      "facing=west": { "model": "stewblocks:backrest_copper_web", "x": 90, "y": 270, "uvlock": true },
-      "facing=up": { "model": "stewblocks:backrest_copper_web", "uvlock": true },
-      "facing=down": { "model": "stewblocks:backrest_copper_web", "x": 180, "uvlock": true }
+      "facing=north": { "model": "stewblocks:backrest_copper_web", "x": 0, "y": 0, "uvlock": true},
+      "facing=east": { "model": "stewblocks:backrest_copper_web", "x": 0, "y": 90, "uvlock": true },
+      "facing=south": { "model": "stewblocks:backrest_copper_web", "x": 0, "y": 180, "uvlock": true },
+      "facing=west": { "model": "stewblocks:backrest_copper_web", "x": 0, "y": 270, "uvlock": true },
+      "facing=up": { "model": "stewblocks:backrest_copper_web", "x": 270,"uvlock": true },
+      "facing=down": { "model": "stewblocks:backrest_copper_web", "x": 90, "uvlock": true }
     }
   }
