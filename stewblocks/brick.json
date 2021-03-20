@@ -195,16 +195,6 @@
                "type": "block:simple",
                "entries":[
                   {
-                     "id": "brick_shabby_crimson",
-                     "material": "rock",
-                     "creativeTab": "stew_blocks_stone"
-                  }
-               ]
-            },
-            {
-               "type": "block:simple",
-               "entries":[
-                  {
                      "id": "brick_shabby_ocher",
                      "material": "rock",
                      "creativeTab": "stew_blocks_stone"
@@ -212,7 +202,7 @@
                ]
             },
             {
-               "type": "block:simple",
+               "type": "block:orientable:directional",
                "entries":[
                   {
                      "id": "brick_plaster_base",
@@ -232,7 +222,7 @@
                ]
             },
             {
-               "type": "block:simple",
+               "type": "block:orientable:directional",
                "entries":[
                   {
                      "id": "brick_plaster_trim",

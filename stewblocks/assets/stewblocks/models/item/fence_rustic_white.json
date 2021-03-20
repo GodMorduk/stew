@@ -1,3 +1,7 @@
-{
-    "parent": "stewblocks:block/fence_rustic_white"
-}
+
+  {
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "stewblocks:blocks/fence_rustic_white"
+    }
+  }

@@ -1,3 +1,6 @@
-{
-    "parent": "stewblocks:block/fence_twig"
-}
+  {
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "stewblocks:blocks/fence_twig"
+    }
+  }

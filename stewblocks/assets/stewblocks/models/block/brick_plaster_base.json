@@ -1,6 +1,8 @@
 {
-    "parent": "block/cube_all",
+    "parent": "block/cube_bottom_top",
     "textures": {
-        "all": "stewblocks:blocks/brick_plaster_base"
+        "top": "stewblocks:blocks/brick_plaster_masonry",
+        "side": "stewblocks:blocks/brick_plaster_base",
+        "bottom": "stewblocks:blocks/brick_plaster_masonry"
     }
 }
