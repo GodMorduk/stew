@@ -1,0 +1,10 @@
+{
+    "variants": {
+      "facing=north": { "model": "stewblocks:object_flat_saw", "x": 90, "y": 0, "uvlock": true},
+      "facing=east": { "model": "stewblocks:object_flat_saw", "x": 90, "y": 90, "uvlock": true },
+      "facing=south": { "model": "stewblocks:object_flat_saw", "x": 90, "y": 180, "uvlock": true },
+      "facing=west": { "model": "stewblocks:object_flat_saw", "x": 90, "y": 270, "uvlock": true },
+      "facing=up": { "model": "stewblocks:object_flat_saw", "uvlock": true },
+      "facing=down": { "model": "stewblocks:object_flat_saw", "x": 180, "uvlock": true }
+    }
+}

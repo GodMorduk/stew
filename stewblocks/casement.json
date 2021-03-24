@@ -1,0 +1,16 @@
+{
+    "blocks":[
+        {
+    "type": "block:door",
+    "entries": [
+      {
+        "id": "casement_mica_01",
+        "creativeTab": "stew_blocks_furniture",
+        "itemModel": "stewblocks:casement_mica_01",
+        "opensWithRedstone": false,
+        "opensWithHands":  true
+    }      
+]
+}
+  ]
+}

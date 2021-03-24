@@ -94,6 +94,9 @@
       "file": "light.json"
     },
     { 
+      "file": "casement.json"
+    },
+    { 
       "file": "_containers.json"
     }
   ]

@@ -1,0 +1,6 @@
+{
+    "parent": "stewblocks:block/stew_cross",
+    "textures": {
+        "cross": "stewblocks:blocks/object_windvane"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "block/door_top",
+    "textures": {
+        "bottom": "stewblocks:blocks/casement_mica_01_lower",
+        "top": "stewblocks:blocks/casement_mica_01_upper"
+    }
+}

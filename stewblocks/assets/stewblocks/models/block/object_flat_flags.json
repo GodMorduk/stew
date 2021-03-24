@@ -1,0 +1,8 @@
+{
+    "parent": "stewblocks:block/thin_slab",
+    "textures": {  
+      "front": "stewblocks:blocks/object_flat_flags",
+      "back": "stewblocks:blocks/object_flat_flags",     
+      "side": "stewblocks:blocks/empty"
+    }
+}

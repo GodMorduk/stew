@@ -1,6 +1,6 @@
   {
     "parent": "item/generated",
     "textures": {
-        "layer0": "stewblocks:blocks/door_air_lock_lower"
+        "layer0": "stewblocks:items/door_air_lock"
     }
     }

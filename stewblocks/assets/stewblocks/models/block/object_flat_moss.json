@@ -1,0 +1,8 @@
+{
+    "parent": "stewblocks:block/thin_slab",
+    "textures": {  
+      "front": "stewblocks:blocks/object_flat_moss",
+      "back": "stewblocks:blocks/object_flat_moss",     
+      "side": "stewblocks:blocks/empty"
+    }
+}

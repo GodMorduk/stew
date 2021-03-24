@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "stewblocks:blocks/object_reel_chain_top",
+        "side": "stewblocks:blocks/object_reel_chain"
+    }
+}
