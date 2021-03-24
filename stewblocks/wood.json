@@ -5,7 +5,8 @@
           "entries":[
              {
                 "id": "wood_carved_acacia",
-                "material": "wood",
+            "material": "wood",
+          "soundType" : "wood",
                 "creativeTab": "stew_blocks_wood"
              }
           ]
@@ -15,7 +16,8 @@
         "entries":[
            {
               "id": "wood_carved_darkoak",
-              "material": "wood",
+          "material": "wood",
+          "soundType" : "wood",
               "creativeTab": "stew_blocks_wood"
            }
         ]
@@ -25,7 +27,8 @@
         "entries":[
            {
               "id": "wood_carved_jungle",
-              "material": "wood",
+          "material": "wood",
+          "soundType" : "wood",
               "creativeTab": "stew_blocks_wood"
            }
         ]
@@ -35,7 +38,8 @@
         "entries":[
            {
               "id": "wood_carved_spruce",
-              "material": "wood",
+          "material": "wood",
+          "soundType" : "wood",
               "creativeTab": "stew_blocks_wood"
            }
         ]
@@ -45,7 +49,8 @@
         "entries":[
            {
               "id": "wood_carved_zoak",
-              "material": "wood",
+          "material": "wood",
+          "soundType" : "wood",
               "creativeTab": "stew_blocks_wood"
            }
         ]
@@ -55,7 +60,8 @@
         "entries":[
            {
               "id": "wooden_panel_lily",
-              "material": "wood",
+          "material": "wood",
+          "soundType" : "wood",
               "creativeTab": "stew_blocks_wood"
            }
         ]
@@ -65,7 +71,8 @@
         "entries":[
            {
               "id": "wood_carved_birch",
-              "material": "wood",
+          "material": "wood",
+          "soundType" : "wood",
               "creativeTab": "stew_blocks_wood"
            }
         ]

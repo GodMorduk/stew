@@ -5,10 +5,12 @@
       "entries": [
         {
           "id": "shelf_books_faded",
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_furniture",
           "itemModel": "stewblocks:shelf_books_faded",
           "tileEntity": "stewblocks:shelf",
-          "gui": "stewblocks:shelf"
+          "gui": "stewblocks:shelf",
+          "material": "wood",
+          "soundType" : "wood"
         }
       ]
     },
@@ -88,10 +90,12 @@
       "entries": [
         {
           "id": "shelf_supply",
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_furniture",
           "itemModel": "stewblocks:shelf_supply",
           "tileEntity": "stewblocks:shelf",
-          "gui": "stewblocks:shelf"
+          "gui": "stewblocks:shelf",
+          "material": "wood",
+          "soundType" : "wood"
         }
       ]
     },
@@ -100,10 +104,12 @@
       "entries": [
         {
           "id": "shelf_abandoned",
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_furniture",
           "itemModel": "stewblocks:shelf_abandoned",
           "tileEntity": "stewblocks:shelf",
-          "gui": "stewblocks:shelf"
+          "gui": "stewblocks:shelf",
+          "material": "wood",
+          "soundType" : "wood"
         }
       ]
     },
@@ -112,10 +118,12 @@
       "entries": [
         {
           "id": "shelf_arch_01",
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_furniture",
           "itemModel": "stewblocks:shelf_arch_01",
           "tileEntity": "stewblocks:shelf",
-          "gui": "stewblocks:shelf"
+          "gui": "stewblocks:shelf",
+          "material": "wood",
+          "soundType" : "wood"
         }
       ]
     },
@@ -124,10 +132,12 @@
       "entries": [
         {
           "id": "shelf_arch_02",
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_furniture",
           "itemModel": "stewblocks:shelf_arch_02",
           "tileEntity": "stewblocks:shelf",
-          "gui": "stewblocks:shelf"
+          "gui": "stewblocks:shelf",
+          "material": "wood",
+          "soundType" : "wood"
         }
       ]
     },
@@ -136,10 +146,12 @@
       "entries": [
         {
           "id": "shelf_books",
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_furniture",
           "itemModel": "stewblocks:shelf_books",
           "tileEntity": "stewblocks:shelf",
-          "gui": "stewblocks:shelf"
+          "gui": "stewblocks:shelf",
+          "material": "wood",
+          "soundType" : "wood"
         }
       ]
     },
@@ -148,10 +160,12 @@
       "entries": [
         {
           "id": "shelf_crockery",
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_furniture",
           "itemModel": "stewblocks:shelf_crockery",
           "tileEntity": "stewblocks:shelf",
-          "gui": "stewblocks:shelf"
+          "gui": "stewblocks:shelf",
+          "material": "wood",
+          "soundType" : "wood"
         }
       ]
     },
@@ -160,10 +174,12 @@
       "entries": [
         {
           "id": "shelf_hardware",
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_furniture",
           "itemModel": "stewblocks:shelf_hardware",
           "tileEntity": "stewblocks:shelf",
-          "gui": "stewblocks:shelf"
+          "gui": "stewblocks:shelf",
+          "material": "wood",
+          "soundType" : "wood"
         }
       ]
     },
@@ -172,10 +188,12 @@
       "entries": [
         {
           "id": "shelf_journals",
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_furniture",
           "itemModel": "stewblocks:shelf_journals",
           "tileEntity": "stewblocks:shelf",
-          "gui": "stewblocks:shelf"
+          "gui": "stewblocks:shelf",
+          "material": "wood",
+          "soundType" : "wood"
         }
       ]
     },
@@ -184,10 +202,12 @@
       "entries": [
         {
           "id": "shelf_medicine",
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_furniture",
           "itemModel": "stewblocks:shelf_medicine",
           "tileEntity": "stewblocks:shelf",
-          "gui": "stewblocks:shelf"
+          "gui": "stewblocks:shelf",
+          "material": "wood",
+          "soundType" : "wood"
         }
       ]
     },
@@ -196,10 +216,12 @@
       "entries": [
         {
           "id": "shelf_scrolls_01",
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_furniture",
           "itemModel": "stewblocks:shelf_scrolls_01",
           "tileEntity": "stewblocks:shelf",
-          "gui": "stewblocks:shelf"
+          "gui": "stewblocks:shelf",
+          "material": "wood",
+          "soundType" : "wood"
         }
       ]
     },
@@ -208,10 +230,12 @@
       "entries": [
         {
           "id": "shelf_scrolls_02",
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_furniture",
           "itemModel": "stewblocks:shelf_scrolls_02",
           "tileEntity": "stewblocks:shelf",
-          "gui": "stewblocks:shelf"
+          "gui": "stewblocks:shelf",
+          "material": "wood",
+          "soundType" : "wood"
         }
       ]
     },
@@ -220,10 +244,12 @@
       "entries": [
         {
           "id": "shelf_stuff",
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_furniture",
           "itemModel": "stewblocks:shelf_stuff",
           "tileEntity": "stewblocks:shelf",
-          "gui": "stewblocks:shelf"
+          "gui": "stewblocks:shelf",
+          "material": "wood",
+          "soundType" : "wood"
         }
       ]
     },
@@ -232,10 +258,12 @@
       "entries": [
         {
           "id": "shelf_trophies",
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_furniture",
           "itemModel": "stewblocks:shelf_trophies",
           "tileEntity": "stewblocks:shelf",
-          "gui": "stewblocks:shelf"
+          "gui": "stewblocks:shelf",
+          "material": "wood",
+          "soundType" : "wood"
         }
       ]
     },
@@ -244,10 +272,12 @@
       "entries": [
         {
           "id": "shelf_wardrobe",
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_furniture",
           "itemModel": "stewblocks:shelf_wardrobe",
           "tileEntity": "stewblocks:shelf",
-          "gui": "stewblocks:shelf"
+          "gui": "stewblocks:shelf",
+          "material": "wood",
+          "soundType" : "wood"
         }
       ]
     },
@@ -256,10 +286,12 @@
       "entries": [
         {
           "id": "shelf_wardrobe_poor",
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_furniture",
           "itemModel": "stewblocks:shelf_wardrobe_poor",
           "tileEntity": "stewblocks:shelf",
-          "gui": "stewblocks:shelf"
+          "gui": "stewblocks:shelf",
+          "material": "wood",
+          "soundType" : "wood"
         }
       ]
     },
@@ -268,10 +300,12 @@
       "entries": [
         {
           "id": "shelf_wine_01",
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_furniture",
           "itemModel": "stewblocks:shelf_wine_01",
           "tileEntity": "stewblocks:shelf",
-          "gui": "stewblocks:shelf"
+          "gui": "stewblocks:shelf",
+          "material": "wood",
+          "soundType" : "wood"
         }
       ]
     },
@@ -280,10 +314,12 @@
       "entries": [
         {
           "id": "shelf_wine_02",
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_furniture",
           "itemModel": "stewblocks:shelf_wine_02",
           "tileEntity": "stewblocks:shelf",
-          "gui": "stewblocks:shelf"
+          "gui": "stewblocks:shelf",
+          "material": "wood",
+          "soundType" : "wood"
         }
       ]
     },
@@ -292,10 +328,12 @@
       "entries": [
         {
           "id": "shelf_wine_03",
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_furniture",
           "itemModel": "stewblocks:shelf_wine_03",
           "tileEntity": "stewblocks:shelf",
-          "gui": "stewblocks:shelf"
+          "gui": "stewblocks:shelf",
+          "material": "wood",
+          "soundType" : "wood"
         }
       ]
     },
@@ -304,10 +342,12 @@
       "entries": [
         {
           "id": "locker_file",
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_furniture",
           "itemModel": "stewblocks:locker_file",
           "tileEntity": "stewblocks:shelf",
-          "gui": "stewblocks:shelf"
+          "gui": "stewblocks:shelf",
+          "material": "iron",
+               "soundType" : "metal"
         }
       ]
     },
@@ -316,10 +356,12 @@
       "entries": [
         {
           "id": "locker_iron",
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_furniture",
           "itemModel": "stewblocks:locker_iron",
           "tileEntity": "stewblocks:shelf",
-          "gui": "stewblocks:shelf"
+          "gui": "stewblocks:shelf",
+          "material": "iron",
+               "soundType" : "metal"
         }
       ]
     },
@@ -328,10 +370,12 @@
       "entries": [
         {
           "id": "locker_metal_yellow",
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_furniture",
           "itemModel": "stewblocks:locker_metal_yellow",
           "tileEntity": "stewblocks:shelf",
-          "gui": "stewblocks:shelf"
+          "gui": "stewblocks:shelf",
+          "material": "iron",
+               "soundType" : "metal"
         }
       ]
     },
@@ -340,10 +384,12 @@
       "entries": [
         {
           "id": "locker_wooden_drawer",
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_furniture",
           "itemModel": "stewblocks:locker_wooden_drawer",
           "tileEntity": "stewblocks:shelf",
-          "gui": "stewblocks:shelf"
+          "gui": "stewblocks:shelf",
+          "material": "wood",
+          "soundType" : "wood"
         }
       ]
     },
@@ -352,10 +398,12 @@
       "entries": [
         {
           "id": "locker_wooden_elven",
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_furniture",
           "itemModel": "stewblocks:locker_wooden_elven",
           "tileEntity": "stewblocks:shelf",
-          "gui": "stewblocks:shelf"
+          "gui": "stewblocks:shelf",
+          "material": "wood",
+          "soundType" : "wood"
         }
       ]
     },
@@ -364,10 +412,12 @@
       "entries": [
         {
           "id": "locker_wooden_glass",
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_furniture",
           "itemModel": "stewblocks:locker_wooden_glass",
           "tileEntity": "stewblocks:shelf",
-          "gui": "stewblocks:shelf"
+          "gui": "stewblocks:shelf",
+          "material": "wood",
+          "soundType" : "wood"
         }
       ]
     },
@@ -376,10 +426,12 @@
       "entries": [
         {
           "id": "locker_wooden_grid",
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_furniture",
           "itemModel": "stewblocks:locker_wooden_grid",
           "tileEntity": "stewblocks:shelf",
-          "gui": "stewblocks:shelf"
+          "gui": "stewblocks:shelf",
+          "material": "wood",
+          "soundType" : "wood"
         }
       ]
     },
@@ -388,10 +440,12 @@
       "entries": [
         {
           "id": "locker_wooden_rich",
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_furniture",
           "itemModel": "stewblocks:locker_wooden_rich",
           "tileEntity": "stewblocks:shelf",
-          "gui": "stewblocks:shelf"
+          "gui": "stewblocks:shelf",
+          "material": "wood",
+          "soundType" : "wood"
         }
       ]
     },
@@ -400,10 +454,12 @@
       "entries": [
         {
           "id": "locker_wooden_rustic",
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_furniture",
           "itemModel": "stewblocks:locker_wooden_rustic",
           "tileEntity": "stewblocks:shelf",
-          "gui": "stewblocks:shelf"
+          "gui": "stewblocks:shelf",
+          "material": "wood",
+          "soundType" : "wood"
         }
       ]
     }

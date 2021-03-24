@@ -6,6 +6,7 @@
             {
                "id": "scrap_hardware_core",
                "material": "iron",
+               "soundType" : "metal",              
                "creativeTab": "stew_blocks_decor"
             }
          ]
@@ -16,6 +17,7 @@
             {
                "id": "scrap_hardware_battery",
                "material": "iron",
+               "soundType" : "metal",              
                "creativeTab": "stew_blocks_decor"
             }
          ]
@@ -26,6 +28,7 @@
             {
                "id": "scrap_hardware_clono",
                "material": "iron",
+               "soundType" : "metal",              
                "creativeTab": "stew_blocks_decor"
             }
          ]
@@ -58,7 +61,8 @@
             {
                "id": "scrap_wires",
                "creativeTab": "stew_blocks_decor",
-               "material": "rock",
+               "material": "iron",
+               "soundType" : "metal",
                "itemModel": "stewblocks:scrap_wires",
                "hardness": 1,
                "faceBySide": true
@@ -71,7 +75,8 @@
             {
                "id": "scrap_accelerator_base",
                "creativeTab": "stew_blocks_decor",
-               "material": "rock",
+               "material": "iron",
+               "soundType" : "metal",
                "itemModel": "stewblocks:scrap_accelerator_base",
                "hardness": 1,
                "light" : 10,               

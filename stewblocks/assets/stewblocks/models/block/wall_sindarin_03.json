@@ -1,7 +1,7 @@
 {
     "parent": "block/cube_bottom_top",
     "textures": {
-        "top": "stewblocks:blocks/wall_sindarin_03",
+        "top": "stewblocks:blocks/wall_sindarin",
         "side": "stewblocks:blocks/wall_sindarin_03",
         "bottom": "stewblocks:blocks/wall_sindarin_03"
     }

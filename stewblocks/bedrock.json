@@ -6,7 +6,8 @@
              {
                 "id": "bedrock_bricks",
                 "material": "rock",
-                "creativeTab": "stew_blocks_stone"
+               "creativeTab": "stew_blocks_dungeon",
+                "hardness" : 999999
              }
           ]
        },
@@ -16,7 +17,8 @@
              {
                 "id": "bedrock_bricks_mossy",
                 "material": "rock",
-                "creativeTab": "stew_blocks_stone"
+                "creativeTab": "stew_blocks_dungeon",
+                "hardness" : 999999
              }
           ]
        },
@@ -24,9 +26,10 @@
               "type": "block:simple",
               "entries":[
                  {
-                    "id": "bedrock_small_bricks",
-                    "material": "rock",
-                    "creativeTab": "stew_blocks_stone"
+                  "id": "bedrock_small_bricks",
+                  "material": "rock",
+                  "creativeTab": "stew_blocks_dungeon",
+                  "hardness" : 999999
                  }
               ]
            },
@@ -34,9 +37,10 @@
            "type": "block:simple",
               "entries":[
                  {
-                    "id": "bedrock_small_bricks_damaged",
-                    "material": "rock",
-                    "creativeTab": "stew_blocks_stone"
+                  "id": "bedrock_small_bricks_damaged",
+                  "material": "rock",
+                  "creativeTab": "stew_blocks_dungeon",
+                  "hardness" : 999999
                  }
               ]
            },   
@@ -44,9 +48,10 @@
               "type": "block:simple",
               "entries":[
                  {
-                    "id": "bedrock_smooth",
-                    "material": "rock",
-                    "creativeTab": "stew_blocks_stone"
+                  "id": "bedrock_smooth",
+                  "material": "rock",
+                  "creativeTab": "stew_blocks_dungeon",
+                  "hardness" : 999999
                  }
               ]
            },
@@ -54,9 +59,10 @@
            "type": "block:simple",
               "entries":[
                  {
-                    "id": "bedrock_capital_gargoyle",
-                    "material": "rock",
-                    "creativeTab": "stew_blocks_stone"
+                  "id": "bedrock_capital_gargoyle",
+                  "material": "rock",
+                  "creativeTab": "stew_blocks_dungeon",
+                  "hardness" : 999999
                  }
               ]
            },   
@@ -64,9 +70,10 @@
               "type": "block:simple",
               "entries":[
                  {
-                    "id": "bedrock_tile_hexagon",
-                    "material": "rock",
-                    "creativeTab": "stew_blocks_stone"
+                  "id": "bedrock_tile_hexagon",
+                  "material": "rock",
+                  "creativeTab": "stew_blocks_dungeon",
+                  "hardness" : 999999
                  }
               ]
            },
@@ -74,9 +81,10 @@
            "type": "block:simple",
               "entries":[
                  {
-                    "id": "bedrock_tile_square",
-                    "material": "rock",
-                    "creativeTab": "stew_blocks_stone"
+                  "id": "bedrock_tile_square",
+                  "material": "rock",
+                  "creativeTab": "stew_blocks_dungeon",
+                  "hardness" : 999999
                  }
               ]
            },   
@@ -85,13 +93,13 @@
             "entries": [
               {
                 "id": "bedrock_brick_stairs",
-                "creativeTab": "stew_blocks_stone",
+                "creativeTab": "stew_blocks_dungeon",
                 "material": "rock",
                 "itemModel": "stewblocks:bedrock_brick_stairs",
                 "modelState": {
                   "block": "stewblocks:bedrock_bricks"
                 },
-                "hardness": 1
+                "hardness": 999999
               }
             ]
          },
@@ -100,19 +108,30 @@
           "entries": [
             {
               "id": "bedrock_brick_slab",
-              "creativeTab": "stew_blocks_stone",
+              "creativeTab": "stew_blocks_dungeon",
               "material": "rock",
               "itemModel": "stewblocks:bedrock_brick_half_slab",
               "doubleSlab": {
-                "block": "stewblocks:bedrock_bricks",
-                "properties": {
-                  "subtype": "subtype0"
+              "block": "stewblocks:bedrock_bricks",
+              "properties": {
+              "subtype": "subtype0"
               },
-              "hardness": 1
+              "hardness": 999999
             }
           }
           ]
-        }
+        },
+        {
+         "type": "block:simple",
+         "entries":[
+            {
+               "id": "bedrock_bricks_wavy",
+               "material": "rock",
+              "creativeTab": "stew_blocks_dungeon",
+               "hardness" : 999999
+            }
+         ]
+      }
       ] 
       }
 

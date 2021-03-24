@@ -438,20 +438,20 @@
          ]
       },
       {
-         "type": "block:orientable:directional",
+         "type": "block:simple",
          "entries":[
             {
-               "id": "wall_sindarin_07",
+               "id": "wall_sindarin_dark",
                "creativeTab": "stew_blocks_stone",
                "material": "rock",
-               "itemModel": "stewblocks:wall_sindarin_07",
+               "itemModel": "stewblocks:wall_sindarin_dark",
                "hardness": 1,
                "faceBySide": true
              }
          ]
       },
       {
-         "type": "block:orientable:directional",
+         "type": "block:simple",
          "entries":[
             {
                "id": "wall_sindarin",

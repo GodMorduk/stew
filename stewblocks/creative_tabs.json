@@ -40,7 +40,7 @@
   "type": "creativeTab",
   "entries": [
     {
-      "id": "stew_blocks_ruin",
+      "id": "stew_blocks_dungeon",
       "icon": "stewblocks:ruin_urian_brick_01"
   }  
 ]
@@ -50,7 +50,7 @@
   "entries": [
     {
       "id": "stew_blocks_metal",
-      "icon": "stewblocks:cladding_red"
+      "icon": "stewblocks:metal_rough_plate_protective"
   }  
 ]
 },
@@ -68,7 +68,16 @@
   "entries": [
     {
       "id": "stew_blocks_furniture",
-      "icon": "stewblocks:furniture_console_blue"
+      "icon": "stewblocks:table_wooden"
+  }  
+]
+},
+{
+  "type": "creativeTab",
+  "entries": [
+    {
+      "id": "stew_blocks_objects",
+      "icon": "stewblocks:object_lamp_02"
   }  
 ]
 }

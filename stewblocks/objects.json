@@ -5,7 +5,7 @@
          "entries":[
      {
         "id": "object_toxic_waste",
-        "creativeTab": "stew_blocks_decor",
+        "creativeTab": "stew_blocks_objects",
         "material": "wood",
         "itemModel": "stewblocks:object_toxic_waste",
         "hardness": 1,
@@ -22,7 +22,7 @@
    "entries":[
 {
   "id": "object_porcelain_vase",
-  "creativeTab": "stew_blocks_decor",
+  "creativeTab": "stew_blocks_objects",
   "material": "wood",
   "itemModel": "stewblocks:object_porcelain_vase",
   "hardness": 1,
@@ -38,7 +38,7 @@
    "entries":[
 {
   "id": "object_first_aid_kit",
-  "creativeTab": "stew_blocks_decor",
+  "creativeTab": "stew_blocks_objects",
   "material": "tnt",
   "itemModel": "stewblocks:object_first_aid_kit",
   "hardness": 1,
@@ -94,7 +94,7 @@
          },
          "material": "tnt",
          "opacity": 0,
-         "creativeTab": "stew_blocks_decor",
+         "creativeTab": "stew_blocks_objects",
          "isFullCube": false,
          "isOpaqueCube": false,
          "sustainedPlants": ["Plains", "Desert"],   
@@ -109,7 +109,7 @@
          "id": "object_sack_gold",
          "material": "tnt",
          "opacity": 0,
-         "creativeTab": "stew_blocks_decor",
+         "creativeTab": "stew_blocks_objects",
          "isFullCube": false,
          "isOpaqueCube": false,
          "bounds": {"from": [0.2, 0, 0.2], "to": [0.8, 0.4, 0.8] },
@@ -125,7 +125,7 @@
             "id": "object_barrel_green",
             "material": "iron",
             "soundType" : "metal",
-            "creativeTab": "stew_blocks_decor"
+            "creativeTab": "stew_blocks_objects"
          }
       ]
    },
@@ -137,7 +137,7 @@
           "material": "glass",
           "soundType" : "glass",
           "renderLayer": "mippedCutout",              
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_objects",
           "hardness": 1,
           "isPassable": true,
           "isFullCube": false,               
@@ -156,7 +156,7 @@
           "material": "glass",
           "soundType" : "pumpkin",
           "renderLayer": "mippedCutout",              
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_objects",
           "hardness": 1,
           "isPassable": true,
           "isFullCube": false,               
@@ -174,7 +174,7 @@
           "material": "glass",
           "soundType" : "pumpkin",
           "renderLayer": "mippedCutout",              
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_objects",
           "hardness": 1,
           "isPassable": true,
           "isFullCube": false,               
@@ -192,7 +192,7 @@
           "material": "glass",
           "soundType" : "pumpkin",
           "renderLayer": "mippedCutout",              
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_objects",
           "hardness": 1,
           "isPassable": true,
           "isFullCube": false,               
@@ -210,7 +210,7 @@
           "material": "grass",
           "soundType" : "pumpkin",
           "renderLayer": "mippedCutout",              
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_objects",
           "hardness": 1,
           "isPassable": true,
           "isFullCube": false,               
@@ -228,7 +228,7 @@
           "material": "grass",
           "soundType" : "pumpkin",
           "renderLayer": "mippedCutout",              
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_objects",
           "hardness": 1,
           "isPassable": true,
           "isFullCube": false,               
@@ -246,7 +246,7 @@
           "material": "glass",
           "soundType" : "pumpkin",
           "renderLayer": "mippedCutout",              
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_objects",
           "hardness": 1,
           "isPassable": true,
           "isFullCube": false,               
@@ -264,7 +264,7 @@
           "material": "glass",
           "soundType" : "pumpkin",
           "renderLayer": "mippedCutout",              
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_objects",
           "hardness": 1,
           "isPassable": true,
           "isFullCube": false,               
@@ -282,7 +282,7 @@
           "material": "glass",
           "soundType" : "pumpkin",
           "renderLayer": "mippedCutout",              
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_objects",
           "hardness": 1,
           "isPassable": true,
           "isFullCube": false,               
@@ -300,7 +300,7 @@
           "material": "grass",
           "soundType" : "pumpkin",
           "renderLayer": "mippedCutout",              
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_objects",
           "hardness": 1,
           "isPassable": true,
           "isFullCube": false,               
@@ -318,7 +318,7 @@
           "material": "iron",
           "soundType" : "pumpkin",
           "renderLayer": "mippedCutout",              
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_objects",
           "hardness": 1,
           "isPassable": true,
           "isFullCube": false,               
@@ -336,7 +336,7 @@
           "material": "iron",
           "soundType" : "pumpkin",
           "renderLayer": "mippedCutout",              
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_objects",
           "hardness": 1,
           "isPassable": true,
           "isFullCube": false,               
@@ -354,7 +354,7 @@
           "material": "iron",
           "soundType" : "pumpkin",
           "renderLayer": "mippedCutout",              
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_objects",
           "hardness": 1,
           "isPassable": true,
           "isFullCube": false,               
@@ -372,7 +372,7 @@
           "material": "iron",
           "soundType" : "pumpkin",
           "renderLayer": "mippedCutout",              
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_objects",
           "hardness": 1,
           "isPassable": true,
           "isFullCube": false,               
@@ -390,7 +390,7 @@
           "material": "wood",
           "soundType" : "pumpkin",
           "renderLayer": "mippedCutout",              
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_objects",
           "hardness": 1,
           "isPassable": true,
           "isFullCube": false,               
@@ -409,7 +409,7 @@
           "material": "iron",
           "soundType" : "pumpkin",
           "renderLayer": "mippedCutout",              
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_objects",
           "hardness": 1,
           "isPassable": true,
           "isFullCube": false,               
@@ -427,7 +427,7 @@
           "material": "iron",
           "soundType" : "pumpkin",
           "renderLayer": "mippedCutout",              
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_objects",
           "hardness": 1,
           "isPassable": true,
           "isFullCube": false,               
@@ -445,7 +445,7 @@
           "material": "grass",
           "soundType" : "pumpkin",
           "renderLayer": "mippedCutout",              
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_objects",
           "hardness": 1,
           "isPassable": true,
           "isFullCube": false,               
@@ -463,7 +463,7 @@
           "material": "iron",
           "soundType" : "pumpkin",
           "renderLayer": "mippedCutout",              
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_objects",
           "hardness": 1,
           "isPassable": true,
           "isFullCube": false,               
@@ -481,7 +481,7 @@
           "material": "glass",
           "soundType" : "pumpkin",
           "renderLayer": "mippedCutout",              
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_objects",
           "hardness": 1,
           "isPassable": true,
           "isFullCube": false,               
@@ -500,7 +500,7 @@
           "material": "glass",
           "soundType" : "pumpkin",
           "renderLayer": "mippedCutout",              
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_objects",
           "hardness": 1,
           "isPassable": true,
           "isFullCube": false,               
@@ -519,7 +519,7 @@
           "material": "grass",
           "soundType" : "pumpkin",
           "renderLayer": "mippedCutout",              
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_objects",
           "hardness": 1,
           "isPassable": true,
           "isFullCube": false,               
@@ -537,7 +537,7 @@
           "material": "grass",
           "soundType" : "pumpkin",
           "renderLayer": "mippedCutout",              
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_objects",
           "hardness": 1,
           "isPassable": true,
           "isFullCube": false,               
@@ -555,7 +555,7 @@
           "material": "glass",
           "soundType" : "pumpkin",
           "renderLayer": "mippedCutout",              
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_objects",
           "hardness": 1,
           "isPassable": true,
           "isFullCube": false,               
@@ -573,7 +573,7 @@
           "material": "glass",
           "soundType" : "pumpkin",
           "renderLayer": "mippedCutout",              
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_objects",
           "hardness": 1,
           "isPassable": true,
           "isFullCube": false,               
@@ -592,7 +592,7 @@
           "material": "glass",
           "soundType" : "pumpkin",
           "renderLayer": "mippedCutout",              
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_objects",
           "hardness": 1,
           "isPassable": true,
           "isFullCube": false,               
@@ -611,7 +611,7 @@
           "material": "glass",
           "soundType" : "pumpkin",
           "renderLayer": "mippedCutout",              
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_objects",
           "hardness": 1,
           "isPassable": true,
           "isFullCube": false,               
@@ -630,7 +630,7 @@
           "material": "glass",
           "soundType" : "pumpkin",
           "renderLayer": "mippedCutout",              
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_objects",
           "hardness": 1,
           "isPassable": true,
           "isFullCube": false,               
@@ -649,7 +649,7 @@
           "material": "glass",
           "soundType" : "pumpkin",
           "renderLayer": "mippedCutout",              
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_objects",
           "hardness": 1,
           "isPassable": true,
           "isFullCube": false,               
@@ -668,7 +668,7 @@
           "material": "grass",
           "soundType" : "pumpkin",
           "renderLayer": "mippedCutout",              
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_objects",
           "hardness": 1,
           "isPassable": true,
           "isFullCube": false,               
@@ -686,7 +686,7 @@
           "material": "grass",
           "soundType" : "pumpkin",
           "renderLayer": "mippedCutout",              
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_objects",
           "hardness": 1,
           "isPassable": true,
           "isFullCube": false,               
@@ -704,7 +704,7 @@
           "material": "grass",
           "soundType" : "pumpkin",
           "renderLayer": "mippedCutout",              
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_objects",
           "hardness": 1,
           "isPassable": true,
           "isFullCube": false,               
@@ -723,7 +723,7 @@
           "material": "grass",
           "soundType" : "pumpkin",
           "renderLayer": "mippedCutout",              
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_objects",
           "hardness": 1,
           "isPassable": true,
           "isFullCube": false,               
@@ -742,7 +742,7 @@
           "material": "grass",
           "soundType" : "pumpkin",
           "renderLayer": "mippedCutout",              
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_objects",
           "hardness": 1,
           "isPassable": true,
           "isFullCube": false,               
@@ -760,7 +760,7 @@
           "material": "grass",
           "soundType" : "pumpkin",
           "renderLayer": "mippedCutout",              
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_objects",
           "hardness": 1,
           "isPassable": true,
           "isFullCube": false,               
@@ -778,7 +778,7 @@
           "material": "grass",
           "soundType" : "pumpkin",
           "renderLayer": "mippedCutout",              
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_objects",
           "hardness": 1,
           "isPassable": true,
           "isFullCube": false,               
@@ -796,7 +796,7 @@
           "material": "grass",
           "soundType" : "pumpkin",
           "renderLayer": "mippedCutout",              
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_objects",
           "hardness": 1,
           "isPassable": true,
           "isFullCube": false,               
@@ -814,7 +814,7 @@
           "material": "grass",
           "soundType" : "pumpkin",
           "renderLayer": "mippedCutout",              
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_objects",
           "hardness": 1,
           "isPassable": true,
           "isFullCube": false,               
@@ -833,7 +833,7 @@
           "material": "grass",
           "soundType" : "pumpkin",
           "renderLayer": "mippedCutout",              
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_objects",
           "hardness": 1,
           "isPassable": true,
           "isFullCube": false,               
@@ -851,7 +851,7 @@
           "material": "grass",
           "soundType" : "pumpkin",
           "renderLayer": "mippedCutout",              
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_objects",
           "hardness": 1,
           "isPassable": true,
           "isFullCube": false,               
@@ -869,7 +869,7 @@
           "material": "grass",
           "soundType" : "pumpkin",
           "renderLayer": "mippedCutout",              
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_objects",
           "hardness": 1,
           "isPassable": true,
           "isFullCube": false,               
@@ -887,7 +887,7 @@
           "material": "grass",
           "soundType" : "pumpkin",
           "renderLayer": "mippedCutout",              
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_objects",
           "hardness": 1,
           "isPassable": true,
           "isFullCube": false,               
@@ -905,7 +905,7 @@
           "material": "grass",
           "soundType" : "pumpkin",
           "renderLayer": "mippedCutout",              
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_objects",
           "hardness": 1,
           "isPassable": true,
           "isFullCube": false,               
@@ -923,7 +923,7 @@
           "material": "grass",
           "soundType" : "pumpkin",
           "renderLayer": "mippedCutout",              
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_objects",
           "hardness": 1,
           "isPassable": true,
           "isFullCube": false,               
@@ -941,7 +941,7 @@
           "material": "glass",
           "soundType" : "pumpkin",
           "renderLayer": "mippedCutout",              
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_objects",
           "hardness": 1,
           "isPassable": true,
           "isFullCube": false,               
@@ -959,7 +959,7 @@
           "material": "iron",
           "soundType" : "pumpkin",
           "renderLayer": "mippedCutout",              
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_objects",
           "hardness": 1,
           "isPassable": true,
           "isFullCube": false,               
@@ -977,7 +977,7 @@
           "material": "iron",
           "soundType" : "pumpkin",
           "renderLayer": "mippedCutout",              
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_objects",
           "hardness": 1,
           "isPassable": true,
           "isFullCube": false,               
@@ -995,7 +995,7 @@
           "material": "rock",
           "soundType" : "pumpkin",
           "renderLayer": "mippedCutout",              
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_objects",
           "hardness": 1,
           "isPassable": true,
           "isFullCube": false,               
@@ -1013,7 +1013,7 @@
           "material": "rock",
           "soundType" : "pumpkin",
           "renderLayer": "mippedCutout",              
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_objects",
           "hardness": 1,
           "isPassable": true,
           "isFullCube": false,               
@@ -1031,7 +1031,7 @@
           "material": "iron",
           "soundType" : "pumpkin",
           "renderLayer": "mippedCutout",              
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_objects",
           "hardness": 1,
           "isPassable": true,
           "isFullCube": false,               
@@ -1049,7 +1049,7 @@
           "material": "grass",
           "soundType" : "pumpkin",
           "renderLayer": "mippedCutout",              
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_objects",
           "hardness": 1,
           "isPassable": true,
           "isFullCube": false,               
@@ -1067,7 +1067,7 @@
           "material": "iron",
           "soundType" : "pumpkin",
           "renderLayer": "mippedCutout",              
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_objects",
           "hardness": 1,
           "isPassable": true,
           "isFullCube": false,               
@@ -1085,7 +1085,7 @@
           "material": "grass",
           "soundType" : "pumpkin",
           "renderLayer": "mippedCutout",              
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_objects",
           "hardness": 1,
           "isPassable": true,
           "isFullCube": false,               
@@ -1103,7 +1103,7 @@
           "material": "grass",
           "soundType" : "pumpkin",
           "renderLayer": "mippedCutout",              
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_objects",
           "hardness": 1,
           "isPassable": true,
           "isFullCube": false,               
@@ -1121,7 +1121,7 @@
           "material": "iron",
           "soundType" : "pumpkin",
           "renderLayer": "mippedCutout",              
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_objects",
           "hardness": 1,
           "isPassable": true,
           "isFullCube": false,               
@@ -1137,7 +1137,7 @@
       {
          "id": "object_chunk_fish",
          "material": "grass",
-         "creativeTab": "stew_blocks_decor"
+         "creativeTab": "stew_blocks_objects"
       }
    ]
 },
@@ -1147,7 +1147,7 @@
       {
          "id": "object_reel_chain",
          "material": "grass",
-         "creativeTab": "stew_blocks_decor"
+         "creativeTab": "stew_blocks_objects"
       }
    ]
 },
@@ -1156,7 +1156,7 @@
    "entries":[
 {
   "id": "object_flat_ashtray",
-  "creativeTab": "stew_blocks_decor",
+  "creativeTab": "stew_blocks_objects",
   "material": "iron",
   "itemModel": "stewblocks:object_flat_ashtray",
   "hardness": 1,
@@ -1198,7 +1198,7 @@
    "entries":[
 {
   "id": "object_flat_bones",
-  "creativeTab": "stew_blocks_decor",
+  "creativeTab": "stew_blocks_objects",
   "material": "iron",
   "itemModel": "stewblocks:object_flat_bones",
   "hardness": 1,
@@ -1240,7 +1240,7 @@
    "entries":[
 {
   "id": "object_flat_book",
-  "creativeTab": "stew_blocks_decor",
+  "creativeTab": "stew_blocks_objects",
   "material": "iron",
   "itemModel": "stewblocks:object_flat_book",
   "hardness": 1,
@@ -1282,7 +1282,7 @@
    "entries":[
 {
   "id": "object_flat_cards",
-  "creativeTab": "stew_blocks_decor",
+  "creativeTab": "stew_blocks_objects",
   "material": "iron",
   "itemModel": "stewblocks:object_flat_cards",
   "hardness": 1,
@@ -1324,7 +1324,7 @@
    "entries":[
 {
   "id": "object_flat_chessboard",
-  "creativeTab": "stew_blocks_decor",
+  "creativeTab": "stew_blocks_objects",
   "material": "iron",
   "itemModel": "stewblocks:object_flat_chessboard",
   "hardness": 1,
@@ -1366,7 +1366,7 @@
    "entries":[
 {
   "id": "object_flat_cloth_02",
-  "creativeTab": "stew_blocks_decor",
+  "creativeTab": "stew_blocks_objects",
   "material": "iron",
   "itemModel": "stewblocks:object_flat_cloth_02",
   "hardness": 1,
@@ -1408,7 +1408,7 @@
    "entries":[
 {
   "id": "object_flat_coins",
-  "creativeTab": "stew_blocks_decor",
+  "creativeTab": "stew_blocks_objects",
   "material": "iron",
   "itemModel": "stewblocks:object_flat_coins",
   "hardness": 1,
@@ -1450,7 +1450,7 @@
    "entries":[
 {
   "id": "object_flat_duckweed",
-  "creativeTab": "stew_blocks_decor",
+  "creativeTab": "stew_blocks_objects",
   "material": "iron",
   "itemModel": "stewblocks:object_flat_duckweed",
   "hardness": 1,
@@ -1492,7 +1492,7 @@
    "entries":[
 {
   "id": "object_flat_fanblade",
-  "creativeTab": "stew_blocks_decor",
+  "creativeTab": "stew_blocks_objects",
   "material": "iron",
   "itemModel": "stewblocks:object_flat_fanblade",
   "hardness": 1,
@@ -1534,7 +1534,7 @@
    "entries":[
 {
   "id": "object_flat_flags",
-  "creativeTab": "stew_blocks_decor",
+  "creativeTab": "stew_blocks_objects",
   "material": "iron",
   "itemModel": "stewblocks:object_flat_flags",
   "hardness": 1,
@@ -1576,7 +1576,7 @@
    "entries":[
 {
   "id": "object_flat_food",
-  "creativeTab": "stew_blocks_decor",
+  "creativeTab": "stew_blocks_objects",
   "material": "iron",
   "itemModel": "stewblocks:object_flat_food",
   "hardness": 1,
@@ -1618,7 +1618,7 @@
    "entries":[
 {
   "id": "object_flat_garbage",
-  "creativeTab": "stew_blocks_decor",
+  "creativeTab": "stew_blocks_objects",
   "material": "iron",
   "itemModel": "stewblocks:object_flat_garbage",
   "hardness": 1,
@@ -1660,7 +1660,7 @@
    "entries":[
 {
   "id": "object_flat_gears",
-  "creativeTab": "stew_blocks_decor",
+  "creativeTab": "stew_blocks_objects",
   "material": "iron",
   "itemModel": "stewblocks:object_flat_gears",
   "hardness": 1,
@@ -1702,7 +1702,7 @@
    "entries":[
 {
   "id": "object_flat_holeplate",
-  "creativeTab": "stew_blocks_decor",
+  "creativeTab": "stew_blocks_objects",
   "material": "iron",
   "itemModel": "stewblocks:object_flat_holeplate",
   "hardness": 1,
@@ -1744,7 +1744,7 @@
    "entries":[
 {
   "id": "object_flat_ice_floe",
-  "creativeTab": "stew_blocks_decor",
+  "creativeTab": "stew_blocks_objects",
   "material": "iron",
   "itemModel": "stewblocks:object_flat_ice_floe",
   "hardness": 1,
@@ -1786,7 +1786,7 @@
    "entries":[
 {
   "id": "object_flat_map",
-  "creativeTab": "stew_blocks_decor",
+  "creativeTab": "stew_blocks_objects",
   "material": "iron",
   "itemModel": "stewblocks:object_flat_map",
   "hardness": 1,
@@ -1828,7 +1828,7 @@
    "entries":[
 {
   "id": "object_flat_metal_patch",
-  "creativeTab": "stew_blocks_decor",
+  "creativeTab": "stew_blocks_objects",
   "material": "iron",
   "itemModel": "stewblocks:object_flat_metal_patch",
   "hardness": 1,
@@ -1870,7 +1870,7 @@
    "entries":[
 {
   "id": "object_flat_moss",
-  "creativeTab": "stew_blocks_decor",
+  "creativeTab": "stew_blocks_objects",
   "material": "iron",
   "itemModel": "stewblocks:object_flat_moss",
   "hardness": 1,
@@ -1912,7 +1912,7 @@
    "entries":[
 {
   "id": "object_flat_papers",
-  "creativeTab": "stew_blocks_decor",
+  "creativeTab": "stew_blocks_objects",
   "material": "iron",
   "itemModel": "stewblocks:object_flat_papers",
   "hardness": 1,
@@ -1954,7 +1954,7 @@
    "entries":[
 {
   "id": "object_flat_paperwork_01",
-  "creativeTab": "stew_blocks_decor",
+  "creativeTab": "stew_blocks_objects",
   "material": "iron",
   "itemModel": "stewblocks:object_flat_paperwork_01",
   "hardness": 1,
@@ -1996,7 +1996,7 @@
    "entries":[
 {
   "id": "object_flat_parchment",
-  "creativeTab": "stew_blocks_decor",
+  "creativeTab": "stew_blocks_objects",
   "material": "iron",
   "itemModel": "stewblocks:object_flat_parchment",
   "hardness": 1,
@@ -2038,7 +2038,7 @@
    "entries":[
 {
   "id": "object_flat_pipeweed",
-  "creativeTab": "stew_blocks_decor",
+  "creativeTab": "stew_blocks_objects",
   "material": "iron",
   "itemModel": "stewblocks:object_flat_pipeweed",
   "hardness": 1,
@@ -2080,7 +2080,7 @@
    "entries":[
 {
   "id": "object_flat_propeller",
-  "creativeTab": "stew_blocks_decor",
+  "creativeTab": "stew_blocks_objects",
   "material": "iron",
   "itemModel": "stewblocks:object_flat_propeller",
   "hardness": 1,
@@ -2122,7 +2122,7 @@
    "entries":[
 {
   "id": "object_flat_rats",
-  "creativeTab": "stew_blocks_decor",
+  "creativeTab": "stew_blocks_objects",
   "material": "iron",
   "itemModel": "stewblocks:object_flat_rats",
   "hardness": 1,
@@ -2164,7 +2164,7 @@
    "entries":[
 {
   "id": "object_flat_sausages",
-  "creativeTab": "stew_blocks_decor",
+  "creativeTab": "stew_blocks_objects",
   "material": "iron",
   "itemModel": "stewblocks:object_flat_sausages",
   "hardness": 1,
@@ -2206,7 +2206,7 @@
    "entries":[
 {
   "id": "object_flat_saw",
-  "creativeTab": "stew_blocks_decor",
+  "creativeTab": "stew_blocks_objects",
   "material": "iron",
   "itemModel": "stewblocks:object_flat_saw",
   "hardness": 1,
@@ -2248,7 +2248,7 @@
    "entries":[
 {
   "id": "object_flat_screws",
-  "creativeTab": "stew_blocks_decor",
+  "creativeTab": "stew_blocks_objects",
   "material": "iron",
   "itemModel": "stewblocks:object_flat_screws",
   "hardness": 1,
@@ -2290,7 +2290,7 @@
    "entries":[
 {
   "id": "object_flat_spareparts",
-  "creativeTab": "stew_blocks_decor",
+  "creativeTab": "stew_blocks_objects",
   "material": "iron",
   "itemModel": "stewblocks:object_flat_spareparts",
   "hardness": 1,
@@ -2332,7 +2332,7 @@
    "entries":[
 {
   "id": "object_flat_star_chart_2x2",
-  "creativeTab": "stew_blocks_decor",
+  "creativeTab": "stew_blocks_objects",
   "material": "iron",
   "itemModel": "stewblocks:object_flat_star_chart_2x2",
   "hardness": 1,
@@ -2374,7 +2374,7 @@
    "entries":[
 {
   "id": "object_flat_star_chart_3x3",
-  "creativeTab": "stew_blocks_decor",
+  "creativeTab": "stew_blocks_objects",
   "material": "iron",
   "itemModel": "stewblocks:object_flat_star_chart_3x3",
   "hardness": 1,
@@ -2416,7 +2416,7 @@
    "entries":[
 {
   "id": "object_flat_valve",
-  "creativeTab": "stew_blocks_decor",
+  "creativeTab": "stew_blocks_objects",
   "material": "iron",
   "itemModel": "stewblocks:object_flat_valve",
   "hardness": 1,
@@ -2458,7 +2458,7 @@
    "entries":[
 {
   "id": "object_flat_wheel_wooden_01",
-  "creativeTab": "stew_blocks_decor",
+  "creativeTab": "stew_blocks_objects",
   "material": "iron",
   "itemModel": "stewblocks:object_flat_wheel_wooden_01",
   "hardness": 1,
@@ -2500,7 +2500,7 @@
    "entries":[
 {
   "id": "object_flat_wheel_wooden_02",
-  "creativeTab": "stew_blocks_decor",
+  "creativeTab": "stew_blocks_objects",
   "material": "iron",
   "itemModel": "stewblocks:object_flat_wheel_wooden_02",
   "hardness": 1,

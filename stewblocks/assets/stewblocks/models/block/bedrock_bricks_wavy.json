@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "stewblocks:blocks/bedrock_bricks_wavy",
+        "top": "stewblocks:blocks/bedrock_bricks_wavy_top",
+        "side": "stewblocks:blocks/bedrock_bricks_wavy"
+    }
+  }
