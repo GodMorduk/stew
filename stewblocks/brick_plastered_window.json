@@ -4,7 +4,7 @@
          "type": "block:simple",
          "entries":[
             {
-               "id": "wall_clay_blue_window",
+               "id": "brick_plastered_window_blue",
                "material": "glass",
                "creativeTab": "stew_blocks_stone",
                "soundType" : "glass",
@@ -21,7 +21,7 @@
          "type": "block:simple",
          "entries":[
             {
-               "id": "wall_clay_orange_window",
+               "id": "brick_plastered_window_orange",
                "material": "glass",
                "creativeTab": "stew_blocks_stone",
                "soundType" : "glass",
@@ -38,7 +38,7 @@
          "type": "block:simple",
          "entries":[
             {
-               "id": "wall_clay_red_window",
+               "id": "brick_plastered_window_red",
                "material": "glass",
                "creativeTab": "stew_blocks_stone",
                "soundType" : "glass",
@@ -55,7 +55,7 @@
          "type": "block:simple",
          "entries":[
             {
-               "id": "wall_clay_yellow_window",
+               "id": "brick_plastered_window_yellow",
                "material": "glass",
                "creativeTab": "stew_blocks_stone",
                "soundType" : "glass",

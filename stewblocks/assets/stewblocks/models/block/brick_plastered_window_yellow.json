@@ -3,6 +3,6 @@
   "textures": {
       "bottom": "stewblocks:blocks/brick_plastered_yellow",
       "top": "stewblocks:blocks/brick_plastered_yellow",
-      "side": "stewblocks:blocks/wall_clay_yellow_window"
+      "side": "stewblocks:blocks/brick_plastered_window_yellow"
   }
 }

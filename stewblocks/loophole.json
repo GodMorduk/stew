@@ -1,0 +1,47 @@
+{
+    "blocks":[
+       {
+          "type": "block:orientable:directional",
+          "entries":[
+      {
+         "id": "loophole_gothiccarved",
+         "creativeTab": "stew_blocks_effects",
+         "material": "glass",
+          "itemModel": "stewblocks:loophole_gothiccarved",
+         "hardness": 1,
+         "renderLayer": "mippedCutout",
+         "faceBySide": true,
+         "isPassable": false,
+         "isFullCube": false,
+         "isOpaqueCube": false,
+         "hideAdjacentSides": true,
+         "opacity": 0,
+         "bounds": {
+            "0": { "from": [0, 0.42, 0], "to": [1, 1, 1] },
+            "1": { "from": [0, 0, 0], "to": [1, 0.58, 1] },
+            "2": { "from": [0, 0, 0.42], "to": [1, 1, 0] },
+            "3": { "from": [0, 0, 1], "to": [1, 1, 0.58] },
+            "4": { "from": [0.42, 0, 0], "to": [1, 1, 0] },
+            "5": { "from": [0, 0, 0], "to": [0.58, 1, 0] }
+         },
+         "selectionBounds": {
+            "0": { "from": [0, 0.42, 0], "to": [1, 1, 1] },
+            "1": { "from": [0, 0, 0], "to": [1, 0.58, 1] },
+            "2": { "from": [0, 0, 0.42], "to": [1, 1, 0] },
+            "3": { "from": [0, 0, 1], "to": [1, 1, 0.58] },
+            "4": { "from": [0.42, 0, 0], "to": [1, 1, 0] },
+            "5": { "from": [0, 0, 0], "to": [0.58, 1, 0] }
+         },
+         "collisionBounds": {
+            "0": { "from": [0, 0.42, 0], "to": [1, 1, 1] },
+            "1": { "from": [0, 0, 0], "to": [1, 0.58, 1] },
+            "2": { "from": [0, 0, 0.42], "to": [1, 1, 0] },
+            "3": { "from": [0, 0, 1], "to": [1, 1, 0.58] },
+            "4": { "from": [0.42, 0, 0], "to": [1, 1, 0] },
+            "5": { "from": [0, 0, 0], "to": [0.58, 1, 0] }
+        }
+    }
+    ]
+  }      
+  ]
+  }

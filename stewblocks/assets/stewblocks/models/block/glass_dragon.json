@@ -1,6 +1,6 @@
 {
     "parent": "block/cube_all",
     "textures": {
-        "all": "stewblocks:blocks/cladding_red_chipped"
+        "all": "stewblocks:blocks/glass_dragon"
     }
-}
+  }

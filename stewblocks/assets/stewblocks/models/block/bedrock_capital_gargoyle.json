@@ -2,7 +2,7 @@
   "parent": "block/cube_bottom_top",
   "textures": {
       "bottom": "stewblocks:blocks/bedrock_smooth",
-      "top": "stewblocks:blocks/bedrock_smooth",
+      "top": "stewblocks:blocks/bedrock_small_bricks",
       "side": "stewblocks:blocks/bedrock_capital_gargoyle"
   }
 }

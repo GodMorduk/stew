@@ -144,16 +144,6 @@
             "type": "block:simple",
             "entries":[
                {
-                  "id": "cladding_red_chipped",
-                  "material": "iron",
-                  "creativeTab": "stew_blocks_metal"
-                 }
-              ]
-           },
-           {
-            "type": "block:simple",
-            "entries":[
-               {
                   "id": "cladding_white",
                   "material": "iron",
                   "creativeTab": "stew_blocks_metal"

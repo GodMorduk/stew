@@ -1,6 +1,6 @@
 {
     "parent": "block/cube_all",
     "textures": {
-        "all": "stewblocks:blocks/glass_round_brown"
+        "all": "stewblocks:blocks/glass_clear"
     }
   }
