@@ -1,0 +1,8 @@
+{
+    "variants": {
+    "facing=north": { "model": "stewblocks:stone_green_fetis_shishi" },
+    "facing=south": { "model": "stewblocks:stone_green_fetis_shishi", "y": 180 },
+    "facing=west":  { "model": "stewblocks:stone_green_fetis_shishi", "y": 270 },
+    "facing=east":  { "model": "stewblocks:stone_green_fetis_shishi", "y": 90 }
+}
+}

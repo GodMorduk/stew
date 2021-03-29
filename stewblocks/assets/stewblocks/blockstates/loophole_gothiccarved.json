@@ -1,10 +1,37 @@
-{
-    "variants": {
-      "facing=north": { "model": "stewblocks:loophole_gothiccarved", "x": 90, "y": 0, "uvlock": true},
-      "facing=east": { "model": "stewblocks:loophole_gothiccarved", "x": 90, "y": 90, "uvlock": true },
-      "facing=south": { "model": "stewblocks:loophole_gothiccarved", "x": 90, "y": 180, "uvlock": true },
-      "facing=west": { "model": "stewblocks:loophole_gothiccarved", "x": 90, "y": 270, "uvlock": true },
-      "facing=up": { "model": "stewblocks:loophole_gothiccarved", "uvlock": true },
-      "facing=down": { "model": "stewblocks:loophole_gothiccarved", "x": 180, "uvlock": true }
-    }
+ {
+    "multipart": [
+      {"apply": {"model": "stewblocks:loophole_gothiccarved_post"}},
+      {
+        "when": {"north": true},
+        "apply": {"model": "stewblocks:loophole_gothiccarved_side"}
+      },
+      {
+        "when": {"east": true},
+        "apply": {"model": "stewblocks:loophole_gothiccarved_side", "y": 90}
+      },
+      {
+        "when": {"south": true},
+        "apply": {"model": "stewblocks:loophole_gothiccarved_side_alt"}
+      },
+      {
+        "when": {"west": true},
+        "apply": {"model": "stewblocks:loophole_gothiccarved_side_alt", "y": 90}
+      },
+      {
+        "when": {"north": false},
+        "apply": {"model": "stewblocks:loophole_gothiccarved_noside"}
+      },
+      {
+        "when": {"east": false},
+        "apply": {"model": "stewblocks:loophole_gothiccarved_noside_alt"}
+      },
+      {
+        "when": {"south": false},
+        "apply": {"model": "stewblocks:loophole_gothiccarved_noside_alt", "y": 90}
+      },
+      {
+        "when": {"west": false},
+        "apply": {"model": "stewblocks:loophole_gothiccarved_noside", "y": 270}
+      }
+    ]
   }

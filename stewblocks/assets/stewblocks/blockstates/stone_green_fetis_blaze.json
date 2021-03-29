@@ -1,0 +1,8 @@
+{
+    "variants": {
+    "facing=north": { "model": "stewblocks:stone_green_fetis_blaze" },
+    "facing=south": { "model": "stewblocks:stone_green_fetis_blaze", "y": 180 },
+    "facing=west":  { "model": "stewblocks:stone_green_fetis_blaze", "y": 270 },
+    "facing=east":  { "model": "stewblocks:stone_green_fetis_blaze", "y": 90 }
+}
+}

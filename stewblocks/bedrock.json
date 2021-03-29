@@ -131,7 +131,130 @@
                "hardness" : 999999
             }
          ]
-      }
+      },
+      {
+       "type": "block:simple",
+       "entries":[
+          {
+             "id": "bedrock_pillar",
+             "material": "rock",
+            "creativeTab": "stew_blocks_dungeon",
+             "hardness" : 999999
+          }
+       ]
+      },
+      {
+       "type": "block:orientable:directional",
+       "entries":[
+          {
+             "id": "bedrock_base",
+             "material": "rock",
+            "creativeTab": "stew_blocks_dungeon",
+             "hardness" : 999999
+          }
+       ]
+      },
+      {
+       "type": "block:simple",
+       "entries":[
+          {
+             "id": "bedrock_frize",
+             "material": "rock",
+            "creativeTab": "stew_blocks_dungeon",
+             "hardness" : 999999
+          }
+       ]
+      },
+      {
+       "type": "block:simple",
+       "entries":[
+          {
+             "id": "bedrock_masonry",
+             "material": "rock",
+            "creativeTab": "stew_blocks_dungeon",
+             "hardness" : 999999
+          }
+       ]
+      },
+      {
+       "type": "block:simple",
+       "entries":[
+          {
+             "id": "bedrock_writings",
+             "material": "rock",
+            "creativeTab": "stew_blocks_dungeon",
+             "hardness" : 999999
+          }
+       ]
+      },
+      {
+       "type": "block:simple",
+       "entries":[
+          {
+             "id": "bedrock_triglyph",
+             "material": "rock",
+            "creativeTab": "stew_blocks_dungeon",
+             "hardness" : 999999
+          }
+       ]
+      },
+      {
+       "type": "block:simple",
+       "entries":[
+          {
+             "id": "bedrock_warped",
+             "material": "rock",
+            "creativeTab": "stew_blocks_dungeon",
+             "hardness" : 999999
+          }
+       ]
+      },
+      {
+       "type": "block:simple",
+       "entries":[
+          {
+             "id": "warp_dreg",
+             "material": "rock",
+            "creativeTab": "stew_blocks_dungeon",
+             "hardness" : 999999
+          }
+       ]
+      },
+      {
+       "type": "block:simple",
+       "entries":[
+          {
+             "id": "decayed_sand",
+             "material": "rock",
+            "creativeTab": "stew_blocks_dungeon",
+            "sustainedPlants": ["Desert"], 
+             "hardness" : 999999
+          }
+       ]
+      },
+      {
+       "type": "block:simple",
+       "entries":[
+          {
+             "id": "decayed_dirt",
+             "material": "rock",
+            "creativeTab": "stew_blocks_dungeon",
+            "sustainedPlants": ["Plains", "Desert"], 
+             "hardness" : 999999
+          }
+       ]
+      },
+      {
+       "type": "block:orientable:directional",
+       "entries":[
+          {
+             "id": "decayed_log",
+             "material": "rock",
+            "creativeTab": "stew_blocks_dungeon",
+             "hardness" : 999999
+          }
+       ]
+    }
       ] 
       }
 

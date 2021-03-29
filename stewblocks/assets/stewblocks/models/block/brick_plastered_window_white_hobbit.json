@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "stewblocks:blocks/brick_plastered_white",
+        "top": "stewblocks:blocks/brick_plastered_white",
+        "side": "stewblocks:blocks/brick_plastered_window_white_hobbit"
+    }
+  }

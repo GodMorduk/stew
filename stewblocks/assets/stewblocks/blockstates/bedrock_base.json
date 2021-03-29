@@ -1,0 +1,10 @@
+{
+    "variants": {
+      "facing=north": { "model": "stewblocks:bedrock_base", "x": 90, "y": 0},
+      "facing=east": { "model": "stewblocks:bedrock_base", "x": 90, "y": 90},
+      "facing=south": { "model": "stewblocks:bedrock_base", "x": 90, "y": 180},
+      "facing=west": { "model": "stewblocks:bedrock_base", "x": 90, "y": 270},
+      "facing=up": { "model": "stewblocks:bedrock_base" },
+      "facing=down": { "model": "stewblocks:bedrock_base", "x": 180 }
+    }
+  }

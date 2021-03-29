@@ -1,0 +1,6 @@
+{
+    "parent": "block/pane_post",
+    "textures": {
+        "edge": "minecraft:blocks/stone_slab_top"
+        }
+    }

@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "top": "stewblocks:blocks/decayed_log_top",
+        "side": "stewblocks:blocks/decayed_log",
+        "bottom": "stewblocks:blocks/decayed_log_top"
+    }
+}

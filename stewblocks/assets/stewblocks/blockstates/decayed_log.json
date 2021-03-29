@@ -1,0 +1,10 @@
+{
+    "variants": {
+      "facing=north": { "model": "stewblocks:decayed_log", "x": 90, "y": 0},
+      "facing=east": { "model": "stewblocks:decayed_log", "x": 90, "y": 90},
+      "facing=south": { "model": "stewblocks:decayed_log", "x": 90, "y": 180},
+      "facing=west": { "model": "stewblocks:decayed_log", "x": 90, "y": 270},
+      "facing=up": { "model": "stewblocks:decayed_log" },
+      "facing=down": { "model": "stewblocks:decayed_log", "x": 180 }
+    }
+  }

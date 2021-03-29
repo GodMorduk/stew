@@ -97,6 +97,18 @@
       "file": "casement.json"
     },
     { 
+      "file": "loophole.json"
+    },
+    { 
+      "file": "wooden_window.json"
+    },
+    { 
+      "file": "stone.json"
+    },
+    { 
+      "file": "stone_window.json"
+    },
+    { 
       "file": "_containers.json"
     }
   ]
