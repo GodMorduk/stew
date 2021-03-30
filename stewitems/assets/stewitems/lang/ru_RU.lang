@@ -74,3 +74,10 @@ item.stewitems.medicine_freezing_powder.name=Хладопыль
 item.stewitems.medicine_ironskin_pills.name=Стальные желуди
 item.stewitems.medicine_inner_light.name=Эликсир внутреннего света
 item.stewitems.medicine_heating_paste.name=Согревающий крем
+
+item.stewitems.harp.name=Арфа
+item.stewitems.guitar.name=Гитара
+item.stewitems.violin.name=Скрипка
+item.stewitems.horn.name=Горн
+item.stewitems.banjo.name=Банджо
+item.stewitems.flute.name=Флейта

@@ -10,6 +10,9 @@
 		},
 		{
 			"file": "meds.json"
+		},
+		{
+			"file": "music.json"
 		}
 	]
 }
