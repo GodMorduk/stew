@@ -7,7 +7,7 @@
                 "id": "lamp_neon_blue",
                 "material": "iron",
                 "creativeTab": "stew_blocks_furniture",
-                "light": 7
+                "light": 15
              }
           ]
        },
@@ -18,7 +18,7 @@
                 "id": "lamp_old_blinking",
                 "material": "iron",
                 "creativeTab": "stew_blocks_furniture",
-                "light": 7
+                "light": 15
              }
           ]
        },
@@ -29,7 +29,7 @@
                 "id": "lamp_round_blue",
                 "material": "iron",
                 "creativeTab": "stew_blocks_furniture",
-                "light": 7
+                "light": 15
              }
           ]
        },
@@ -40,7 +40,7 @@
                 "id": "lamp_yellow",
                 "material": "iron",
                 "creativeTab": "stew_blocks_furniture",
-                "light": 7
+                "light": 15
              }
           ]
        }

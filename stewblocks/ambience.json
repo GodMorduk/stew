@@ -46,26 +46,6 @@
                "creativeTab": "stew_blocks_ambience"
             },
             {
-               "id": "organic_blue",
-               "material": "grass",
-               "creativeTab": "stew_blocks_ambience"
-            },
-            {
-               "id": "organic_lightgray",
-               "material": "grass",
-               "creativeTab": "stew_blocks_ambience"
-            },
-            {
-               "id": "organic_purple",
-               "material": "grass",
-               "creativeTab": "stew_blocks_ambience"
-            },
-            {
-               "id": "organic_red",
-               "material": "grass",
-               "creativeTab": "stew_blocks_ambience"
-            },
-            {
                "id": "pile_books",
                "snowball": "minecraft:book",
                "material": "grass",

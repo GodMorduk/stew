@@ -204,6 +204,7 @@
           {
              "id": "bedrock_warped",
              "material": "rock",
+             "light" : 7, 
             "creativeTab": "stew_blocks_dungeon",
              "hardness" : 999999
           }
@@ -215,6 +216,7 @@
           {
              "id": "warp_dreg",
              "material": "rock",
+             "light" : 7, 
             "creativeTab": "stew_blocks_dungeon",
              "hardness" : 999999
           }
