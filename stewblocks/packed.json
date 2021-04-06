@@ -241,7 +241,7 @@
          ]
       },
       {
-         "type": "block:simple",
+         "type": "block:orientable:directional",
          "entries":[
             {
                "id": "packed_sticks",

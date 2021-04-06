@@ -1,5 +1,10 @@
 {
-    "variants": {
-      "normal": {"model": "stewblocks:object_reel_chain"}
-    }
+  "variants": {
+    "facing=north": { "model": "stewblocks:object_reel_chain", "x": 90, "y": 0},
+    "facing=east": { "model": "stewblocks:object_reel_chain", "x": 90, "y": 90},
+    "facing=south": { "model": "stewblocks:object_reel_chain", "x": 90, "y": 180},
+    "facing=west": { "model": "stewblocks:object_reel_chain", "x": 90, "y": 270},
+    "facing=up": { "model": "stewblocks:object_reel_chain" },
+    "facing=down": { "model": "stewblocks:object_reel_chain", "x": 180 }
+  }
 }

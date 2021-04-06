@@ -1,5 +1,12 @@
+
+
 {
   "variants": {
-	"normal": {"model": "stewblocks:packed_sticks"}
+    "facing=north": { "model": "stewblocks:packed_sticks", "x": 90, "y": 0},
+    "facing=east": { "model": "stewblocks:packed_sticks", "x": 90, "y": 90},
+    "facing=south": { "model": "stewblocks:packed_sticks", "x": 90, "y": 180},
+    "facing=west": { "model": "stewblocks:packed_sticks", "x": 90, "y": 270},
+    "facing=up": { "model": "stewblocks:packed_sticks" },
+    "facing=down": { "model": "stewblocks:packed_sticks", "x": 180 }
   }
 }

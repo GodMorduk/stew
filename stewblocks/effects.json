@@ -116,7 +116,7 @@
                 "isFullCube": false,               
                 "isOpaqueCube": false,              
                 "opacity": 0,  
-                "light" : 10, 
+                "light" : 15, 
                 "collisionBounds": null  
             }
          ]
