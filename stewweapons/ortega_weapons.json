@@ -6,7 +6,8 @@
 				"creativeTab": "stew_weapons",
 				"attackSpeed": -2.4,
 				"damage": 9,
-				"material": "diamond"
+				"material": "diamond",
+				"maxDamage": 5000
 			}]
 		},
 		{
@@ -16,7 +17,8 @@
 				"creativeTab": "stew_weapons",
 				"attackSpeed": -2.4,
 				"damage": 6,
-				"material": "iron"
+				"material": "iron",
+				"maxDamage": 1500
 			}]
 		},
 		{
@@ -26,7 +28,8 @@
 				"creativeTab": "stew_weapons",
 				"attackSpeed": -2.5,
 				"damage": 7,
-				"material": "diamond"
+				"material": "diamond",
+				"maxDamage": 2500
 			}]
 		},
 		{
@@ -36,7 +39,8 @@
 				"creativeTab": "stew_weapons",
 				"attackSpeed": -2.2,
 				"damage": 4,
-				"material": "iron"
+				"material": "iron",
+				"maxDamage": 1500
 			}]
 		},
 		{
@@ -46,7 +50,8 @@
 				"creativeTab": "stew_weapons",
 				"attackSpeed": -2.3,
 				"damage": 7,
-				"material": "iron"
+				"material": "iron",
+				"maxDamage": 1500
 			}]
 		},
 		{
@@ -56,7 +61,8 @@
 				"creativeTab": "stew_weapons",
 				"attackSpeed": -2.2,
 				"damage": 8,
-				"material": "iron"
+				"material": "iron",
+				"maxDamage": 1500
 			}]
 		},
 		{
@@ -66,7 +72,8 @@
 				"creativeTab": "stew_weapons",
 				"attackSpeed": -2.4,
 				"damage": 7,
-				"material": "diamond"
+				"material": "diamond",
+				"maxDamage": 5000
 			}]
 		},
 		{
@@ -76,7 +83,8 @@
 				"creativeTab": "stew_weapons",
 				"attackSpeed": -2.3,
 				"damage": 6,
-				"material": "iron"
+				"material": "iron",
+				"maxDamage": 1500
 			}]
 		},
 		{
@@ -86,7 +94,8 @@
 				"creativeTab": "stew_weapons",
 				"attackSpeed": -2.2,
 				"damage": 6,
-				"material": "iron"
+				"material": "iron",
+				"maxDamage": 1500
 			}]
 		},
 		{
@@ -96,7 +105,8 @@
 				"creativeTab": "stew_weapons",
 				"attackSpeed": -2.4,
 				"damage": 8,
-				"material": "diamond"
+				"material": "diamond",
+				"maxDamage": 5000
 			}]
 		},
 		{
@@ -106,7 +116,8 @@
 				"creativeTab": "stew_weapons",
 				"attackSpeed": -2.8,
 				"damage": 7,
-				"material": "iron"
+				"material": "iron",
+				"maxDamage": 1500
 			}]
 		},
 		{
@@ -116,7 +127,8 @@
 				"creativeTab": "stew_weapons",
 				"attackSpeed": -3,
 				"damage": 10,
-				"material": "iron"
+				"material": "iron",
+				"maxDamage": 1500
 			}]
 		},
 		{
@@ -126,7 +138,8 @@
 				"creativeTab": "stew_weapons",
 				"attackSpeed": -2,
 				"damage": 5,
-				"material": "iron"
+				"material": "iron",
+				"maxDamage": 1500
 			}]
 		},
 		{
@@ -136,7 +149,8 @@
 				"creativeTab": "stew_weapons",
 				"attackSpeed": -2.4,
 				"damage": 6,
-				"material": "iron"
+				"material": "iron",
+				"maxDamage": 1500
 			}]
 		},
 		{
@@ -146,7 +160,8 @@
 				"creativeTab": "stew_weapons",
 				"attackSpeed": -2.4,
 				"damage": 6,
-				"material": "iron"
+				"material": "iron",
+				"maxDamage": 1500
 			}]
 		},
 		{
@@ -156,7 +171,8 @@
 				"creativeTab": "stew_weapons",
 				"attackSpeed": -2.25,
 				"damage": 8,
-				"material": "iron"
+				"material": "iron",
+				"maxDamage": 1500
 			}]
 		},
 		{
@@ -166,7 +182,8 @@
 				"creativeTab": "stew_weapons",
 				"attackSpeed": -2.4,
 				"damage": 6,
-				"material": "iron"
+				"material": "iron",
+				"maxDamage": 1500
 			}]
 		},
 		{
@@ -176,7 +193,8 @@
 				"creativeTab": "stew_weapons",
 				"attackSpeed": -2.5,
 				"damage": 7,
-				"material": "diamond"
+				"material": "diamond",
+				"maxDamage": 2500
 			}]
 		},
 		{
@@ -186,7 +204,8 @@
 				"creativeTab": "stew_weapons",
 				"attackSpeed": -2.8,
 				"damage": 9,
-				"material": "iron"
+				"material": "iron",
+				"maxDamage": 1500
 			}]
 		},
 		{
@@ -196,7 +215,8 @@
 				"creativeTab": "stew_weapons",
 				"attackSpeed": -2.4,
 				"damage": 6,
-				"material": "iron"
+				"material": "iron",
+				"maxDamage": 1500
 			}]
 		},
 		{
@@ -206,7 +226,8 @@
 				"creativeTab": "stew_weapons",
 				"attackSpeed": -2.2,
 				"damage": 5,
-				"material": "iron"
+				"material": "iron",
+				"maxDamage": 1500
 			}]
 		},
 		{
@@ -216,7 +237,8 @@
 				"creativeTab": "stew_weapons",
 				"attackSpeed": -2.6,
 				"damage": 8,
-				"material": "iron"
+				"material": "iron",
+				"maxDamage": 1500
 			}]
 		},
 		{
@@ -226,7 +248,8 @@
 				"creativeTab": "stew_weapons",
 				"attackSpeed": -2.4,
 				"damage": 7,
-				"material": "diamond"
+				"material": "diamond",
+				"maxDamage": 2500
 			}]
 		},
 		{
@@ -236,7 +259,8 @@
 				"creativeTab": "stew_weapons",
 				"attackSpeed": -2.8,
 				"damage": 8,
-				"material": "iron"
+				"material": "iron",
+				"maxDamage": 1500
 			}]
 		},
 		{
@@ -246,7 +270,8 @@
 				"creativeTab": "stew_weapons",
 				"attackSpeed": -3.5,
 				"damage": 15,
-				"material": "iron"
+				"material": "iron",
+				"maxDamage": 2000
 			}]
 		},
 		{
@@ -256,7 +281,8 @@
 				"creativeTab": "stew_weapons",
 				"attackSpeed": -2.5,
 				"damage": 7,
-				"material": "iron"
+				"material": "iron",
+				"maxDamage": 1500
 			}]
 		},
 		{
@@ -266,7 +292,8 @@
 				"creativeTab": "stew_weapons",
 				"attackSpeed": -2.75,
 				"damage": 9,
-				"material": "iron"
+				"material": "iron",
+				"maxDamage": 1500
 			}]
 		},
 		{
@@ -276,7 +303,8 @@
 				"creativeTab": "stew_weapons",
 				"attackSpeed": -2.2,
 				"damage": 6,
-				"material": "iron"
+				"material": "iron",
+				"maxDamage": 1500
 			}]
 		},
 		{
@@ -286,7 +314,8 @@
 				"creativeTab": "stew_weapons",
 				"attackSpeed": -3.1,
 				"damage": 11,
-				"material": "iron"
+				"material": "iron",
+				"maxDamage": 1500
 			}]
 		},
 		{
@@ -296,7 +325,8 @@
 				"creativeTab": "stew_weapons",
 				"attackSpeed": -2.5,
 				"damage": 6,
-				"material": "iron"
+				"material": "iron",
+				"maxDamage": 1500
 			}]
 		},
 		{
@@ -306,7 +336,8 @@
 				"creativeTab": "stew_weapons",
 				"attackSpeed": -2.5,
 				"damage": 6,
-				"material": "iron"
+				"material": "iron",
+				"maxDamage": 1500
 			}]
 		},
 		{
@@ -316,7 +347,8 @@
 				"creativeTab": "stew_weapons",
 				"attackSpeed": -2.4,
 				"damage": 7,
-				"material": "iron"
+				"material": "iron",
+				"maxDamage": 1500
 			}]
 		},
 		{
@@ -326,7 +358,8 @@
 				"creativeTab": "stew_weapons",
 				"attackSpeed": -2.2,
 				"damage": 7,
-				"material": "diamond"
+				"material": "diamond",
+				"maxDamage": 5000
 			}]
 		},
 		{
@@ -346,7 +379,8 @@
 				"creativeTab": "stew_weapons",
 				"attackSpeed": -2.8,
 				"damage": 9,
-				"material": "gold"
+				"material": "gold",
+				"maxDamage": 500
 			}]
 		},
 		{
@@ -356,7 +390,8 @@
 				"creativeTab": "stew_weapons",
 				"attackSpeed": -2.4,
 				"damage": 4,
-				"material": "iron"
+				"material": "iron",
+				"maxDamage": 1500
 			}]
 		},
 		{
@@ -366,7 +401,8 @@
 				"creativeTab": "stew_weapons",
 				"attackSpeed": -2.4,
 				"damage": 4,
-				"material": "iron"
+				"material": "iron",
+				"maxDamage": 1500
 			}]
 		},
 		{
@@ -376,7 +412,8 @@
 				"creativeTab": "stew_weapons",
 				"attackSpeed": -2.4,
 				"damage": 6,
-				"material": "diamond"
+				"material": "diamond",
+				"maxDamage": 5000
 			}]
 		},
 		{
@@ -386,7 +423,8 @@
 				"creativeTab": "stew_weapons",
 				"attackSpeed": -2.3,
 				"damage": 5,
-				"material": "iron"
+				"material": "iron",
+				"maxDamage": 1500
 			}]
 		},
 		{
@@ -396,7 +434,8 @@
 				"creativeTab": "stew_weapons",
 				"attackSpeed": -2.4,
 				"damage": 4,
-				"material": "stone"
+				"material": "stone",
+				"maxDamage": 100
 			}]
 		},
 		{
@@ -406,7 +445,8 @@
 				"creativeTab": "stew_weapons",
 				"attackSpeed": -2.5,
 				"damage": 7,
-				"material": "iron"
+				"material": "iron",
+				"maxDamage": 1500
 			}]
 		},
 		{
@@ -416,7 +456,8 @@
 				"creativeTab": "stew_weapons",
 				"attackSpeed": -2.4,
 				"damage": 7,
-				"material": "iron"
+				"material": "iron",
+				"maxDamage": 1500
 			}]
 		},
 		{
@@ -426,7 +467,8 @@
 				"creativeTab": "stew_weapons",
 				"attackSpeed": -2.4,
 				"damage": 6,
-				"material": "diamond"
+				"material": "diamond",
+				"maxDamage": 5000
 			}]
 		},
 		{
@@ -436,7 +478,8 @@
 				"creativeTab": "stew_weapons",
 				"attackSpeed": -3,
 				"damage": 9,
-				"material": "iron"
+				"material": "iron",
+				"maxDamage": 1500
 			}]
 		},
 		{
@@ -446,7 +489,8 @@
 				"creativeTab": "stew_weapons",
 				"attackSpeed": -2.4,
 				"damage": 11,
-				"material": "diamond"
+				"material": "diamond",
+				"maxDamage": 5000
 			}]
 		},
 		{
@@ -456,7 +500,8 @@
 				"creativeTab": "stew_weapons",
 				"attackSpeed": -2.7,
 				"damage": 8,
-				"material": "iron"
+				"material": "iron",
+				"maxDamage": 1500
 			}]
 		},
 		{
@@ -466,7 +511,8 @@
 				"creativeTab": "stew_weapons",
 				"attackSpeed": -2.4,
 				"damage": 11,
-				"material": "gold"
+				"material": "gold",
+				"maxDamage": 500
 			}]
 		},
 		{
@@ -476,7 +522,8 @@
 				"creativeTab": "stew_weapons",
 				"attackSpeed": -2.5,
 				"damage": 6,
-				"material": "iron"
+				"material": "iron",
+				"maxDamage": 1500
 			}]
 		},
 		{
@@ -486,7 +533,8 @@
 				"creativeTab": "stew_weapons",
 				"attackSpeed": -2.5,
 				"damage": 8,
-				"material": "diamond"
+				"material": "diamond",
+				"maxDamage": 1500
 			}]
 		},
 		{
@@ -496,7 +544,8 @@
 				"creativeTab": "stew_weapons",
 				"attackSpeed": -2.6,
 				"damage": 7,
-				"material": "iron"
+				"material": "iron",
+				"maxDamage": 1500
 			}]
 		}
 	]
