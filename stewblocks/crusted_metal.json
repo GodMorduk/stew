@@ -108,6 +108,7 @@
                   "isPassable": false,
                   "isFullCube": false,
                   "isOpaqueCube": false,
+                  "hideAdjacentSides": true,
                   "opacity": 0,
                   "bounds": {
                     "0": { "from": [0, 0.9167, 0], "to": [1, 1, 1] },
