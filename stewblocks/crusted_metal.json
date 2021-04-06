@@ -184,8 +184,8 @@
                "creativeTab": "stew_blocks_dungeon",
                "itemModel": "stewblocks:door_crusted_metal_tagged",
                "hardness" : 999999,
-               "opensWithRedstone": true,
-               "opensWithHands":  false
+               "opensWithRedstone": false,
+               "opensWithHands":  true
            }      
        ]
        }
