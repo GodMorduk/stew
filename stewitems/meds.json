@@ -487,12 +487,12 @@
                ],
                "potionEffects":[
                   {
-                     "id":"minecraft:restoreSanity",
+                     "id":"misca:restoreSanity",
                      "amplifier":14,
                      "duration":1
                   },
                   {
-                     "id":"minecraft:damageIntegrity",
+                     "id":"misca:damageIntegrity",
                      "amplifier":5,
                      "duration":1
                   }
