@@ -22,7 +22,7 @@
          "entries":[
             {
                "id": "furniture_books",
-               "material": "iron",
+               "material": "wood",
                "creativeTab": "stew_blocks_furniture",
                "hardness": 1,
                "renderLayer": "mippedCutout",
