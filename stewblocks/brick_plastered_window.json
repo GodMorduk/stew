@@ -64,7 +64,7 @@
                "isFullCube": false,
                "isOpaqueCube": false,
                "hideAdjacentSides": true,
-               "renderLayer": "cutout"
+               "renderLayer": "translucent"
             }
          ]
       },
@@ -98,7 +98,7 @@
                      "isFullCube": false,
                      "isOpaqueCube": false,
                      "hideAdjacentSides": true,
-                     "renderLayer": "cutout"
+                     "renderLayer": "translucent"
                   }
                ]
             },
@@ -115,7 +115,7 @@
                      "isFullCube": false,
                      "isOpaqueCube": false,
                      "hideAdjacentSides": true,
-                     "renderLayer": "cutout"
+                     "renderLayer": "translucent"
                   }
                ]
             },
