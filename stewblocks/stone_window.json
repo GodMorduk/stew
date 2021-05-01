@@ -5,7 +5,7 @@
           "entries":[
              {
                 "id": "wallgap_stonebrick_arch",
-                "creativeTab": "stew_blocks_stone",
+                "creativeTab": "stew_blocks_glass",
                 "hardness" : 1,
                 "opacity": 0,
                 "isFullCube": false,
@@ -20,7 +20,7 @@
         "entries":[
            {
               "id": "wallgap_stonebrick_rhombus",
-              "creativeTab": "stew_blocks_stone",
+              "creativeTab": "stew_blocks_glass",
               "hardness" : 1,
               "opacity": 0,
               "isFullCube": false,
@@ -36,7 +36,7 @@
            {
               "id": "stonearch_window",
               "material": "glass",
-              "creativeTab": "stew_blocks_stone",
+              "creativeTab": "stew_blocks_glass",
               "soundType" : "glass",
               "hardness" : 1,
               "opacity": 0,

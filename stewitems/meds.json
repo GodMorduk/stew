@@ -89,6 +89,11 @@
                      "id":"misca:restoreIntegrity",
                      "duration":1,
                      "amplifier":2
+                  },
+                  {
+                     "id":"minecraft:instant_health",
+                     "duration":1,
+                     "amplifier":1
                   }
                ],
                "potionEffectProbability":1.0,
@@ -540,6 +545,11 @@
                      "id":"minecraft:slowness",
                      "amplifier":1,
                      "duration":18000
+                  },
+                  {
+                     "id":"minecraft:regeneration",
+                     "duration":60,
+                     "amplifier":2
                   }
                ],
                "maxStack":64,
