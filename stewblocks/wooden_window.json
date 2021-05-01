@@ -6,7 +6,7 @@
              {
                 "id": "window_wooden_arch",
                 "material": "wood",
-                "creativeTab": "stew_blocks_wood",
+                "creativeTab": "stew_blocks_glass",
                 "soundType" : "wood",
                 "hardness" : 1,
                 "opacity": 0,
@@ -23,7 +23,7 @@
            {
               "id": "window_wooden_asian",
               "material": "wood",
-              "creativeTab": "stew_blocks_wood",
+              "creativeTab": "stew_blocks_glass",
               "soundType" : "wood",
               "hardness" : 1,
               "opacity": 0,
@@ -40,7 +40,7 @@
         {
            "id": "window_wooden_cross",
            "material": "wood",
-           "creativeTab": "stew_blocks_wood",
+           "creativeTab": "stew_blocks_glass",
            "soundType" : "wood",
            "hardness" : 1,
            "opacity": 0,
@@ -57,7 +57,7 @@
         {
            "id": "window_wooden_square",
            "material": "wood",
-           "creativeTab": "stew_blocks_wood",
+           "creativeTab": "stew_blocks_glass",
            "soundType" : "wood",
            "hardness" : 1,
            "opacity": 0,
@@ -74,7 +74,7 @@
         {
            "id": "window_wooden_web",
            "material": "wood",
-           "creativeTab": "stew_blocks_wood",
+           "creativeTab": "stew_blocks_glass",
            "soundType" : "wood",
            "hardness" : 1,
            "opacity": 0,

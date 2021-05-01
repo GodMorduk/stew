@@ -6,7 +6,7 @@
             {
                "id": "brick_plastered_window_blue",
                "material": "glass",
-               "creativeTab": "stew_blocks_stone",
+               "creativeTab": "stew_blocks_glass",
                "soundType" : "glass",
                "hardness" : 1,
                "opacity": 0,
@@ -23,7 +23,7 @@
             {
                "id": "brick_plastered_window_orange",
                "material": "glass",
-               "creativeTab": "stew_blocks_stone",
+               "creativeTab": "stew_blocks_glass",
                "soundType" : "glass",
                "hardness" : 1,
                "opacity": 0,
@@ -40,7 +40,7 @@
             {
                "id": "brick_plastered_window_red",
                "material": "glass",
-               "creativeTab": "stew_blocks_stone",
+               "creativeTab": "stew_blocks_glass",
                "soundType" : "glass",
                "hardness" : 1,
                "opacity": 0,
@@ -57,7 +57,7 @@
             {
                "id": "brick_plastered_window_yellow",
                "material": "glass",
-               "creativeTab": "stew_blocks_stone",
+               "creativeTab": "stew_blocks_glass",
                "soundType" : "glass",
                "hardness" : 1,
                "opacity": 0,
@@ -74,7 +74,7 @@
                   {
                      "id": "brick_plastered_window_yellow_elven",
                      "material": "glass",
-                     "creativeTab": "stew_blocks_stone",
+                     "creativeTab": "stew_blocks_glass",
                      "soundType" : "glass",
                      "hardness" : 1,
                      "opacity": 0,
@@ -91,7 +91,7 @@
                   {
                      "id": "brick_plastered_window_white_hobbit",
                      "material": "glass",
-                     "creativeTab": "stew_blocks_stone",
+                     "creativeTab": "stew_blocks_glass",
                      "soundType" : "glass",
                      "hardness" : 1,
                      "opacity": 0,
@@ -108,7 +108,7 @@
                   {
                      "id": "brick_plastered_window_yellow_hobbit",
                      "material": "glass",
-                     "creativeTab": "stew_blocks_stone",
+                     "creativeTab": "stew_blocks_glass",
                      "soundType" : "glass",
                      "hardness" : 1,
                      "opacity": 0,
@@ -125,7 +125,7 @@
                   {
                      "id": "wall_sindarin_window",
                      "material": "glass",
-                     "creativeTab": "stew_blocks_stone",
+                     "creativeTab": "stew_blocks_glass",
                      "soundType" : "glass",
                      "hardness" : 1,
                      "opacity": 0,
