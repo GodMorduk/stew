@@ -350,7 +350,7 @@
             {
                "id":"medicine_nicotine_gum",
                "creativeTab":"stewmeds",
-               "model":"stewprops:etc",
+               "model":"stewitems:medicine_nicotine_gum",
                "information":[
                   "Обычная жвачка, содержащая никотин, для случаев, когда курение запрещено."
                ],
