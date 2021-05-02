@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "top": "stewblocks:blocks/sandstone_polished",
+        "side": "stewblocks:blocks/sandstone_inscribed",
+        "bottom": "stewblocks:blocks/sandstone_polished"
+    }
+}

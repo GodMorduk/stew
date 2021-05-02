@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "stewblocks:blocks/marble_mixed_checkered_small"
+    }
+}

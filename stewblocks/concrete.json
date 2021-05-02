@@ -71,19 +71,6 @@
                   "faceBySide": true
                 }
              ]
-          }, 
-            {
-               "type": "block:orientable:directional",
-               "entries":[
-                  {
-                     "id": "asphalt",
-                     "creativeTab": "stew_blocks_stone",
-                     "material": "rock",
-                     "itemModel": "stewblocks:asphalt",
-                     "hardness": 1,
-                     "faceBySide": true
-                   }
-                ]
-             } 
+          }
    ]
 }
