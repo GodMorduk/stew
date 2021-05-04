@@ -74,6 +74,15 @@ item.stewitems.medicine_freezing_powder.name=Freezing Dust
 item.stewitems.medicine_ironskin_pills.name=Steel Nuts
 item.stewitems.medicine_inner_light.name=Innerlight Elixir
 item.stewitems.medicine_heating_paste.name=Heating Paste
+item.stewitems.medicine_kanai.name=Kanai Leaf
+item.stewitems.medicine_scomen.name=Scomen Shroom
+item.stewitems.medicine_serebrolist.name=Serebrolist
+item.stewitems.medicine_sweetleaf.name=Sweet Leaf
+item.stewitems.medicine_sotocvet.name=Sotocvet
+item.stewitems.medicine_dexa.name=Dexa
+item.stewitems.medicine_contegal_joy.name=Contegal Joy
+item.stewitems.medicine_kazachban.name=Kazachban
+
 
 item.stewitems.harp.name=Harp
 item.stewitems.guitar.name=Guitar

@@ -11,23 +11,29 @@
                   "Красновато-коричневая и чрезвычайно горькая настойка. Является сильным обезбаливающим и при злобоупотреблении вызывает привыкание.",
 				  "Часто используется в качестве дешевой альтернативы алкоголю теми, кто хочет забыться в себе.",
                   "§lЭффекты:",
-                  "Накладывает слабость II и замедление на 10 минут.",
+                  "Накладывает слабость II и замедление на 5 минут.",
+				  "Убавляет 20 единиц стамины.",
                   "Восстанавливает 25 единиц ментального здоровья."
                ],
                "potionEffects":[
                   {
                      "id":"minecraft:weakness",
-                     "duration":60000,
+                     "duration": 6000,
                      "amplifier":2
                   },
                   {
                      "id":"minecraft:slowness",
-                     "duration":60000
+                     "duration": 6000
+                  },
+                  {
+                     "id":"misca:restoreSanity",
+                     "duration": 1,
+                     "amplifier": 4
                   },
                   {
                      "id":"misca:damageStamina",
-                     "duration":1,
-                     "amplifier":4
+                     "duration": 1,
+                     "amplifier": 3
                   }
                ],
                "potionEffectProbability":1.0,
@@ -78,7 +84,7 @@
                   "§9Better then cooled!",
                   "§lЭффекты:",
                   "Слабость I на 1 минуту.",
-                  "Восстанавливает 15 единиц целостности."
+                  "Восстанавливает 25 единиц целостности."
                ],
                "potionEffects":[
                   {
@@ -88,7 +94,7 @@
                   {
                      "id":"misca:restoreIntegrity",
                      "duration":1,
-                     "amplifier":2
+                     "amplifier":4
                   },
                   {
                      "id":"minecraft:instant_health",
@@ -141,7 +147,7 @@
                   "Прочный эластичный бинт. Он не только поможет залечить раны, но и укрепит общее состояние вашего тела.",
                   "§lЭффекты:",
                   "Регенерация: восстанавливает 6 ХП.",
-                  "Восстанавливает 5 единиц целостности."
+                  "Восстанавливает 10 единиц целостности."
                ],
                "potionEffects":[
                   {
@@ -151,7 +157,7 @@
                   {
                      "id":"misca:restoreIntegrity",
                      "duration":1,
-                     "amplifier":0
+                     "amplifier":1
                   }
                ],
                "potionEffectProbability":1.0,
@@ -197,18 +203,18 @@
                "information":[
                   "Мощный стимулятор. Ранее применялся как допинг для легкоатлетов и солдат. При частом использовании вызывает нарушения ЦНС.",
                   "§lЭффекты:",
-                  "Ускорение II и Прыжок I на 5 минут.",
+                  "Ускорение II и Прыжок I на 15 минут.",
                   "Убавляет 10 единиц ментального здоровья."
                ],
                "potionEffects":[
                   {
                      "id":"minecraft:speed",
-                     "duration":6000,
+                     "duration":18000,
                      "amplifier":2
                   },
                   {
                      "id":"minecraft:jump_boost",
-                     "duration":6000
+                     "duration":18000
                   },
                   {
                      "id":"misca:damageSanity",
@@ -231,8 +237,7 @@
                "information":[
                   "Инъекция никтогеника позволяет более чётко воспринимать объекты в темноте. Говорят, это выжимка из секрекции аунсальского крота.",
                   "§lЭффекты:",
-                  "Ночное зрение на 25 минут.",
-                  "Убавляет 10 единиц стамины."
+                  "Ночное зрение на 25 минут."
                ],
                "potionEffects":[
                   {
@@ -251,7 +256,7 @@
             {
                "id":"medicine_antidote",
                "creativeTab":"stewmeds",
-               "model":"stewprops:medicine_pill_09",
+               "model":"stewitems:korpidex",
                "information":[
                   "Вещество Спродекс, нейтрализующее воздействие большинства известных на Планах ядов. Однажды у самого создателя препарата антидота под рукой не оказалось...",
                   "§lЭффекты:",
@@ -278,12 +283,12 @@
                "information":[
                   "Фенофазиновая мазь позволяет на время охладить кожные покровы и повысить их огнеупорность. Незаменимое средство для тех, кто любит играть с огнём.",
                   "§lЭффекты:",
-                  "На 3 минуты дает защиту от огня."
+                  "На 12 минут дает защиту от огня."
                ],
                "potionEffects":[
                   {
                      "id":"minecraft:fire_resistance",
-                     "duration":3600
+                     "duration":14400
                   }
                ],
                "potionEffectProbability":1.0,
@@ -324,13 +329,13 @@
                "information":[
                   "При правильной обработке личинка грокса ненадолго укрепляет мышцы. Осторожно, укус грокса приводит к мышечному параличу!",
                   "§lЭффекты:",
-                  "Сила II на 2 минуты.",
+                  "Сила II на 6 минут.",
                   "Восстанавливает 10 единиц стамины."
                ],
                "potionEffects":[
                   {
                      "id":"minecraft:strength",
-                     "duration":2400,
+                     "duration":7200,
                      "amplifier":2
                   },
                   {
@@ -375,12 +380,12 @@
                "information":[
                   "Слизь, дарующая возможность дышать под водой. Принимается перорально. Вкус такой же противный, как и запах.",
                   "§lЭффекты:",
-                  "Дыхание под водой на 5 минут."
+                  "Дыхание под водой на 20 минут."
                ],
                "potionEffects":[
                   {
                      "id":"minecraft:water_breathing",
-                     "duration":6000
+                     "duration": 24000
                   }
                ],
                "potionEffectProbability":1.0,
@@ -394,7 +399,7 @@
             {
                "id":"medicine_twyrine",
                "creativeTab":"stewmeds",
-               "model":"stewprops:bottle_closed_00",
+               "model":"stewitems:gradilum",
                "information":[
                   "Горькая настойка на травах, растущих в окрестностях Города. Незначительно укрепляет иммунитет и, согласно слухам, открывает взору скрытые вещи.",
                   "§lЭффекты:",
@@ -423,27 +428,27 @@
             {
                "id":"medicine_tranquilizer",
                "creativeTab":"stewmeds",
-               "model":"stewprops:medicine_syringe_10",
+               "model":"stewitems:anadamin",
                "information":[
                   "Транквилизатор, обладающий мощным седативным и антипсихотическим действием. При длительном приёме вызывает необратимые изменения психики.",
                   "§lЭффекты:",
                   "Накладывает слабость II и замедление на 10 минут.",
-                  "Восстанавливает 25 ментального здоровья."
+                  "Восстанавливает 40 ментального здоровья."
                ],
                "potionEffects":[
                   {
                      "id":"minecraft:weakness",
-                     "duration":60000,
+                     "duration":12000,
                      "amplifier":2
                   },
                   {
                      "id":"minecraft:slowness",
-                     "duration":60000
+                     "duration":12000
                   },
                   {
                      "id":"misca:restoreSanity",
                      "duration":1,
-                     "amplifier":4
+                     "amplifier":7
                   }
                ],
                "potionEffectProbability":1.0,
@@ -483,22 +488,22 @@
             {
                "id":"medicine_medx",
                "creativeTab":"stewmeds",
-               "model":"stewprops:medicine_syringe_00",
+               "model":"stewitems:okrim",
                "information":[
                   "Наркотическое вещество, вводящее в состояние эйфории. Вызывает привыкание и кучу мерзких побочек, даже при кратковременном применении. Может быть вредно для сердца.",
                   "§lЭффекты:",
-                  "Восстанавливает 75 ментального здоровья.",
-                  "Снимает 30 целостности."
+                  "Восстанавливает 85 ментального здоровья.",
+                  "Снимает 20 целостности."
                ],
                "potionEffects":[
                   {
                      "id":"misca:restoreSanity",
-                     "amplifier":14,
+                     "amplifier":16,
                      "duration":1
                   },
                   {
                      "id":"misca:damageIntegrity",
-                     "amplifier":5,
+                     "amplifier":3,
                      "duration":1
                   }
                ],
@@ -516,14 +521,14 @@
                "information":[
                   "Инъекция нанитов, которые перестраивают организм на клеточном уровне. Позволяет восстановить большинство поврежденных частей тела, но это чудовищно болезненно. Рекомендуется обездвижить того, на ком это применяется, поскольку от адской боли велик соблазн самоубийства.",
                   "§lЭффекты:",
-                  "Восстанавливает 75 целостности",
+                  "Восстанавливает 100 целостности",
                   "Снимает 50 стамины и 25 менталки.",
                   "Накладывает замедление I и слабость I на 15 минут."
                ],
                "potionEffects":[
                   {
                      "id":"misca:restoreIntegrity",
-                     "amplifier":14,
+                     "amplifier":19,
                      "duration":1
                   },
                   {
@@ -566,12 +571,12 @@
                "information":[
                   "Базовые антидепрессанты. Помогают от плохого настроения и умственной усталости. Вызывают привыкание в больших количествах.",
                   "§lЭффекты:",
-                  "Восстанавливает 15 ментального здоровья"
+                  "Восстанавливает 25 ментального здоровья"
                ],
                "potionEffects":[
                   {
                      "id":"misca:restoreSanity",
-                     "amplifier":2,
+                     "amplifier": 4,
                      "duration":1
                   }
                ],
@@ -585,7 +590,7 @@
             {
                "id":"medicine_stamina_inhaler",
                "creativeTab":"stewmeds",
-               "model":"stewprops:medicine_inhaler_05",
+               "model":"stewitems:psyalkan",
                "information":[
                   "При вдыхании дает ощущение силы и легкости. Помогает при усталости от физических нагрузок и астматических приступах. Запрещен в ряде мест, как допинг.",
                   "§lЭффекты:",
@@ -612,7 +617,7 @@
                "information":[
                   "Мощный состав разнообразных веществ в этом шприце вызывает усиленную регенерацию тела. Неплохо залечивает даже глубокие раны. Популярен везде ввиду отсутствия негативных побочных эффектов, кроме излишнего чувства голода.",
                   "§lЭффекты:",
-                  "Восстанавливает 25 целосности.",
+                  "Восстанавливает 25 целостности.",
                   "Восстанавливает 10 сердец здоровья."
                ],
                "potionEffects":[
@@ -647,7 +652,7 @@
                   "Жидкость, распыляемая на тело цели. Сильно пахнет мускусом. Рецепт держится в секрете, но ее точно производят где-то в Городе. Восстанавливает вашу связь с Осью, повреждая ваше тело из за временных колебаний Стабильности.",
                   "§lЭффекты:",
                   "Убирает 35 единиц искажения",
-                  "Снимает 40 единиц целосности."
+                  "Снимает 40 единиц целостности."
                ],
                "potionEffects":[
                   {
@@ -700,7 +705,7 @@
             {
                "id":"medicine_elixir",
                "creativeTab":"stewmeds",
-               "model":"stewprops:bottle_blue_02",
+               "model":"stewitems:dofilaminum",
                "information":[
                   "Синий концентрированный сироп с характерной фруктовой отдушкой. По мнению исследователей из Города, помогает от Искажения, хоть и вызывает мышечную слабость вкупе с приступом лени.",
                   "§lЭффекты:",
@@ -756,14 +761,14 @@
                "information":[
                   "Таблетка, которая значительно улучшает работу мускулатуры и кровообращение. Широко известна среди атлетов для интенсивных тренировок. Вызывает сильную жажду.",
                   "§lЭффекты:",
-                  "На 3 минуты добавляет Спешку III уровня.",
+                  "На 6 минут добавляет Спешку III уровня.",
 				  "На 3 минуты накладывает жажду I уровня."
                ],
                "potionEffects":[
                   {
                      "id":"minecraft:haste",
                      "amplifier":3,
-                     "duration": 3600
+                     "duration": 7200
                   },
                   {
                      "id":"toughasnails:thirst",
@@ -887,6 +892,255 @@
                   }
                ],
                "maxStack":64,
+               "healAmount":0,
+               "saturation":0,
+               "useAction":"eat",
+               "alwaysEdible":true,
+               "isWolfFood":false
+            },
+            {
+               "id":"medicine_contegal_joy",
+               "creativeTab":"stewmeds",
+               "model":"stewitems:contegal_joy",
+               "information":[
+                  "Вы не знаете такого места - Контегаль, однако эта адская бормотуха греет душу, тело и все ваши органы одновременно. Голова после нее не болит. Должно быть, это произведение каких-то забытых Богов или великих душ прошлого.",
+                  "§lЭффекты:",
+                  "Восстанавливает 40 единиц ментального здоровья.",
+				  "Восстанавливает 40 единиц стамины."
+               ],
+               "potionEffects":[
+                  {
+                     "id":"misca:restoreSanity",
+                     "amplifier":7,
+                     "duration":1
+                  },
+                  {
+                     "id":"misca:restoreStamina",
+                     "amplifier":7,
+                     "duration":1
+                  }
+               ],
+               "maxStack": 64,
+               "healAmount":0,
+               "saturation":0,
+               "useAction":"eat",
+               "alwaysEdible":true,
+               "isWolfFood":false
+            },
+            {
+               "id":"medicine_dexa",
+               "creativeTab":"stewmeds",
+               "model":"stewitems:dexa",
+               "information":[
+                  "Эксперементальное и дорогое в производстве наркотическое вещество, улучшающее настроение и кровообращение. Вызывает привыкание и опасно в больших дозах или при частом употреблении.",
+                  "§lЭффекты:",
+                  "Восстанавливает 30 единиц ментального здоровья.",
+				  "Восстанавливает 30 единиц стамины.",
+				  "Накладывает ускорение II на 5 минут.",
+				  "Накладывает ускорение копания II на 5 минут."
+               ],
+               "potionEffects":[
+                  {
+                     "id":"misca:restoreSanity",
+                     "amplifier":5,
+                     "duration":1
+                  },
+                  {
+                     "id":"misca:restoreStamina",
+                     "amplifier":5,
+                     "duration":1
+                  },
+                  {
+                     "id":"minecraft:speed",
+                     "amplifier": 2,
+                     "duration":6000
+                  },
+                  {
+                     "id":"minecraft:haste",
+                     "amplifier": 2,
+                     "duration":6000
+                  }
+               ],
+               "maxStack": 64,
+               "healAmount":0,
+               "saturation":0,
+               "useAction":"eat",
+               "alwaysEdible":true,
+               "isWolfFood":false
+            },
+            {
+               "id":"medicine_kazachban",
+               "creativeTab":"stewmeds",
+               "model":"stewitems:kazachban",
+               "information":[
+                  "Смесь из слегка обработанных трав, при курении слегка поднимающая настроение и расслабляющая. Считается досугом нищих и дикарей, однако, зачастую, выбирать не приходится.",
+                  "§lЭффекты:",
+                  "Восстанавливает 15 единиц ментального здоровья.",
+				  "Накладывает замедление I на 5 минут."
+               ],
+               "potionEffects":[
+                  {
+                     "id":"misca:restoreSanity",
+                     "amplifier": 2,
+                     "duration":1
+                  },
+                  {
+                     "id":"minecraft:slowness",
+                     "amplifier": 1,
+                     "duration": 6000
+                  }
+               ],
+               "maxStack": 64,
+               "healAmount":0,
+               "saturation":0,
+               "useAction":"eat",
+               "alwaysEdible":true,
+               "isWolfFood":false
+            },
+            {
+               "id":"medicine_sotocvet",
+               "creativeTab":"stewmeds",
+               "model":"stewitems:sotocvet",
+               "information":[
+                  "Сладкая и густая жидкость, получаемая из огромного количества специально обработанного меда. Вызывает привыкание, но хорошо расслабляет. Во всех смыслах.",
+                  "§lЭффекты:",
+                  "Восстанавливает 20 единиц ментального здоровья.",
+				  "Накладывает замедление I на 5 минут."
+               ],
+               "potionEffects":[
+                  {
+                     "id":"misca:restoreSanity",
+                     "amplifier": 3,
+                     "duration":1
+                  },
+                  {
+                     "id":"minecraft:slowness",
+                     "amplifier": 1,
+                     "duration": 6000
+                  }
+               ],
+               "maxStack": 64,
+               "healAmount":0,
+               "saturation":0,
+               "useAction":"eat",
+               "alwaysEdible":true,
+               "isWolfFood":false
+            },
+            {
+               "id":"medicine_sweetleaf",
+               "creativeTab":"stewmeds",
+               "model":"stewitems:sweetleaf",
+               "information":[
+                  "Очень дорогой лист редчайшего растения, за обладание которым умер не один десяток (и не один десяток раз) душ. При растирании и вдыхании через нос вызывает кучу бурных химических реакций в организме.",
+                  "§lЭффекты:",
+                  "Восстанавливает 100 единиц ментального здоровья.",
+				  "Восстанавливает 100 единиц стамины.",
+				  "Восстанавливает 100 единиц целостности."
+               ],
+               "potionEffects":[
+                  {
+                     "id":"misca:restoreSanity",
+                     "amplifier": 19,
+                     "duration":1
+                  },
+                  {
+                     "id":"misca:restoreStamina",
+                     "amplifier": 19,
+                     "duration": 1
+                  },
+                  {
+                     "id":"misca:restoreIntegrity",
+                     "amplifier": 19,
+                     "duration": 1
+                  }
+               ],
+               "maxStack": 64,
+               "healAmount":0,
+               "saturation":0,
+               "useAction":"eat",
+               "alwaysEdible":true,
+               "isWolfFood":false
+            },
+            {
+               "id":"medicine_serebrolist",
+               "creativeTab":"stewmeds",
+               "model":"stewitems:serebrolist",
+               "information":[
+                  "Специально обработанный химикатами и не только лист сребролиста можно курить для борьбы с искажением. Считается самым дешевым способом, хоть и не самым эффективным.",
+                  "§lЭффекты:",
+                  "Снижает искажение на 5 единиц."
+               ],
+               "potionEffects":[
+                  {
+                     "id":"misca:damageCorruption",
+                     "amplifier": 1,
+                     "duration":1
+                  }
+               ],
+               "maxStack": 64,
+               "healAmount":0,
+               "saturation":0,
+               "useAction":"eat",
+               "alwaysEdible":true,
+               "isWolfFood":false
+            },
+            {
+               "id":"medicine_scomen",
+               "creativeTab":"stewmeds",
+               "model":"stewitems:scomen",
+               "information":[
+                  "Грибок одного редкорастущего болотного дерева с одного из далеких Осколочных планов. Некоторые умудряются воспроизвести нечто похожее в лабораториях. Истощает силы организма, вызывая галюцинации, чудовищный голод и жажду, но активирует множественные регенеративные процессы, залечивая раны.",
+                  "§lЭффекты:",
+                  "Восстанавливает 40 единиц целостности.",
+				  "Накладывает голод II и жажду II на 5 минут."
+               ],
+               "potionEffects":[
+                  {
+                     "id":"misca:restoreIntegrity",
+                     "amplifier": 7,
+                     "duration":1
+                  },
+                  {
+                     "id":"minecraft:hunger",
+                     "amplifier": 2,
+                     "duration": 6000
+                  },
+                  {
+                     "id":"toughasnails:thirst",
+                     "amplifier": 2,
+                     "duration": 6000
+                  }
+               ],
+               "maxStack": 64,
+               "healAmount":0,
+               "saturation":0,
+               "useAction":"eat",
+               "alwaysEdible":true,
+               "isWolfFood":false
+            },
+            {
+               "id":"medicine_kanai",
+               "creativeTab":"stewmeds",
+               "model":"stewitems:kanai",
+               "information":[
+                  "Специальным образом обработанные листья растений. При курении расслабляют мышцы и запускают множественные процессы клеточного восстановления, что снижает усталость. Но действует не сразу, первые пару минут после применения наоборот вызывает сильную усталость.",
+                  "§lЭффекты:",
+                  "Восстанавливает 25 единиц стамины.",
+				  "Накладывает замедление II на 5 минут."
+               ],
+               "potionEffects":[
+                  {
+                     "id":"misca:restoreSanity",
+                     "amplifier": 4,
+                     "duration":1
+                  },
+                  {
+                     "id":"minecraft:slowness",
+                     "amplifier": 2,
+                     "duration": 6000
+                  }
+               ],
+               "maxStack": 64,
                "healAmount":0,
                "saturation":0,
                "useAction":"eat",
