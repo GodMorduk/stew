@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "top": "stewblocks:blocks/marble_pillar_top",
+        "side": "stewblocks:blocks/marble_pillar_ivory",
+        "bottom": "stewblocks:blocks/marble_pillar_top"
+    }
+}

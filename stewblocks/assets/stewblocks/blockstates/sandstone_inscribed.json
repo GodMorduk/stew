@@ -1,0 +1,10 @@
+{
+    "variants": {
+      "facing=north": { "model": "stewblocks:sandstone_inscribed", "x": 90, "y": 0},
+      "facing=east": { "model": "stewblocks:sandstone_inscribed", "x": 90, "y": 90},
+      "facing=south": { "model": "stewblocks:sandstone_inscribed", "x": 90, "y": 180},
+      "facing=west": { "model": "stewblocks:sandstone_inscribed", "x": 90, "y": 270},
+      "facing=up": { "model": "stewblocks:sandstone_inscribed"},
+      "facing=down": { "model": "stewblocks:sandstone_inscribed", "x": 180}
+    }
+  }
