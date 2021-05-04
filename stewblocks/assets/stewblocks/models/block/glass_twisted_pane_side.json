@@ -1,0 +1,7 @@
+{
+    "parent": "block/pane_side",
+    "textures": {
+        "edge": "stewblocks:blocks/glass_twisted_pane_top",
+        "pane": "stewblocks:blocks/glass_twisted"
+    }
+  }

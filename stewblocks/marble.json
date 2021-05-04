@@ -1,0 +1,318 @@
+{
+    "blocks":[
+       {
+          "type": "block:simple",
+          "entries":[
+             {
+                "id": "marble_base_forlond",
+                "material": "rock",
+               "creativeTab": "stew_blocks_stone"
+             }
+          ]
+       },
+       {
+        "type": "block:simple",
+        "entries":[
+           {
+              "id": "marble_base_lotus",
+              "material": "rock",
+             "creativeTab": "stew_blocks_stone"
+           }
+        ]
+       },
+       {
+        "type": "block:simple",
+        "entries":[
+           {
+              "id": "marble_base_dorian",
+              "material": "rock",
+             "creativeTab": "stew_blocks_stone"
+           }
+        ]
+       },
+       {
+        "type": "block:simple",
+        "entries":[
+           {
+              "id": "marble_capital_corinthian",
+              "material": "rock",
+             "creativeTab": "stew_blocks_stone"
+           }
+        ]
+       },
+       {
+        "type": "block:simple",
+        "entries":[
+           {
+              "id": "marble_cornice",
+              "material": "rock",
+             "creativeTab": "stew_blocks_stone"
+           }
+        ]
+       },
+       {
+        "type": "block:simple",
+        "entries":[
+           {
+              "id": "marble_pedestal",
+              "material": "rock",
+             "creativeTab": "stew_blocks_stone"
+           }
+        ]
+       },
+       {
+        "type": "block:simple",
+        "entries":[
+           {
+              "id": "marble_pillar_smooth",
+              "material": "rock",
+             "creativeTab": "stew_blocks_stone"
+           }
+        ]
+       },
+       {
+        "type": "block:simple",
+        "entries":[
+           {
+              "id": "marble_pillar_blue",
+              "material": "rock",
+             "creativeTab": "stew_blocks_stone"
+           }
+        ]
+       },
+       {
+        "type": "block:simple",
+        "entries":[
+           {
+              "id": "marble_pillar_dorian",
+              "material": "rock",
+             "creativeTab": "stew_blocks_stone"
+           }
+        ]
+       },
+       {
+        "type": "block:simple",
+        "entries":[
+           {
+              "id": "marble_pillar_gold",
+              "material": "rock",
+             "creativeTab": "stew_blocks_stone"
+           }
+        ]
+       },
+       {
+        "type": "block:simple",
+        "entries":[
+           {
+              "id": "marble_pillar_ivory",
+              "material": "rock",
+             "creativeTab": "stew_blocks_stone"
+           }
+        ]
+       },
+       {
+        "type": "block:simple",
+        "entries":[
+           {
+              "id": "marble_&_sandstone_base_roman",
+              "material": "rock",
+             "creativeTab": "stew_blocks_stone"
+           }
+        ]
+       },
+       {
+        "type": "block:simple",
+        "entries":[
+           {
+              "id": "polychrome_capital_corinthian",
+              "material": "rock",
+             "creativeTab": "stew_blocks_stone"
+           }
+        ]
+       },
+       {
+        "type": "block:simple",
+        "entries":[
+           {
+              "id": "sandstone_cornice",
+              "material": "rock",
+             "creativeTab": "stew_blocks_stone"
+           }
+        ]
+       },
+       {
+        "type": "block:simple",
+        "entries":[
+           {
+              "id": "sandstone_dorian_base",
+              "material": "rock",
+             "creativeTab": "stew_blocks_stone"
+           }
+        ]
+       },
+       {
+        "type": "block:simple",
+        "entries":[
+           {
+              "id": "marble_darkgreen",
+              "material": "rock",
+             "creativeTab": "stew_blocks_stone"
+           }
+        ]
+       },
+       {
+        "type": "block:simple",
+        "entries":[
+           {
+              "id": "marble_indigo",
+              "material": "rock",
+             "creativeTab": "stew_blocks_stone"
+           }
+        ]
+       },
+       {
+        "type": "block:simple",
+        "entries":[
+           {
+              "id": "marble_red",
+              "material": "rock",
+             "creativeTab": "stew_blocks_stone"
+           }
+        ]
+       },
+       {
+        "type": "block:simple",
+        "entries":[
+           {
+              "id": "marble_tile_gold",
+              "material": "rock",
+             "creativeTab": "stew_blocks_stone"
+           }
+        ]
+       },
+       {
+        "type": "block:simple",
+        "entries":[
+           {
+              "id": "marble_mixed_checkered",
+              "material": "rock",
+             "creativeTab": "stew_blocks_stone"
+           }
+        ]
+       },
+       {
+        "type": "block:simple",
+        "entries":[
+           {
+              "id": "marble_mixed_checkered_small",
+              "material": "rock",
+             "creativeTab": "stew_blocks_stone"
+           }
+        ]
+       },
+       {
+        "type": "block:simple",
+        "entries":[
+           {
+              "id": "marble_mixed_diamond",
+              "material": "rock",
+             "creativeTab": "stew_blocks_stone"
+           }
+        ]
+       },
+       {
+        "type": "block:simple",
+        "entries":[
+           {
+              "id": "marble_mixed_diamond_small",
+              "material": "rock",
+             "creativeTab": "stew_blocks_stone"
+           }
+        ]
+       },
+       {
+        "type": "block:simple",
+        "entries":[
+           {
+              "id": "marble_mixed_frame",
+              "material": "rock",
+             "creativeTab": "stew_blocks_stone"
+           }
+        ]
+       },
+       {
+        "type": "block:simple",
+        "entries":[
+           {
+              "id": "sandstone_polished",
+              "material": "rock",
+             "creativeTab": "stew_blocks_stone"
+           }
+        ]
+       },
+       {
+        "type": "block:simple",
+        "entries":[
+           {
+              "id": "sandstone_brick",
+              "material": "rock",
+             "creativeTab": "stew_blocks_stone"
+           }
+        ]
+       },
+       {
+        "type": "block:simple",
+        "entries":[
+           {
+              "id": "sandstone_pillar_blue",
+              "material": "rock",
+             "creativeTab": "stew_blocks_stone"
+           }
+        ]
+       },
+       {
+        "type": "block:simple",
+        "entries":[
+           {
+              "id": "sandstone_pillar_gold",
+              "material": "rock",
+             "creativeTab": "stew_blocks_stone"
+           }
+        ]
+       },
+       {
+        "type": "block:simple",
+        "entries":[
+           {
+              "id": "sandstone_pillar_red",
+              "material": "rock",
+             "creativeTab": "stew_blocks_stone"
+           }
+        ]
+       },
+       {
+        "type": "block:simple",
+        "entries":[
+           {
+              "id": "sandstone_pillar_dorian",
+              "material": "rock",
+             "creativeTab": "stew_blocks_stone"
+           }
+        ]
+       },
+       {
+        "type": "block:orientable:directional",
+        "entries":[
+           {
+              "id": "sandstone_inscribed",
+              "creativeTab": "stew_blocks_stone",
+              "material": "rock",
+              "itemModel": "stewblocks:sandstone_inscribed",
+              "hardness": 1,
+              "faceBySide": true
+             }
+          ]
+        }
+       
+    ]   
+}   

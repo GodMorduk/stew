@@ -1,0 +1,6 @@
+{
+    "parent": "block/pane_post",
+    "textures": {
+        "edge": "stewblocks:blocks/glass_twisted_pane_top"
+        }
+    }

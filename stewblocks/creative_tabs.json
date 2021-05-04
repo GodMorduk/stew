@@ -80,6 +80,15 @@
       "icon": "stewblocks:object_lamp_02"
   }  
 ]
+},
+{
+  "type": "creativeTab",
+  "entries": [
+    {
+      "id": "stew_blocks_glass",
+      "icon": "stewblocks:glass_clear"
+  }  
+]
 }
 ]
 }
