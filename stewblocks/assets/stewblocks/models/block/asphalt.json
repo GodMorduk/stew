@@ -2,7 +2,7 @@
     "parent": "block/cube_bottom_top",
     "textures": {
         "top": "stewblocks:blocks/asphalt",
-        "side": "stewblocks:blocks/asphalt_top",
+        "side": "stewblocks:blocks/asphalt",
         "bottom": "stewblocks:blocks/asphalt"
     }
 }
