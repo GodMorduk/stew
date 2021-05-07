@@ -83,6 +83,8 @@ item.stewitems.medicine_dexa.name=Dexa
 item.stewitems.medicine_contegal_joy.name=Contegal Joy
 item.stewitems.medicine_kazachban.name=Kazachban
 
+item.stewitems.syringe_empty.name=Empty syringe
+item.stewitems.inhaler_empty.name=Empty inhaler
 
 item.stewitems.harp.name=Harp
 item.stewitems.guitar.name=Guitar

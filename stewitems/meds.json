@@ -62,6 +62,22 @@
                ]
             },
             {
+               "id":"syringe_empty",
+               "creativeTab":"stewmeds",
+               "model":"stewitems:medicine_syringe_empty",
+               "information":[
+                  "Пустой шприц. Если его основательно продезинфицировать, то он подойдет для повторного использования."
+               ]
+            },
+            {
+               "id":"inhaler_empty",
+               "creativeTab":"stewmeds",
+               "model":"stewitems:medicine_inhaler_empty",
+               "information":[
+                  "Пустой ингаллятор. Если его основательно продезинфицировать, то он подойдет для повторного использования."
+               ]
+            },
+            {
                "id":"medicine_scanner",
                "creativeTab":"stewmeds",
                "model":"stewprops:tech_device_monocle",
@@ -99,7 +115,7 @@
                   {
                      "id":"minecraft:instant_health",
                      "duration":1,
-                     "amplifier":1
+                     "amplifier":2
                   }
                ],
                "potionEffectProbability":1.0,
@@ -117,17 +133,17 @@
                "information":[
                   "Ингалятор с сильнодействующим регенеративным веществом. Противопоказано астматикам! Вызывает сильную отдышку и усталость.",
                   "§lЭффекты:",
-                  "Регенерация: восстанавливает 8 ХП.",
-                  "Убавляет 10 единиц стамины."
+                  "Регенерация: восстанавливает 16 ХП.",
+                  "Убавляет 5 единиц стамины."
                ],
                "potionEffects":[
                   {
                      "id":"minecraft:regeneration",
-                     "duration":400
+                     "duration": 800
                   },
                   {
                      "id":"misca:damageStamina",
-                     "duration":1,
+                     "duration": 0,
                      "amplifier":1
                   }
                ],
@@ -137,7 +153,8 @@
                "saturation":0,
                "useAction":"drink",
                "alwaysEdible":true,
-               "isWolfFood":false
+               "isWolfFood":false,
+			   "result": "stewitems:inhaler_empty"
             },
             {
                "id":"medicine_bandage",
@@ -146,18 +163,18 @@
                "information":[
                   "Прочный эластичный бинт. Он не только поможет залечить раны, но и укрепит общее состояние вашего тела.",
                   "§lЭффекты:",
-                  "Регенерация: восстанавливает 6 ХП.",
-                  "Восстанавливает 10 единиц целостности."
+                  "Регенерация: восстанавливает 24 ХП.",
+                  "Восстанавливает 5 единиц целостности."
                ],
                "potionEffects":[
                   {
                      "id":"minecraft:regeneration",
-                     "duration":300
+                     "duration": 1200
                   },
                   {
                      "id":"misca:restoreIntegrity",
                      "duration":1,
-                     "amplifier":1
+                     "amplifier":0
                   }
                ],
                "potionEffectProbability":1.0,
@@ -175,16 +192,16 @@
                "information":[
                   "Наниты для ремонта синтетической плоти. Может быть опасно для органиков!",
                   "§lЭффекты:",
-                  "Замедление II на время действия. Восстанавливает 10 ХП."
+                  "Замедление II на время действия. Восстанавливает 40 ХП."
                ],
                "potionEffects":[
                   {
                      "id":"minecraft:regeneration",
-                     "duration":500
+                     "duration": 4000
                   },
                   {
                      "id":"minecraft:slowness",
-                     "duration":500,
+                     "duration": 4000,
                      "amplifier":2
                   }
                ],
@@ -228,7 +245,8 @@
                "saturation":0,
                "useAction":"drink",
                "alwaysEdible":true,
-               "isWolfFood":false
+               "isWolfFood":false,
+			   "result": "stewitems:syringe_empty"
             },
             {
                "id":"medicine_nictogenic",
@@ -251,7 +269,8 @@
                "saturation":0,
                "useAction":"drink",
                "alwaysEdible":true,
-               "isWolfFood":false
+               "isWolfFood":false,
+			   "result": "stewitems:syringe_empty"
             },
             {
                "id":"medicine_antidote",
@@ -330,7 +349,7 @@
                   "При правильной обработке личинка грокса ненадолго укрепляет мышцы. Осторожно, укус грокса приводит к мышечному параличу!",
                   "§lЭффекты:",
                   "Сила II на 6 минут.",
-                  "Восстанавливает 10 единиц стамины."
+                  "Восстанавливает 20 единиц стамины."
                ],
                "potionEffects":[
                   {
@@ -341,7 +360,7 @@
                   {
                      "id":"misca:restoreStamina",
                      "duration":1,
-                     "amplifier":1
+                     "amplifier":3
                   }
                ],
                "potionEffectProbability":1.0,
@@ -355,7 +374,7 @@
             {
                "id":"medicine_nicotine_gum",
                "creativeTab":"stewmeds",
-               "model":"stewitems:medicine_nicotine_gum",
+               "model":"stewprops:etc",
                "information":[
                   "Обычная жвачка, содержащая никотин, для случаев, когда курение запрещено."
                ],
@@ -457,7 +476,8 @@
                "saturation":0,
                "useAction":"drink",
                "alwaysEdible":true,
-               "isWolfFood":false
+               "isWolfFood":false,
+			   "result": "stewitems:syringe_empty"
             },
             {
                "id":"medicine_painkillers",
@@ -466,12 +486,12 @@
                "information":[
                   "Болеутоляющее, производимое по лицензии Содружества Лекарей Планов. Поможет унять даже максимальную боль.",
                   "§lЭффекты:",
-                  "Восстанавливает 4 ХП, дает кратковременную тошноту."
+                  "Восстанавливает 12 ХП, дает кратковременную тошноту."
                ],
                "potionEffects":[
                   {
                      "id":"minecraft:instant_health",
-                     "duration":1
+                     "duration":4
                   },
                   {
                      "id":"minecraft:nausea",
@@ -512,7 +532,8 @@
                "saturation":0,
                "useAction":"eat",
                "alwaysEdible":true,
-               "isWolfFood":false
+               "isWolfFood":false,
+			   "result": "stewitems:syringe_empty"
             },
             {
                "id":"medicine_nanite_injection",
@@ -562,7 +583,8 @@
                "saturation":0,
                "useAction":"eat",
                "alwaysEdible":true,
-               "isWolfFood":false
+               "isWolfFood":false,
+			   "result": "stewitems:syringe_empty"
             },
             {
                "id":"medicine_antidepressants",
@@ -594,7 +616,7 @@
                "information":[
                   "При вдыхании дает ощущение силы и легкости. Помогает при усталости от физических нагрузок и астматических приступах. Запрещен в ряде мест, как допинг.",
                   "§lЭффекты:",
-                  "Восстанавливает 20 стамины"
+                  "Восстанавливает 20 стамины."
                ],
                "potionEffects":[
                   {
@@ -608,7 +630,8 @@
                "saturation":0,
                "useAction":"eat",
                "alwaysEdible":true,
-               "isWolfFood":false
+               "isWolfFood":false,
+			   "result": "stewitems:inhaler_empty"
             },
             {
                "id":"medicine_stimpack",
@@ -624,7 +647,7 @@
                   {
                      "id":"minecraft:regeneration",
                      "amplifier":1,
-                     "duration":1000
+                     "duration": 1000
                   },
                   {
                      "id":"misca:restoreIntegrity",
@@ -709,13 +732,13 @@
                "information":[
                   "Синий концентрированный сироп с характерной фруктовой отдушкой. По мнению исследователей из Города, помогает от Искажения, хоть и вызывает мышечную слабость вкупе с приступом лени.",
                   "§lЭффекты:",
-                  "Снимает 10 единиц Искажения.",
+                  "Снимает 15 единиц Искажения.",
                   "Снимает 20 единиц стамины."
                ],
                "potionEffects":[
                   {
                      "id":"misca:damageCorruption",
-                     "amplifier":1,
+                     "amplifier":2,
                      "duration":1
                   },
                   {
@@ -752,7 +775,8 @@
                "saturation":0,
                "useAction":"eat",
                "alwaysEdible":true,
-               "isWolfFood":false
+               "isWolfFood":false,
+			   "result": "stewitems:syringe_empty"
             },
             {
                "id":"medicine_protein_pill",
@@ -813,13 +837,13 @@
                "information":[
                   "Горькие таблетки, которые вызывают неестественную биохимическую реакцию кожных покровов, что способствует их огрубению. Защищает от физического урона на короткий срок.",
                   "§lЭффекты:",
-                  "На 4 минуты добавляет эффект защиты I."
+                  "На 12 минуты добавляет эффект защиты II."
                ],
                "potionEffects":[
                   {
                      "id":"minecraft:resistance",
-                     "amplifier":1,
-                     "duration": 4800
+                     "amplifier":2,
+                     "duration": 14400
                   }
                ],
                "maxStack":64,
@@ -1068,12 +1092,18 @@
                "information":[
                   "Специально обработанный химикатами и не только лист сребролиста можно курить для борьбы с искажением. Считается самым дешевым способом, хоть и не самым эффективным.",
                   "§lЭффекты:",
-                  "Снижает искажение на 5 единиц."
+                  "Снижает искажение на 5 единиц.",
+				  "Снижает ментальное здоровье на 5 единиц."
                ],
                "potionEffects":[
                   {
                      "id":"misca:damageCorruption",
-                     "amplifier": 1,
+                     "amplifier": 0,
+                     "duration":1
+                  }
+                  {
+                     "id":"misca:damageSanity",
+                     "amplifier": 0,
                      "duration":1
                   }
                ],
@@ -1091,13 +1121,13 @@
                "information":[
                   "Грибок одного редкорастущего болотного дерева с одного из далеких Осколочных планов. Некоторые умудряются воспроизвести нечто похожее в лабораториях. Истощает силы организма, вызывая галюцинации, чудовищный голод и жажду, но активирует множественные регенеративные процессы, залечивая раны.",
                   "§lЭффекты:",
-                  "Восстанавливает 40 единиц целостности.",
+                  "Восстанавливает 20 единиц целостности.",
 				  "Накладывает голод II и жажду II на 5 минут."
                ],
                "potionEffects":[
                   {
                      "id":"misca:restoreIntegrity",
-                     "amplifier": 7,
+                     "amplifier": 3,
                      "duration":1
                   },
                   {
@@ -1123,21 +1153,27 @@
                "creativeTab":"stewmeds",
                "model":"stewitems:kanai",
                "information":[
-                  "Специальным образом обработанные листья растений. При курении расслабляют мышцы и запускают множественные процессы клеточного восстановления, что снижает усталость. Но действует не сразу, первые пару минут после применения наоборот вызывает сильную усталость.",
+                  "Специальным образом обработанные листья растений. При курении вызывают однократное перенапряжение мышц, что позволяет им лучше работать, но это может быть опасно для здоровья - из за повышенной мышечной активности может вызвать вывихи, спазмы и даже внутренние и внешние кровотечения.",
                   "§lЭффекты:",
-                  "Восстанавливает 15 единиц стамины.",
-				  "Накладывает замедление II на 15 минут."
+                  "Восстанавливает 25 единиц стамины.",
+				  "Снижает целостность на 10 единиц.",
+				  "Наносит 6 сердец урона."
                ],
                "potionEffects":[
                   {
-                     "id":"misca:restoreStamina",
-                     "amplifier": 2,
+                     "id":"misca:restoreSanity",
+                     "amplifier": 4,
                      "duration":1
                   },
-                  {
-                     "id":"minecraft:slowness",
-                     "amplifier": 2,
-                     "duration": 18000
+				  {
+                     "id":"minecraft:instant_damage",
+                     "amplifier": 1,
+                     "duration": 1
+                  },
+				  {
+                     "id":"misca:damageIntegrity",
+                     "amplifier": 1,
+                     "duration": 1
                   }
                ],
                "maxStack": 64,
