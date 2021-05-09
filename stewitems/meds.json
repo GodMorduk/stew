@@ -1100,7 +1100,7 @@
                      "id":"misca:damageCorruption",
                      "amplifier": 0,
                      "duration":1
-                  }
+                  },
                   {
                      "id":"misca:damageSanity",
                      "amplifier": 0,
