@@ -19,6 +19,13 @@
 				"id": "stewmeds",
 				"icon": "stewitems:medicine_blood"
 			}]
+		},
+		{
+			"type": "creativeTab",
+			"entries": [{
+				"id": "stewtobacco",
+				"icon": "stewitems:cigar_3"
+			}]
 		}
 	]
 }
