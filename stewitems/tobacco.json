@@ -1,0 +1,392 @@
+{
+   "items":[
+      {
+         "type":"item:food",
+         "entries":[
+            {
+               "id":"papirosa_1",
+               "creativeTab":"stewtobacco",
+               "model":"stewprops:papirosa_1",
+               "information":[
+                  "Дешёвая папирусная самокрутка, внутрь которой завёрнут обычное табачное сырьё, вероятно даже не опробованное.",
+				  "§lЭффекты:",
+                  "Накладывает замедление на 5 минут."
+               ],
+               "potionEffects":[
+                  {
+                     "id":"minecraft:slowness",
+                     "duration": 6000
+                  }
+               ],
+               "potionEffectProbability":1.0,
+               "maxStack":10,
+               "healAmount":0,
+               "saturation":0,
+               "useAction":"eat",
+               "alwaysEdible":true,
+               "isWolfFood":false
+            },
+            {
+               "id":"cigarette_1",
+               "creativeTab":"stewtobacco",
+               "model":"stewprops:cigarette_3",
+               "information":[
+                  "Золотой стандарт курения средь народа. Жжённый привкус, не особо тягучий и легко испаряемый дым,",
+				  "стойкое ощущение горечи, что на какое-то время задержится в назидание.",
+				  "§lЭффекты:",
+                  "Восстанавливает 5 единиц ментального здоровья.",
+				  "Накладывает замедление на 5 минут."
+               ],
+               "potionEffects":[
+                  {
+                     "id":"misca:restoreSanity",
+                     "duration": 1,
+                     "amplifier": 0
+                  },
+                  {
+                     "id":"minecraft:slowness",
+                     "duration": 6000
+                  }
+               ],
+               "potionEffectProbability":1.0,
+               "maxStack":10,
+               "healAmount":0,
+               "saturation":0,
+               "useAction":"eat",
+               "alwaysEdible":true,
+               "isWolfFood":false
+            },
+            {
+               "id":"cigarette_2",
+               "creativeTab":"stewtobacco",
+               "model":"stewprops:cigarette_1",
+               "information":[
+                  "Качественная вариация сигаретных изделий. Вкус - само почтение.",
+				  "Крепкий, затяжной аромат табака обволакивает и заполняет само сердце.",
+				  "§lЭффекты:",
+                  "Восстанавливает 5 единиц ментального здоровья.",
+				  "Накладывает замедление на 2 минуты."
+               ],
+               "potionEffects":[
+                  {
+                     "id":"misca:restoreSanity",
+                     "duration": 1,
+                     "amplifier": 0
+                  },
+                  {
+                     "id":"minecraft:slowness",
+                     "duration": 2400
+                  }
+               ],
+               "potionEffectProbability":1.0,
+               "maxStack":10,
+               "healAmount":0,
+               "saturation":0,
+               "useAction":"eat",
+               "alwaysEdible":true,
+               "isWolfFood":false
+            },
+            {
+               "id":"cigarette_3",
+               "creativeTab":"stewtobacco",
+               "model":"stewprops:cigarette_4",
+               "information":[
+                  "Нечто новое и неописуемое, сделанное вопреки принятым порядкам.",
+				  "Дым магической сигареты куда легче и им проще дышать, он не вызывает отторжения и кашля при курении в затяг.",
+				  "§lЭффекты:",
+                  "Восстанавливает 5 единиц ментального здоровья.",
+				  "Накладывает замедление на 2 минуты."
+               ],
+               "potionEffects":[
+                  {
+                     "id":"misca:restoreSanity",
+                     "duration": 1,
+                     "amplifier": 0
+                  },
+                  {
+                     "id":"minecraft:slowness",
+                     "duration": 2400
+                  }
+               ],
+               "potionEffectProbability":1.0,
+               "maxStack":10,
+               "healAmount":0,
+               "saturation":0,
+               "useAction":"eat",
+               "alwaysEdible":true,
+               "isWolfFood":false
+            },
+            {
+               "id":"cigarette_4",
+               "creativeTab":"stewtobacco",
+               "model":"stewprops:cigarette_2",
+               "information":[
+                  "Фирменная марка сигарет, выпускаемые под протекцией Короля Печи его же рабочими Доминиона.",
+				  "Двоякое название сполна выражает разностороннее отношение к данной сигарете.",
+				  "§lЭффекты:",
+                  "Восстанавливает 5 единиц ментального здоровья.",
+				  "Убирает 5 единиц искажения."
+               ],
+               "potionEffects":[
+                  {
+                     "id":"misca:restoreSanity",
+                     "duration": 1,
+                     "amplifier": 0
+                  },
+                  {
+                     "id":"misca:damageCorruption",
+                     "duration": 1,
+                     "amplifier": 0
+                  }
+               ],
+               "potionEffectProbability":1.0,
+               "maxStack":10,
+               "healAmount":0,
+               "saturation":0,
+               "useAction":"eat",
+               "alwaysEdible":true,
+               "isWolfFood":false
+            },
+            {
+               "id":"cigar_1",
+               "creativeTab":"stewtobacco",
+               "model":"stewprops:cigar_2",
+               "information":[
+                  "Скрученные табачные листья в обёртке из них же, слегка лишённые подобающей ровной формы.",
+				  "§lЭффекты:",
+                  "Восстанавливает 10 единиц ментального здоровья.",
+				  "Накладывает замедление на 5 минут."
+               ],
+               "potionEffects":[
+                  {
+                     "id":"misca:restoreSanity",
+                     "duration": 1,
+                     "amplifier": 1
+                  },
+                  {
+                     "id":"minecraft:slowness",
+                     "duration": 6000
+                  }
+               ],
+               "potionEffectProbability":1.0,
+               "maxStack":5,
+               "healAmount":0,
+               "saturation":0,
+               "useAction":"eat",
+               "alwaysEdible":true,
+               "isWolfFood":false
+            },
+            {
+               "id":"cigar_2",
+               "creativeTab":"stewtobacco",
+               "model":"stewprops:cigar_1",
+               "information":[
+                  "Табачный шик, цилиндр из свёрнутых в нём цельных табачных листьев. Высушенная после увлажнения листва горит медленно",
+				  "и выделяемые её тлением тёмные облачка гуще и объёмнее, чем у сигареты или папиросы, при том что они не вдыхаются",
+				  "и свободно выветриваются.",
+				  "§lЭффекты:",
+                  "Восстанавливает 10 единиц ментального здоровья.",
+				  "Накладывает замедление на 2 минуты."
+               ],
+               "potionEffects":[
+                  {
+                     "id":"misca:restoreSanity",
+                     "duration": 1,
+                     "amplifier": 1
+                  },
+                  {
+                     "id":"minecraft:slowness",
+                     "duration": 2400
+                  }
+               ],
+               "potionEffectProbability":1.0,
+               "maxStack":5,
+               "healAmount":0,
+               "saturation":0,
+               "useAction":"eat",
+               "alwaysEdible":true,
+               "isWolfFood":false
+            },
+            {
+               "id":"cigar_3",
+               "creativeTab":"stewtobacco",
+               "model":"stewprops:cigar_4",
+               "information":[
+                  "Комплексное изделие, кажется сошедшее из-под руки колдуна, что взрастил особенные породы табачных растений.",
+				  "Оборот листьев добивается поистине подлинной лёгкости дыхания дымчатыми клубами, что",
+				  "успевают за краткие срок парения во рту пройтись по слизистым щекотливо и осыпать чувством",
+				  "увлажнения и тепла язык и дёсны.",
+				  "§lЭффекты:",
+                  "Восстанавливает 10 единиц ментального здоровья.",
+				  "Накладывает замедление на 2 минуты."
+               ],
+               "potionEffects":[
+                  {
+                     "id":"misca:restoreSanity",
+                     "duration": 1,
+                     "amplifier": 1
+                  },
+                  {
+                     "id":"minecraft:slowness",
+                     "duration": 2400
+                  }
+               ],
+               "potionEffectProbability":1.0,
+               "maxStack":5,
+               "healAmount":0,
+               "saturation":0,
+               "useAction":"eat",
+               "alwaysEdible":true,
+               "isWolfFood":false
+            },
+            {
+               "id":"cigar_4",
+               "creativeTab":"stewtobacco",
+               "model":"stewprops:cigar_3",
+               "information":[
+                  "Сделанные под нужды героических особ из Гвардии Императора специализированные сигары, мало распространённые и наделённые наиболее",
+				  "достойными сортами табака с элитных полей Садов Императрицы. Вкус, достойный Императора",
+				  "§lЭффекты:",
+                  "Восстанавливает 10 единиц ментального здоровья.",
+				  "Убирает 10 единиц искажения."
+               ],
+               "potionEffects":[
+                  {
+                     "id":"misca:restoreSanity",
+                     "duration": 1,
+                     "amplifier": 2
+                  },
+                  {
+                     "id":"misca:damageCorruption",
+                     "duration": 1,
+                     "amplifier": 1
+                  }
+               ],
+               "potionEffectProbability":1.0,
+               "maxStack":5,
+               "healAmount":0,
+               "saturation":0,
+               "useAction":"eat",
+               "alwaysEdible":true,
+               "isWolfFood":false
+            }
+         ]
+      },
+	  {
+         "type":"item:seeds",
+         "entries":[
+			{
+               "id":"tobacco_seeds",
+               "creativeTab":"stewtobacco",
+               "model":"stewprops:tobacco_seeds",
+			   "plant" : {"block": "stewitems:tobacco_crops_1"}
+            }
+		 ]
+	  },
+	  {
+         "type":"item:simple",
+         "entries":[
+			{
+               "id":"tobacco_leaves_1",
+               "creativeTab":"stewtobacco",
+               "model":"stewprops:tobacco_leaves_1"
+            },
+			{
+               "id":"tobacco_leaves_2",
+               "creativeTab":"stewtobacco",
+               "model":"stewprops:tobacco_leaves_1"
+            },
+			{
+               "id":"tobacco_leaves_3",
+               "creativeTab":"stewtobacco",
+               "model":"stewprops:tobacco_leaves_1"
+            },
+			{
+               "id":"tobacco_leaves_4",
+               "creativeTab":"stewtobacco",
+               "model":"stewprops:tobacco_leaves_1"
+            },
+			{
+               "id":"tobacco_leaves_5",
+               "creativeTab":"stewtobacco",
+               "model":"stewprops:tobacco_leaves_2"
+            },
+			{
+               "id":"tobacco_leaves_6",
+               "creativeTab":"stewtobacco",
+               "model":"stewprops:tobacco_leaves_2"
+            },
+			{
+               "id":"tobacco_leaves_7",
+               "creativeTab":"stewtobacco",
+               "model":"stewprops:tobacco_leaves_2"
+            },
+			{
+               "id":"tobacco_pile_1",
+               "creativeTab":"stewtobacco",
+               "model":"stewprops:tobacco_pile"
+            },
+			{
+               "id":"tobacco_pile_2",
+               "creativeTab":"stewtobacco",
+               "model":"stewprops:tobacco_pile"
+            },
+			{
+               "id":"tobacco_pile_3",
+               "creativeTab":"stewtobacco",
+               "model":"stewprops:tobacco_pile"
+            },
+			{
+               "id":"rolling_paper",
+               "creativeTab":"stewtobacco",
+               "model":"stewprops:rolling_paper"
+            },
+			{
+               "id":"papirosa_pack_1",
+               "creativeTab":"stewtobacco",
+               "model":"stewprops:sigarette_pack_green"
+            },
+			{
+               "id":"cigarette_pack_1",
+               "creativeTab":"stewtobacco",
+               "model":"stewprops:sigarette_pack_nilii"
+            },
+			{
+               "id":"cigarette_pack_2",
+               "creativeTab":"stewtobacco",
+               "model":"stewprops:sigarette_pack_yellow"
+            },
+			{
+               "id":"cigarette_pack_3",
+               "creativeTab":"stewtobacco",
+               "model":"stewprops:sigarette_pack_purple"
+            },
+			{
+               "id":"cigarette_pack_4",
+               "creativeTab":"stewtobacco",
+               "model":"stewprops:sigarette_pack_blue"
+            },
+			{
+               "id":"cigar_box_1",
+               "creativeTab":"stewtobacco",
+               "model":"stewprops:cigar_box_1"
+            },
+			{
+               "id":"cigar_box_2",
+               "creativeTab":"stewtobacco",
+               "model":"stewprops:cigar_box_2"
+            },
+			{
+               "id":"cigar_box_3",
+               "creativeTab":"stewtobacco",
+               "model":"stewprops:cigar_box_3"
+            },
+			{
+               "id":"cigar_box_4",
+               "creativeTab":"stewtobacco",
+               "model":"stewprops:cigar_box_4"
+            }
+		 ]
+	  }
+   ]
+}
