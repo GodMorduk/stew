@@ -23,9 +23,17 @@
 		{
 			"type": "creativeTab",
 			"entries": [{
+				"id": "stewalchemy",
+				"icon": "stewitems:alchemy_salt_fire"
+			}]
+		},
+		{
+			"type": "creativeTab",
+			"entries": [{
 				"id": "stewtobacco",
 				"icon": "stewitems:cigar_3"
 			}]
 		}
 	]
 }
+

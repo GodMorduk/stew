@@ -18,6 +18,9 @@
 			"file": "tobacco.json"
 		},
 		{
+			"file": "alchemy.json"
+		},
+		{
 			"file": "seeds.json"
 		}
 	]
