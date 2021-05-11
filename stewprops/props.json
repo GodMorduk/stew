@@ -3674,9 +3674,29 @@
          "type":"item:simple",
          "entries":[
             {
-               "id":"tobacco_pile",
+               "id":"tobacco_pile_1",
                "creativeTab":"stewprops",
-               "model":"stewprops:tobacco_pile"
+               "model":"stewprops:tobacco_pile_1"
+            }
+         ]
+      },
+      {
+         "type":"item:simple",
+         "entries":[
+            {
+               "id":"tobacco_pile_2",
+               "creativeTab":"stewprops",
+               "model":"stewprops:tobacco_pile_2"
+            }
+         ]
+      },
+      {
+         "type":"item:simple",
+         "entries":[
+            {
+               "id":"tobacco_pile_3",
+               "creativeTab":"stewprops",
+               "model":"stewprops:tobacco_pile_3"
             }
          ]
       },

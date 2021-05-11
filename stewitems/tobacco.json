@@ -10,11 +10,22 @@
                "information":[
                   "Дешёвая папирусная самокрутка, внутрь которой завёрнут обычное табачное сырьё, вероятно даже не опробованное.",
 				  "§lЭффекты:",
-                  "Накладывает замедление на 5 минут."
+                  "Накладывает замедление II, голод и жажду на 5 минут."
                ],
                "potionEffects":[
                   {
                      "id":"minecraft:slowness",
+					 "amplifier": 1,
+                     "duration": 6000
+                  },
+                  {
+                     "id":"minecraft:hunger",
+                     "amplifier": 0,
+                     "duration": 6000
+                  },
+                  {
+                     "id":"toughasnails:thirst",
+                     "amplifier": 0,
                      "duration": 6000
                   }
                ],
@@ -34,17 +45,17 @@
                   "Золотой стандарт курения средь народа. Жжённый привкус, не особо тягучий и легко испаряемый дым,",
 				  "стойкое ощущение горечи, что на какое-то время задержится в назидание.",
 				  "§lЭффекты:",
-                  "Восстанавливает 5 единиц ментального здоровья.",
-				  "Накладывает замедление на 5 минут."
+				  "Накладывает замедление и жажду на 5 минут."
                ],
                "potionEffects":[
                   {
-                     "id":"misca:restoreSanity",
-                     "duration": 1,
-                     "amplifier": 0
+                     "id":"minecraft:slowness",
+					 "amplifier": 0,
+                     "duration": 6000
                   },
                   {
-                     "id":"minecraft:slowness",
+                     "id":"toughasnails:thirst",
+                     "amplifier": 0,
                      "duration": 6000
                   }
                ],
@@ -64,17 +75,12 @@
                   "Качественная вариация сигаретных изделий. Вкус - само почтение.",
 				  "Крепкий, затяжной аромат табака обволакивает и заполняет само сердце.",
 				  "§lЭффекты:",
-                  "Восстанавливает 5 единиц ментального здоровья.",
 				  "Накладывает замедление на 2 минуты."
                ],
                "potionEffects":[
                   {
-                     "id":"misca:restoreSanity",
-                     "duration": 1,
-                     "amplifier": 0
-                  },
-                  {
                      "id":"minecraft:slowness",
+					 "amplifier": 0,
                      "duration": 2400
                   }
                ],
@@ -94,18 +100,19 @@
                   "Нечто новое и неописуемое, сделанное вопреки принятым порядкам.",
 				  "Дым магической сигареты куда легче и им проще дышать, он не вызывает отторжения и кашля при курении в затяг.",
 				  "§lЭффекты:",
-                  "Восстанавливает 5 единиц ментального здоровья.",
+				  "Даёт иммунитет к варпу на 2 минуты.",
 				  "Накладывает замедление на 2 минуты."
                ],
                "potionEffects":[
                   {
-                     "id":"misca:restoreSanity",
-                     "duration": 1,
-                     "amplifier": 0
-                  },
-                  {
                      "id":"minecraft:slowness",
+					 "amplifier": 0,
                      "duration": 2400
+                  },
+				  {
+                     "id":"thaumcraft:warpward",
+                     "duration": 2400,
+                     "amplifier": 0
                   }
                ],
                "potionEffectProbability":1.0,
@@ -124,14 +131,14 @@
                   "Фирменная марка сигарет, выпускаемые под протекцией Короля Печи его же рабочими Доминиона.",
 				  "Двоякое название сполна выражает разностороннее отношение к данной сигарете.",
 				  "§lЭффекты:",
-                  "Восстанавливает 5 единиц ментального здоровья.",
+                  "Восстанавливает 10 единиц ментального здоровья.",
 				  "Убирает 5 единиц искажения."
                ],
                "potionEffects":[
                   {
                      "id":"misca:restoreSanity",
                      "duration": 1,
-                     "amplifier": 0
+                     "amplifier": 1
                   },
                   {
                      "id":"misca:damageCorruption",
@@ -154,18 +161,24 @@
                "information":[
                   "Скрученные табачные листья в обёртке из них же, слегка лишённые подобающей ровной формы.",
 				  "§lЭффекты:",
-                  "Восстанавливает 10 единиц ментального здоровья.",
-				  "Накладывает замедление на 5 минут."
+                  "Восстанавливает 5 единиц ментального здоровья.",
+				  "Накладывает замедление и жажду на 2 минуты."
                ],
                "potionEffects":[
                   {
                      "id":"misca:restoreSanity",
                      "duration": 1,
-                     "amplifier": 1
+                     "amplifier": 0
                   },
                   {
                      "id":"minecraft:slowness",
-                     "duration": 6000
+					 "amplifier": 0,
+                     "duration": 2400
+                  },
+				  {
+                     "id":"toughasnails:thirst",
+                     "amplifier": 0,
+                     "duration": 2400
                   }
                ],
                "potionEffectProbability":1.0,
@@ -196,6 +209,7 @@
                   },
                   {
                      "id":"minecraft:slowness",
+					 "amplifier": 0,
                      "duration": 2400
                   }
                ],
@@ -218,6 +232,7 @@
 				  "увлажнения и тепла язык и дёсны.",
 				  "§lЭффекты:",
                   "Восстанавливает 10 единиц ментального здоровья.",
+				  "Даёт иммунитет к варпу на 5 минут.",
 				  "Накладывает замедление на 2 минуты."
                ],
                "potionEffects":[
@@ -226,8 +241,14 @@
                      "duration": 1,
                      "amplifier": 1
                   },
+				  {
+                     "id":"thaumcraft:warpward",
+                     "duration": 6000,
+                     "amplifier": 0
+                  },
                   {
                      "id":"minecraft:slowness",
+					 "amplifier": 0,
                      "duration": 2400
                   }
                ],
@@ -247,14 +268,14 @@
                   "Сделанные под нужды героических особ из Гвардии Императора специализированные сигары, мало распространённые и наделённые наиболее",
 				  "достойными сортами табака с элитных полей Садов Императрицы. Вкус, достойный Императора",
 				  "§lЭффекты:",
-                  "Восстанавливает 10 единиц ментального здоровья.",
+                  "Восстанавливает 20 единиц ментального здоровья.",
 				  "Убирает 10 единиц искажения."
                ],
                "potionEffects":[
                   {
                      "id":"misca:restoreSanity",
                      "duration": 1,
-                     "amplifier": 2
+                     "amplifier": 3
                   },
                   {
                      "id":"misca:damageCorruption",
@@ -289,102 +310,182 @@
 			{
                "id":"tobacco_leaves_1",
                "creativeTab":"stewtobacco",
-               "model":"stewprops:tobacco_leaves_1"
+               "model":"stewprops:tobacco_leaves_1",
+			   "maxStack":16
             },
 			{
                "id":"tobacco_leaves_2",
                "creativeTab":"stewtobacco",
-               "model":"stewprops:tobacco_leaves_1"
+               "model":"stewprops:tobacco_leaves_1",
+			   "maxStack":16
             },
 			{
                "id":"tobacco_leaves_3",
                "creativeTab":"stewtobacco",
-               "model":"stewprops:tobacco_leaves_1"
+               "model":"stewprops:tobacco_leaves_1",
+			   "maxStack":16
             },
 			{
                "id":"tobacco_leaves_4",
                "creativeTab":"stewtobacco",
-               "model":"stewprops:tobacco_leaves_1"
+               "model":"stewprops:tobacco_leaves_1",
+			   "maxStack":16
             },
 			{
                "id":"tobacco_leaves_5",
                "creativeTab":"stewtobacco",
-               "model":"stewprops:tobacco_leaves_2"
+               "model":"stewprops:tobacco_leaves_2",
+			   "maxStack":16
             },
 			{
                "id":"tobacco_leaves_6",
                "creativeTab":"stewtobacco",
-               "model":"stewprops:tobacco_leaves_2"
+               "model":"stewprops:tobacco_leaves_2",
+			   "maxStack":16
             },
 			{
                "id":"tobacco_leaves_7",
                "creativeTab":"stewtobacco",
-               "model":"stewprops:tobacco_leaves_2"
+               "model":"stewprops:tobacco_leaves_2",
+			   "maxStack":16
             },
 			{
                "id":"tobacco_pile_1",
                "creativeTab":"stewtobacco",
-               "model":"stewprops:tobacco_pile"
+               "model":"stewprops:tobacco_pile_2",
+			   "maxStack":16
             },
 			{
                "id":"tobacco_pile_2",
                "creativeTab":"stewtobacco",
-               "model":"stewprops:tobacco_pile"
+               "model":"stewprops:tobacco_pile_1",
+			   "maxStack":16
             },
 			{
                "id":"tobacco_pile_3",
                "creativeTab":"stewtobacco",
-               "model":"stewprops:tobacco_pile"
+               "model":"stewprops:tobacco_pile_3",
+			   "maxStack":16
             },
 			{
                "id":"rolling_paper",
                "creativeTab":"stewtobacco",
-               "model":"stewprops:rolling_paper"
+               "model":"stewprops:rolling_paper",
+			   "maxStack":16
             },
 			{
                "id":"papirosa_pack_1",
                "creativeTab":"stewtobacco",
-               "model":"stewprops:sigarette_pack_green"
+               "model":"stewprops:sigarette_pack_green",
+			   "information":[
+                  "Дешёвая папирусная самокрутка, внутрь которой завёрнут обычное табачное сырьё, вероятно даже не опробованное.",
+				  "§lЭффекты:",
+                  "Накладывает замедление II, голод и жажду на 5 минут."
+               ],
+			   "maxStack":8
             },
 			{
                "id":"cigarette_pack_1",
                "creativeTab":"stewtobacco",
-               "model":"stewprops:sigarette_pack_nilii"
+               "model":"stewprops:sigarette_pack_nilii",
+			   "information":[
+                  "Золотой стандарт курения средь народа. Жжённый привкус, не особо тягучий и легко испаряемый дым,",
+				  "стойкое ощущение горечи, что на какое-то время задержится в назидание.",
+				  "§lЭффекты:",
+				  "Накладывает замедление и жажду на 5 минут."
+               ],
+			   "maxStack":8
             },
 			{
                "id":"cigarette_pack_2",
                "creativeTab":"stewtobacco",
-               "model":"stewprops:sigarette_pack_yellow"
+               "model":"stewprops:sigarette_pack_yellow",
+			   "information":[
+                  "Качественная вариация сигаретных изделий. Вкус - само почтение.",
+				  "Крепкий, затяжной аромат табака обволакивает и заполняет само сердце.",
+				  "§lЭффекты:",
+				  "Накладывает замедление на 2 минуты."
+               ],
+			   "maxStack":8
             },
 			{
                "id":"cigarette_pack_3",
                "creativeTab":"stewtobacco",
-               "model":"stewprops:sigarette_pack_purple"
+               "model":"stewprops:sigarette_pack_purple",
+			   "information":[
+                  "Золотой стандарт курения средь народа. Жжённый привкус, не особо тягучий и легко испаряемый дым,",
+				  "стойкое ощущение горечи, что на какое-то время задержится в назидание.",
+				  "§lЭффекты:",
+				  "Накладывает замедление и жажду на 5 минут."
+               ],
+			   "maxStack":8
             },
 			{
                "id":"cigarette_pack_4",
                "creativeTab":"stewtobacco",
-               "model":"stewprops:sigarette_pack_blue"
+               "model":"stewprops:sigarette_pack_blue",
+			   "information":[
+                  "Фирменная марка сигарет, выпускаемые под протекцией Короля Печи его же рабочими Доминиона.",
+				  "Двоякое название сполна выражает разностороннее отношение к данной сигарете.",
+				  "§lЭффекты:",
+                  "Восстанавливает 10 единиц ментального здоровья.",
+				  "Убирает 5 единиц искажения."
+               ],
+			   "maxStack":8
             },
 			{
                "id":"cigar_box_1",
                "creativeTab":"stewtobacco",
-               "model":"stewprops:cigar_box_1"
+               "model":"stewprops:cigar_box_1",
+			   "information":[
+                  "Скрученные табачные листья в обёртке из них же, слегка лишённые подобающей ровной формы.",
+				  "§lЭффекты:",
+                  "Восстанавливает 5 единиц ментального здоровья.",
+				  "Накладывает замедление и жажду на 2 минуты."
+               ],
+			   "maxStack":8
             },
 			{
                "id":"cigar_box_2",
                "creativeTab":"stewtobacco",
-               "model":"stewprops:cigar_box_2"
+               "model":"stewprops:cigar_box_2",
+			   "information":[
+                  "Табачный шик, цилиндр из свёрнутых в нём цельных табачных листьев. Высушенная после увлажнения листва горит медленно",
+				  "и выделяемые её тлением тёмные облачка гуще и объёмнее, чем у сигареты или папиросы, при том что они не вдыхаются",
+				  "и свободно выветриваются.",
+				  "§lЭффекты:",
+                  "Восстанавливает 10 единиц ментального здоровья.",
+				  "Накладывает замедление на 2 минуты."
+               ],
+			   "maxStack":8
             },
 			{
                "id":"cigar_box_3",
                "creativeTab":"stewtobacco",
-               "model":"stewprops:cigar_box_3"
+               "model":"stewprops:cigar_box_3",
+			   "information":[
+                  "Комплексное изделие, кажется сошедшее из-под руки колдуна, что взрастил особенные породы табачных растений.",
+				  "Оборот листьев добивается поистине подлинной лёгкости дыхания дымчатыми клубами, что",
+				  "успевают за краткие срок парения во рту пройтись по слизистым щекотливо и осыпать чувством",
+				  "увлажнения и тепла язык и дёсны.",
+				  "§lЭффекты:",
+                  "Восстанавливает 10 единиц ментального здоровья.",
+				  "Накладывает замедление на 2 минуты."
+               ],
+			   "maxStack":8
             },
 			{
                "id":"cigar_box_4",
                "creativeTab":"stewtobacco",
-               "model":"stewprops:cigar_box_4"
+               "model":"stewprops:cigar_box_4",
+			   "information":[
+                  "Сделанные под нужды героических особ из Гвардии Императора специализированные сигары, мало распространённые и наделённые наиболее",
+				  "достойными сортами табака с элитных полей Садов Императрицы. Вкус, достойный Императора",
+				  "§lЭффекты:",
+                  "Восстанавливает 20 единиц ментального здоровья.",
+				  "Убирает 10 единиц искажения."
+               ],
+			   "maxStack":8
             }
 		 ]
 	  }
