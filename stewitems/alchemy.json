@@ -305,10 +305,54 @@
                                         "id": "alchemy_fungus_tincture",
                                         "creativeTab": "stewalchemy",
                                         "maxStack" : 50,
-                                        "information" : ["Зловонная зелёная сукровица, полученная из грибов. Обжигает рот так сильно, что в чистом виде ее не проглотить."]
+                                        "information" : ["Зловонная зелёная слизь, полученная из грибов. Обжигает рот так сильно, что в чистом виде ее не проглотить."]
                                      }
                                    ]
-                                 }
+                                 },
+                                 {
+                                    "type":"item:simple",
+                                    "entries":[
+                                       {
+                                           "id": "alchemy_scales",
+                                           "creativeTab": "stewalchemy",
+                                           "maxStack" : 50,
+                                           "information" : ["Лоскут грубой кожи с несколькими крупными чешуйками."]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                       "type":"item:simple",
+                                       "entries":[
+                                          {
+                                              "id": "alchemy_ichor",
+                                              "creativeTab": "stewalchemy",
+                                              "maxStack" : 50,
+                                              "information" : ["Комок липкого желто-зеленого гноя. Источает сладковатый запах."]
+                                           }
+                                         ]
+                                       },
+                                       {
+                                          "type":"item:simple",
+                                          "entries":[
+                                             {
+                                                 "id": "alchemy_chitin",
+                                                 "creativeTab": "stewalchemy",
+                                                 "maxStack" : 50,
+                                                 "information" : ["Фрагмент крепкого шершавого панциря."]
+                                              }
+                                            ]
+                                          },
+                                          {
+                                             "type":"item:simple",
+                                             "entries":[
+                                                {
+                                                    "id": "alchemy_true_litania",
+                                                    "creativeTab": "stewalchemy",
+                                                    "maxStack" : 50,
+                                                    "information" : ["Круглый чёрный комочек, похожий на уголёк. Сквозь трещины на поверхности вы видите, как внутри него пульсирует лиловое свечение. Воздух вокруг него будто густеет."]
+                                                 }
+                                               ]
+                                             }
     ]
 }
 

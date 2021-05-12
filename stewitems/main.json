@@ -21,6 +21,9 @@
 			"file": "alchemy.json"
 		},
 		{
+			"file": "alchemy_pills.json"
+		},
+		{
 			"file": "seeds.json"
 		}
 	]
