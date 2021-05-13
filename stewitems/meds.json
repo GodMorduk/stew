@@ -157,19 +157,48 @@
 			   "result": "stewitems:inhaler_empty"
             },
             {
-               "id":"medicine_bandage",
+               "id":"medicine_bandage_1",
                "creativeTab":"stewmeds",
                "model":"stewprops:medicine_medpack",
                "information":[
                   "Прочный эластичный бинт. Он не только поможет залечить раны, но и укрепит общее состояние вашего тела.",
                   "§lЭффекты:",
-                  "Регенерация: восстанавливает 24 ХП.",
+                  "Регенерация: восстанавливает 10 ХП.",
+                  "Восстанавливает 10 единиц целостности."
+               ],
+               "potionEffects":[
+                  {
+                     "id":"minecraft:regeneration",
+                     "duration": 250
+                  },
+                  {
+                     "id":"misca:restoreIntegrity",
+                     "duration":1,
+                     "amplifier":1
+                  }
+               ],
+               "potionEffectProbability":1.0,
+               "maxStack":64,
+               "healAmount":0,
+               "saturation":0,
+               "useAction":"eat",
+               "alwaysEdible":true,
+               "isWolfFood":false
+            },
+			{
+               "id":"medicine_bandage_2",
+               "creativeTab":"stewmeds",
+               "model":"stewprops:medicine_medpack",
+               "information":[
+                  "Простой самопальный бинт. Поможет с простыми ранениями, но не больше.",
+                  "§lЭффекты:",
+                  "Регенерация: восстанавливает 3 ХП.",
                   "Восстанавливает 5 единиц целостности."
                ],
                "potionEffects":[
                   {
                      "id":"minecraft:regeneration",
-                     "duration": 1200
+                     "duration": 75
                   },
                   {
                      "id":"misca:restoreIntegrity",
