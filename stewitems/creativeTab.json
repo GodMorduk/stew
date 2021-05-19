@@ -33,6 +33,13 @@
 				"id": "stewtobacco",
 				"icon": "stewitems:cigar_3"
 			}]
+		},
+		{
+			"type": "creativeTab",
+			"entries": [{
+				"id": "stewenchantment",
+				"icon": "stewitems:enc_glyph_a"
+			}]
 		}
 	]
 }
