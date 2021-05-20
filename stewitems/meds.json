@@ -131,20 +131,14 @@
                "creativeTab":"stewmeds",
                "model":"stewprops:medicine_inhaler_00",
                "information":[
-                  "Ингалятор с сильнодействующим регенеративным веществом. Противопоказано астматикам! Вызывает сильную отдышку и усталость.",
+                  "Ингалятор с сильнодействующим регенеративным веществом.",
                   "§lЭффекты:",
-                  "Регенерация: восстанавливает 16 ХП.",
-                  "Убавляет 5 единиц стамины."
+                  "Регенерация: восстанавливает 24 ХП."
                ],
                "potionEffects":[
                   {
                      "id":"minecraft:regeneration",
-                     "duration": 800
-                  },
-                  {
-                     "id":"misca:damageStamina",
-                     "duration": 0,
-                     "amplifier":1
+                     "duration": 1200
                   }
                ],
                "potionEffectProbability":1.0,
