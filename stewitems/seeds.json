@@ -1,0 +1,16 @@
+{
+    "block":[
+    {
+      "type": "block:crops",
+      "entries": [
+        {
+          "id": "tobacco_crops_1",
+          "creativeTab": "stewtobacco",
+          "seeds": "stewitems:tobacco_seeds",
+          "crops": "stewitems:tobacco_leaves_1",
+          "growthFactor": 1.0
+        }
+      ]
+    }
+]
+}

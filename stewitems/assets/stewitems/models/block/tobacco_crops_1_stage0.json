@@ -1,0 +1,6 @@
+{
+    "parent": "block/crop",
+    "textures": {
+        "crop": "stewitems:blocks/tobacco_crops_1_stage_0"
+    }
+}

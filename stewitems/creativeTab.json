@@ -19,6 +19,28 @@
 				"id": "stewmeds",
 				"icon": "stewitems:medicine_blood"
 			}]
+		},
+		{
+			"type": "creativeTab",
+			"entries": [{
+				"id": "stewalchemy",
+				"icon": "stewitems:alchemy_salt_fire"
+			}]
+		},
+		{
+			"type": "creativeTab",
+			"entries": [{
+				"id": "stewtobacco",
+				"icon": "stewitems:cigar_3"
+			}]
+		},
+		{
+			"type": "creativeTab",
+			"entries": [{
+				"id": "stewenchantment",
+				"icon": "stewitems:enc_glyph_a"
+			}]
 		}
 	]
 }
+

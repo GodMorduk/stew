@@ -13,6 +13,22 @@
 		},
 		{
 			"file": "music.json"
+		},
+		{
+			"file": "tobacco.json"
+		},
+		{
+			"file": "alchemy.json"
+		},
+		{
+			"file": "alchemy_pills.json"
+		},
+		{
+			"file": "enchantment.json"
+		},
+		{
+			"file": "seeds.json"
 		}
 	]
 }
+
