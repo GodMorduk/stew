@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "top": "stewblocks:blocks/metal_rusty_pipe_pillar",
+        "side": "stewblocks:blocks/metal_rusty_pipe_pillar",
+        "bottom": "stewblocks:blocks/metal_rusty_pipe_pillar"
+    }
+}

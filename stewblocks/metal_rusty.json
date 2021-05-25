@@ -1,0 +1,112 @@
+{
+    "blocks":[
+       
+        
+         {
+            "type": "block:simple",
+            "entries":[
+               {
+                  "id": "metal_rusty_tile",
+                  "material": "iron",
+                  "creativeTab": "stew_blocks_metal"
+                 }
+              ]
+          },
+          {
+            "type": "block:simple",
+            "entries":[
+               {
+                  "id": "metal_rusty_cladding",
+                  "material": "iron",
+                  "creativeTab": "stew_blocks_metal"
+                 }
+              ]
+          },
+          {
+            "type": "block:simple",
+            "entries":[
+               {
+                  "id": "metal_rusty_riveted_metal",
+                  "material": "iron",
+                  "creativeTab": "stew_blocks_metal"
+                 }
+              ]
+          },
+          {
+            "type": "block:orientable:directional",
+            "entries":[
+               {
+                  "id": "metal_rusty_barrel",
+                  "creativeTab": "stew_blocks_metal",
+                  "material": "iron",
+                  "itemModel": "stewblocks:metal_rusty_barrel",
+                  "hardness": 1,
+                  "faceBySide": true
+                }
+            ]
+         },
+         {
+            "type": "block:orientable:directional",
+            "entries":[
+               {
+                  "id": "metal_rusty_beam",
+                  "creativeTab": "stew_blocks_metal",
+                  "material": "iron",
+                  "itemModel": "stewblocks:metal_rusty_beam",
+                  "hardness": 1,
+                  "faceBySide": true
+                }
+            ]
+         },
+         {
+            "type": "block:orientable:directional",
+            "entries":[
+               {
+                  "id": "metal_rusty_pipe_pillar",
+                  "creativeTab": "stew_blocks_metal",
+                  "material": "iron",
+                  "itemModel": "stewblocks:metal_rusty_pipe_pillar",
+                  "hardness": 1,
+                  "faceBySide": true
+                }
+            ]
+         },
+         {
+            "type": "block:orientable:directional",
+            "entries":[
+               {
+                  "id": "metal_rusty_round_grate",
+                  "creativeTab": "stew_blocks_metal",
+                  "material": "iron",
+                  "itemModel": "stewblocks:metal_rusty_round_grate",
+                  "hardness": 1,
+                  "faceBySide": true
+                }
+            ]
+         },
+         {
+            "type": "block:orientable:directional",
+            "entries":[
+               {
+                  "id": "metal_rusty_tubing",
+                  "creativeTab": "stew_blocks_metal",
+                  "material": "iron",
+                  "itemModel": "stewblocks:metal_rusty_tubing",
+                  "hardness": 1,
+                  "faceBySide": true
+                }
+            ]
+         },
+         {
+            "type": "block:simple",
+            "entries":[
+               {
+                  "id": "metal_rusty_scaffolding",
+                  "material": "iron",
+                  "creativeTab": "stew_blocks_metal"
+                 }
+              ]
+         }
+
+      ]
+   }

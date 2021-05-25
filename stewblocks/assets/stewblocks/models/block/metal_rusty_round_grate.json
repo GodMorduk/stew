@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "top": "stewblocks:blocks/metal_rusty_round_grate",
+        "side": "stewblocks:blocks/metal_rusty_round_grate_side",
+        "bottom": "stewblocks:blocks/metal_rusty_round_grate"
+    }
+}

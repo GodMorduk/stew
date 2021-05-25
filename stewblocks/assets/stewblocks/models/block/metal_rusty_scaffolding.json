@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "top": "stewblocks:blocks/metal_rusty_riveted_metal",
+        "side": "stewblocks:blocks/metal_rusty_scaffolding",
+        "bottom": "stewblocks:blocks/metal_rusty_riveted_metal"
+    }
+}
