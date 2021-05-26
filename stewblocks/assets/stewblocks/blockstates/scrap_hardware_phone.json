@@ -1,0 +1,9 @@
+
+ {
+    "variants": {
+    "facing=north": { "model": "stewblocks:scrap_hardware_phone" },
+    "facing=south": { "model": "stewblocks:scrap_hardware_phone", "y": 180 },
+    "facing=west":  { "model": "stewblocks:scrap_hardware_phone", "y": 270 },
+    "facing=east":  { "model": "stewblocks:scrap_hardware_phone", "y": 90 }
+}
+}

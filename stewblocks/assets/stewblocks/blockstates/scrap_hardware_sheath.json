@@ -1,0 +1,11 @@
+
+{
+    "variants": {
+      "facing=north": { "model": "stewblocks:scrap_hardware_sheath", "x": 90, "y": 0},
+      "facing=east": { "model": "stewblocks:scrap_hardware_sheath", "x": 90, "y": 90},
+      "facing=south": { "model": "stewblocks:scrap_hardware_sheath", "x": 90, "y": 180},
+      "facing=west": { "model": "stewblocks:scrap_hardware_sheath", "x": 90, "y": 270},
+      "facing=up": { "model": "stewblocks:scrap_hardware_sheath" },
+      "facing=down": { "model": "stewblocks:scrap_hardware_sheath", "x": 180 }
+    }
+  }

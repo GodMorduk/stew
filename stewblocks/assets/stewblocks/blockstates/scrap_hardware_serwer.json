@@ -1,0 +1,8 @@
+{
+    "variants": {
+    "facing=north": { "model": "stewblocks:scrap_hardware_serwer" },
+    "facing=south": { "model": "stewblocks:scrap_hardware_serwer", "y": 180 },
+    "facing=west":  { "model": "stewblocks:scrap_hardware_serwer", "y": 270 },
+    "facing=east":  { "model": "stewblocks:scrap_hardware_serwer", "y": 90 }
+}
+}

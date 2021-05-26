@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "top": "stewblocks:blocks/scrap_hardware_sheath_top",
+        "side": "stewblocks:blocks/scrap_hardware_sheath",
+        "bottom": "stewblocks:blocks/scrap_hardware_sheath_top"
+    }
+}

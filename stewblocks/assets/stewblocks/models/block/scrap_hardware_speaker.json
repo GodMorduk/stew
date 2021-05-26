@@ -1,0 +1,8 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "top": "stewblocks:blocks/scrap_hardware_control_panel_small_top",
+        "front": "stewblocks:blocks/scrap_hardware_speaker",
+        "side": "stewblocks:blocks/scrap_hardware_control_panel_small_top"
+    }
+}

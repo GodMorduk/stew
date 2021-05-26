@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "stewblocks:blocks/scrap_hardware_control_panel_small"
+    }
+}
