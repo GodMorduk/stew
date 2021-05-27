@@ -1,6 +1,9 @@
+
 {
-    "parent": "block/cube_all",
+    "parent": "block/orientable",
     "textures": {
-        "all": "stewblocks:blocks/scrap_hardware_observer"
+        "top": "stewblocks:blocks/scrap_hardware_observer_top",
+        "front": "stewblocks:blocks/scrap_hardware_observer",
+        "side": "stewblocks:blocks/scrap_hardware_observer_side"
     }
-}
+  }

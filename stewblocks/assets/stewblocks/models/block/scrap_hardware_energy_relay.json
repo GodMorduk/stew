@@ -1,8 +1,8 @@
 {
     "parent": "block/cube_bottom_top",
     "textures": {
-        "top": "stewblocks:blocks/scrap_hardware_05",
+        "top": "stewblocks:blocks/scrap_pipes",
         "side": "stewblocks:blocks/scrap_hardware_energy_relay",
-        "bottom": "stewblocks:blocks/scrap_hardware_05"
+        "bottom": "stewblocks:blocks/scrap_pipes"
     }
 }

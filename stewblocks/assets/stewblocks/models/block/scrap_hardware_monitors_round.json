@@ -3,6 +3,6 @@
     "textures": {
         "top": "stewblocks:blocks/scrap_hardware_05",
         "front": "stewblocks:blocks/scrap_hardware_monitors_round",
-        "side": "stewblocks:blocks/scrap_hardware_05"
+        "side": "stewblocks:blocks/scrap_01"
     }
 }

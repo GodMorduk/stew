@@ -1,10 +1,8 @@
-{
+ {
     "variants": {
-      "facing=north": { "model": "stewblocks:scrap_hardware_switches", "x": 90, "y": 0},
-      "facing=east": { "model": "stewblocks:scrap_hardware_switches", "x": 90, "y": 90},
-      "facing=south": { "model": "stewblocks:scrap_hardware_switches", "x": 90, "y": 180},
-      "facing=west": { "model": "stewblocks:scrap_hardware_switches", "x": 90, "y": 270},
-      "facing=up": { "model": "stewblocks:scrap_hardware_switches" },
-      "facing=down": { "model": "stewblocks:scrap_hardware_switches", "x": 180 }
-    }
-  }
+    "facing=north": { "model": "stewblocks:scrap_hardware_switches" },
+    "facing=south": { "model": "stewblocks:scrap_hardware_switches", "y": 180 },
+    "facing=west":  { "model": "stewblocks:scrap_hardware_switches", "y": 270 },
+    "facing=east":  { "model": "stewblocks:scrap_hardware_switches", "y": 90 }
+}
+}
