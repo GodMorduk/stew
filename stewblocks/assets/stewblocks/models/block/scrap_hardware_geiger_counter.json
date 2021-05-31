@@ -1,7 +1,7 @@
 {
     "parent": "block/orientable",
     "textures": {
-        "top": "stewblocks:blocks/scrap_hardware_05",
+        "top": "stewblocks:blocks/scrap_hardware_04",
         "front": "stewblocks:blocks/scrap_hardware_geiger_counter",
         "side": "stewblocks:blocks/scrap_hardware_05"
     }

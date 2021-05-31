@@ -1,8 +1,8 @@
 {
-    "parent": "block/cube_bottom_top",
+    "parent": "block/orientable",
     "textures": {
-        "top": "stewblocks:blocks/scrap_hardware_electrical_panel_top",
-        "side": "stewblocks:blocks/scrap_hardware_electrical_panel",
-        "bottom": "stewblocks:blocks/scrap_hardware_electrical_panel_top"
+        "top": "stewblocks:blocks/metal_rough_plate_protective",
+        "front": "stewblocks:blocks/scrap_hardware_electrical_panel",
+        "side": "stewblocks:blocks/scrap_hardware_electrical_panel_side"
     }
 }

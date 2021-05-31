@@ -194,7 +194,100 @@
     "collisionBounds": null  
    }      
    ]
-   } 
+   },
+   {
+      "type": "block:orientable:horizontal",
+      "entries":[
+   {
+     "id": "effect_blood_footprints",
+     "creativeTab": "stew_blocks_effects",
+     "material": "iron",
+     "hardness": 1,
+     "renderLayer": "mippedCutout",
+     "faceBySide": true,
+     "isPassable": true,
+     "isFullCube": false,
+     "isOpaqueCube": false,
+     "opacity": 0,
+     "bounds": {
+      "0": { "from": [1, 0.09, 1], "to": [0, 0, 0] }
+   },
+   "selectionBounds": {
+      "0": { "from": [1, 0.09, 1], "to": [0, 0, 0] }
+   },
+   "collisionBounds": {
+      "0": { "from": [1, 0.09, 1], "to": [0, 0, 0] }
+    }
+   }
+   ]
+   },
+{
+   "type": "block:orientable:directional",
+   "entries":[
+{
+  "id": "effect_blood_splashes",
+  "creativeTab": "stew_blocks_effects",
+  "material": "iron",
+  "hardness": 1,
+  "renderLayer": "mippedCutout",
+  "faceBySide": true,
+  "isPassable": false,
+  "isFullCube": false,
+  "isOpaqueCube": false,
+  "opacity": 0,
+  "bounds": {
+   "0": { "from": [0, 0.9167, 0], "to": [1, 1, 1] },
+   "1": { "from": [0, 0, 0], "to": [1, 0.0833, 1] },
+   "2": { "from": [0, 0, 0.9167], "to": [1, 1, 1] },
+   "3": { "from": [0, 0, 0], "to": [1, 1, 0.0833] },
+   "4": { "from": [0.9167, 0, 0], "to": [1, 1, 1] },
+   "5": { "from": [0, 0, 0], "to": [0.0833, 1, 1] }
+},
+"selectionBounds": {
+   "0": { "from": [0, 0.9167, 0], "to": [1, 1, 1] },
+   "1": { "from": [0, 0, 0], "to": [1, 0.0833, 1] },
+   "2": { "from": [0, 0, 0.9167], "to": [1, 1, 1] },
+   "3": { "from": [0, 0, 0], "to": [1, 1, 0.0833] },
+   "4": { "from": [0.9167, 0, 0], "to": [1, 1, 1] },
+   "5": { "from": [0, 0, 0], "to": [0.0833, 1, 1] }
+},
+"collisionBounds": {
+   "0": { "from": [0, 0.9167, 0], "to": [1, 1, 1] },
+   "1": { "from": [0, 0, 0], "to": [1, 0.0833, 1] },
+   "2": { "from": [0, 0, 0.9167], "to": [1, 1, 1] },
+   "3": { "from": [0, 0, 0], "to": [1, 1, 0.0833] },
+   "4": { "from": [0.9167, 0, 0], "to": [1, 1, 1] },
+   "5": { "from": [0, 0, 0], "to": [0.0833, 1, 1] }
+ }
+}
+]
+},
+{
+   "type": "block:orientable:horizontal",
+   "entries":[
+{
+  "id": "effect_blood_trail",
+  "creativeTab": "stew_blocks_effects",
+  "material": "iron",
+  "hardness": 1,
+  "renderLayer": "mippedCutout",
+  "faceBySide": true,
+  "isPassable": false,
+  "isFullCube": false,
+  "isOpaqueCube": false,
+  "opacity": 0,
+  "bounds": {
+   "0": { "from": [1, 0.09, 1], "to": [0, 0, 0] }
+},
+"selectionBounds": {
+   "0": { "from": [1, 0.09, 1], "to": [0, 0, 0] }
+},
+"collisionBounds": {
+   "0": { "from": [1, 0.09, 1], "to": [0, 0, 0] }
+ }
+}
+]
+}
    ]
 }
     
