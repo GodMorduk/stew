@@ -231,7 +231,7 @@
   "hardness": 1,
   "renderLayer": "mippedCutout",
   "faceBySide": true,
-  "isPassable": false,
+  "isPassable": true,
   "isFullCube": false,
   "isOpaqueCube": false,
   "opacity": 0,
@@ -272,7 +272,33 @@
   "hardness": 1,
   "renderLayer": "mippedCutout",
   "faceBySide": true,
-  "isPassable": false,
+  "isPassable": true,
+  "isFullCube": false,
+  "isOpaqueCube": false,
+  "opacity": 0,
+  "bounds": {
+   "0": { "from": [1, 0.09, 1], "to": [0, 0, 0] }
+},
+"selectionBounds": {
+   "0": { "from": [1, 0.09, 1], "to": [0, 0, 0] }
+},
+"collisionBounds": {
+   "0": { "from": [1, 0.09, 1], "to": [0, 0, 0] }
+ }
+}
+]
+},
+{
+   "type": "block:orientable:horizontal",
+   "entries":[
+{
+  "id": "effect_blood_trail_turn",
+  "creativeTab": "stew_blocks_effects",
+  "material": "iron",
+  "hardness": 1,
+  "renderLayer": "mippedCutout",
+  "faceBySide": true,
+  "isPassable": true,
   "isFullCube": false,
   "isOpaqueCube": false,
   "opacity": 0,

@@ -1,0 +1,8 @@
+{
+    "variants": {
+    "facing=north": { "model": "stewblocks:effect_blood_trail_turn", "y": 0},  
+    "facing=south": { "model": "stewblocks:effect_blood_trail_turn", "y": 180 }, 
+    "facing=west":  { "model": "stewblocks:effect_blood_trail_turn", "y": 90  }, 
+    "facing=east":  { "model": "stewblocks:effect_blood_trail_turn", "y": 270 } 
+  }
+  }

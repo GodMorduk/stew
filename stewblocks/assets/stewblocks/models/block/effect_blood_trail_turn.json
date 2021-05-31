@@ -1,8 +1,6 @@
-
-
 {
     "parent": "block/rail_flat",
     "textures": {
-        "rail": "stewblocks:blocks/effect_blood_trail"
+        "rail": "stewblocks:blocks/effect_blood_trail_turn"
     }
 }

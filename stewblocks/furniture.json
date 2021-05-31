@@ -544,6 +544,83 @@
                      "opacity": 0             
                   }
                ]
-            }
+            },
+            {
+               "type": "block:orientable:horizontal",
+               "entries":[
+                  {
+                     "id": "furniture_mirror_wooden",
+                     "material": "wood",
+                     "creativeTab": "stew_blocks_furniture",
+                     "hardness": 1,
+                     "renderLayer": "mippedCutout",
+                     "faceBySide": true,
+                     "isPassable": true,
+                     "isFullCube": false,
+                     "isOpaqueCube": false,
+                     "opacity": 0,
+                     "bounds": {"from": [0, 0, 0], "to": [0.1, 1, 1] },
+                     "selectionBounds": {"from": [0, 0, 0], "to": [0.1, 1, 1] },
+                     "collisionBounds": null              
+                  }
+               ]
+            },
+         {
+            "type": "block:orientable:horizontal",
+            "entries":[
+               {
+                  "id": "furniture_wooden_tankard",
+                  "material": "wood",
+                  "creativeTab": "stew_blocks_furniture",
+                  "hardness": 1,
+                  "renderLayer": "mippedCutout",
+                  "faceBySide": true,
+                  "isPassable": true,
+                  "isFullCube": false,
+                  "isOpaqueCube": false,
+                  "opacity": 0,       
+                  "bounds": {"from": [0.2, 0, 0.2], "to": [0.8, 0.4, 0.8] },
+                  "selectionBounds": {"from": [0.2, 0, 0.2], "to": [0.8, 0.4, 0.8] },
+                  "collisionBounds": null   
+               }
+            ]
+         },
+         {
+            "type": "block:orientable:horizontal",
+            "entries":[
+               {
+                  "id": "furniture_toilet",
+                  "material": "wood",
+                  "creativeTab": "stew_blocks_furniture",
+                  "hardness": 1,
+                  "renderLayer": "mippedCutout",
+                  "faceBySide": true,
+                  "isPassable": false,
+                  "isFullCube": false,
+                  "isOpaqueCube": false,
+                  "opacity": 0,       
+                  "bounds": {"from": [0, 0, 0], "to": [1, 0.7, 1] },
+                  "selectionBounds": {"from": [0, 0, 0], "to": [1, 0.7, 1] },
+                  "collisionBounds": {"from": [0, 0, 0], "to": [1, 0.7, 1] }    
+               }
+            ]
+         },
+         {
+            "type": "block:orientable:horizontal",
+            "entries":[
+               {
+                  "id": "furniture_sink",
+                  "material": "wood",
+                  "creativeTab": "stew_blocks_furniture",
+                  "hardness": 1,
+                  "renderLayer": "mippedCutout",
+                  "faceBySide": true,
+                  "isPassable": false,
+                  "isFullCube": false,
+                  "isOpaqueCube": false,
+                  "opacity": 0  
+               }
+            ]
+         }
 ]
 }

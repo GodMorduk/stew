@@ -1,10 +1,8 @@
 {
     "variants": {
-        "shape=north_south":  { "model": "effect_blood_trail" },
-        "shape=east_west":  { "model": "effect_blood_trail", "y": 90 },
-        "shape=ascending_east": { "model": "effect_blood_trail_ne", "y": 90 },
-        "shape=ascending_west": { "model": "effect_blood_trail_sw", "y": 90 },
-        "shape=ascending_north": { "model": "effect_blood_trail_ne" },
-        "shape=ascending_south": { "model": "effect_blood_trail_sw" }
-    }
-}
+    "facing=north": { "model": "stewblocks:effect_blood_trail", "y": 0},  
+    "facing=south": { "model": "stewblocks:effect_blood_trail", "y": 180 }, 
+    "facing=west":  { "model": "stewblocks:effect_blood_trail", "y": 90  }, 
+    "facing=east":  { "model": "stewblocks:effect_blood_trail", "y": 270 } 
+  }
+  }
