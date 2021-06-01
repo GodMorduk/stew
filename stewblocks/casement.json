@@ -8,6 +8,7 @@
         "creativeTab": "stew_blocks_furniture",
         "itemModel": "stewblocks:casement_mica_01",
         "opensWithRedstone": false,
+        "renderLayer": "translucent",
         "opensWithHands":  true
     }      
 ]
