@@ -313,7 +313,86 @@
  }
 }
 ]
-}
+},
+{
+   "type": "block:simple",
+   "entries":[
+      {
+         "id": "antiblock_white",
+         "material": "rock",
+        "creativeTab": "stew_blocks_effects",
+         "hardness" : 999999
+      }
+   ]
+},
+{
+   "type": "block:simple",
+   "entries":[
+      {
+         "id": "antiblock_black",
+         "material": "rock",
+        "creativeTab": "stew_blocks_effects",
+         "hardness" : 999999
+      }
+   ]
+},
+{
+   "type": "block:simple",
+   "entries":[
+      {
+         "id": "invisible_wall",
+         "material": "glass",
+         "creativeTab": "stew_blocks_effects",
+         "soundType" : "glass",
+         "hardness" : 999999,
+         "opacity": 0,
+         "isFullCube": false,
+         "isOpaqueCube": false,
+         "hideAdjacentSides": true,
+         "renderLayer": "translucent"
+        }
+    ]
+   },
+   {
+      "type": "block:simple",
+      "entries":[
+         {
+            "id": "invisible_light_source_bright",
+            "material": "glass",
+            "creativeTab": "stew_blocks_effects",
+            "soundType" : "glass",
+            "hardness" : 999999,
+            "opacity": 0,
+            "isPassable": true,
+            "isFullCube": false,
+            "isOpaqueCube": false,
+            "hideAdjacentSides": true,
+            "light": 15,
+            "collisionBounds": null  ,
+            "renderLayer": "translucent"
+           }
+       ]
+      },
+      {
+         "type": "block:simple",
+         "entries":[
+            {
+               "id": "invisible_light_source_dim",
+               "material": "glass",
+               "creativeTab": "stew_blocks_effects",
+               "soundType" : "glass",
+               "hardness" : 999999,
+               "opacity": 0,
+               "isPassable": true,
+               "isFullCube": false,
+               "isOpaqueCube": false,
+               "hideAdjacentSides": true,
+               "light": 5,
+               "collisionBounds": null  ,
+               "renderLayer": "translucent"
+              }
+          ]
+       }
    ]
 }
     
