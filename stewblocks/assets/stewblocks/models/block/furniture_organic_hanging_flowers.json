@@ -1,0 +1,6 @@
+{
+    "parent": "block/cross",
+    "textures": {
+        "cross": "stewblocks:blocks/hanging_plant_basket_flower_white"
+    }
+}

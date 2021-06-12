@@ -1,0 +1,6 @@
+{
+    "parent": "stewblocks:block/hangerrack_clothes",
+    "textures": {
+      "texture": "stewblocks:blocks/hangerrack_clothes_natural"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "parent": "stewblocks:block/base_cube_all",
+    "textures": {
+      "u": "stewblocks:blocks/basket_t",
+      "d": "stewblocks:blocks/basket",
+      "s": "stewblocks:blocks/basket1",
+      "n": "stewblocks:blocks/basket1",
+      "w": "stewblocks:blocks/basket3",
+      "e": "stewblocks:blocks/basket3",
+      "particle": "stewblocks:blocks/basket"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "stewblocks:furniture_darkred_sofa", "y": 270 },
+        "facing=west": { "model": "stewblocks:furniture_darkred_sofa", "y": 0 },
+        "facing=north": { "model": "stewblocks:furniture_darkred_sofa", "y": 90 },
+        "facing=east": { "model": "stewblocks:furniture_darkred_sofa", "y": 180 }
+    }
+}
