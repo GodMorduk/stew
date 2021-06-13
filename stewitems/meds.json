@@ -157,8 +157,8 @@
                "information":[
                   "Прочный эластичный бинт. Он не только поможет залечить раны, но и укрепит общее состояние вашего тела.",
                   "§lЭффекты:",
-                  "Регенерация: восстанавливает 10 ХП.",
-                  "Восстанавливает 10 единиц целостности."
+                  "Регенерация: восстанавливает 5 ХП.",
+                  "Восстанавливает 5 единиц целостности."
                ],
                "potionEffects":[
                   {
@@ -168,7 +168,7 @@
                   {
                      "id":"misca:restoreIntegrity",
                      "duration":1,
-                     "amplifier":1
+                     "amplifier":0
                   }
                ],
                "potionEffectProbability":1.0,
@@ -1184,7 +1184,7 @@
                ],
                "potionEffects":[
                   {
-                     "id":"misca:restoreSanity",
+                     "id":"misca:restoreStamina",
                      "amplifier": 4,
                      "duration":1
                   },
