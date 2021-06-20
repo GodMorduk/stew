@@ -209,15 +209,9 @@
      "isFullCube": false,
      "isOpaqueCube": false,
      "opacity": 0,
-     "bounds": {
-      "0": { "from": [1, 0.09, 1], "to": [0, 0, 0] }
-   },
-   "selectionBounds": {
-      "0": { "from": [1, 0.09, 1], "to": [0, 0, 0] }
-   },
-   "collisionBounds": {
-      "0": { "from": [1, 0.09, 1], "to": [0, 0, 0] }
-    }
+     "bounds": {"from": [1, 0.09, 1], "to": [0, 0, 0] },
+     "selectionBounds": { "from": [1, 0.09, 1], "to": [0, 0, 0] },
+     "collisionBounds": { "from": [1, 0.09, 1], "to": [0, 0, 0] }
    }
    ]
    },
@@ -276,15 +270,9 @@
   "isFullCube": false,
   "isOpaqueCube": false,
   "opacity": 0,
-  "bounds": {
-   "0": { "from": [1, 0.09, 1], "to": [0, 0, 0] }
-},
-"selectionBounds": {
-   "0": { "from": [1, 0.09, 1], "to": [0, 0, 0] }
-},
-"collisionBounds": {
-   "0": { "from": [1, 0.09, 1], "to": [0, 0, 0] }
- }
+  "bounds": {"from": [1, 0.09, 1], "to": [0, 0, 0] },
+"selectionBounds": { "from": [1, 0.09, 1], "to": [0, 0, 0] },
+"collisionBounds": { "from": [1, 0.09, 1], "to": [0, 0, 0] }
 }
 ]
 },
@@ -302,15 +290,9 @@
   "isFullCube": false,
   "isOpaqueCube": false,
   "opacity": 0,
-  "bounds": {
-   "0": { "from": [1, 0.09, 1], "to": [0, 0, 0] }
-},
-"selectionBounds": {
-   "0": { "from": [1, 0.09, 1], "to": [0, 0, 0] }
-},
-"collisionBounds": {
-   "0": { "from": [1, 0.09, 1], "to": [0, 0, 0] }
- }
+  "bounds": {"from": [1, 0.09, 1], "to": [0, 0, 0] },
+"selectionBounds": { "from": [1, 0.09, 1], "to": [0, 0, 0] },
+"collisionBounds": { "from": [1, 0.09, 1], "to": [0, 0, 0] }
 }
 ]
 },
