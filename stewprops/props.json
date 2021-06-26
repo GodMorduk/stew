@@ -14,6 +14,16 @@
          "type":"item:simple",
          "entries":[
 			{
+               "id":"laudanum_prop_2",
+               "creativeTab":"stewprops",
+               "model":"stewprops:laudanum_2"
+            }
+		 ]
+	  },
+      {
+         "type":"item:simple",
+         "entries":[
+			{
                "id":"rubbing_alcohol_prop",
                "creativeTab":"stewprops",
                "model":"stewprops:rubbing_alcohol"
@@ -3759,6 +3769,26 @@
                "model":"stewprops:cigar_box_4"
             }
          ]
-      }
+      },
+      {
+         "type":"item:simple",
+         "entries":[
+			{
+               "id":"blue_rose",
+               "creativeTab":"stewprops",
+               "model":"stewprops:blue_rose"
+            }
+		 ]
+	  },
+      {
+         "type":"item:simple",
+         "entries":[
+			{
+               "id":"microphone_prop",
+               "creativeTab":"stewprops",
+               "model":"stewprops:microphone"
+            }
+		 ]
+	  }
    ]
 }
