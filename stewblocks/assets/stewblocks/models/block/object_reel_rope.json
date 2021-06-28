@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "stewblocks:blocks/object_reel_rope_top",
+        "top": "stewblocks:blocks/object_reel_rope_top",
+        "side": "stewblocks:blocks/object_reel_rope"
+    }
+}

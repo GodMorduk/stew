@@ -84,6 +84,26 @@
                      "faceBySide": true
                    }
                 ]
-             } 
+             },
+             {
+               "type": "block:simple",
+               "entries":[
+                  {
+                     "id": "concrete_ornament",
+                     "material": "rock",
+                     "creativeTab": "stew_blocks_stone"
+                  }
+               ]
+            }, 
+            {
+               "type": "block:simple",
+               "entries":[
+                  {
+                     "id": "concrete_dark_ornament_round",
+                     "material": "rock",
+                     "creativeTab": "stew_blocks_stone"
+                  }
+               ]
+            }
    ]
 }
