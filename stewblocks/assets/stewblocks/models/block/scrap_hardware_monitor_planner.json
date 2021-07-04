@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "top": "stewblocks:blocks/scrap_hardware_monitor_planner",
+        "side": "stewblocks:blocks/scrap_hardware_monitor_planner_side",
+        "bottom": "stewblocks:blocks/scrap_white_top"
+    }
+}

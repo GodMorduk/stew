@@ -1,0 +1,7 @@
+{
+    "parent": "stewblocks:block/cube_topside_nobottom",
+    "textures": {
+        "top": "stewblocks:blocks/table_cloth_white_top",
+        "side": "stewblocks:blocks/table_cloth_white"
+    }
+}

@@ -83,6 +83,483 @@
                "faceBySide": true
              }
          ]
+      },
+      {
+         "type": "block:orientable:horizontal",
+         "entries":[
+            {
+               "id": "scrap_generator",
+               "creativeTab": "stew_blocks_decor",
+               "material": "iron",
+               "soundType" : "metal",
+               "itemModel": "stewblocks:scrap_generator",
+               "hardness": 1,              
+               "faceBySide": true
+             }
+         ]
+      },
+      {
+         "type": "block:orientable:horizontal",
+         "entries":[
+            {
+               "id": "scrap_hardware_control_panel_big",
+               "creativeTab": "stew_blocks_decor",
+               "material": "iron",
+               "soundType" : "metal",
+               "itemModel": "stewblocks:scrap_hardware_control_panel_big",
+               "hardness": 1,             
+               "faceBySide": true
+             }
+         ]
+      },
+      {
+         "type": "block:orientable:horizontal",
+         "entries":[
+            {
+               "id": "scrap_hardware_control_panel_blue",
+               "creativeTab": "stew_blocks_decor",
+               "material": "iron",
+               "soundType" : "metal",
+               "itemModel": "stewblocks:scrap_hardware_control_panel_blue",
+               "hardness": 1,             
+               "faceBySide": true
+             }
+         ]
+      },
+      {
+         "type": "block:orientable:horizontal",
+         "entries":[
+            {
+               "id": "scrap_hardware_control_panel_green",
+               "creativeTab": "stew_blocks_decor",
+               "material": "iron",
+               "soundType" : "metal",
+               "itemModel": "stewblocks:scrap_hardware_control_panel_green",
+               "hardness": 1,             
+               "faceBySide": true
+             }
+         ]
+      },
+      {
+         "type": "block:orientable:horizontal",
+         "entries":[
+            {
+               "id": "scrap_hardware_control_panel_lime",
+               "creativeTab": "stew_blocks_decor",
+               "material": "iron",
+               "soundType" : "metal",
+               "itemModel": "stewblocks:scrap_hardware_control_panel_lime",
+               "hardness": 1,               
+               "faceBySide": true
+             }
+         ]
+      },
+      {
+         "type": "block:orientable:horizontal",
+         "entries":[
+            {
+               "id": "scrap_hardware_control_panel_red",
+               "creativeTab": "stew_blocks_decor",
+               "material": "iron",
+               "soundType" : "metal",
+               "itemModel": "stewblocks:scrap_hardware_control_panel_red",
+               "hardness": 1,             
+               "faceBySide": true
+             }
+         ]
+      },
+      {
+         "type": "block:simle",
+         "entries":[
+            {
+               "id": "scrap_hardware_control_panel_small",
+               "creativeTab": "stew_blocks_decor",
+               "material": "iron",
+               "soundType" : "metal",
+               "itemModel": "stewblocks:scrap_hardware_control_panel_small",
+               "hardness": 1,              
+               "faceBySide": true
+             }
+         ]
+      },
+      {
+         "type": "block:orientable:horizontal",
+         "entries":[
+            {
+               "id": "scrap_hardware_counter",
+               "creativeTab": "stew_blocks_decor",
+               "material": "iron",
+               "soundType" : "metal",
+               "itemModel": "stewblocks:scrap_hardware_counter",
+               "hardness": 1,             
+               "faceBySide": true
+             }
+         ]
+      },
+      {
+         "type": "block:orientable:horizontal",
+         "entries":[
+            {
+               "id": "scrap_hardware_electrical_panel",
+               "creativeTab": "stew_blocks_decor",
+               "material": "iron",
+               "soundType" : "metal",
+               "itemModel": "stewblocks:scrap_hardware_electrical_panel",
+               "hardness": 1,            
+               "faceBySide": true
+             }
+         ]
+      },
+      {
+         "type": "block:orientable:directional",
+         "entries":[
+            {
+               "id": "scrap_hardware_energy_relay",
+               "creativeTab": "stew_blocks_decor",
+               "material": "iron",
+               "soundType" : "metal",
+               "itemModel": "stewblocks:scrap_hardware_energy_relay",
+               "hardness": 1,              
+               "faceBySide": true
+             }
+         ]
+      },
+      {
+         "type": "block:orientable:horizontal",
+         "entries":[
+            {
+               "id": "scrap_hardware_geiger_counter",
+               "creativeTab": "stew_blocks_decor",
+               "material": "iron",
+               "soundType" : "metal",
+               "itemModel": "stewblocks:scrap_hardware_geiger_counter",
+               "hardness": 1,              
+               "faceBySide": true
+             }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries":[
+            {
+               "id": "scrap_hardware_holoproectop",
+               "creativeTab": "stew_blocks_decor",
+               "material": "iron",
+               "soundType" : "metal",
+               "itemModel": "stewblocks:scrap_hardware_holoproectop",
+               "hardness": 1,              
+               "faceBySide": true
+             }
+         ]
+      },
+      {
+         "type": "block:orientable:horizontal",
+         "entries":[
+            {
+               "id": "scrap_hardware_monitor_blue",
+               "creativeTab": "stew_blocks_decor",
+               "material": "iron",
+               "soundType" : "metal",
+               "itemModel": "stewblocks:scrap_hardware_monitor_blue",
+               "hardness": 1,              
+               "faceBySide": true
+             }
+         ]
+      },
+      {
+         "type": "block:orientable:horizontal",
+         "entries":[
+            {
+               "id": "scrap_hardware_monitor_blue_small",
+               "creativeTab": "stew_blocks_decor",
+               "material": "iron",
+               "soundType" : "metal",
+               "itemModel": "stewblocks:scrap_hardware_monitor_blue_small",
+               "hardness": 1,              
+               "faceBySide": true
+             }
+         ]
+      },
+      {
+         "type": "block:orientable:horizontal",
+         "entries":[
+            {
+               "id": "scrap_hardware_monitor_green",
+               "creativeTab": "stew_blocks_decor",
+               "material": "iron",
+               "soundType" : "metal",
+               "itemModel": "stewblocks:scrap_hardware_monitor_green",
+               "hardness": 1,              
+               "faceBySide": true
+             }
+         ]
+      },
+      {
+         "type": "block:block:orientable:horizontal",
+         "entries":[
+            {
+               "id": "scrap_hardware_monitor_possessed",
+               "creativeTab": "stew_blocks_decor",
+               "material": "iron",
+               "soundType" : "metal",
+               "itemModel": "stewblocks:scrap_hardware_monitor_possessed",
+               "hardness": 1,             
+               "faceBySide": true
+             }
+         ]
+      },
+      {
+         "type": "block:orientable:horizontal",
+         "entries":[
+            {
+               "id": "scrap_hardware_monitors_round",
+               "creativeTab": "stew_blocks_decor",
+               "material": "iron",
+               "soundType" : "metal",
+               "itemModel": "stewblocks:scrap_hardware_monitors_round",
+               "hardness": 1,              
+               "faceBySide": true
+             }
+         ]
+      },
+      {
+         "type": "block:orientable:horizontal",
+         "entries":[
+            {
+               "id": "scrap_hardware_phone",
+               "creativeTab": "stew_blocks_decor",
+               "material": "iron",
+               "soundType" : "metal",
+               "itemModel": "stewblocks:scrap_hardware_phone",
+               "hardness": 1,             
+               "faceBySide": true
+             }
+         ]
+      },
+      {
+         "type": "block:orientable:horizontal",
+         "entries":[
+            {
+               "id": "scrap_hardware_system_unit",
+               "creativeTab": "stew_blocks_decor",
+               "material": "iron",
+               "soundType" : "metal",
+               "itemModel": "stewblocks:scrap_hardware_system_unit",
+               "hardness": 1,             
+               "faceBySide": true
+             }
+         ]
+      },
+      {
+         "type": "block:orientable:horizontal",
+         "entries":[
+            {
+               "id": "scrap_hardware_selector",
+               "creativeTab": "stew_blocks_decor",
+               "material": "iron",
+               "soundType" : "metal",
+               "itemModel": "stewblocks:scrap_hardware_selector",
+               "hardness": 1,             
+               "faceBySide": true
+             }
+         ]
+      },
+      {
+         "type": "block:orientable:horizontal",
+         "entries":[
+            {
+               "id": "scrap_hardware_serwer",
+               "creativeTab": "stew_blocks_decor",
+               "material": "iron",
+               "soundType" : "metal",
+               "itemModel": "stewblocks:scrap_hardware_serwer",
+               "hardness": 1,             
+               "faceBySide": true
+             }
+         ]
+      },
+      {
+         "type": "block:orientable:directional",
+         "entries":[
+            {
+               "id": "scrap_hardware_sheath",
+               "creativeTab": "stew_blocks_decor",
+               "material": "iron",
+               "soundType" : "metal",
+               "itemModel": "stewblocks:scrap_hardware_sheath",
+               "hardness": 1,              
+               "faceBySide": true
+             }
+         ]
+      },
+      {
+         "type": "block:orientable:horizontal",
+         "entries":[
+            {
+               "id": "scrap_hardware_speaker",
+               "creativeTab": "stew_blocks_decor",
+               "material": "iron",
+               "soundType" : "metal",
+               "itemModel": "stewblocks:scrap_hardware_speaker",
+               "hardness": 1,              
+               "faceBySide": true
+             }
+         ]
+      },
+      {
+         "type": "block:orientable:horizontal",
+         "entries":[
+            {
+               "id": "scrap_hardware_switches",
+               "creativeTab": "stew_blocks_decor",
+               "material": "iron",
+               "soundType" : "metal",
+               "itemModel": "stewblocks:scrap_hardware_switches",
+               "hardness": 1,            
+               "faceBySide": true
+             }
+         ]
+      },
+      {
+         "type": "block:orientable:horizontal",
+         "entries":[
+            {
+               "id": "scrap_hardware_tape_computer",
+               "creativeTab": "stew_blocks_decor",
+               "material": "iron",
+               "soundType" : "metal",
+               "itemModel": "stewblocks:scrap_hardware_tape_computer",
+               "hardness": 1,           
+               "faceBySide": true
+             }
+         ]
+      },
+      {
+         "type": "block:orientable:horizontal",
+         "entries":[
+            {
+               "id": "scrap_hardware_tv",
+               "creativeTab": "stew_blocks_decor",
+               "material": "iron",
+               "soundType" : "metal",
+               "itemModel": "stewblocks:scrap_hardware_tv",
+               "hardness": 1,              
+               "faceBySide": true
+             }
+         ]
+      },
+      {
+         "type": "block:orientable:directional",
+         "entries":[
+            {
+               "id": "scrap_mechanism_part",
+               "creativeTab": "stew_blocks_decor",
+               "material": "iron",
+               "soundType" : "metal",
+               "itemModel": "stewblocks:scrap_mechanism_part",
+               "hardness": 1,             
+               "faceBySide": true
+             }
+         ]
+      },
+      {
+         "type": "block:orientable:horizontal",
+         "entries":[
+            {
+               "id": "scrap_hardware_security_camera",
+               "creativeTab": "stew_blocks_decor",
+               "material": "iron",
+               "soundType" : "metal",
+               "itemModel": "stewblocks:scrap_hardware_security_camera",
+               "hardness": 1,             
+               "faceBySide": true
+             }
+         ]
+      },
+      {
+         "type": "block:orientable:horizontal",
+         "entries":[
+            {
+               "id": "scrap_hardware_observer",
+               "creativeTab": "stew_blocks_decor",
+               "material": "iron",
+               "soundType" : "metal",
+               "itemModel": "stewblocks:scrap_hardware_observer",
+               "hardness": 1,             
+               "faceBySide": true
+             }
+         ]
+      },
+      {
+         "type": "block:orientable:directional",
+         "entries":[
+            {
+               "id": "scrap_hardware_monitor_hazard",
+               "creativeTab": "stew_blocks_decor",
+               "material": "iron",
+               "soundType" : "metal",
+               "itemModel": "stewblocks:scrap_hardware_monitor_hazard",
+               "hardness": 1,             
+               "faceBySide": true
+             }
+         ]
+      },
+      {
+         "type": "block:orientable:directional",
+         "entries":[
+            {
+               "id": "scrap_hardware_monitor_planner",
+               "creativeTab": "stew_blocks_decor",
+               "material": "iron",
+               "soundType" : "metal",
+               "itemModel": "stewblocks:scrap_hardware_monitor_planner",
+               "hardness": 1,             
+               "faceBySide": true
+             }
+         ]
+      },
+      {
+         "type": "block:orientable:horizontal",
+         "entries":[
+            {
+               "id": "scrap_oven",
+               "creativeTab": "stew_blocks_decor",
+               "material": "iron",
+               "soundType" : "metal",
+               "itemModel": "stewblocks:scrap_oven",
+               "hardness": 1,             
+               "faceBySide": true
+             }
+         ]
+      },
+      {
+         "type": "block:orientable:directional",
+         "entries":[
+            {
+               "id": "scrap_spotlight",
+               "creativeTab": "stew_blocks_decor",
+               "material": "iron",
+               "soundType" : "metal",
+               "itemModel": "stewblocks:scrap_spotlight",
+               "light": 15,
+               "hardness": 1,             
+               "faceBySide": true
+             }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries":[
+            {
+               "id": "scrap_hardware_chip",
+               "creativeTab": "stew_blocks_decor",
+               "material": "iron",
+               "soundType" : "metal",
+               "itemModel": "stewblocks:scrap_hardware_chip",
+               "hardness": 1,             
+               "faceBySide": true
+             }
+         ]
       }
    ]
 }

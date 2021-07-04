@@ -1,0 +1,6 @@
+{
+    "parent": "block/cross",
+    "textures": {
+        "cross": "stewblocks:blocks/kettle_silver"
+    }
+}

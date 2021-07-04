@@ -1,0 +1,8 @@
+{
+    "variants": {
+    "facing=north": { "model": "stewblocks:furniture_white_cloth_table", "y": 270},
+    "facing=south": { "model": "stewblocks:furniture_white_cloth_table", "y": 90 },
+    "facing=west":  { "model": "stewblocks:furniture_white_cloth_table", "y": 180 },
+    "facing=east":  { "model": "stewblocks:furniture_white_cloth_table", "y": 0 }
+}
+}

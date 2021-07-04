@@ -270,6 +270,23 @@
       "hideAdjacentSides": true
     }
   ]
-}      
+},
+{
+   "type": "block:simple",
+   "entries":[
+      {
+         "id": "force_field_staticnoise_full",
+         "material": "glass",
+         "creativeTab": "stew_blocks_effects",
+         "soundType" : "glass",
+         "hardness" : 999999,
+         "opacity": 0,
+         "isFullCube": false,
+         "isOpaqueCube": false,
+         "hideAdjacentSides": true,
+         "renderLayer": "translucent"
+        }
+    ]
+   }  
 ]
 }

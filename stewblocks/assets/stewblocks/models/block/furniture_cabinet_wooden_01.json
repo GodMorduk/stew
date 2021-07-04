@@ -1,0 +1,9 @@
+{
+    "parent": "stewblocks:block/cube_frontside",
+    "textures": {
+      "front": "stewblocks:blocks/chest_medicine_brown",
+      "side": "stewblocks:blocks/chest_medicine_brown_side",
+      "top": "stewblocks:blocks/chest_medicine_brown_top",
+      "bottom": "stewblocks:blocks/chest_medicine_brown_top"
+    }
+}

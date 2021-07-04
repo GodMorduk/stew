@@ -194,7 +194,241 @@
     "collisionBounds": null  
    }      
    ]
-   } 
+   },
+   {
+      "type": "block:orientable:horizontal",
+      "entries":[
+   {
+     "id": "effect_blood_footprints",
+     "creativeTab": "stew_blocks_effects",
+     "material": "iron",
+     "hardness": 1,
+     "renderLayer": "mippedCutout",
+     "faceBySide": true,
+     "isPassable": true,
+     "isFullCube": false,
+     "isOpaqueCube": false,
+     "opacity": 0,
+     "bounds": {"from": [1, 0.09, 1], "to": [0, 0, 0] },
+     "selectionBounds": { "from": [1, 0.09, 1], "to": [0, 0, 0] },
+     "collisionBounds": { "from": [1, 0.09, 1], "to": [0, 0, 0] }
+   }
+   ]
+   },
+{
+   "type": "block:orientable:directional",
+   "entries":[
+{
+  "id": "effect_blood_splashes",
+  "creativeTab": "stew_blocks_effects",
+  "material": "iron",
+  "hardness": 1,
+  "renderLayer": "mippedCutout",
+  "faceBySide": true,
+  "isPassable": true,
+  "isFullCube": false,
+  "isOpaqueCube": false,
+  "opacity": 0,
+  "bounds": {
+   "0": { "from": [0, 0.9167, 0], "to": [1, 1, 1] },
+   "1": { "from": [0, 0, 0], "to": [1, 0.0833, 1] },
+   "2": { "from": [0, 0, 0.9167], "to": [1, 1, 1] },
+   "3": { "from": [0, 0, 0], "to": [1, 1, 0.0833] },
+   "4": { "from": [0.9167, 0, 0], "to": [1, 1, 1] },
+   "5": { "from": [0, 0, 0], "to": [0.0833, 1, 1] }
+},
+"selectionBounds": {
+   "0": { "from": [0, 0.9167, 0], "to": [1, 1, 1] },
+   "1": { "from": [0, 0, 0], "to": [1, 0.0833, 1] },
+   "2": { "from": [0, 0, 0.9167], "to": [1, 1, 1] },
+   "3": { "from": [0, 0, 0], "to": [1, 1, 0.0833] },
+   "4": { "from": [0.9167, 0, 0], "to": [1, 1, 1] },
+   "5": { "from": [0, 0, 0], "to": [0.0833, 1, 1] }
+},
+"collisionBounds": {
+   "0": { "from": [0, 0.9167, 0], "to": [1, 1, 1] },
+   "1": { "from": [0, 0, 0], "to": [1, 0.0833, 1] },
+   "2": { "from": [0, 0, 0.9167], "to": [1, 1, 1] },
+   "3": { "from": [0, 0, 0], "to": [1, 1, 0.0833] },
+   "4": { "from": [0.9167, 0, 0], "to": [1, 1, 1] },
+   "5": { "from": [0, 0, 0], "to": [0.0833, 1, 1] }
+ }
+}
+]
+},
+{
+   "type": "block:orientable:horizontal",
+   "entries":[
+{
+  "id": "effect_blood_trail",
+  "creativeTab": "stew_blocks_effects",
+  "material": "iron",
+  "hardness": 1,
+  "renderLayer": "mippedCutout",
+  "faceBySide": true,
+  "isPassable": true,
+  "isFullCube": false,
+  "isOpaqueCube": false,
+  "opacity": 0,
+  "bounds": {"from": [1, 0.09, 1], "to": [0, 0, 0] },
+"selectionBounds": { "from": [1, 0.09, 1], "to": [0, 0, 0] },
+"collisionBounds": { "from": [1, 0.09, 1], "to": [0, 0, 0] }
+}
+]
+},
+{
+   "type": "block:orientable:horizontal",
+   "entries":[
+{
+  "id": "effect_blood_trail_turn",
+  "creativeTab": "stew_blocks_effects",
+  "material": "iron",
+  "hardness": 1,
+  "renderLayer": "mippedCutout",
+  "faceBySide": true,
+  "isPassable": true,
+  "isFullCube": false,
+  "isOpaqueCube": false,
+  "opacity": 0,
+  "bounds": {"from": [1, 0.09, 1], "to": [0, 0, 0] },
+"selectionBounds": { "from": [1, 0.09, 1], "to": [0, 0, 0] },
+"collisionBounds": { "from": [1, 0.09, 1], "to": [0, 0, 0] }
+}
+]
+},
+{
+   "type": "block:simple",
+   "entries":[
+      {
+         "id": "antiblock_white",
+         "material": "rock",
+        "creativeTab": "stew_blocks_effects",
+         "hardness" : 999999
+      }
+   ]
+},
+{
+   "type": "block:simple",
+   "entries":[
+      {
+         "id": "antiblock_black",
+         "material": "rock",
+        "creativeTab": "stew_blocks_effects",
+         "hardness" : 999999
+      }
+   ]
+},
+{
+   "type": "block:simple",
+   "entries":[
+      {
+         "id": "invisible_wall",
+         "material": "glass",
+         "creativeTab": "stew_blocks_effects",
+         "soundType" : "glass",
+         "hardness" : 999999,
+         "opacity": 0,
+         "isFullCube": false,
+         "isOpaqueCube": false,
+         "hideAdjacentSides": true,
+         "renderLayer": "translucent"
+        }
+    ]
+   },
+   {
+      "type": "block:simple",
+      "entries":[
+         {
+            "id": "invisible_light_source_bright",
+            "material": "glass",
+            "creativeTab": "stew_blocks_effects",
+            "soundType" : "glass",
+            "hardness" : 999999,
+            "opacity": 0,
+            "isPassable": true,
+            "isFullCube": false,
+            "isOpaqueCube": false,
+            "hideAdjacentSides": true,
+            "light": 15,
+            "collisionBounds": null  ,
+            "renderLayer": "translucent"
+           }
+       ]
+      },
+      {
+         "type": "block:simple",
+         "entries":[
+            {
+               "id": "invisible_light_source_dim",
+               "material": "glass",
+               "creativeTab": "stew_blocks_effects",
+               "soundType" : "glass",
+               "hardness" : 999999,
+               "opacity": 0,
+               "isPassable": true,
+               "isFullCube": false,
+               "isOpaqueCube": false,
+               "hideAdjacentSides": true,
+               "light": 8,
+               "collisionBounds": null  ,
+               "renderLayer": "translucent"
+              }
+          ]
+         },
+         {
+            "type": "block:simple",
+            "entries":[
+               {
+                   "id": "effect_lightning",
+                   "material": "tnt",
+                   "renderLayer": "translucent",              
+                   "creativeTab": "stew_blocks_effects",
+                   "hardness": 1,
+                   "isPassable": true,
+                   "isFullCube": false,               
+                   "isOpaqueCube": false,              
+                   "opacity": 0,  
+                   "light" : 15, 
+                   "collisionBounds": null  
+               }
+            ]
+         },
+         {
+            "type": "block:simple",
+            "entries":[
+               {
+                   "id": "effect_beam",
+                   "material": "tnt",
+                   "renderLayer": "mippedCutout",              
+                   "creativeTab": "stew_blocks_effects",
+                   "hardness": 1,
+                   "isPassable": true,
+                   "isFullCube": false,               
+                   "isOpaqueCube": false,              
+                   "opacity": 0,  
+                   "light" : 15, 
+                   "collisionBounds": null  
+               }
+            ]
+         },
+         {
+            "type": "block:simple",
+            "entries":[
+               {
+                  "id": "effect_cloud",
+                  "material": "glass",
+                  "creativeTab": "stew_blocks_effects",
+                  "soundType" : "glass",
+                  "hardness" : 1,
+                  "opacity": 0,
+                  "isFullCube": false,
+                  "isOpaqueCube": false,
+                  "hideAdjacentSides": true,
+                  "renderLayer": "translucent",
+                  "collisionBounds": null  
+                 }
+             ]
+            }  
    ]
 }
     

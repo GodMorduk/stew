@@ -1,0 +1,8 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "top": "stewblocks:blocks/scrap_pipes",
+        "front": "stewblocks:blocks/scrap_hardware_switches",
+        "side": "stewblocks:blocks/metal_rough_plate_protective"
+    }
+}

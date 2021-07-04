@@ -1,0 +1,6 @@
+{
+    "parent": "stewblocks:block/wall_ornament",
+    "textures": {
+        "texture": "stewblocks:blocks/stringlights_globe_wall"
+    }
+}

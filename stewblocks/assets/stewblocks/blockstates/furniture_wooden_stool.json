@@ -1,0 +1,8 @@
+{
+    "variants": {
+    "facing=north": { "model": "stewblocks:furniture_wooden_stool", "y": 180},
+    "facing=south": { "model": "stewblocks:furniture_wooden_stool", "y": 0 },
+    "facing=west":  { "model": "stewblocks:furniture_wooden_stool", "y": 90 },
+    "facing=east":  { "model": "stewblocks:furniture_wooden_stool", "y": 270 }
+}
+}

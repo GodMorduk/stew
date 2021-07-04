@@ -1,0 +1,8 @@
+{
+    "variants": {
+    "facing=north": { "model": "stewblocks:scrap_generator" },
+    "facing=south": { "model": "stewblocks:scrap_generator", "y": 180 },
+    "facing=west":  { "model": "stewblocks:scrap_generator", "y": 270 },
+    "facing=east":  { "model": "stewblocks:scrap_generator", "y": 90 }
+}
+}

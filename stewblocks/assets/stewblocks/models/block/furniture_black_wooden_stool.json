@@ -1,0 +1,7 @@
+{
+    "parent": "stewblocks:block/stool_industrial",
+    "textures": {
+        "particle": "stewblocks:blocks/furn_planks_brown",
+        "texture": "stewblocks:blocks/chair_iron_brown"
+    }
+}

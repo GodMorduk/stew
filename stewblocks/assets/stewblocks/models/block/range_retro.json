@@ -1,0 +1,8 @@
+{
+	"parent": "block/base_cube_all",
+	"textures": {
+		"d": "stewblocks:blocks/stone_color_black_whiteframe26",
+		"w": "#s",
+		"e": "#s"
+	}
+}

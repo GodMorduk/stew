@@ -1,0 +1,8 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "top": "stewblocks:blocks/plasteel_panel_green_top",
+        "front": "stewblocks:blocks/scrap_hardware_monitors_round",
+        "side": "stewblocks:blocks/plasteel_panel_green"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "stewblocks:blocks/wooden_beam_birch",
+        "top": "stewblocks:blocks/wooden_beam_birch",
+        "side": "stewblocks:blocks/wooden_beam_birch_side"
+    }
+}
