@@ -52,6 +52,101 @@
                "creativeTab": "stew_blocks_ambience"
             }
          ]
+      },
+      {
+         "type": "block:simple",
+         "entries":[
+            {
+               "id": "taint_crust",
+               "material": "rock",
+               "soundType" : "slime",
+               "sustainedPlants": ["Plains", "Desert", "Beach", "Cave"],   
+              "creativeTab": "stew_blocks_ambience"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries":[
+            {
+               "id": "taint_soil",
+               "material": "rock",
+               "soundType" : "slime",
+              "creativeTab": "stew_blocks_ambience"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries":[
+            {
+               "id": "taint_flesh",
+               "material": "rock",
+               "soundType" : "slime",
+              "creativeTab": "stew_blocks_ambience"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries":[
+            {
+                "id": "taint_growth",
+                "material": "cactus",
+                "soundType" : "slime",
+                "renderLayer": "translucent",              
+                "creativeTab": "stew_blocks_ambience",
+                "hardness": 1,
+                "isPassable": true,
+                "isFullCube": false,               
+                "isOpaqueCube": false,              
+                "opacity": 0,   
+                "collisionBounds": null  
+            }
+         ]
+      },
+      {
+         "type": "block:orientable:directional",
+         "entries":[
+      {
+        "id": "taint_fibres",
+        "creativeTab": "stew_blocks_ambience",
+        "material": "cactus",
+        "soundType" : "slime",
+        "hardness": 1,
+        "renderLayer": "mippedCutout",
+        "faceBySide": true,
+        "isPassable": true,
+        "isFullCube": false,
+        "isOpaqueCube": false,
+        "hideAdjacentSides": true,
+        "opacity": 0,
+        "bounds": {
+         "0": { "from": [0, 0.9167, 0], "to": [1, 1, 1] },
+         "1": { "from": [0, 0, 0], "to": [1, 0.0833, 1] },
+         "2": { "from": [0, 0, 0.9167], "to": [1, 1, 1] },
+         "3": { "from": [0, 0, 0], "to": [1, 1, 0.0833] },
+         "4": { "from": [0.9167, 0, 0], "to": [1, 1, 1] },
+         "5": { "from": [0, 0, 0], "to": [0.0833, 1, 1] }
+      },
+      "selectionBounds": {
+         "0": { "from": [0, 0.9167, 0], "to": [1, 1, 1] },
+         "1": { "from": [0, 0, 0], "to": [1, 0.0833, 1] },
+         "2": { "from": [0, 0, 0.9167], "to": [1, 1, 1] },
+         "3": { "from": [0, 0, 0], "to": [1, 1, 0.0833] },
+         "4": { "from": [0.9167, 0, 0], "to": [1, 1, 1] },
+         "5": { "from": [0, 0, 0], "to": [0.0833, 1, 1] }
+      },
+      "collisionBounds": {
+         "0": { "from": [0, 0.9167, 0], "to": [1, 1, 1] },
+         "1": { "from": [0, 0, 0], "to": [1, 0.0833, 1] },
+         "2": { "from": [0, 0, 0.9167], "to": [1, 1, 1] },
+         "3": { "from": [0, 0, 0], "to": [1, 1, 0.0833] },
+         "4": { "from": [0.9167, 0, 0], "to": [1, 1, 1] },
+         "5": { "from": [0, 0, 0], "to": [0.0833, 1, 1] }
+       }
+      }
+      ]
       }
     ]
 }

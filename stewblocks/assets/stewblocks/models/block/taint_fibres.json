@@ -1,0 +1,8 @@
+{
+    "parent": "stewblocks:block/thin_slab",
+    "textures": {  
+      "front": "stewblocks:blocks/taint_fibres",
+      "back": "stewblocks:blocks/taint_fibres",     
+      "side": "stewblocks:blocks/taint_fibres"
+    }
+  }

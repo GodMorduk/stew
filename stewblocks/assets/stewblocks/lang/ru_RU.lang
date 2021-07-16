@@ -85,6 +85,11 @@ tile.stewblocks.roofing_cyan_cracked.name=Черепица: замшелая б�
 tile.stewblocks.roofing_gray_wavy.name=Черепица: волнистая серая
 tile.stewblocks.tiles_clay_mixed.name=Смешанная глиняная плитка 
 tile.stewblocks.tiles_clay_dark.name=Тёмная глиняная плитка 
+tile.stewblocks.taint_fibres.name=Заражённое волокно
+tile.stewblocks.taint_growth.name=Заражённый побег
+tile.stewblocks.taint_flesh.name=Заражённая плоть
+tile.stewblocks.taint_soil.name=Заражённая почва
+tile.stewblocks.taint_crust.name=Заражённая корка
 
 
 
