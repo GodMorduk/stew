@@ -60,6 +60,7 @@
                "id": "taint_crust",
                "material": "rock",
                "soundType" : "slime",
+               "drop": "minecraft:air",
                "sustainedPlants": ["Plains", "Desert", "Beach", "Cave"],   
               "creativeTab": "stew_blocks_ambience"
             }
@@ -72,6 +73,7 @@
                "id": "taint_soil",
                "material": "rock",
                "soundType" : "slime",
+               "drop": "minecraft:air",
               "creativeTab": "stew_blocks_ambience"
             }
          ]
@@ -83,6 +85,7 @@
                "id": "taint_flesh",
                "material": "rock",
                "soundType" : "slime",
+               "drop": "minecraft:air",
               "creativeTab": "stew_blocks_ambience"
             }
          ]
@@ -99,7 +102,8 @@
                 "hardness": 1,
                 "isPassable": true,
                 "isFullCube": false,               
-                "isOpaqueCube": false,              
+                "isOpaqueCube": false, 
+                "drop": "minecraft:air",             
                 "opacity": 0,   
                 "collisionBounds": null  
             }
@@ -120,6 +124,7 @@
         "isFullCube": false,
         "isOpaqueCube": false,
         "hideAdjacentSides": true,
+        "drop": "minecraft:air",
         "opacity": 0,
         "bounds": {
          "0": { "from": [0, 0.9167, 0], "to": [1, 1, 1] },
