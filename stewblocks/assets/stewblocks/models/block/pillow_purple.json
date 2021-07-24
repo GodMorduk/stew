@@ -1,0 +1,8 @@
+{
+    "parent": "stewblocks:block/top_side_face",
+    "textures": {
+        "face": "stewblocks:blocks/pillow_purple_side",
+        "top": "stewblocks:blocks/pillow_purple",        
+        "side": "stewblocks:blocks/pillow_purple_side"
+    }
+}

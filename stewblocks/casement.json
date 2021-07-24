@@ -5,7 +5,7 @@
     "entries": [
       {
         "id": "casement_mica_01",
-        "creativeTab": "stew_blocks_furniture",
+        "creativeTab": "stew_blocks_doors",
         "itemModel": "stewblocks:casement_mica_01",
         "opensWithRedstone": false,
         "renderLayer": "translucent",

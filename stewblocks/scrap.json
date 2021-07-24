@@ -7,7 +7,7 @@
                "id": "scrap_hardware_core",
                "material": "iron",
                "soundType" : "metal",              
-               "creativeTab": "stew_blocks_decor"
+               "creativeTab": "stew_blocks_furniture"
             }
          ]
       },
@@ -18,7 +18,7 @@
                "id": "scrap_hardware_battery",
                "material": "iron",
                "soundType" : "metal",              
-               "creativeTab": "stew_blocks_decor"
+               "creativeTab": "stew_blocks_furniture"
             }
          ]
       },
@@ -29,7 +29,7 @@
                "id": "scrap_hardware_clono",
                "material": "iron",
                "soundType" : "metal",              
-               "creativeTab": "stew_blocks_decor"
+               "creativeTab": "stew_blocks_furniture"
             }
          ]
       },
@@ -40,7 +40,7 @@
                "id": "scrap_hardware_processor",
                "material": "iron",
                "soundType" : "metal",
-               "creativeTab": "stew_blocks_decor"
+               "creativeTab": "stew_blocks_furniture"
             }
          ]
       },
@@ -51,7 +51,7 @@
                "id": "scrap_hardware_coil",
                "material": "iron",
                "soundType" : "metal",
-               "creativeTab": "stew_blocks_decor"
+               "creativeTab": "stew_blocks_furniture"
             }
          ]
       },
@@ -60,7 +60,7 @@
          "entries":[
             {
                "id": "scrap_wires",
-               "creativeTab": "stew_blocks_decor",
+               "creativeTab": "stew_blocks_furniture",
                "material": "iron",
                "soundType" : "metal",
                "itemModel": "stewblocks:scrap_wires",
@@ -74,7 +74,7 @@
          "entries":[
             {
                "id": "scrap_accelerator_base",
-               "creativeTab": "stew_blocks_decor",
+               "creativeTab": "stew_blocks_furniture",
                "material": "iron",
                "soundType" : "metal",
                "itemModel": "stewblocks:scrap_accelerator_base",
@@ -89,7 +89,7 @@
          "entries":[
             {
                "id": "scrap_generator",
-               "creativeTab": "stew_blocks_decor",
+               "creativeTab": "stew_blocks_furniture",
                "material": "iron",
                "soundType" : "metal",
                "itemModel": "stewblocks:scrap_generator",
@@ -103,7 +103,7 @@
          "entries":[
             {
                "id": "scrap_hardware_control_panel_big",
-               "creativeTab": "stew_blocks_decor",
+               "creativeTab": "stew_blocks_furniture",
                "material": "iron",
                "soundType" : "metal",
                "itemModel": "stewblocks:scrap_hardware_control_panel_big",
@@ -117,7 +117,7 @@
          "entries":[
             {
                "id": "scrap_hardware_control_panel_blue",
-               "creativeTab": "stew_blocks_decor",
+               "creativeTab": "stew_blocks_furniture",
                "material": "iron",
                "soundType" : "metal",
                "itemModel": "stewblocks:scrap_hardware_control_panel_blue",
@@ -131,7 +131,7 @@
          "entries":[
             {
                "id": "scrap_hardware_control_panel_green",
-               "creativeTab": "stew_blocks_decor",
+               "creativeTab": "stew_blocks_furniture",
                "material": "iron",
                "soundType" : "metal",
                "itemModel": "stewblocks:scrap_hardware_control_panel_green",
@@ -145,7 +145,7 @@
          "entries":[
             {
                "id": "scrap_hardware_control_panel_lime",
-               "creativeTab": "stew_blocks_decor",
+               "creativeTab": "stew_blocks_furniture",
                "material": "iron",
                "soundType" : "metal",
                "itemModel": "stewblocks:scrap_hardware_control_panel_lime",
@@ -159,7 +159,7 @@
          "entries":[
             {
                "id": "scrap_hardware_control_panel_red",
-               "creativeTab": "stew_blocks_decor",
+               "creativeTab": "stew_blocks_furniture",
                "material": "iron",
                "soundType" : "metal",
                "itemModel": "stewblocks:scrap_hardware_control_panel_red",
@@ -173,7 +173,7 @@
          "entries":[
             {
                "id": "scrap_hardware_control_panel_small",
-               "creativeTab": "stew_blocks_decor",
+               "creativeTab": "stew_blocks_furniture",
                "material": "iron",
                "soundType" : "metal",
                "itemModel": "stewblocks:scrap_hardware_control_panel_small",
@@ -187,7 +187,7 @@
          "entries":[
             {
                "id": "scrap_hardware_counter",
-               "creativeTab": "stew_blocks_decor",
+               "creativeTab": "stew_blocks_furniture",
                "material": "iron",
                "soundType" : "metal",
                "itemModel": "stewblocks:scrap_hardware_counter",
@@ -201,7 +201,7 @@
          "entries":[
             {
                "id": "scrap_hardware_electrical_panel",
-               "creativeTab": "stew_blocks_decor",
+               "creativeTab": "stew_blocks_furniture",
                "material": "iron",
                "soundType" : "metal",
                "itemModel": "stewblocks:scrap_hardware_electrical_panel",
@@ -215,7 +215,7 @@
          "entries":[
             {
                "id": "scrap_hardware_energy_relay",
-               "creativeTab": "stew_blocks_decor",
+               "creativeTab": "stew_blocks_furniture",
                "material": "iron",
                "soundType" : "metal",
                "itemModel": "stewblocks:scrap_hardware_energy_relay",
@@ -229,7 +229,7 @@
          "entries":[
             {
                "id": "scrap_hardware_geiger_counter",
-               "creativeTab": "stew_blocks_decor",
+               "creativeTab": "stew_blocks_furniture",
                "material": "iron",
                "soundType" : "metal",
                "itemModel": "stewblocks:scrap_hardware_geiger_counter",
@@ -243,7 +243,7 @@
          "entries":[
             {
                "id": "scrap_hardware_holoproectop",
-               "creativeTab": "stew_blocks_decor",
+               "creativeTab": "stew_blocks_furniture",
                "material": "iron",
                "soundType" : "metal",
                "itemModel": "stewblocks:scrap_hardware_holoproectop",
@@ -257,7 +257,7 @@
          "entries":[
             {
                "id": "scrap_hardware_monitor_blue",
-               "creativeTab": "stew_blocks_decor",
+               "creativeTab": "stew_blocks_furniture",
                "material": "iron",
                "soundType" : "metal",
                "itemModel": "stewblocks:scrap_hardware_monitor_blue",
@@ -271,7 +271,7 @@
          "entries":[
             {
                "id": "scrap_hardware_monitor_blue_small",
-               "creativeTab": "stew_blocks_decor",
+               "creativeTab": "stew_blocks_furniture",
                "material": "iron",
                "soundType" : "metal",
                "itemModel": "stewblocks:scrap_hardware_monitor_blue_small",
@@ -285,7 +285,7 @@
          "entries":[
             {
                "id": "scrap_hardware_monitor_green",
-               "creativeTab": "stew_blocks_decor",
+               "creativeTab": "stew_blocks_furniture",
                "material": "iron",
                "soundType" : "metal",
                "itemModel": "stewblocks:scrap_hardware_monitor_green",
@@ -299,7 +299,7 @@
          "entries":[
             {
                "id": "scrap_hardware_monitor_possessed",
-               "creativeTab": "stew_blocks_decor",
+               "creativeTab": "stew_blocks_furniture",
                "material": "iron",
                "soundType" : "metal",
                "itemModel": "stewblocks:scrap_hardware_monitor_possessed",
@@ -313,7 +313,7 @@
          "entries":[
             {
                "id": "scrap_hardware_monitors_round",
-               "creativeTab": "stew_blocks_decor",
+               "creativeTab": "stew_blocks_furniture",
                "material": "iron",
                "soundType" : "metal",
                "itemModel": "stewblocks:scrap_hardware_monitors_round",
@@ -327,7 +327,7 @@
          "entries":[
             {
                "id": "scrap_hardware_phone",
-               "creativeTab": "stew_blocks_decor",
+               "creativeTab": "stew_blocks_furniture",
                "material": "iron",
                "soundType" : "metal",
                "itemModel": "stewblocks:scrap_hardware_phone",
@@ -341,7 +341,7 @@
          "entries":[
             {
                "id": "scrap_hardware_system_unit",
-               "creativeTab": "stew_blocks_decor",
+               "creativeTab": "stew_blocks_furniture",
                "material": "iron",
                "soundType" : "metal",
                "itemModel": "stewblocks:scrap_hardware_system_unit",
@@ -355,7 +355,7 @@
          "entries":[
             {
                "id": "scrap_hardware_selector",
-               "creativeTab": "stew_blocks_decor",
+               "creativeTab": "stew_blocks_furniture",
                "material": "iron",
                "soundType" : "metal",
                "itemModel": "stewblocks:scrap_hardware_selector",
@@ -369,7 +369,7 @@
          "entries":[
             {
                "id": "scrap_hardware_serwer",
-               "creativeTab": "stew_blocks_decor",
+               "creativeTab": "stew_blocks_furniture",
                "material": "iron",
                "soundType" : "metal",
                "itemModel": "stewblocks:scrap_hardware_serwer",
@@ -383,7 +383,7 @@
          "entries":[
             {
                "id": "scrap_hardware_sheath",
-               "creativeTab": "stew_blocks_decor",
+               "creativeTab": "stew_blocks_furniture",
                "material": "iron",
                "soundType" : "metal",
                "itemModel": "stewblocks:scrap_hardware_sheath",
@@ -397,7 +397,7 @@
          "entries":[
             {
                "id": "scrap_hardware_speaker",
-               "creativeTab": "stew_blocks_decor",
+               "creativeTab": "stew_blocks_furniture",
                "material": "iron",
                "soundType" : "metal",
                "itemModel": "stewblocks:scrap_hardware_speaker",
@@ -411,7 +411,7 @@
          "entries":[
             {
                "id": "scrap_hardware_switches",
-               "creativeTab": "stew_blocks_decor",
+               "creativeTab": "stew_blocks_furniture",
                "material": "iron",
                "soundType" : "metal",
                "itemModel": "stewblocks:scrap_hardware_switches",
@@ -425,7 +425,7 @@
          "entries":[
             {
                "id": "scrap_hardware_tape_computer",
-               "creativeTab": "stew_blocks_decor",
+               "creativeTab": "stew_blocks_furniture",
                "material": "iron",
                "soundType" : "metal",
                "itemModel": "stewblocks:scrap_hardware_tape_computer",
@@ -439,7 +439,7 @@
          "entries":[
             {
                "id": "scrap_hardware_tv",
-               "creativeTab": "stew_blocks_decor",
+               "creativeTab": "stew_blocks_furniture",
                "material": "iron",
                "soundType" : "metal",
                "itemModel": "stewblocks:scrap_hardware_tv",
@@ -453,7 +453,7 @@
          "entries":[
             {
                "id": "scrap_mechanism_part",
-               "creativeTab": "stew_blocks_decor",
+               "creativeTab": "stew_blocks_furniture",
                "material": "iron",
                "soundType" : "metal",
                "itemModel": "stewblocks:scrap_mechanism_part",
@@ -467,7 +467,7 @@
          "entries":[
             {
                "id": "scrap_hardware_security_camera",
-               "creativeTab": "stew_blocks_decor",
+               "creativeTab": "stew_blocks_furniture",
                "material": "iron",
                "soundType" : "metal",
                "itemModel": "stewblocks:scrap_hardware_security_camera",
@@ -481,7 +481,7 @@
          "entries":[
             {
                "id": "scrap_hardware_observer",
-               "creativeTab": "stew_blocks_decor",
+               "creativeTab": "stew_blocks_furniture",
                "material": "iron",
                "soundType" : "metal",
                "itemModel": "stewblocks:scrap_hardware_observer",
@@ -495,7 +495,7 @@
          "entries":[
             {
                "id": "scrap_hardware_monitor_hazard",
-               "creativeTab": "stew_blocks_decor",
+               "creativeTab": "stew_blocks_furniture",
                "material": "iron",
                "soundType" : "metal",
                "itemModel": "stewblocks:scrap_hardware_monitor_hazard",
@@ -509,7 +509,7 @@
          "entries":[
             {
                "id": "scrap_hardware_monitor_planner",
-               "creativeTab": "stew_blocks_decor",
+               "creativeTab": "stew_blocks_furniture",
                "material": "iron",
                "soundType" : "metal",
                "itemModel": "stewblocks:scrap_hardware_monitor_planner",
@@ -523,7 +523,7 @@
          "entries":[
             {
                "id": "scrap_oven",
-               "creativeTab": "stew_blocks_decor",
+               "creativeTab": "stew_blocks_furniture",
                "material": "iron",
                "soundType" : "metal",
                "itemModel": "stewblocks:scrap_oven",
@@ -537,7 +537,7 @@
          "entries":[
             {
                "id": "scrap_spotlight",
-               "creativeTab": "stew_blocks_decor",
+               "creativeTab": "stew_blocks_furniture",
                "material": "iron",
                "soundType" : "metal",
                "itemModel": "stewblocks:scrap_spotlight",
@@ -552,13 +552,54 @@
          "entries":[
             {
                "id": "scrap_hardware_chip",
-               "creativeTab": "stew_blocks_decor",
+               "creativeTab": "stew_blocks_furniture",
                "material": "iron",
                "soundType" : "metal",
                "itemModel": "stewblocks:scrap_hardware_chip",
                "hardness": 1,             
                "faceBySide": true
              }
+         ]
+      },
+      {
+         "type": "block:orientable:directional",
+         "entries":[
+            {
+               "id": "scrap_electrical_panel",
+               "creativeTab": "stew_blocks_furniture",
+               "material": "iron",
+               "soundType" : "metal",
+               "hardness": 1,             
+               "faceBySide": true,
+               "isPassable": false,
+               "isFullCube": false,
+               "isOpaqueCube": false,
+               "opacity": 0,
+               "bounds": {
+                "0": { "from": [0, 0.5, 0], "to": [1, 1, 1] },
+                "1": { "from": [0, 0, 0], "to": [1, 0.5, 1] },
+                "2": { "from": [0, 0, 0.5], "to": [1, 1, 1] },
+                "3": { "from": [0, 0, 0], "to": [1, 1, 0.5] },
+                "4": { "from": [0.5, 0, 0], "to": [1, 1, 1] },
+                "5": { "from": [0, 0, 0], "to": [0.5, 1, 1] }
+             },
+             "selectionBounds": {
+                "0": { "from": [0, 0.5, 0], "to": [1, 1, 1] },
+                "1": { "from": [0, 0, 0], "to": [1, 0.5, 1] },
+                "2": { "from": [0, 0, 0.5], "to": [1, 1, 1] },
+                "3": { "from": [0, 0, 0], "to": [1, 1, 0.5] },
+                "4": { "from": [0.5, 0, 0], "to": [1, 1, 1] },
+                "5": { "from": [0, 0, 0], "to": [0.5, 1, 1] }
+             },
+             "collisionBounds": {
+                "0": { "from": [0, 0.5, 0], "to": [1, 1, 1] },
+                "1": { "from": [0, 0, 0], "to": [1, 0.5, 1] },
+                "2": { "from": [0, 0, 0.5], "to": [1, 1, 1] },
+                "3": { "from": [0, 0, 0], "to": [1, 1, 0.5] },
+                "4": { "from": [0.5, 0, 0], "to": [1, 1, 1] },
+                "5": { "from": [0, 0, 0], "to": [0.5, 1, 1] }
+              }
+            }
          ]
       }
    ]

@@ -5,7 +5,7 @@
       "entries":[
         {
           "id": "cloth_blanket_blue",
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_cloth_&_paper",
           "material": "cloth",
           "itemModel": "stewblocks:cloth_blanket_blue",
           "hardness": 1,
@@ -41,7 +41,7 @@
         },
         {
           "id": "cloth_blanket_cyan",
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_cloth_&_paper",
           "material": "cloth",
           "itemModel": "stewblocks:cloth_blanket_cyan",
           "hardness": 1,
@@ -77,7 +77,7 @@
         },
         {
           "id": "cloth_blanket_green",
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_cloth_&_paper",
           "material": "cloth",
           "itemModel": "stewblocks:cloth_blanket_green",
           "hardness": 1,
@@ -113,7 +113,7 @@
         },
         {
           "id": "cloth_blanket_lightblue",
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_cloth_&_paper",
           "material": "cloth",
           "itemModel": "stewblocks:cloth_blanket_lightblue",
           "hardness": 1,
@@ -149,7 +149,7 @@
         },
         {
           "id": "cloth_blanket_lime_cyan",
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_cloth_&_paper",
           "material": "cloth",
           "itemModel": "stewblocks:cloth_blanket_lime_cyan",
           "hardness": 1,
@@ -185,7 +185,7 @@
         },
         {
           "id": "cloth_blanket_orange",
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_cloth_&_paper",
           "material": "cloth",
           "itemModel": "stewblocks:cloth_blanket_orange",
           "hardness": 1,
@@ -221,7 +221,7 @@
         },
         {
           "id": "cloth_blanket_pink",
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_cloth_&_paper",
           "material": "cloth",
           "itemModel": "stewblocks:cloth_blanket_pink",
           "hardness": 1,
@@ -257,7 +257,7 @@
         },
         {
           "id": "cloth_blanket_red",
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_cloth_&_paper",
           "material": "cloth",
           "itemModel": "stewblocks:cloth_blanket_red",
           "hardness": 1,
@@ -293,7 +293,7 @@
         },
         {
           "id": "cloth_hide_brown",
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_cloth_&_paper",
           "material": "cloth",
           "itemModel": "stewblocks:cloth_hide_brown",
           "hardness": 1,
@@ -329,7 +329,7 @@
         },
         {
           "id": "cloth_hide_white",
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_cloth_&_paper",
           "material": "cloth",
           "itemModel": "stewblocks:cloth_hide_white",
           "hardness": 1,
@@ -365,7 +365,7 @@
         },
         {
           "id": "wool_blanket_black",
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_cloth_&_paper",
           "material": "cloth",
           "itemModel": "stewblocks:wool_blanket_black",
           "hardness": 1,
@@ -401,7 +401,7 @@
         },
         {
           "id": "wool_blanket_blue",
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_cloth_&_paper",
           "material": "cloth",
           "itemModel": "stewblocks:wool_blanket_blue",
           "hardness": 1,
@@ -437,7 +437,7 @@
         },
         {
           "id": "wool_blanket_brown",
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_cloth_&_paper",
           "material": "cloth",
           "itemModel": "stewblocks:wool_blanket_brown",
           "hardness": 1,
@@ -473,7 +473,7 @@
         },
         {
           "id": "wool_blanket_cyan",
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_cloth_&_paper",
           "material": "cloth",
           "itemModel": "stewblocks:wool_blanket_cyan",
           "hardness": 1,
@@ -509,7 +509,7 @@
         },
         {
           "id": "wool_blanket_gray",
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_cloth_&_paper",
           "material": "cloth",
           "itemModel": "stewblocks:wool_blanket_gray",
           "hardness": 1,
@@ -545,7 +545,7 @@
         },
         {
           "id": "wool_blanket_green",
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_cloth_&_paper",
           "material": "cloth",
           "itemModel": "stewblocks:wool_blanket_green",
           "hardness": 1,
@@ -581,7 +581,7 @@
         },
         {
           "id": "wool_blanket_lightblue",
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_cloth_&_paper",
           "material": "cloth",
           "itemModel": "stewblocks:wool_blanket_lightblue",
           "hardness": 1,
@@ -617,7 +617,7 @@
         },
         {
           "id": "wool_blanket_lime",
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_cloth_&_paper",
           "material": "cloth",
           "itemModel": "stewblocks:wool_blanket_lime",
           "hardness": 1,
@@ -653,7 +653,7 @@
         },
         {
           "id": "wool_blanket_magenta",
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_cloth_&_paper",
           "material": "cloth",
           "itemModel": "stewblocks:wool_blanket_magenta",
           "hardness": 1,
@@ -689,7 +689,7 @@
         },
         {
           "id": "wool_blanket_orange",
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_cloth_&_paper",
           "material": "cloth",
           "itemModel": "stewblocks:wool_blanket_orange",
           "hardness": 1,
@@ -725,7 +725,7 @@
         },
         {
           "id": "wool_blanket_pink",
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_cloth_&_paper",
           "material": "cloth",
           "itemModel": "stewblocks:wool_blanket_pink",
           "hardness": 1,
@@ -761,7 +761,7 @@
         },
         {
           "id": "wool_blanket_purple",
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_cloth_&_paper",
           "material": "cloth",
           "itemModel": "stewblocks:wool_blanket_purple",
           "hardness": 1,
@@ -797,7 +797,7 @@
         },
         {
           "id": "wool_blanket_red",
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_cloth_&_paper",
           "material": "cloth",
           "itemModel": "stewblocks:wool_blanket_red",
           "hardness": 1,
@@ -833,7 +833,7 @@
         },
         {
           "id": "wool_blanket_silver",
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_cloth_&_paper",
           "material": "cloth",
           "itemModel": "stewblocks:wool_blanket_silver",
           "hardness": 1,
@@ -869,7 +869,7 @@
         },
         {
           "id": "wool_blanket_white",
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_cloth_&_paper",
           "material": "cloth",
           "itemModel": "stewblocks:wool_blanket_white",
           "hardness": 1,
@@ -905,7 +905,7 @@
         },
         {
           "id": "wool_blanket_yellow",
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_cloth_&_paper",
           "material": "cloth",
           "itemModel": "stewblocks:wool_blanket_yellow",
           "hardness": 1,
@@ -941,7 +941,7 @@
         },
         {
           "id": "carpet_bearskin",
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_cloth_&_paper",
           "material": "cloth",
           "itemModel": "stewblocks:carpet_bearskin",
           "renderLayer": "mippedCutout",
@@ -978,7 +978,7 @@
         },
         {
           "id": "carpet_black",
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_cloth_&_paper",
           "material": "cloth",
           "itemModel": "stewblocks:carpet_black",
           "renderLayer": "mippedCutout",
@@ -1015,7 +1015,7 @@
         },
         {
           "id": "carpet_blue",
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_cloth_&_paper",
           "material": "cloth",
           "itemModel": "stewblocks:carpet_blue",
           "renderLayer": "mippedCutout",
@@ -1052,7 +1052,7 @@
         },
         {
           "id": "carpet_cyan",
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_cloth_&_paper",
           "material": "cloth",
           "itemModel": "stewblocks:carpet_cyan",
           "renderLayer": "mippedCutout",
@@ -1089,7 +1089,7 @@
         },
         {
           "id": "carpet_gray",
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_cloth_&_paper",
           "material": "cloth",
           "itemModel": "stewblocks:carpet_gray",
           "renderLayer": "mippedCutout",
@@ -1126,7 +1126,7 @@
         },
         {
           "id": "carpet_green",
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_cloth_&_paper",
           "material": "cloth",
           "itemModel": "stewblocks:carpet_green",
           "renderLayer": "mippedCutout",
@@ -1163,7 +1163,7 @@
         },
         {
           "id": "carpet_hay",
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_cloth_&_paper",
           "material": "cloth",
           "itemModel": "stewblocks:carpet_hay",
           "renderLayer": "mippedCutout",
@@ -1200,7 +1200,7 @@
         },
         {
           "id": "carpet_lightblue",
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_cloth_&_paper",
           "material": "cloth",
           "itemModel": "stewblocks:carpet_lightblue",
           "renderLayer": "mippedCutout",
@@ -1237,7 +1237,7 @@
         },
         {
           "id": "carpet_lime",
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_cloth_&_paper",
           "material": "cloth",
           "itemModel": "stewblocks:carpet_lime",
           "renderLayer": "mippedCutout",
@@ -1274,7 +1274,7 @@
         },
         {
           "id": "carpet_magenta",
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_cloth_&_paper",
           "material": "cloth",
           "itemModel": "stewblocks:carpet_magenta",
           "renderLayer": "mippedCutout",
@@ -1311,7 +1311,7 @@
         },
         {
           "id": "carpet_orange",
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_cloth_&_paper",
           "material": "cloth",
           "itemModel": "stewblocks:carpet_orange",
           "renderLayer": "mippedCutout",
@@ -1348,7 +1348,7 @@
         },
         {
           "id": "carpet_pink",
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_cloth_&_paper",
           "material": "cloth",
           "itemModel": "stewblocks:carpet_pink",
           "renderLayer": "mippedCutout",
@@ -1385,7 +1385,7 @@
         },
         {
           "id": "carpet_purple",
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_cloth_&_paper",
           "material": "cloth",
           "itemModel": "stewblocks:carpet_purple",
           "renderLayer": "mippedCutout",
@@ -1422,7 +1422,7 @@
         },
         {
           "id": "carpet_red",
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_cloth_&_paper",
           "material": "cloth",
           "itemModel": "stewblocks:carpet_red",
           "renderLayer": "mippedCutout",
@@ -1459,7 +1459,7 @@
         },
         {
           "id": "carpet_sheepskin",
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_cloth_&_paper",
           "material": "cloth",
           "itemModel": "stewblocks:carpet_sheepskin",
           "renderLayer": "mippedCutout",
@@ -1496,7 +1496,7 @@
         },
         {
           "id": "carpet_wolfskin",
-          "creativeTab": "stew_blocks_decor",
+          "creativeTab": "stew_blocks_cloth_&_paper",
           "material": "cloth",
           "itemModel": "stewblocks:carpet_wolfskin",
           "renderLayer": "mippedCutout",
@@ -1532,6 +1532,35 @@
           }
         }
        ]
-     }
+     },
+     {
+      "type": "block:snow",
+      "entries":[
+    {
+      "id": "pillow_red",
+      "snowball": "stewblocks:pillow_red",
+      "material": "cloth",
+      "soundType" : "cloth",
+      "maxLight": 15,
+      "creativeTab": "stew_blocks_cloth_&_paper"
+   },
+   {
+      "id": "pillow_green",
+      "snowball": "stewblocks:pillow_green",
+      "material": "cloth",
+      "soundType" : "cloth",
+      "maxLight": 15,
+      "creativeTab": "stew_blocks_cloth_&_paper"
+   },
+   {
+      "id": "pillow_purple",
+      "snowball": "stewblocks:pillow_purple",
+      "material": "cloth",
+      "soundType" : "cloth",
+      "maxLight": 15,
+      "creativeTab": "stew_blocks_cloth_&_paper"
+   }
    ]
  }
+]
+}

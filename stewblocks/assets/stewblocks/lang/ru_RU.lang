@@ -1,3 +1,4 @@
+//stone
 tile.stewblocks.brick_plastered_red.name=Красный оштукатуренный кирпич
 tile.stewblocks.brick_plastered_gray.name=Серый оштукатуренный кирпич
 tile.stewblocks.brick_plastered_black.name=Чёрный оштукатуренный кирпич
@@ -84,15 +85,164 @@ tile.stewblocks.roofing_cyan.name=Черепица: бирюзовая
 tile.stewblocks.roofing_cyan_cracked.name=Черепица: замшелая бирюзовая 
 tile.stewblocks.roofing_gray_wavy.name=Черепица: волнистая серая
 tile.stewblocks.tiles_clay_mixed.name=Смешанная глиняная плитка 
-tile.stewblocks.tiles_clay_dark.name=Тёмная глиняная плитка 
+tile.stewblocks.tiles_clay_dark.name=Тёмная глиняная плитка
+tile.stewblocks.sandstone_capital_eagle.name=Песчанниквая капитель: орёл
+tile.stewblocks.sandstone_capital_face.name=Песчанниквая капитель: лицо
+tile.stewblocks.pillow_green.name=Подушка: зелёная
+tile.stewblocks.pillow_purple.name=Подушка: фиолетовая
+tile.stewblocks.pillow_red.name=Подушка: красная
+
+//ambience
 tile.stewblocks.taint_fibres.name=Заражённое волокно
 tile.stewblocks.taint_growth.name=Заражённый побег
 tile.stewblocks.taint_flesh.name=Заражённая плоть
 tile.stewblocks.taint_soil.name=Заражённая почва
 tile.stewblocks.taint_crust.name=Заражённая корка
-tile.stewblocks.metal_rough_louvers_full=Металлические жалюзи: полные
-tile.stewblocks.metal_rough_louvers=Металлические жалюзи
+tile.stewblocks.metal_rough_louvers_full.name=Металлические жалюзи: полные
+tile.stewblocks.metal_rough_louvers.name=Металлические жалюзи
+tile.stewblocks.dense_roots.name=Плотные корни
+tile.stewblocks.pile_books.name=Куча книг
+tile.stewblocks.pile_metal_scrap.name=Куча металлолома 
+tile.stewblocks.pile_bones_01.name=Куча костей
+tile.stewblocks.pile_bones_02.name=Куча костей
+tile.stewblocks.pile_bones_03.name=Куча костей
+tile.stewblocks.garbage.name=Куча мусора
+tile.stewblocks.gold_coins.name=Куча золотых монет
+tile.stewblocks.guts_brown.name=Бурые кишки
+tile.stewblocks.guts_red.name=Красные кишки
+tile.stewblocks.organic_blue.name=Органика: голубая
+tile.stewblocks.organic_lightgray.name=Органика: светло-серая
+tile.stewblocks.organic_purple.name=Органика: лиловая
+tile.stewblocks.organic_red.name=Органика: красная
+tile.stewblocks.flesh_smooth.name=Плоть
+tile.stewblocks.flesh_maw.name=Плоть: пасть
+tile.stewblocks.flesh_eye.name=Плоть: глаз
+tile.stewblocks.flesh_ribs.name=Плоть: рёбра
+tile.stewblocks.flesh_membrane.name=Плоть: мембрана 
+
+//objects
+
+tile.stewblocks.object_wheel_tire.name=Колесо с покрышкой
+tile.stewblocks.object_wheel_iron.name=Колесо из литого железа
+
+//dungeon
+tile.stewblocks.bedrock_bricks.name=Бедроковый кирпич
+tile.stewblocks.bedrock_bricks_mossy.name=Бедроковый кирпич: замшелый
+tile.stewblocks.bedrock_small_bricks.name=Бедроковый кирпич: мелкий
+tile.stewblocks.bedrock_small_bricks_damaged.name=Бедроковый кирпич: мелкий повреждённый
+tile.stewblocks.bedrock_smooth.name=Бедрок: гладкий
+tile.stewblocks.bedrock_capital_gargoyle.name=Бедроковая капитель: гаргулья
+tile.stewblocks.bedrock_tile_hexagon.name=Бедроковая плитка: шестигранник
+tile.stewblocks.bedrock_tile_square.name=Бедроковая плитка: квадрат
+tile.stewblocks.bedrock_brick_stairs.name=Бедроковые кирпичные ступеньки 
+tile.stewblocks.bedrock_brick_slab.name=Бедроковая кирпичная плита
+tile.stewblocks.bedrock_bricks_wavy.name=Бедроковый кирпич: волнистый
+tile.stewblocks.bedrock_pillar.name=Бедроковая колонна
+tile.stewblocks.bedrock_base.name=Бедроковок основание
+tile.stewblocks.bedrock_frize.name=Бедроковый фриз
+tile.stewblocks.bedrock_masonry.name=Бедроковая крупная кладка
+tile.stewblocks.bedrock_writings.name=Бедроковые письмена 
+tile.stewblocks.bedrock_triglyph.name=Бедроковый триглиф
+tile.stewblocks.bedrock_warped.name=Искажённый бедрок
+tile.stewblocks.warp_dreg.name=Искажённый шлак 
+tile.stewblocks.decayed_sand.name=Выгоревший песок
+tile.stewblocks.decayed_dirt.name=Выгоревшая почва
+tile.stewblocks.decayed_log.name=Выгоревшее бревно
+tile.stewblocks.crusted_metal.name=Почерневший металл
+tile.stewblocks.crusted_metal_machine.name=Почерневший металл: механизм
+tile.stewblocks.crusted_metal_slot.name=Почерневший металл: разъём
+tile.stewblocks.crusted_metal_tube.name=Почерневший металл: трубки
+tile.stewblocks.crusted_metal_grating.name=Почерневший металл: решотка
+tile.stewblocks.crusted_metal_thin.name=Почерневший металл: тонкий
+tile.stewblocks.crusted_metal_grid.name=Почерневший металл: прутья
+tile.stewblocks.crusted_metal_plate.name=Почерневший металл: пластина
+item.stewblocks.door_crusted_metal_tagged.name=Почерневшая дверь: помеченная
+
+//furniture
+tile.stewblocks.box_old_metal.name=Ящик: металлический
+tile.stewblocks.box_wicker.name=Ящик: плетёный
+tile.stewblocks.box_cardboard.name=Кртонная коробка
+tile.stewblocks.casement_mica_01.name=Ставни: слюдяные
+
+//glass
+tile.stewblocks.brick_plastered_window_blue.name=Окно в синей стене
+tile.stewblocks.brick_plastered_window_orange.name=Окно в оранжевой стене
+tile.stewblocks.brick_plastered_window_red.name=Окно в красной стене
+tile.stewblocks.brick_plastered_window_yellow.name=Окно в желтой стене
+tile.stewblocks.brick_plastered_window_yellow_elven.name=Окно в жёлтой стене: эльфийское
+tile.stewblocks.brick_plastered_window_white_hobbit.name=Окно в белой стене: хоббитское
+tile.stewblocks.brick_plastered_window_yellow_hobbit.name=Окно в жёлтой стене: хоббитское
+tile.stewblocks.wall_sindarin_window.name=Деревянное окно: эльфийское
+
+//cloth_&_paper
+tile.stewblocks.cloth_blanket_blue.name=Такнь: синяя
+tile.stewblocks.cloth_blanket_cyan.name=Такнь: бирюзовая
+tile.stewblocks.cloth_blanket_green.name=Такнь: зелёная
+tile.stewblocks.cloth_blanket_lightblue.name=Такнь: голубая
+tile.stewblocks.cloth_blanket_lime_cyan.name=Такнь: лаймовая в горошек
+tile.stewblocks.cloth_blanket_orange.name=Такнь: оранжевая
+tile.stewblocks.cloth_blanket_pink.name=Такнь: розовая
+tile.stewblocks.cloth_blanket_red.name=Такнь: красная
+tile.stewblocks.cloth_hide_brown.name=Такнь из шкуры: бурая
+tile.stewblocks.cloth_hide_white.name=Такнь из шкуры: белая
+tile.stewblocks.wool_blanket_black.name=Шерстяная такнь: чёрная
+tile.stewblocks.wool_blanket_blue.name=Шерстяная такнь: синяя
+tile.stewblocks.wool_blanket_brown.name=Шерстяная такнь: коричневая
+tile.stewblocks.wool_blanket_cyan.name=Шерстяная такнь: бирюзовая
+tile.stewblocks.wool_blanket_gray.name=Шерстяная такнь: серая
+tile.stewblocks.wool_blanket_green.name=Шерстяная такнь: зелёная
+tile.stewblocks.wool_blanket_lightblue.name=Шерстяная такнь: голубая
+tile.stewblocks.wool_blanket_lime.name=Шерстяная такнь: лаймовая
+tile.stewblocks.wool_blanket_magenta.name=Шерстяная такнь: пурпурная
+tile.stewblocks.wool_blanket_orange.name=Шерстяная такнь: оранжевая
+tile.stewblocks.wool_blanket_pink.name=Шерстяная такнь: розовая
+tile.stewblocks.wool_blanket_purple.name=Шерстяная такнь: фиолетовая
+tile.stewblocks.wool_blanket_red.name=Шерстяная такнь: красная
+tile.stewblocks.wool_blanket_silver.name=Шерстяная такнь: светло-серая
+tile.stewblocks.wool_blanket_white.name=Шерстяная такнь: белая
+tile.stewblocks.wool_blanket_yellow.name=Шерстяная такнь: желтый
+tile.stewblocks.carpet_bearskin.name=Ковёр: шкура медведя
+tile.stewblocks.carpet_black.name=Ковёр: чёрный
+tile.stewblocks.carpet_blue.name=Ковёр: синий
+tile.stewblocks.carpet_cyan.name=Ковёр: бирюзовый
+tile.stewblocks.carpet_gray.name=Ковёр: серый
+tile.stewblocks.carpet_green.name=Ковёр: зелёный
+tile.stewblocks.carpet_hay.name=Ковёр: солома
+tile.stewblocks.carpet_lightblue.name=Ковёр: голубой
+tile.stewblocks.carpet_lime.name=Ковёр: лаймовый
+tile.stewblocks.carpet_magenta.name=Ковёр: пурпурный
+tile.stewblocks.carpet_orange.name=Ковёр: оранжевый
+tile.stewblocks.carpet_pink.name=Ковёр: розовый
+tile.stewblocks.carpet_purple.name=Ковёр: фиолетовая
+tile.stewblocks.carpet_red.name=Ковёр: красный
+tile.stewblocks.carpet_sheepskin.name=Ковёр: овечья шкура
+tile.stewblocks.carpet_wolfskin.name=Ковёр: волчья шкура
+tile.stewblocks.curtain_black.name=Штора: чёрная
+tile.stewblocks.curtain_blue.name=Штора: синяя
+tile.stewblocks.curtain_brown.name=Штора: коричневая
+tile.stewblocks.curtain_green.name=Штора: зелёный
+tile.stewblocks.curtain_magenta.name=Штора: фиолетовая
+tile.stewblocks.curtain_red.name=Штора: красная
+tile.stewblocks.curtain_white.name=Штора: белая
+tile.stewblocks.curtain_worn_brown.name=Штора: коричневая
+
+//decor
+tile.stewblocks.fence_iron_spears.name=Забор: железные пики
+tile.stewblocks.fence_barbed_wire.name=Забор: колючая проволока
+tile.stewblocks.railing_marble_baluster.name=Перила: мраморные балясины
 
 
-
+//creative tabs
+itemGroup.stew_blocks_stone=Stew: камень
+itemGroup.stew_blocks_decor=Stew: декор
+itemGroup.stew_blocks_effects=Stew: эффекты
+itemGroup.stew_blocks_ambience=Stew: окружение
+itemGroup.stew_blocks_dungeon=Stew: подземелья
+itemGroup.stew_blocks_metal=Stew: металл
+itemGroup.stew_blocks_wood=Stew: дерево
+itemGroup.stew_blocks_furniture=Stew: мебель
+itemGroup.stew_blocks_objects=Stew: объекты
+itemGroup.stew_blocks_glass=Stew: стекло
+itemGroup.stew_blocks_cloth_&_paper=Stew: ткань и бумага
+itemGroup.stew_blocks_doors=Stew: двери
  

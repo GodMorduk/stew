@@ -1,0 +1,10 @@
+{
+    "parent": "stewblocks:block/stew_fence",
+    "textures": {  
+      "top": "stewblocks:blocks/empty",
+      "bottom": "stewblocks:blocks/empty",
+      "side": "stewblocks:blocks/fence_iron_spears",     
+      "face": "stewblocks:blocks/fence_iron_spears",
+      "particle":"stewblocks:blocks/fence_iron_spears"
+    }
+  }

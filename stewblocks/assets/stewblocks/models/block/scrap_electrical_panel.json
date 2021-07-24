@@ -1,0 +1,10 @@
+{
+    "parent": "stewblocks:block/thick_slab",
+    "textures": {  
+      "front": "stewblocks:blocks/scrap_electrical_panel",
+      "back": "stewblocks:blocks/metal_worn_white",     
+      "side": "stewblocks:blocks/metal_worn_white_side"
+    }
+}
+
+
