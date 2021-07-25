@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "stewblocks:plant_mushroom_grass","uvlock": true }
+    }
+  }

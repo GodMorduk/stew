@@ -3,6 +3,6 @@
     "textures": {  
       "front": "stewblocks:blocks/taint_fibres",
       "back": "stewblocks:blocks/taint_fibres",     
-      "side": "stewblocks:blocks/flesh_smooth"
+      "side": "stewblocks:blocks/taint_fibres"
     }
   }

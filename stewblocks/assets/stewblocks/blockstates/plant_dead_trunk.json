@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "stewblocks:plant_dead_trunk","uvlock": true }
+    }
+  }

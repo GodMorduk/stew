@@ -1,0 +1,7 @@
+
+{
+    "parent": "stewblocks:block/stew_cross",
+    "textures": {
+        "cross": "stewblocks:blocks/plant_deep_amanita"
+    }
+}

@@ -129,11 +129,17 @@ tile.stewblocks.flesh_maw.name=Flesh: maw
 tile.stewblocks.flesh_eye.name=Flesh: eye
 tile.stewblocks.flesh_ribs.name=Flesh: ribs
 tile.stewblocks.flesh_membrane.name=Flesh: membrane
+tile.stewblocks.plant_mushroom_grass.name=Mushroom grass
+tile.stewblocks.plant_dead_trunk.name=Dead trunk
+tile.stewblocks.plant_crimson_cap.name=Crimson cap
+tile.stewblocksplant_deep_amanita.name=Deep amanita
 
 //objects
 
 tile.stewblocks.object_wheel_tire.name=Tire
 tile.stewblocks.object_wheel_iron.name=Wheel: iron
+tile.stewblocks.object_flat_mirror.name=Flat mirror
+tile.stewblocks.object_flat_mirror_fake.name=Flat mirror: fake
 
 //dungeon
 tile.stewblocks.bedrock_bricks.name=Bedrock bricks
