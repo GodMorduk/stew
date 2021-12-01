@@ -200,6 +200,56 @@
                   "creativeTab": "stew_blocks_stone"
                 }
             ]
-         }
-  ]
+        },
+        {
+           "type": "block:simple",
+           "entries":[
+              {
+                  "id": "cobblestone_andesite",
+                  "material": "rock",
+                  "creativeTab": "stew_blocks_stone"
+                }
+            ]
+        },
+        {
+           "type": "block:simple",
+           "entries":[
+              {
+                  "id": "cobblestone_diorite",
+                  "material": "rock",
+                  "creativeTab": "stew_blocks_stone"
+                }
+            ]
+        },
+        {
+           "type": "block:simple",
+           "entries":[
+              {
+                  "id": "cobblestone_granite",
+                  "material": "rock",
+                  "creativeTab": "stew_blocks_stone"
+                }
+            ]
+        },
+        {
+           "type": "block:simple",
+           "entries":[
+              {
+                  "id": "cobblestone_limestone",
+                  "material": "rock",
+                  "creativeTab": "stew_blocks_stone"
+                }
+            ]
+        },
+        {
+           "type": "block:simple",
+           "entries":[
+              {
+                  "id": "limestone",
+                  "material": "rock",
+                  "creativeTab": "stew_blocks_stone"
+                }
+            ]
+        }
+    ]
 }  
