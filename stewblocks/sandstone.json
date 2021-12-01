@@ -102,7 +102,26 @@
                "faceBySide": true
               }
            ]
-         }
-        
+         },
+      {
+       "type": "block:simple",
+       "entries":[
+          {
+             "id": "sandstone_capital_eagle",
+             "material": "rock",
+            "creativeTab": "stew_blocks_stone"
+          }
+       ]
+      },
+      {
+       "type": "block:simple",
+       "entries":[
+          {
+             "id": "sandstone_capital_face",
+             "material": "rock",
+            "creativeTab": "stew_blocks_stone"
+          }
+       ]
+      }
      ]   
  }   

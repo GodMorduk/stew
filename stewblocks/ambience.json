@@ -5,53 +5,372 @@
          "entries":[
             {
               "id": "pile_bones_01",
-              "material": "grass",
+              "material": "ground",
+              "soundType" : "gravel",
               "snowball": "minecraft:bone",
+              "maxLight": 15,
               "creativeTab": "stew_blocks_ambience"
            },
            {
               "id": "pile_bones_02",
-              "material": "grass",
+              "material": "ground",
+              "soundType" : "gravel",
               "snowball": "minecraft:bone",
+              "maxLight": 15,
               "creativeTab": "stew_blocks_ambience"
            },
            {
               "id": "pile_bones_03",
-              "material": "grass",
+              "material": "ground",
+              "soundType" : "gravel",
               "snowball": "minecraft:bone",
+              "maxLight": 15,
               "creativeTab": "stew_blocks_ambience"
            },
            {
               "id": "garbage",
-              "material": "grass",
+              "material": "ground",
+              "soundType" : "gravel",
               "snowball": "stewprops:random_junk_00",
+              "maxLight": 15,
               "creativeTab": "stew_blocks_ambience"
            },
            {
              "id": "gold_coins",
-             "material": "grass",
+             "material": "ground",
+             "soundType" : "metal",
              "snowball": "minecraft:gold_ingot",
+             "maxLight": 15,
              "creativeTab": "stew_blocks_ambience"
            },
            {
              "id": "guts_brown",
-             "material": "grass",
+             "material": "ground",
+             "soundType" : "slime",
              "snowball": "minecraft:rotten_flesh",
+             "maxLight": 15,
              "creativeTab": "stew_blocks_ambience"
            },
            {
                "id": "guts_red",
-               "material": "grass",
+               "material": "ground",
+               "soundType" : "slime",
                "snowball": "minecraft:rotten_flesh",
+               "maxLight": 15,
                "creativeTab": "stew_blocks_ambience"
             },
             {
                "id": "pile_books",
                "snowball": "minecraft:book",
-               "material": "grass",
+               "maxLight": 15,
+               "material": "cloth",
+               "soundType" : "cloth",
+               "creativeTab": "stew_blocks_ambience"
+            },
+            {
+               "id": "pile_metal_scrap",
+               "snowball": "minecraft:iron_nugget",
+               "material": "ground",
+               "soundType" : "gravel",
+               "maxLight": 15,
                "creativeTab": "stew_blocks_ambience"
             }
          ]
+      },
+      {
+         "type": "block:simple",
+         "entries":[
+            {
+               "id": "taint_crust",
+               "material": "rock",
+               "soundType" : "slime",
+               "drop": "minecraft:air",
+               "sustainedPlants": ["Plains", "Desert", "Beach", "Cave"],   
+              "creativeTab": "stew_blocks_ambience"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries":[
+            {
+               "id": "taint_soil",
+               "material": "rock",
+               "soundType" : "slime",
+               "drop": "minecraft:air",
+              "creativeTab": "stew_blocks_ambience"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries":[
+            {
+               "id": "taint_flesh",
+               "material": "rock",
+               "soundType" : "slime",
+               "drop": "minecraft:air",
+              "creativeTab": "stew_blocks_ambience"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries":[
+            {
+                "id": "taint_growth",
+                "material": "cactus",
+                "soundType" : "slime",
+                "renderLayer": "translucent",              
+                "creativeTab": "stew_blocks_ambience",
+                "hardness": 1,
+                "isPassable": true,
+                "isFullCube": false,               
+                "isOpaqueCube": false, 
+                "drop": "minecraft:air",             
+                "opacity": 0,   
+                "collisionBounds": null  
+            }
+         ]
+      },
+      {
+         "type": "block:orientable:directional",
+         "entries":[
+      {
+        "id": "taint_fibres",
+        "creativeTab": "stew_blocks_ambience",
+        "material": "cactus",
+        "soundType" : "slime",
+        "hardness": 1,
+        "renderLayer": "mippedCutout",
+        "faceBySide": true,
+        "isPassable": true,
+        "isFullCube": false,
+        "isOpaqueCube": false,
+        "hideAdjacentSides": true,
+        "drop": "minecraft:air",
+        "opacity": 0,
+        "bounds": {
+         "0": { "from": [0, 0.9167, 0], "to": [1, 1, 1] },
+         "1": { "from": [0, 0, 0], "to": [1, 0.0833, 1] },
+         "2": { "from": [0, 0, 0.9167], "to": [1, 1, 1] },
+         "3": { "from": [0, 0, 0], "to": [1, 1, 0.0833] },
+         "4": { "from": [0.9167, 0, 0], "to": [1, 1, 1] },
+         "5": { "from": [0, 0, 0], "to": [0.0833, 1, 1] }
+      },
+      "selectionBounds": {
+         "0": { "from": [0, 0.9167, 0], "to": [1, 1, 1] },
+         "1": { "from": [0, 0, 0], "to": [1, 0.0833, 1] },
+         "2": { "from": [0, 0, 0.9167], "to": [1, 1, 1] },
+         "3": { "from": [0, 0, 0], "to": [1, 1, 0.0833] },
+         "4": { "from": [0.9167, 0, 0], "to": [1, 1, 1] },
+         "5": { "from": [0, 0, 0], "to": [0.0833, 1, 1] }
+      },
+      "collisionBounds": {
+         "0": { "from": [0, 0.9167, 0], "to": [1, 1, 1] },
+         "1": { "from": [0, 0, 0], "to": [1, 0.0833, 1] },
+         "2": { "from": [0, 0, 0.9167], "to": [1, 1, 1] },
+         "3": { "from": [0, 0, 0], "to": [1, 1, 0.0833] },
+         "4": { "from": [0.9167, 0, 0], "to": [1, 1, 1] },
+         "5": { "from": [0, 0, 0], "to": [0.0833, 1, 1] }
+       }
       }
-    ]
+      ]
+      },
+   {
+      "type": "block:simple",
+      "entries":[
+         {
+            "id": "dense_roots",
+            "material": "wood",
+            "soundType" : "gravel",
+           "creativeTab": "stew_blocks_ambience"
+         }
+      ]
+   },
+   {
+      "type": "block:simple",
+      "entries":[
+         {
+            "id": "flesh_smooth",
+            "material": "rock",
+            "soundType" : "slime",
+           "creativeTab": "stew_blocks_ambience"
+         }
+      ]
+   },
+   {
+      "type": "block:orientable:directional",
+      "entries":[
+         {
+            "id": "flesh_maw",
+            "material": "rock",
+            "soundType" : "slime",
+           "creativeTab": "stew_blocks_ambience"
+         }
+      ]
+   },
+   {
+      "type": "block:orientable:directional",
+      "entries":[
+         {
+            "id": "flesh_eye",
+            "material": "rock",
+            "soundType" : "slime",
+           "creativeTab": "stew_blocks_ambience"
+         }
+      ]
+   },
+   {
+      "type": "block:orientable:directional",
+      "entries":[
+         {
+            "id": "flesh_ribs",
+            "material": "rock",
+            "soundType" : "slime",
+           "creativeTab": "stew_blocks_ambience"
+         }
+      ]
+   },
+   {
+      "type": "block:orientable:directional",
+      "entries":[
+   {
+     "id": "flesh_membrane",
+     "creativeTab": "stew_blocks_ambience",
+     "material": "cactus",
+     "soundType" : "slime",
+     "hardness": 1,
+     "renderLayer": "mippedCutout",
+     "faceBySide": true,
+     "isPassable": true,
+     "isFullCube": false,
+     "isOpaqueCube": false,
+     "hideAdjacentSides": true,
+     "drop": "minecraft:air",
+     "opacity": 0,
+     "bounds": {
+      "0": { "from": [0, 0.9167, 0], "to": [1, 1, 1] },
+      "1": { "from": [0, 0, 0], "to": [1, 0.0833, 1] },
+      "2": { "from": [0, 0, 0.9167], "to": [1, 1, 1] },
+      "3": { "from": [0, 0, 0], "to": [1, 1, 0.0833] },
+      "4": { "from": [0.9167, 0, 0], "to": [1, 1, 1] },
+      "5": { "from": [0, 0, 0], "to": [0.0833, 1, 1] }
+   },
+   "selectionBounds": {
+      "0": { "from": [0, 0.9167, 0], "to": [1, 1, 1] },
+      "1": { "from": [0, 0, 0], "to": [1, 0.0833, 1] },
+      "2": { "from": [0, 0, 0.9167], "to": [1, 1, 1] },
+      "3": { "from": [0, 0, 0], "to": [1, 1, 0.0833] },
+      "4": { "from": [0.9167, 0, 0], "to": [1, 1, 1] },
+      "5": { "from": [0, 0, 0], "to": [0.0833, 1, 1] }
+   },
+   "collisionBounds": null
+   }
+   ]
+   },
+{
+   "type": "block:simple",
+   "entries":[
+      {
+          "id": "corpse_hanged",
+          "material": "cactus",
+          "soundType" : "ladder",
+          "renderLayer": "translucent",              
+          "creativeTab": "stew_blocks_ambience",
+          "hardness": 1,
+          "isPassable": true,
+          "isFullCube": false,               
+          "isOpaqueCube": false, 
+          "drop": "minecraft:air",             
+          "opacity": 0,   
+          "bounds":{ "from": [0, 0, 0], "to": [1, 2, 1] },
+          "selectionBounds": { "from": [0, 0, 0], "to": [1, 2, 1] },
+          "collisionBounds": null
+         }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries":[
+            {
+                "id": "plant_mushroom_grass",
+                "material": "cactus",
+                "soundType" : "grass",
+                "renderLayer": "translucent",              
+                "creativeTab": "stew_blocks_ambience",
+                "hardness": 1,
+                "isPassable": true,
+                "isFullCube": false,               
+                "isOpaqueCube": false, 
+                "drop": "minecraft:dye:8",             
+                "opacity": 0,   
+                "bounds":{ "from": [0, 0, 0], "to": [1, 2, 1] },
+                "selectionBounds": { "from": [0, 0, 0], "to": [1, 2, 1] },
+                "collisionBounds": null
+               }
+               ]
+            },
+            {
+               "type": "block:simple",
+               "entries":[
+                  {
+                      "id": "plant_dead_trunk",
+                      "material": "cactus",
+                      "soundType" : "grass",
+                      "renderLayer": "translucent",              
+                      "creativeTab": "stew_blocks_ambience",
+                      "hardness": 1,
+                      "isPassable": true,
+                      "isFullCube": false,               
+                      "isOpaqueCube": false, 
+                      "drop": "minecraft:stick",             
+                      "opacity": 0,   
+                      "bounds":{ "from": [0, 0, 0], "to": [1, 2, 1] },
+                      "selectionBounds": { "from": [0, 0, 0], "to": [1, 2, 1] },
+                      "collisionBounds": null
+                     }
+                     ]
+                  },
+            {
+               "type": "block:simple",
+               "entries":[
+                  {
+                      "id": "plant_crimson_cap",
+                      "material": "cactus",
+                      "soundType" : "slime",
+                      "renderLayer": "translucent",              
+                      "creativeTab": "stew_blocks_ambience",
+                      "hardness": 1,
+                      "isPassable": true,
+                      "isFullCube": false,               
+                      "isOpaqueCube": false, 
+                      "drop": "minecraft:air",             
+                      "opacity": 0,  
+                      "light" : 11,  
+                      "collisionBounds": null  
+                  }
+               ]
+            },
+            {
+               "type": "block:simple",
+               "entries":[
+                  {
+                      "id": "plant_deep_amanita",
+                      "material": "cactus",
+                      "soundType" : "slime",
+                      "renderLayer": "translucent",              
+                      "creativeTab": "stew_blocks_ambience",
+                      "hardness": 1,
+                      "isPassable": true,
+                      "isFullCube": false,               
+                      "isOpaqueCube": false, 
+                      "drop": "minecraft:air",             
+                      "opacity": 0,   
+                      "light" : 11, 
+                      "collisionBounds": null  
+                  }
+               ]
+            }
+   ]
 }

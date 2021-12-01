@@ -318,6 +318,17 @@
             }
          }
          ]
-         }
+         },
+      {
+        "type": "block:simple",
+        "entries":[
+           {
+              "id": "metal_rough_louvers_full",
+              "material": "iron",
+              "soundType" : "metal",
+              "creativeTab": "stew_blocks_metal"
+             }
+          ]
+      }
       ]
    }

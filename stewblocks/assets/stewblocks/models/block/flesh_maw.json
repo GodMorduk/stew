@@ -1,0 +1,9 @@
+
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "top": "stewblocks:blocks/flesh_maw",
+        "side": "stewblocks:blocks/flesh_smooth",
+        "bottom": "stewblocks:blocks/flesh_smooth"
+    }
+}

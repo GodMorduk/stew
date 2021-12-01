@@ -6,7 +6,7 @@
             {
                "id": "packed_apples",
                "material": "tnt",
-               "creativeTab": "stew_blocks_decor"
+               "creativeTab": "stew_blocks_furniture"
             }
          ]
       },
@@ -16,7 +16,7 @@
             {
                "id": "packed_beets",
                "material": "tnt",
-               "creativeTab": "stew_blocks_decor"
+               "creativeTab": "stew_blocks_furniture"
             }
          ]
       },
@@ -26,7 +26,7 @@
             {
                "id": "packed_berries",
                "material": "tnt",
-               "creativeTab": "stew_blocks_decor"
+               "creativeTab": "stew_blocks_furniture"
             }
          ]
       },
@@ -36,7 +36,7 @@
             {
                "id": "packed_bread",
                "material": "tnt",
-               "creativeTab": "stew_blocks_decor"
+               "creativeTab": "stew_blocks_furniture"
             }
          ]
       },
@@ -46,7 +46,7 @@
             {
                "id": "packed_cabbage",
                "material": "tnt",
-               "creativeTab": "stew_blocks_decor"
+               "creativeTab": "stew_blocks_furniture"
             }
          ]
       },
@@ -56,7 +56,7 @@
             {
                "id": "packed_carrots",
                "material": "tnt",
-               "creativeTab": "stew_blocks_decor"
+               "creativeTab": "stew_blocks_furniture"
             }
          ]
       },
@@ -66,7 +66,7 @@
             {
                "id": "packed_cloth",
                "material": "tnt",
-               "creativeTab": "stew_blocks_decor"
+               "creativeTab": "stew_blocks_furniture"
             }
          ]
       },
@@ -76,7 +76,7 @@
             {
                "id": "packed_coal",
                "material": "tnt",
-               "creativeTab": "stew_blocks_decor"
+               "creativeTab": "stew_blocks_furniture"
             }
          ]
       },
@@ -86,7 +86,7 @@
             {
                "id": "packed_cocoa",
                "material": "tnt",
-               "creativeTab": "stew_blocks_decor"
+               "creativeTab": "stew_blocks_furniture"
             }
          ]
       },
@@ -96,7 +96,7 @@
             {
                "id": "packed_cookie",
                "material": "tnt",
-               "creativeTab": "stew_blocks_decor"
+               "creativeTab": "stew_blocks_furniture"
             }
          ]
       },
@@ -106,7 +106,7 @@
             {
                "id": "packed_cotton",
                "material": "tnt",
-               "creativeTab": "stew_blocks_decor"
+               "creativeTab": "stew_blocks_furniture"
             }
          ]
       },
@@ -116,7 +116,7 @@
             {
                "id": "packed_diamond",
                "material": "tnt",
-               "creativeTab": "stew_blocks_decor"
+               "creativeTab": "stew_blocks_furniture"
             }
          ]
       },
@@ -126,7 +126,7 @@
             {
                "id": "packed_eggs",
                "material": "tnt",
-               "creativeTab": "stew_blocks_decor"
+               "creativeTab": "stew_blocks_furniture"
             }
          ]
       },
@@ -136,7 +136,7 @@
             {
                "id": "packed_emerald",
                "material": "tnt",
-               "creativeTab": "stew_blocks_decor"
+               "creativeTab": "stew_blocks_furniture"
             }
          ]
       },
@@ -146,7 +146,7 @@
             {
                "id": "packed_fish",
                "material": "tnt",            
-               "creativeTab": "stew_blocks_decor"
+               "creativeTab": "stew_blocks_furniture"
             }
          ]
       },
@@ -156,7 +156,7 @@
             {
                "id": "packed_flint",
                "material": "tnt",
-               "creativeTab": "stew_blocks_decor"
+               "creativeTab": "stew_blocks_furniture"
             }
          ]
       },
@@ -166,7 +166,7 @@
             {
                "id": "packed_gold_1",
                "material": "tnt",
-               "creativeTab": "stew_blocks_decor"
+               "creativeTab": "stew_blocks_furniture"
             }
          ]
       },
@@ -176,7 +176,7 @@
             {
                "id": "packed_gold_02",
                "material": "tnt",
-               "creativeTab": "stew_blocks_decor"
+               "creativeTab": "stew_blocks_furniture"
             }
          ]
       },
@@ -186,7 +186,7 @@
             {
                "id": "packed_gold_ore",
                "material": "tnt",
-               "creativeTab": "stew_blocks_decor"
+               "creativeTab": "stew_blocks_furniture"
             }
          ]
       },
@@ -196,7 +196,7 @@
             {
                "id": "packed_grain",
                "material": "tnt",
-               "creativeTab": "stew_blocks_decor"
+               "creativeTab": "stew_blocks_furniture"
             }
          ]
       },
@@ -206,7 +206,7 @@
             {
                "id": "packed_lapis",
                "material": "tnt",
-               "creativeTab": "stew_blocks_decor"
+               "creativeTab": "stew_blocks_furniture"
             }
          ]
       },
@@ -216,7 +216,7 @@
             {
                "id": "packed_mre",
                "material": "tnt",
-               "creativeTab": "stew_blocks_decor"
+               "creativeTab": "stew_blocks_furniture"
             }
          ]
       },
@@ -226,7 +226,7 @@
             {
                "id": "packed_pipeweed",
                "material": "tnt",
-               "creativeTab": "stew_blocks_decor"
+               "creativeTab": "stew_blocks_furniture"
             }
          ]
       },
@@ -236,7 +236,7 @@
             {
                "id": "packed_oranges",
                "material": "tnt",
-               "creativeTab": "stew_blocks_decor"
+               "creativeTab": "stew_blocks_furniture"
             }
          ]
       },
@@ -246,7 +246,7 @@
             {
                "id": "packed_sticks",
                "material": "tnt",
-               "creativeTab": "stew_blocks_decor"
+               "creativeTab": "stew_blocks_furniture"
             }
          ]
       },
@@ -256,7 +256,7 @@
             {
                "id": "packed_ruby",
                "material": "tnt",
-               "creativeTab": "stew_blocks_decor"
+               "creativeTab": "stew_blocks_furniture"
             }
          ]
       },
@@ -266,7 +266,7 @@
             {
                "id": "packed_turnip",
                "material": "tnt",
-               "creativeTab": "stew_blocks_decor"
+               "creativeTab": "stew_blocks_furniture"
             }
          ]
       },
@@ -276,7 +276,7 @@
             {
                "id": "packed_tomatos",
                "material": "tnt",
-               "creativeTab": "stew_blocks_decor"
+               "creativeTab": "stew_blocks_furniture"
             }
          ]
       },
@@ -286,7 +286,7 @@
             {
                "id": "packed_wheat",
                "material": "tnt",
-               "creativeTab": "stew_blocks_decor"
+               "creativeTab": "stew_blocks_furniture"
             }
          ]
       }

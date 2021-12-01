@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "layers=1":  { "model": "stewblocks:pile_metal_scrap_height2" },
+        "layers=2":  { "model": "stewblocks:pile_metal_scrap_height4" },
+        "layers=3":  { "model": "stewblocks:pile_metal_scrap_height6" },
+        "layers=4":  { "model": "stewblocks:pile_metal_scrap_height8" },
+        "layers=5":  { "model": "stewblocks:pile_metal_scrap_height10" },
+        "layers=6":  { "model": "stewblocks:pile_metal_scrap_height12" },
+        "layers=7":  { "model": "stewblocks:pile_metal_scrap_height14" },
+        "layers=8":  { "model": "stewblocks:pile_metal_scrap" }
+    }
+  }

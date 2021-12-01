@@ -1,21 +1,10 @@
 {
-	"textures": {
-		"1": "stewblocks:blocks/empty",
-		"3": "stewblocks:blocks/fence_rustic_brown",
-		"particle": "stewblocks:blocks/fence_rustic_brown"
-	},
-	"elements": [
-		{
-			"from": [0, 0, 15],
-			"to": [16, 16, 16],
-			"faces": {
-				"north": {"uv": [0, 0, 16, 16], "texture": "#3"},
-				"east": {"uv": [0, 0, 1, 16], "texture": "#3"},
-				"south": {"uv": [0, 0, 16, 16], "texture": "#3"},
-				"west": {"uv": [0, 0, 1, 16], "texture": "#3"},
-				"up": {"uv": [0, 0, 16, 1], "texture": "#1"},
-				"down": {"uv": [0, 15, 16, 16], "texture": "#3"}
-			}
-		}
-	]
-}
+    "parent": "stewblocks:block/stew_fence",
+    "textures": {  
+      "top": "stewblocks:blocks/empty",
+      "bottom": "stewblocks:blocks/empty",
+      "side": "stewblocks:blocks/fence_rustic_brown",     
+      "face": "stewblocks:blocks/fence_rustic_brown",
+      "particle":"stewblocks:blocks/fence_rustic_brown"
+    }
+  }

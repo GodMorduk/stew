@@ -1,0 +1,8 @@
+{
+    "parent": "stewblocks:block/stew_cross_double",
+    "textures": {
+        "cross_top": "stewblocks:blocks/corpse_hanged_top",
+        "cross_bottom": "stewblocks:blocks/corpse_hanged_bottom",
+        "particle": "stewblocks:blocks/corpse_hanged_top"
+    }
+}

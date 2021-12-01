@@ -14,7 +14,7 @@
       "entries": [
         {
           "id": "stew_blocks_decor",
-          "icon": "stewblocks:packed_apples"
+          "icon": "stewblocks:railing_ornamental_skull"
       }  
    ]
   },
@@ -87,6 +87,24 @@
     {
       "id": "stew_blocks_glass",
       "icon": "stewblocks:glass_clear"
+  }  
+]
+},
+{
+  "type": "creativeTab",
+  "entries": [
+    {
+      "id": "stew_blocks_cloth_&_paper",
+      "icon": "stewblocks:wallpaper_green_pattern"
+  }  
+]
+},
+{
+  "type": "creativeTab",
+  "entries": [
+    {
+      "id": "stew_blocks_doors",
+      "icon": "stewblocks:door_iron_exitsign"
   }  
 ]
 }

@@ -1,8 +1,6 @@
-{
-    "parent": "block/cube_bottom_top",
+  {
+    "parent": "block/cube_all",
     "textures": {
-        "bottom": "stewblocks:blocks/wall_sindarin_dark",
-        "top": "stewblocks:blocks/wall_sindarin_dark",
-        "side": "stewblocks:blocks/wall_sindarin_window"
+        "all": "stewblocks:blocks/wall_sindarin_window"
     }
-  }
+}
