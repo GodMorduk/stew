@@ -1,12 +1,28 @@
 {
   "variants": {
-    "age=0": {"model": "stewitems:tobacco_crops_1_stage0"},
-    "age=1": {"model": "stewitems:tobacco_crops_1_stage0"},
-    "age=2": {"model": "stewitems:tobacco_crops_1_stage0"},
-	"age=3": {"model": "stewitems:tobacco_crops_1_stage0"},
-    "age=4": {"model": "stewitems:tobacco_crops_1_stage1"},
-    "age=5": {"model": "stewitems:tobacco_crops_1_stage1"},
-    "age=6": {"model": "stewitems:tobacco_crops_1_stage1"},
-    "age=7": {"model": "stewitems:tobacco_crops_1_stage2"}
+    "age=0": {
+      "model": "stewitems:tobacco_crops_1_stage0"
+    },
+    "age=1": {
+      "model": "stewitems:tobacco_crops_1_stage0"
+    },
+    "age=2": {
+      "model": "stewitems:tobacco_crops_1_stage0"
+    },
+    "age=3": {
+      "model": "stewitems:tobacco_crops_1_stage0"
+    },
+    "age=4": {
+      "model": "stewitems:tobacco_crops_1_stage1"
+    },
+    "age=5": {
+      "model": "stewitems:tobacco_crops_1_stage1"
+    },
+    "age=6": {
+      "model": "stewitems:tobacco_crops_1_stage1"
+    },
+    "age=7": {
+      "model": "stewitems:tobacco_crops_1_stage2"
+    }
   }
 }

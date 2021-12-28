@@ -1,36 +1,34 @@
 {
-    "items":[
+   "items": [
       {
-         "type":"item:food",
-         "entries":[
+         "type": "item:food",
+         "entries": [
             {
-               "id":"alchemy_pills_psyblock",
-               "creativeTab":"stewalchemy",
-               "model":"stewitems:alchemy_pills_psyblock",
-               "information":[
+               "id": "alchemy_pills_psyblock",
+               "creativeTab": "stewalchemy",
+               "model": "stewitems:alchemy_pills_psyblock",
+               "information": [
                   "Мелкие голубые безвкусные таблетки. При употреблении делают мысли спутанными и беспорядочными.",
-				  "Защищают принявшего от воздействия телепатии, но временно повреждают рассудок.",
+                  "Защищают принявшего от воздействия телепатии, но временно повреждают рассудок.",
                   "§lЭффекты:",
                   "Отнимают 25 единиц ментального здоровья."
                ],
-               "potionEffects":[
-                 {
-                     "id":"misca:damageSanity",
+               "potionEffects": [
+                  {
+                     "id": "misca:damageSanity",
                      "duration": 1,
                      "amplifier": 4
                   }
                ],
-               "potionEffectProbability":1.0,
-               "maxStack":16,
-               "healAmount":0,
-               "saturation":0,
-               "useAction":"drink",
-               "alwaysEdible":true,
-               "isWolfFood":false
+               "potionEffectProbability": 1.0,
+               "maxStack": 16,
+               "healAmount": 0,
+               "saturation": 0,
+               "useAction": "drink",
+               "alwaysEdible": true,
+               "isWolfFood": false
             }
          ]
       }
-      
-    ]
+   ]
 }
-

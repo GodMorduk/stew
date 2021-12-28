@@ -1,642 +1,747 @@
 {
-    "items":[
-       {
-          "type":"item:simple",
-          "entries":[
-             {
-                "id": "enc_glyph_a",
-                "creativeTab": "stewenchantment",
-                "maxStack" : 50,
-                "information" : ["Свиток, содержащий в себе истинный глиф Al. Символ подрагивает, будто узоры на углах страницы силой удерживают его на месте"],
-                "burnTime": 5
+   "items": [
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "enc_glyph_a",
+               "creativeTab": "stewenchantment",
+               "maxStack": 50,
+               "information": [
+                  "Свиток, содержащий в себе истинный глиф Al. Символ подрагивает, будто узоры на углах страницы силой удерживают его на месте"
+               ],
+               "burnTime": 5
             }
-        ]
-     },
-     {
-      "type":"item:simple",
-      "entries":[
-         {
-            "id": "enc_glyph_b",
-            "creativeTab": "stewenchantment",
-            "maxStack" : 50,
-            "information" : ["Свиток, содержащий в себе истинный глиф Bet. Символ подрагивает, будто узоры на углах страницы силой удерживают его на месте"],
-            "burnTime": 5
-        }
-    ]
-   },
-   {
-    "type":"item:simple",
-    "entries":[
-       {
-          "id": "enc_glyph_c",
-          "creativeTab": "stewenchantment",
-          "maxStack" : 50,
-          "information" : ["Свиток, содержащий в себе истинный глиф Cur. Символ подрагивает, будто узоры на углах страницы силой удерживают его на месте"],
-          "burnTime": 5
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "enc_glyph_b",
+               "creativeTab": "stewenchantment",
+               "maxStack": 50,
+               "information": [
+                  "Свиток, содержащий в себе истинный глиф Bet. Символ подрагивает, будто узоры на углах страницы силой удерживают его на месте"
+               ],
+               "burnTime": 5
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "enc_glyph_c",
+               "creativeTab": "stewenchantment",
+               "maxStack": 50,
+               "information": [
+                  "Свиток, содержащий в себе истинный глиф Cur. Символ подрагивает, будто узоры на углах страницы силой удерживают его на месте"
+               ],
+               "burnTime": 5
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "enc_glyph_d",
+               "creativeTab": "stewenchantment",
+               "maxStack": 50,
+               "information": [
+                  "Свиток, содержащий в себе истинный глиф Da. Символ подрагивает, будто узоры на углах страницы силой удерживают его на месте"
+               ],
+               "burnTime": 5
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "enc_glyph_e",
+               "creativeTab": "stewenchantment",
+               "maxStack": 50,
+               "information": [
+                  "Свиток, содержащий в себе истинный глиф Eht. Символ подрагивает, будто узоры на углах страницы силой удерживают его на месте"
+               ],
+               "burnTime": 5
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "enc_glyph_f",
+               "creativeTab": "stewenchantment",
+               "maxStack": 50,
+               "information": [
+                  "Свиток, содержащий в себе истинный глиф Fta. Символ подрагивает, будто узоры на углах страницы силой удерживают его на месте"
+               ],
+               "burnTime": 5
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "enc_glyph_g",
+               "creativeTab": "stewenchantment",
+               "maxStack": 50,
+               "information": [
+                  "Свиток, содержащий в себе истинный глиф Gur. Символ подрагивает, будто узоры на углах страницы силой удерживают его на месте"
+               ],
+               "burnTime": 5
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "enc_glyph_h",
+               "creativeTab": "stewenchantment",
+               "maxStack": 50,
+               "information": [
+                  "Свиток, содержащий в себе истинный глиф Hin. Символ подрагивает, будто узоры на углах страницы силой удерживают его на месте"
+               ],
+               "burnTime": 5
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "enc_glyph_i",
+               "creativeTab": "stewenchantment",
+               "maxStack": 50,
+               "information": [
+                  "Свиток, содержащий в себе истинный глиф Igi. Символ подрагивает, будто узоры на углах страницы силой удерживают его на месте"
+               ],
+               "burnTime": 5
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "enc_glyph_j",
+               "creativeTab": "stewenchantment",
+               "maxStack": 50,
+               "information": [
+                  "Свиток, содержащий в себе истинный глиф Jeh. Символ подрагивает, будто узоры на углах страницы силой удерживают его на месте"
+               ],
+               "burnTime": 5
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "enc_glyph_k",
+               "creativeTab": "stewenchantment",
+               "maxStack": 50,
+               "information": [
+                  "Свиток, содержащий в себе истинный глиф Ka. Символ подрагивает, будто узоры на углах страницы силой удерживают его на месте"
+               ],
+               "burnTime": 5
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "enc_glyph_l",
+               "creativeTab": "stewenchantment",
+               "maxStack": 50,
+               "information": [
+                  "Свиток, содержащий в себе истинный глиф Lo. Символ подрагивает, будто узоры на углах страницы силой удерживают его на месте"
+               ],
+               "burnTime": 5
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "enc_glyph_m",
+               "creativeTab": "stewenchantment",
+               "maxStack": 50,
+               "information": [
+                  "Свиток, содержащий в себе истинный глиф Mu. Символ подрагивает, будто узоры на углах страницы силой удерживают его на месте"
+               ],
+               "burnTime": 5
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "enc_glyph_n",
+               "creativeTab": "stewenchantment",
+               "maxStack": 50,
+               "information": [
+                  "Свиток, содержащий в себе истинный глиф Ny. Символ подрагивает, будто узоры на углах страницы силой удерживают его на месте"
+               ],
+               "burnTime": 5
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "enc_glyph_o",
+               "creativeTab": "stewenchantment",
+               "maxStack": 50,
+               "information": [
+                  "Свиток, содержащий в себе истинный глиф Ol. Символ подрагивает, будто узоры на углах страницы силой удерживают его на месте"
+               ],
+               "burnTime": 5
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "enc_glyph_p",
+               "creativeTab": "stewenchantment",
+               "maxStack": 50,
+               "information": [
+                  "Свиток, содержащий в себе истинный глиф Phe. Символ подрагивает, будто узоры на углах страницы силой удерживают его на месте"
+               ],
+               "burnTime": 5
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "enc_glyph_q",
+               "creativeTab": "stewenchantment",
+               "maxStack": 50,
+               "information": [
+                  "Свиток, содержащий в себе истинный глиф Qu. Символ подрагивает, будто узоры на углах страницы силой удерживают его на месте"
+               ],
+               "burnTime": 5
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "enc_glyph_r",
+               "creativeTab": "stewenchantment",
+               "maxStack": 50,
+               "information": [
+                  "Свиток, содержащий в себе истинный глиф Ra. Символ подрагивает, будто узоры на углах страницы силой удерживают его на месте"
+               ],
+               "burnTime": 5
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "enc_glyph_s",
+               "creativeTab": "stewenchantment",
+               "maxStack": 50,
+               "information": [
+                  "Свиток, содержащий в себе истинный глиф Sat. Символ подрагивает, будто узоры на углах страницы силой удерживают его на месте"
+               ],
+               "burnTime": 5
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "enc_glyph_t",
+               "creativeTab": "stewenchantment",
+               "maxStack": 50,
+               "information": [
+                  "Свиток, содержащий в себе истинный глиф Tet. Символ подрагивает, будто узоры на углах страницы силой удерживают его на месте"
+               ],
+               "burnTime": 5
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "enc_glyph_u",
+               "creativeTab": "stewenchantment",
+               "maxStack": 50,
+               "information": [
+                  "Свиток, содержащий в себе истинный глиф Ulu. Символ подрагивает, будто узоры на углах страницы силой удерживают его на месте"
+               ],
+               "burnTime": 5
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "enc_glyph_v",
+               "creativeTab": "stewenchantment",
+               "maxStack": 50,
+               "information": [
+                  "Свиток, содержащий в себе истинный глиф Vry. Символ подрагивает, будто узоры на углах страницы силой удерживают его на месте"
+               ],
+               "burnTime": 5
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "enc_glyph_w",
+               "creativeTab": "stewenchantment",
+               "maxStack": 50,
+               "information": [
+                  "Свиток, содержащий в себе истинный глиф Wlu. Символ подрагивает, будто узоры на углах страницы силой удерживают его на месте"
+               ],
+               "burnTime": 5
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "enc_glyph_x",
+               "creativeTab": "stewenchantment",
+               "maxStack": 50,
+               "information": [
+                  "Свиток, содержащий в себе истинный глиф Xek. Символ подрагивает, будто узоры на углах страницы силой удерживают его на месте"
+               ],
+               "burnTime": 5
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "enc_glyph_y",
+               "creativeTab": "stewenchantment",
+               "maxStack": 50,
+               "information": [
+                  "Свиток, содержащий в себе истинный глиф Yij. Символ подрагивает, будто узоры на углах страницы силой удерживают его на месте"
+               ],
+               "burnTime": 5
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "enc_glyph_z",
+               "creativeTab": "stewenchantment",
+               "maxStack": 50,
+               "information": [
+                  "Свиток, содержащий в себе истинный глиф Zar. Символ подрагивает, будто узоры на углах страницы силой удерживают его на месте"
+               ],
+               "burnTime": 5
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "enc_rune_arrow",
+               "creativeTab": "stewenchantment",
+               "maxStack": 50,
+               "information": [
+                  "Кусочек вулканического стекла с руной. Символизирует стрелу"
+               ],
+               "burnTime": 5
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "enc_rune_bond",
+               "creativeTab": "stewenchantment",
+               "maxStack": 50,
+               "information": [
+                  "Кусочек вулканического стекла с руной. Символизирует связь"
+               ],
+               "burnTime": 5
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "enc_rune_cold",
+               "creativeTab": "stewenchantment",
+               "maxStack": 50,
+               "information": [
+                  "Кусочек вулканического стекла с руной. Символизирует связь"
+               ],
+               "burnTime": 5
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "enc_rune_creation",
+               "creativeTab": "stewenchantment",
+               "maxStack": 50,
+               "information": [
+                  "Кусочек вулканического стекла с руной. Символизирует создание"
+               ],
+               "burnTime": 5
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "enc_rune_death",
+               "creativeTab": "stewenchantment",
+               "maxStack": 50,
+               "information": [
+                  "Кусочек вулканического стекла с руной. Символизирует смерть"
+               ],
+               "burnTime": 5
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "enc_rune_earth",
+               "creativeTab": "stewenchantment",
+               "maxStack": 50,
+               "information": [
+                  "Кусочек вулканического стекла с руной. Символизирует землю"
+               ],
+               "burnTime": 5
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "enc_rune_fire",
+               "creativeTab": "stewenchantment",
+               "maxStack": 50,
+               "information": [
+                  "Кусочек вулканического стекла с руной. Символизирует огонь"
+               ],
+               "burnTime": 5
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "enc_rune_life",
+               "creativeTab": "stewenchantment",
+               "maxStack": 50,
+               "information": [
+                  "Кусочек вулканического стекла с руной. Символизирует огонь"
+               ],
+               "burnTime": 5
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "enc_rune_magic",
+               "creativeTab": "stewenchantment",
+               "maxStack": 50,
+               "information": [
+                  "Кусочек вулканического стекла с руной. Символизирует магию"
+               ],
+               "burnTime": 5
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "enc_rune_motion",
+               "creativeTab": "stewenchantment",
+               "maxStack": 50,
+               "information": [
+                  "Кусочек вулканического стекла с руной. Символизирует движение"
+               ],
+               "burnTime": 5
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "enc_rune_negation",
+               "creativeTab": "stewenchantment",
+               "maxStack": 50,
+               "information": [
+                  "Кусочек вулканического стекла с руной. Символизирует отрицание"
+               ],
+               "burnTime": 5
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "enc_rune_object",
+               "creativeTab": "stewenchantment",
+               "maxStack": 50,
+               "information": [
+                  "Кусочек вулканического стекла с руной. Символизирует предмет или объект"
+               ],
+               "burnTime": 5
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "enc_rune_poison",
+               "creativeTab": "stewenchantment",
+               "maxStack": 50,
+               "information": [
+                  "Кусочек вулканического стекла с руной. Символизирует яд"
+               ],
+               "burnTime": 5
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "enc_rune_protection",
+               "creativeTab": "stewenchantment",
+               "maxStack": 50,
+               "information": [
+                  "Кусочек вулканического стекла с руной. Символизирует защиту"
+               ],
+               "burnTime": 5
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "enc_rune_space",
+               "creativeTab": "stewenchantment",
+               "maxStack": 50,
+               "information": [
+                  "Кусочек вулканического стекла с руной. Символизирует космос"
+               ],
+               "burnTime": 5
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "enc_rune_storm",
+               "creativeTab": "stewenchantment",
+               "maxStack": 50,
+               "information": [
+                  "Кусочек вулканического стекла с руной. Символизирует бурю"
+               ],
+               "burnTime": 5
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "enc_rune_strength",
+               "creativeTab": "stewenchantment",
+               "maxStack": 50,
+               "information": [
+                  "Кусочек вулканического стекла с руной. Символизирует силу"
+               ],
+               "burnTime": 5
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "enc_rune_time",
+               "creativeTab": "stewenchantment",
+               "maxStack": 50,
+               "information": [
+                  "Кусочек вулканического стекла с руной. Символизирует время"
+               ],
+               "burnTime": 5
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "enc_rune_vision",
+               "creativeTab": "stewenchantment",
+               "maxStack": 50,
+               "information": [
+                  "Кусочек вулканического стекла с руной. Символизирует зрение"
+               ],
+               "burnTime": 5
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "enc_rune_weakening",
+               "creativeTab": "stewenchantment",
+               "maxStack": 50,
+               "information": [
+                  "Кусочек вулканического стекла с руной. Символизирует слабость"
+               ],
+               "burnTime": 5
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "enc_lens_adhara",
+               "creativeTab": "stewenchantment",
+               "maxStack": 50,
+               "information": [
+                  "Эта линза местами алая словно кровь, а местами травянисто-зелёная. Окуляр представляет собой треугольник, вписанный в квадрат, а на ободке виднеются 4 ровные прямые отметины"
+               ],
+               "burnTime": 5
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "enc_lens_bhima",
+               "creativeTab": "stewenchantment",
+               "maxStack": 50,
+               "information": [
+                  "Рыжая, словно огонь, линза. На ободке виднеются 6 языков пламени, в сам окуляр образует полумесяц, вписанный в круг"
+               ],
+               "burnTime": 5
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "enc_lens_manipura",
+               "creativeTab": "stewenchantment",
+               "maxStack": 50,
+               "information": [
+                  "Обрамление этой золотистой, словно мёд, линзы изображает цветок с десятью лепестками. Сама линза представляет собой треугольник"
+               ],
+               "burnTime": 5
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "enc_lens_anahta",
+               "creativeTab": "stewenchantment",
+               "maxStack": 50,
+               "information": [
+                  "Обрамление этой ядовито-зелёной линзы напоминает 12 зубов. Сама она украшена узором в виде шестиконечной звезды"
+               ],
+               "burnTime": 5
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "enc_lens_adjan",
+               "creativeTab": "stewenchantment",
+               "maxStack": 50,
+               "information": [
+                  "Ободок этой тёмной линзы украшен двумя крыльями. Присмотревшись, можно понять, что они состоят не из перьев, а из глаз. По 48 глаз в каждом."
+               ],
+               "burnTime": 5
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "enc_lens_sahasara",
+               "creativeTab": "stewenchantment",
+               "maxStack": 50,
+               "information": [
+                  "Белая линза, ободок которой покрывает множество точек. Каким-то образом, даже не начиная считать, вы понимаете что их 672"
+               ],
+               "burnTime": 5
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "enc_ave_flask",
+               "creativeTab": "stewenchantment",
+               "maxStack": 50,
+               "information": [
+                  "Фляга с нестабильной концентрированной эссенцией экспоненции. Несмотря на полную герметичность, вокруг неё клубится зеленоватый морок. Жидкость внутри бурлит и пытается вырваться наружу.",
+                  "Содержит в себе 5000 MB жидкого опыта"
+               ],
+               "burnTime": 5
+            }
+         ]
       }
-  ]
-},
-{
- "type":"item:simple",
- "entries":[
-    {
-       "id": "enc_glyph_d",
-       "creativeTab": "stewenchantment",
-       "maxStack" : 50,
-       "information" : ["Свиток, содержащий в себе истинный глиф Da. Символ подрагивает, будто узоры на углах страницы силой удерживают его на месте"],
-       "burnTime": 5
-   }
-]
-},
-{
- "type":"item:simple",
- "entries":[
-    {
-       "id": "enc_glyph_e",
-       "creativeTab": "stewenchantment",
-       "maxStack" : 50,
-       "information" : ["Свиток, содержащий в себе истинный глиф Eht. Символ подрагивает, будто узоры на углах страницы силой удерживают его на месте"],
-       "burnTime": 5
-   }
-]
-},
-{
- "type":"item:simple",
- "entries":[
-    {
-       "id": "enc_glyph_f",
-       "creativeTab": "stewenchantment",
-       "maxStack" : 50,
-       "information" : ["Свиток, содержащий в себе истинный глиф Fta. Символ подрагивает, будто узоры на углах страницы силой удерживают его на месте"],
-       "burnTime": 5
-   }
-]
-},
-{
- "type":"item:simple",
- "entries":[
-    {
-       "id": "enc_glyph_g",
-       "creativeTab": "stewenchantment",
-       "maxStack" : 50,
-       "information" : ["Свиток, содержащий в себе истинный глиф Gur. Символ подрагивает, будто узоры на углах страницы силой удерживают его на месте"],
-       "burnTime": 5
-   }
-]
-},
-{
- "type":"item:simple",
- "entries":[
-    {
-       "id": "enc_glyph_h",
-       "creativeTab": "stewenchantment",
-       "maxStack" : 50,
-       "information" : ["Свиток, содержащий в себе истинный глиф Hin. Символ подрагивает, будто узоры на углах страницы силой удерживают его на месте"],
-       "burnTime": 5
-   }
-]
-},
-{
- "type":"item:simple",
- "entries":[
-    {
-       "id": "enc_glyph_i",
-       "creativeTab": "stewenchantment",
-       "maxStack" : 50,
-       "information" : ["Свиток, содержащий в себе истинный глиф Igi. Символ подрагивает, будто узоры на углах страницы силой удерживают его на месте"],
-       "burnTime": 5
-   }
-]
-},
-{
- "type":"item:simple",
- "entries":[
-    {
-       "id": "enc_glyph_j",
-       "creativeTab": "stewenchantment",
-       "maxStack" : 50,
-       "information" : ["Свиток, содержащий в себе истинный глиф Jeh. Символ подрагивает, будто узоры на углах страницы силой удерживают его на месте"],
-       "burnTime": 5
-   }
-]
-},
-{
- "type":"item:simple",
- "entries":[
-    {
-       "id": "enc_glyph_k",
-       "creativeTab": "stewenchantment",
-       "maxStack" : 50,
-       "information" : ["Свиток, содержащий в себе истинный глиф Ka. Символ подрагивает, будто узоры на углах страницы силой удерживают его на месте"],
-       "burnTime": 5
-   }
-]
-},
-{
- "type":"item:simple",
- "entries":[
-    {
-       "id": "enc_glyph_l",
-       "creativeTab": "stewenchantment",
-       "maxStack" : 50,
-       "information" : ["Свиток, содержащий в себе истинный глиф Lo. Символ подрагивает, будто узоры на углах страницы силой удерживают его на месте"],
-       "burnTime": 5
-   }
-]
-},
-{
- "type":"item:simple",
- "entries":[
-    {
-       "id": "enc_glyph_m",
-       "creativeTab": "stewenchantment",
-       "maxStack" : 50,
-       "information" : ["Свиток, содержащий в себе истинный глиф Mu. Символ подрагивает, будто узоры на углах страницы силой удерживают его на месте"],
-       "burnTime": 5
-   }
-]
-},
-{
- "type":"item:simple",
- "entries":[
-    {
-       "id": "enc_glyph_n",
-       "creativeTab": "stewenchantment",
-       "maxStack" : 50,
-       "information" : ["Свиток, содержащий в себе истинный глиф Ny. Символ подрагивает, будто узоры на углах страницы силой удерживают его на месте"],
-       "burnTime": 5
-   }
-]
-},
-{
- "type":"item:simple",
- "entries":[
-    {
-       "id": "enc_glyph_o",
-       "creativeTab": "stewenchantment",
-       "maxStack" : 50,
-       "information" : ["Свиток, содержащий в себе истинный глиф Ol. Символ подрагивает, будто узоры на углах страницы силой удерживают его на месте"],
-       "burnTime": 5
-   }
-]
-},
-{
- "type":"item:simple",
- "entries":[
-    {
-       "id": "enc_glyph_p",
-       "creativeTab": "stewenchantment",
-       "maxStack" : 50,
-       "information" : ["Свиток, содержащий в себе истинный глиф Phe. Символ подрагивает, будто узоры на углах страницы силой удерживают его на месте"],
-       "burnTime": 5
-   }
-]
-},
-{
- "type":"item:simple",
- "entries":[
-    {
-       "id": "enc_glyph_q",
-       "creativeTab": "stewenchantment",
-       "maxStack" : 50,
-       "information" : ["Свиток, содержащий в себе истинный глиф Qu. Символ подрагивает, будто узоры на углах страницы силой удерживают его на месте"],
-       "burnTime": 5
-   }
-]
-},
-{
- "type":"item:simple",
- "entries":[
-    {
-       "id": "enc_glyph_r",
-       "creativeTab": "stewenchantment",
-       "maxStack" : 50,
-       "information" : ["Свиток, содержащий в себе истинный глиф Ra. Символ подрагивает, будто узоры на углах страницы силой удерживают его на месте"],
-       "burnTime": 5
-   }
-]
-},
-{
- "type":"item:simple",
- "entries":[
-    {
-       "id": "enc_glyph_s",
-       "creativeTab": "stewenchantment",
-       "maxStack" : 50,
-       "information" : ["Свиток, содержащий в себе истинный глиф Sat. Символ подрагивает, будто узоры на углах страницы силой удерживают его на месте"],
-       "burnTime": 5
-   }
-]
-},
-{
- "type":"item:simple",
- "entries":[
-    {
-       "id": "enc_glyph_t",
-       "creativeTab": "stewenchantment",
-       "maxStack" : 50,
-       "information" : ["Свиток, содержащий в себе истинный глиф Tet. Символ подрагивает, будто узоры на углах страницы силой удерживают его на месте"],
-       "burnTime": 5
-   }
-]
-},
-{
- "type":"item:simple",
- "entries":[
-    {
-       "id": "enc_glyph_u",
-       "creativeTab": "stewenchantment",
-       "maxStack" : 50,
-       "information" : ["Свиток, содержащий в себе истинный глиф Ulu. Символ подрагивает, будто узоры на углах страницы силой удерживают его на месте"],
-       "burnTime": 5
-   }
-]
-},
-{
- "type":"item:simple",
- "entries":[
-    {
-       "id": "enc_glyph_v",
-       "creativeTab": "stewenchantment",
-       "maxStack" : 50,
-       "information" : ["Свиток, содержащий в себе истинный глиф Vry. Символ подрагивает, будто узоры на углах страницы силой удерживают его на месте"],
-       "burnTime": 5
-   }
-]
-},
-{
- "type":"item:simple",
- "entries":[
-    {
-       "id": "enc_glyph_w",
-       "creativeTab": "stewenchantment",
-       "maxStack" : 50,
-       "information" : ["Свиток, содержащий в себе истинный глиф Wlu. Символ подрагивает, будто узоры на углах страницы силой удерживают его на месте"],
-       "burnTime": 5
-   }
-]
-},
-{
- "type":"item:simple",
- "entries":[
-    {
-       "id": "enc_glyph_x",
-       "creativeTab": "stewenchantment",
-       "maxStack" : 50,
-       "information" : ["Свиток, содержащий в себе истинный глиф Xek. Символ подрагивает, будто узоры на углах страницы силой удерживают его на месте"],
-       "burnTime": 5
-   }
-]
-},
-{
- "type":"item:simple",
- "entries":[
-    {
-       "id": "enc_glyph_y",
-       "creativeTab": "stewenchantment",
-       "maxStack" : 50,
-       "information" : ["Свиток, содержащий в себе истинный глиф Yij. Символ подрагивает, будто узоры на углах страницы силой удерживают его на месте"],
-       "burnTime": 5
-   }
-]
-},
-{
- "type":"item:simple",
- "entries":[
-    {
-       "id": "enc_glyph_z",
-       "creativeTab": "stewenchantment",
-       "maxStack" : 50,
-       "information" : ["Свиток, содержащий в себе истинный глиф Zar. Символ подрагивает, будто узоры на углах страницы силой удерживают его на месте"],
-       "burnTime": 5
-   }
-]
-},
-{
- "type":"item:simple",
- "entries":[
-    {
-       "id": "enc_rune_arrow",
-       "creativeTab": "stewenchantment",
-       "maxStack" : 50,
-       "information" : ["Кусочек вулканического стекла с руной. Символизирует стрелу"],
-       "burnTime": 5
-   }
-]
-},
-{
- "type":"item:simple",
- "entries":[
-    {
-       "id": "enc_rune_bond",
-       "creativeTab": "stewenchantment",
-       "maxStack" : 50,
-       "information" : ["Кусочек вулканического стекла с руной. Символизирует связь"],
-       "burnTime": 5
-   }
-]
-},
-{
- "type":"item:simple",
- "entries":[
-    {
-       "id": "enc_rune_cold",
-       "creativeTab": "stewenchantment",
-       "maxStack" : 50,
-       "information" : ["Кусочек вулканического стекла с руной. Символизирует связь"],
-       "burnTime": 5
-   }
-]
-},
-{
- "type":"item:simple",
- "entries":[
-    {
-       "id": "enc_rune_creation",
-       "creativeTab": "stewenchantment",
-       "maxStack" : 50,
-       "information" : ["Кусочек вулканического стекла с руной. Символизирует создание"],
-       "burnTime": 5
-   }
-]
-},
-{
- "type":"item:simple",
- "entries":[
-    {
-       "id": "enc_rune_death",
-       "creativeTab": "stewenchantment",
-       "maxStack" : 50,
-       "information" : ["Кусочек вулканического стекла с руной. Символизирует смерть"],
-       "burnTime": 5
-   }
-]
-},
-{
- "type":"item:simple",
- "entries":[
-    {
-       "id": "enc_rune_earth",
-       "creativeTab": "stewenchantment",
-       "maxStack" : 50,
-       "information" : ["Кусочек вулканического стекла с руной. Символизирует землю"],
-       "burnTime": 5
-   }
-]
-},
-{
- "type":"item:simple",
- "entries":[
-    {
-       "id": "enc_rune_fire",
-       "creativeTab": "stewenchantment",
-       "maxStack" : 50,
-       "information" : ["Кусочек вулканического стекла с руной. Символизирует огонь"],
-       "burnTime": 5
-   }
-]
-},
-{
- "type":"item:simple",
- "entries":[
-    {
-       "id": "enc_rune_life",
-       "creativeTab": "stewenchantment",
-       "maxStack" : 50,
-       "information" : ["Кусочек вулканического стекла с руной. Символизирует огонь"],
-       "burnTime": 5
-   }
-]
-},
-{
- "type":"item:simple",
- "entries":[
-    {
-       "id": "enc_rune_magic",
-       "creativeTab": "stewenchantment",
-       "maxStack" : 50,
-       "information" : ["Кусочек вулканического стекла с руной. Символизирует магию"],
-       "burnTime": 5
-   }
-]
-},
-{
- "type":"item:simple",
- "entries":[
-    {
-       "id": "enc_rune_motion",
-       "creativeTab": "stewenchantment",
-       "maxStack" : 50,
-       "information" : ["Кусочек вулканического стекла с руной. Символизирует движение"],
-       "burnTime": 5
-   }
-]
-},
-{
- "type":"item:simple",
- "entries":[
-    {
-       "id": "enc_rune_negation",
-       "creativeTab": "stewenchantment",
-       "maxStack" : 50,
-       "information" : ["Кусочек вулканического стекла с руной. Символизирует отрицание"],
-       "burnTime": 5
-   }
-]
-},
-{
- "type":"item:simple",
- "entries":[
-    {
-       "id": "enc_rune_object",
-       "creativeTab": "stewenchantment",
-       "maxStack" : 50,
-       "information" : ["Кусочек вулканического стекла с руной. Символизирует предмет или объект"],
-       "burnTime": 5
-   }
-]
-},
-{
- "type":"item:simple",
- "entries":[
-    {
-       "id": "enc_rune_poison",
-       "creativeTab": "stewenchantment",
-       "maxStack" : 50,
-       "information" : ["Кусочек вулканического стекла с руной. Символизирует яд"],
-       "burnTime": 5
-   }
-]
-},
-{
- "type":"item:simple",
- "entries":[
-    {
-       "id": "enc_rune_protection",
-       "creativeTab": "stewenchantment",
-       "maxStack" : 50,
-       "information" : ["Кусочек вулканического стекла с руной. Символизирует защиту"],
-       "burnTime": 5
-   }
-]
-},
-{
- "type":"item:simple",
- "entries":[
-    {
-       "id": "enc_rune_space",
-       "creativeTab": "stewenchantment",
-       "maxStack" : 50,
-       "information" : ["Кусочек вулканического стекла с руной. Символизирует космос"],
-       "burnTime": 5
-   }
-]
-},
-{
- "type":"item:simple",
- "entries":[
-    {
-       "id": "enc_rune_storm",
-       "creativeTab": "stewenchantment",
-       "maxStack" : 50,
-       "information" : ["Кусочек вулканического стекла с руной. Символизирует бурю"],
-       "burnTime": 5
-   }
-]
-},
-{
- "type":"item:simple",
- "entries":[
-    {
-       "id": "enc_rune_strength",
-       "creativeTab": "stewenchantment",
-       "maxStack" : 50,
-       "information" : ["Кусочек вулканического стекла с руной. Символизирует силу"],
-       "burnTime": 5
-   }
-]
-},
-{
- "type":"item:simple",
- "entries":[
-    {
-       "id": "enc_rune_time",
-       "creativeTab": "stewenchantment",
-       "maxStack" : 50,
-       "information" : ["Кусочек вулканического стекла с руной. Символизирует время"],
-       "burnTime": 5
-   }
-]
-},
-{
- "type":"item:simple",
- "entries":[
-    {
-       "id": "enc_rune_vision",
-       "creativeTab": "stewenchantment",
-       "maxStack" : 50,
-       "information" : ["Кусочек вулканического стекла с руной. Символизирует зрение"],
-       "burnTime": 5
-   }
-]
-},
-{
- "type":"item:simple",
- "entries":[
-    {
-       "id": "enc_rune_weakening",
-       "creativeTab": "stewenchantment",
-       "maxStack" : 50,
-       "information" : ["Кусочек вулканического стекла с руной. Символизирует слабость"],
-       "burnTime": 5
-   }
-]
-},
-{
- "type":"item:simple",
- "entries":[
-    {
-       "id": "enc_lens_adhara",
-       "creativeTab": "stewenchantment",
-       "maxStack" : 50,
-       "information" : ["Эта линза местами алая словно кровь, а местами травянисто-зелёная. Окуляр представляет собой треугольник, вписанный в квадрат, а на ободке виднеются 4 ровные прямые отметины"],
-       "burnTime": 5
-   }
-]
-},
-{
- "type":"item:simple",
- "entries":[
-    {
-       "id": "enc_lens_bhima",
-       "creativeTab": "stewenchantment",
-       "maxStack" : 50,
-       "information" : ["Рыжая, словно огонь, линза. На ободке виднеются 6 языков пламени, в сам окуляр образует полумесяц, вписанный в круг"],
-       "burnTime": 5
-   }
-]
-},
-{
- "type":"item:simple",
- "entries":[
-    {
-       "id": "enc_lens_manipura",
-       "creativeTab": "stewenchantment",
-       "maxStack" : 50,
-       "information" : ["Обрамление этой золотистой, словно мёд, линзы изображает цветок с десятью лепестками. Сама линза представляет собой треугольник"],
-       "burnTime": 5
-   }
-]
-},
-{
- "type":"item:simple",
- "entries":[
-    {
-       "id": "enc_lens_anahta",
-       "creativeTab": "stewenchantment",
-       "maxStack" : 50,
-       "information" : ["Обрамление этой ядовито-зелёной линзы напоминает 12 зубов. Сама она украшена узором в виде шестиконечной звезды"],
-       "burnTime": 5
-   }
-]
-},
-{
- "type":"item:simple",
- "entries":[
-    {
-       "id": "enc_lens_adjan",
-       "creativeTab": "stewenchantment",
-       "maxStack" : 50,
-       "information" : ["Ободок этой тёмной линзы украшен двумя крыльями. Присмотревшись, можно понять, что они состоят не из перьев, а из глаз. По 48 глаз в каждом."],
-       "burnTime": 5
-   }
-]
-},
-{
- "type":"item:simple",
- "entries":[
-    {
-       "id": "enc_lens_sahasara",
-       "creativeTab": "stewenchantment",
-       "maxStack" : 50,
-       "information" : ["Белая линза, ободок которой покрывает множество точек. Каким-то образом, даже не начиная считать, вы понимаете что их 672"],
-       "burnTime": 5
-   }
-]
-},
-{
- "type":"item:simple",
- "entries":[
-    {
-       "id": "enc_ave_flask",
-       "creativeTab": "stewenchantment",
-       "maxStack" : 50,
-       "information" : ["Фляга с нестабильной концентрированной эссенцией экспоненции. Несмотря на полную герметичность, вокруг неё клубится зеленоватый морок. Жидкость внутри бурлит и пытается вырваться наружу.",
-       "Содержит в себе 5000 MB жидкого опыта"],
-       "burnTime": 5
-   }
-]
+   ]
 }
-    ]
-}
-

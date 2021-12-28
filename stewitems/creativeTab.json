@@ -1,46 +1,58 @@
 {
-	"tabs": [{
+	"tabs": [
+		{
 			"type": "creativeTab",
-			"entries": [{
-				"id": "stewfood",
-				"icon": "stewitems:food_canned_bugs"
-			}]
+			"entries": [
+				{
+					"id": "stewfood",
+					"icon": "stewitems:food_canned_bugs"
+				}
+			]
 		},
 		{
 			"type": "creativeTab",
-			"entries": [{
-				"id": "stewextra",
-				"icon": "stewitems:coupon_special"
-			}]
+			"entries": [
+				{
+					"id": "stewextra",
+					"icon": "stewitems:coupon_special"
+				}
+			]
 		},
 		{
 			"type": "creativeTab",
-			"entries": [{
-				"id": "stewmeds",
-				"icon": "stewitems:medicine_blood"
-			}]
+			"entries": [
+				{
+					"id": "stewmeds",
+					"icon": "stewitems:medicine_blood"
+				}
+			]
 		},
 		{
 			"type": "creativeTab",
-			"entries": [{
-				"id": "stewalchemy",
-				"icon": "stewitems:alchemy_salt_fire"
-			}]
+			"entries": [
+				{
+					"id": "stewalchemy",
+					"icon": "stewitems:alchemy_salt_fire"
+				}
+			]
 		},
 		{
 			"type": "creativeTab",
-			"entries": [{
-				"id": "stewtobacco",
-				"icon": "stewitems:cigar_3"
-			}]
+			"entries": [
+				{
+					"id": "stewtobacco",
+					"icon": "stewitems:cigar_3"
+				}
+			]
 		},
 		{
 			"type": "creativeTab",
-			"entries": [{
-				"id": "stewenchantment",
-				"icon": "stewitems:enc_glyph_a"
-			}]
+			"entries": [
+				{
+					"id": "stewenchantment",
+					"icon": "stewitems:enc_glyph_a"
+				}
+			]
 		}
 	]
 }
-

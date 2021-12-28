@@ -1,179 +1,219 @@
 {
-   "items":[
+   "items": [
       {
-         "type":"item:simple",
-         "entries":[
+         "type": "item:simple",
+         "entries": [
             {
                "id": "coupon_0",
                "creativeTab": "stewextra",
-			   "maxStack" : 50,
-			   "information" : ["Городской \"купон\", создаваемый под протекцией Короля Печи.", "Эквивалентен одному виленту."],
-			   "burnTime": 100
+               "maxStack": 50,
+               "information": [
+                  "Городской \"купон\", создаваемый под протекцией Короля Печи.",
+                  "Эквивалентен одному виленту."
+               ],
+               "burnTime": 100
             }
          ]
       },
       {
-         "type":"item:simple",
-         "entries":[
+         "type": "item:simple",
+         "entries": [
             {
                "id": "coupon_1",
                "creativeTab": "stewextra",
-			   "maxStack" : 50,
-			   "information" : ["Городской \"купон\", создаваемый под протекцией Короля Печи.", "Эквивалентен десяти вилентам."],
-			   "burnTime": 100
+               "maxStack": 50,
+               "information": [
+                  "Городской \"купон\", создаваемый под протекцией Короля Печи.",
+                  "Эквивалентен десяти вилентам."
+               ],
+               "burnTime": 100
             }
          ]
       },
       {
-         "type":"item:simple",
-         "entries":[
+         "type": "item:simple",
+         "entries": [
             {
                "id": "coupon_2",
                "creativeTab": "stewextra",
-			   "maxStack" : 50,
-			   "information" : ["Городской \"купон\", создаваемый под протекцией Короля Печи.", "Эквивалентен ста вилентам."],
-			   "burnTime": 100
+               "maxStack": 50,
+               "information": [
+                  "Городской \"купон\", создаваемый под протекцией Короля Печи.",
+                  "Эквивалентен ста вилентам."
+               ],
+               "burnTime": 100
             }
          ]
       },
       {
-         "type":"item:simple",
-         "entries":[
+         "type": "item:simple",
+         "entries": [
             {
                "id": "coupon_3",
                "creativeTab": "stewextra",
-			   "maxStack" : 50,
-			   "information" : ["Городской \"купон\", создаваемый под протекцией Короля Печи.", "Эквивалентен тысяче вилентов."],
-			   "burnTime": 100
+               "maxStack": 50,
+               "information": [
+                  "Городской \"купон\", создаваемый под протекцией Короля Печи.",
+                  "Эквивалентен тысяче вилентов."
+               ],
+               "burnTime": 100
             }
          ]
       },
       {
-         "type":"item:simple",
-         "entries":[
+         "type": "item:simple",
+         "entries": [
             {
                "id": "moneybundle_0",
                "creativeTab": "stewextra",
-			   "maxStack" : 10,
-			   "information" : ["Толстая пачка купонов, приятно шелестящая в руках. Даже резинка,", "скрепляющая купюры, отдает властью. В этой пачке 2000 купонов."],
-			   "burnTime": 100
+               "maxStack": 10,
+               "information": [
+                  "Толстая пачка купонов, приятно шелестящая в руках. Даже резинка,",
+                  "скрепляющая купюры, отдает властью. В этой пачке 2000 купонов."
+               ],
+               "burnTime": 100
             }
          ]
       },
       {
-         "type":"item:simple",
-         "entries":[
+         "type": "item:simple",
+         "entries": [
             {
                "id": "moneybundle_1",
                "creativeTab": "stewextra",
-			   "maxStack" : 10,
-			   "information" : ["Толстая пачка купонов, приятно шелестящая в руках. Даже резинка,", "скрепляющая купюры, отдает властью. В этой пачке 4000 купонов."],
-			   "burnTime": 1000
+               "maxStack": 10,
+               "information": [
+                  "Толстая пачка купонов, приятно шелестящая в руках. Даже резинка,",
+                  "скрепляющая купюры, отдает властью. В этой пачке 4000 купонов."
+               ],
+               "burnTime": 1000
             }
          ]
       },
       {
-         "type":"item:simple",
-         "entries":[
+         "type": "item:simple",
+         "entries": [
             {
                "id": "moneybundle_2",
                "creativeTab": "stewextra",
-			   "maxStack" : 10,
-			   "information" : ["Толстая пачка купонов, приятно шелестящая в руках. Даже резинка,", "скрепляющая купюры, отдает властью. В этой пачке 8000 купонов."],
-			   "burnTime": 2000
+               "maxStack": 10,
+               "information": [
+                  "Толстая пачка купонов, приятно шелестящая в руках. Даже резинка,",
+                  "скрепляющая купюры, отдает властью. В этой пачке 8000 купонов."
+               ],
+               "burnTime": 2000
             }
          ]
       },
       {
-         "type":"item:simple",
-         "entries":[
+         "type": "item:simple",
+         "entries": [
             {
                "id": "moneybundle_3",
                "creativeTab": "stewextra",
-			   "maxStack" : 10,
-			   "information" : ["Толстая пачка купонов, приятно шелестящая в руках. Даже резинка,", "скрепляющая купюры, отдает властью. В этой пачке 16000 купонов."],
-			   "burnTime": 4000
+               "maxStack": 10,
+               "information": [
+                  "Толстая пачка купонов, приятно шелестящая в руках. Даже резинка,",
+                  "скрепляющая купюры, отдает властью. В этой пачке 16000 купонов."
+               ],
+               "burnTime": 4000
             }
          ]
       },
       {
-         "type":"item:simple",
-         "entries":[
+         "type": "item:simple",
+         "entries": [
             {
                "id": "moneybundle_4",
                "creativeTab": "stewextra",
-			   "maxStack" : 10,
-			   "information" : ["Толстая пачка купонов, приятно шелестящая в руках. Даже резинка,", "скрепляющая купюры, отдает властью. В этой пачке 32000 купонов."],
-			   "burnTime": 8000
+               "maxStack": 10,
+               "information": [
+                  "Толстая пачка купонов, приятно шелестящая в руках. Даже резинка,",
+                  "скрепляющая купюры, отдает властью. В этой пачке 32000 купонов."
+               ],
+               "burnTime": 8000
             }
          ]
       },
       {
-         "type":"item:simple",
-         "entries":[
+         "type": "item:simple",
+         "entries": [
             {
                "id": "moneybundle_5",
                "creativeTab": "stewextra",
-			   "maxStack" : 10,
-			   "information" : ["Толстая пачка купонов, приятно шелестящая в руках. Даже резинка,", "скрепляющая купюры, отдает властью. В этой пачке 64000 купонов."],
-			   "burnTime": 16000 
+               "maxStack": 10,
+               "information": [
+                  "Толстая пачка купонов, приятно шелестящая в руках. Даже резинка,",
+                  "скрепляющая купюры, отдает властью. В этой пачке 64000 купонов."
+               ],
+               "burnTime": 16000
             }
          ]
       },
       {
-         "type":"item:simple",
-         "entries":[
+         "type": "item:simple",
+         "entries": [
             {
                "id": "vilent_0",
                "creativeTab": "stewextra",
-			   "maxStack" : 50,
-			   "information" : ["Основная планарная валюта базового номинала."]
+               "maxStack": 50,
+               "information": [
+                  "Основная планарная валюта базового номинала."
+               ]
             }
          ]
       },
       {
-         "type":"item:simple",
-         "entries":[
+         "type": "item:simple",
+         "entries": [
             {
                "id": "vilent_1",
                "creativeTab": "stewextra",
-			   "maxStack" : 50,
-			   "information" : ["Монета номиналом в 10 вилентов."]
+               "maxStack": 50,
+               "information": [
+                  "Монета номиналом в 10 вилентов."
+               ]
             }
          ]
       },
       {
-         "type":"item:simple",
-         "entries":[
+         "type": "item:simple",
+         "entries": [
             {
                "id": "vilent_2",
                "creativeTab": "stewextra",
-			   "maxStack" : 50,
-			   "information" : ["Монета номиналом в 100 вилентов."]
+               "maxStack": 50,
+               "information": [
+                  "Монета номиналом в 100 вилентов."
+               ]
             }
          ]
       },
       {
-         "type":"item:simple",
-         "entries":[
+         "type": "item:simple",
+         "entries": [
             {
                "id": "vilent_3",
                "creativeTab": "stewextra",
-			   "maxStack" : 50,
-			   "information" : ["Монета номиналом в 1000 вилентов."]
+               "maxStack": 50,
+               "information": [
+                  "Монета номиналом в 1000 вилентов."
+               ]
             }
          ]
       },
-	  {
-         "type":"item:simple",
-         "entries":[
+      {
+         "type": "item:simple",
+         "entries": [
             {
                "id": "coupon_special",
                "creativeTab": "stewextra",
-			   "maxStack" : 50,
-			   "information" : ["Особая купюра. Почему? Никто не знает."]
+               "maxStack": 50,
+               "information": [
+                  "Особая купюра. Почему? Никто не знает."
+               ]
             }
          ]
       }
-	]
+   ]
 }
