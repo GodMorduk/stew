@@ -1,5 +1,7 @@
 {
-    "variants": {
-      "normal": {"model": "stewblocks:object_barrel_green"}
+  "variants": {
+    "normal": {
+      "model": "stewblocks:object_barrel_green"
     }
   }
+}

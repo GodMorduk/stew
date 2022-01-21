@@ -1,5 +1,7 @@
 {
-    "variants": {
-      "normal": {"model": "stewblocks:wooden_panel_oak"}
+  "variants": {
+    "normal": {
+      "model": "stewblocks:wooden_panel_oak"
     }
   }
+}

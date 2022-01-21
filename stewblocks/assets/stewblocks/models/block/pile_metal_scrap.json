@@ -2,7 +2,7 @@
     "parent": "stewblocks:block/top_side_face",
     "textures": {
         "face": "stewblocks:blocks/pile_metal_scrap",
-        "top": "stewblocks:blocks/pile_metal_scrap",        
+        "top": "stewblocks:blocks/pile_metal_scrap",
         "side": "stewblocks:blocks/pile_metal_scrap"
     }
 }

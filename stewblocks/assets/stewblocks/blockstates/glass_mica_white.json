@@ -1,5 +1,7 @@
 {
-    "variants": {
-      "normal": {"model": "stewblocks:glass_mica_white"}
+  "variants": {
+    "normal": {
+      "model": "stewblocks:glass_mica_white"
     }
+  }
 }

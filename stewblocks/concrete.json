@@ -1,8 +1,8 @@
 {
-   "blocks":[
+   "blocks": [
       {
          "type": "block:simple",
-         "entries":[
+         "entries": [
             {
                "id": "concrete_faded_ornament",
                "material": "rock",
@@ -12,7 +12,7 @@
       },
       {
          "type": "block:orientable:directional",
-         "entries":[
+         "entries": [
             {
                "id": "concrete_faded_base",
                "creativeTab": "stew_blocks_stone",
@@ -20,25 +20,25 @@
                "itemModel": "stewblocks:concrete_faded_base",
                "hardness": 1,
                "faceBySide": true
-             }
-          ]
-       },
-   {
-      "type": "block:orientable:directional",
-      "entries":[
-         {
-            "id": "concrete_faded_capital",
-            "creativeTab": "stew_blocks_stone",
-            "material": "rock",
-            "itemModel": "stewblocks:concrete_faded_capital",
-            "hardness": 1,
-            "faceBySide": true
-          }
-       ]
-    },
-	  {
-	  "type": "block:simple",
-         "entries":[
+            }
+         ]
+      },
+      {
+         "type": "block:orientable:directional",
+         "entries": [
+            {
+               "id": "concrete_faded_capital",
+               "creativeTab": "stew_blocks_stone",
+               "material": "rock",
+               "itemModel": "stewblocks:concrete_faded_capital",
+               "hardness": 1,
+               "faceBySide": true
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries": [
             {
                "id": "concrete_faded_brick",
                "material": "rock",
@@ -48,7 +48,7 @@
       },
       {
          "type": "block:orientable:directional",
-         "entries":[
+         "entries": [
             {
                "id": "concrete_faded_pillar",
                "creativeTab": "stew_blocks_stone",
@@ -56,54 +56,54 @@
                "itemModel": "stewblocks:concrete_faded_pillar",
                "hardness": 1,
                "faceBySide": true
-             }
-          ]
-         },
-         {
-            "type": "block:orientable:directional",
-            "entries":[
-               {
-                  "id": "concrete_faded_cornice",
-                  "creativeTab": "stew_blocks_stone",
-                  "material": "rock",
-                  "itemModel": "stewblocks:concrete_faded_cornice",
-                  "hardness": 1,
-                  "faceBySide": true
-                }
-             ]
-          }, 
-            {
-               "type": "block:orientable:directional",
-               "entries":[
-                  {
-                     "id": "asphalt",
-                     "creativeTab": "stew_blocks_stone",
-                     "material": "rock",
-                     "itemModel": "stewblocks:asphalt",
-                     "hardness": 1,
-                     "faceBySide": true
-                   }
-                ]
-             },
-             {
-               "type": "block:simple",
-               "entries":[
-                  {
-                     "id": "concrete_ornament",
-                     "material": "rock",
-                     "creativeTab": "stew_blocks_stone"
-                  }
-               ]
-            }, 
-            {
-               "type": "block:simple",
-               "entries":[
-                  {
-                     "id": "concrete_dark_ornament_round",
-                     "material": "rock",
-                     "creativeTab": "stew_blocks_stone"
-                  }
-               ]
             }
+         ]
+      },
+      {
+         "type": "block:orientable:directional",
+         "entries": [
+            {
+               "id": "concrete_faded_cornice",
+               "creativeTab": "stew_blocks_stone",
+               "material": "rock",
+               "itemModel": "stewblocks:concrete_faded_cornice",
+               "hardness": 1,
+               "faceBySide": true
+            }
+         ]
+      },
+      {
+         "type": "block:orientable:directional",
+         "entries": [
+            {
+               "id": "asphalt",
+               "creativeTab": "stew_blocks_stone",
+               "material": "rock",
+               "itemModel": "stewblocks:asphalt",
+               "hardness": 1,
+               "faceBySide": true
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries": [
+            {
+               "id": "concrete_ornament",
+               "material": "rock",
+               "creativeTab": "stew_blocks_stone"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries": [
+            {
+               "id": "concrete_dark_ornament_round",
+               "material": "rock",
+               "creativeTab": "stew_blocks_stone"
+            }
+         ]
+      }
    ]
 }

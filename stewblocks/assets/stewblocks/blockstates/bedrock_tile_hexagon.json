@@ -1,5 +1,7 @@
 {
   "variants": {
-  "normal": {"model": "stewblocks:bedrock_tile_hexagon"}
+    "normal": {
+      "model": "stewblocks:bedrock_tile_hexagon"
+    }
   }
 }

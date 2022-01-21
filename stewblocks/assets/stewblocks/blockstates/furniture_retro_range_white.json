@@ -1,8 +1,19 @@
 {
     "variants": {
-        "facing=south": { "model": "stewblocks:furniture_retro_range_white", "y": 180 },
-        "facing=west": { "model": "stewblocks:furniture_retro_range_white", "y": 270 },
-        "facing=north": { "model": "stewblocks:furniture_retro_range_white" },
-        "facing=east": { "model": "stewblocks:furniture_retro_range_white", "y": 90 }
+        "facing=south": {
+            "model": "stewblocks:furniture_retro_range_white",
+            "y": 180
+        },
+        "facing=west": {
+            "model": "stewblocks:furniture_retro_range_white",
+            "y": 270
+        },
+        "facing=north": {
+            "model": "stewblocks:furniture_retro_range_white"
+        },
+        "facing=east": {
+            "model": "stewblocks:furniture_retro_range_white",
+            "y": 90
+        }
     }
 }

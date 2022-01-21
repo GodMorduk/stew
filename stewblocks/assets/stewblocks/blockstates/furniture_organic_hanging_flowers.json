@@ -1,8 +1,20 @@
 {
     "variants": {
-    "facing=north": { "model": "stewblocks:furniture_organic_hanging_flowers", "y": 270},
-    "facing=south": { "model": "stewblocks:furniture_organic_hanging_flowers", "y": 90 },
-    "facing=west":  { "model": "stewblocks:furniture_organic_hanging_flowers", "y": 180 },
-    "facing=east":  { "model": "stewblocks:furniture_organic_hanging_flowers", "y": 0 }
-}
+        "facing=north": {
+            "model": "stewblocks:furniture_organic_hanging_flowers",
+            "y": 270
+        },
+        "facing=south": {
+            "model": "stewblocks:furniture_organic_hanging_flowers",
+            "y": 90
+        },
+        "facing=west": {
+            "model": "stewblocks:furniture_organic_hanging_flowers",
+            "y": 180
+        },
+        "facing=east": {
+            "model": "stewblocks:furniture_organic_hanging_flowers",
+            "y": 0
+        }
+    }
 }

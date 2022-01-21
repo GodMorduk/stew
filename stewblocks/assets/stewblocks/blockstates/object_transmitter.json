@@ -1,5 +1,7 @@
 {
     "variants": {
-        "normal": { "model": "stewblocks:object_transmitter" }
+        "normal": {
+            "model": "stewblocks:object_transmitter"
+        }
     }
 }

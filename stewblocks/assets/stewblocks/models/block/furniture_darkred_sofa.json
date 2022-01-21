@@ -1,7 +1,7 @@
 {
-    "parent": "stewblocks:block/sofa_slipper",
-    "textures": {
-      "particle": "blocks/wool_colored_black",
-      "texture": "stewblocks:blocks/sofa_slipper_darkred"
-    }
+  "parent": "stewblocks:block/sofa_slipper",
+  "textures": {
+    "particle": "blocks/wool_colored_black",
+    "texture": "stewblocks:blocks/sofa_slipper_darkred"
+  }
 }

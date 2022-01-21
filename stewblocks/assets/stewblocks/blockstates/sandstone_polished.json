@@ -1,5 +1,7 @@
 {
     "variants": {
-    "normal": {"model": "stewblocks:sandstone_polished"}  
+        "normal": {
+            "model": "stewblocks:sandstone_polished"
+        }
     }
 }

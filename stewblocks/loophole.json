@@ -1,17 +1,17 @@
 {
-    "blocks":[
-  {
-   "type": "block:pane",
-   "entries": [
-     {
-       "id": "loophole_gothiccarved",
-       "material": "glass",
-       "renderLayer": "mippedCutout",
-       "creativeTab": "stew_blocks_decor",
-       "itemModel": "stewblocks:loophole_gothiccarved",
-       "hideAdjacentSides": true
-     }
-   ]
- }         
+  "blocks": [
+    {
+      "type": "block:pane",
+      "entries": [
+        {
+          "id": "loophole_gothiccarved",
+          "material": "glass",
+          "renderLayer": "mippedCutout",
+          "creativeTab": "stew_blocks_decor",
+          "itemModel": "stewblocks:loophole_gothiccarved",
+          "hideAdjacentSides": true
+        }
+      ]
+    }
   ]
-  }
+}

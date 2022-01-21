@@ -1,8 +1,19 @@
 {
     "variants": {
-        "facing=south": { "model": "stewblocks:furniture_hanging_clothes", "y": 180 },
-        "facing=west": { "model": "stewblocks:furniture_hanging_clothes", "y": 270 },
-        "facing=north": { "model": "stewblocks:furniture_hanging_clothes" },
-        "facing=east": { "model": "stewblocks:furniture_hanging_clothes", "y": 90 }
+        "facing=south": {
+            "model": "stewblocks:furniture_hanging_clothes",
+            "y": 180
+        },
+        "facing=west": {
+            "model": "stewblocks:furniture_hanging_clothes",
+            "y": 270
+        },
+        "facing=north": {
+            "model": "stewblocks:furniture_hanging_clothes"
+        },
+        "facing=east": {
+            "model": "stewblocks:furniture_hanging_clothes",
+            "y": 90
+        }
     }
 }

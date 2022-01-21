@@ -15,100 +15,98 @@
         {
           "id": "stew_blocks_decor",
           "icon": "stewblocks:railing_ornamental_skull"
-      }  
-   ]
-  },
-  {
-    "type": "creativeTab",
-    "entries": [
-      {
-        "id": "stew_blocks_effects",
-        "icon": "stewblocks:effect_smoke_black"
-    }  
- ]
-},
-{
-  "type": "creativeTab",
-  "entries": [
+        }
+      ]
+    },
     {
-      "id": "stew_blocks_ambience",
-      "icon": "stewblocks:pile_bones_01"
-  }  
-]
-},
-{
-  "type": "creativeTab",
-  "entries": [
+      "type": "creativeTab",
+      "entries": [
+        {
+          "id": "stew_blocks_effects",
+          "icon": "stewblocks:effect_smoke_black"
+        }
+      ]
+    },
     {
-      "id": "stew_blocks_dungeon",
-      "icon": "stewblocks:ruin_urian_brick_01"
-  }  
-]
-},
-{
-  "type": "creativeTab",
-  "entries": [
+      "type": "creativeTab",
+      "entries": [
+        {
+          "id": "stew_blocks_ambience",
+          "icon": "stewblocks:pile_bones_01"
+        }
+      ]
+    },
     {
-      "id": "stew_blocks_metal",
-      "icon": "stewblocks:metal_rough_plate_protective"
-  }  
-]
-},
-{
-  "type": "creativeTab",
-  "entries": [
+      "type": "creativeTab",
+      "entries": [
+        {
+          "id": "stew_blocks_dungeon",
+          "icon": "stewblocks:ruin_urian_brick_01"
+        }
+      ]
+    },
     {
-      "id": "stew_blocks_wood",
-      "icon": "stewblocks:wood_carved_spruce"
-  }  
-]
-},
-{
-  "type": "creativeTab",
-  "entries": [
+      "type": "creativeTab",
+      "entries": [
+        {
+          "id": "stew_blocks_metal",
+          "icon": "stewblocks:metal_rough_plate_protective"
+        }
+      ]
+    },
     {
-      "id": "stew_blocks_furniture",
-      "icon": "stewblocks:table_wooden"
-  }  
-]
-},
-{
-  "type": "creativeTab",
-  "entries": [
+      "type": "creativeTab",
+      "entries": [
+        {
+          "id": "stew_blocks_wood",
+          "icon": "stewblocks:wood_carved_spruce"
+        }
+      ]
+    },
     {
-      "id": "stew_blocks_objects",
-      "icon": "stewblocks:object_lamp_02"
-  }  
-]
-},
-{
-  "type": "creativeTab",
-  "entries": [
+      "type": "creativeTab",
+      "entries": [
+        {
+          "id": "stew_blocks_furniture",
+          "icon": "stewblocks:table_wooden"
+        }
+      ]
+    },
     {
-      "id": "stew_blocks_glass",
-      "icon": "stewblocks:glass_clear"
-  }  
-]
-},
-{
-  "type": "creativeTab",
-  "entries": [
+      "type": "creativeTab",
+      "entries": [
+        {
+          "id": "stew_blocks_objects",
+          "icon": "stewblocks:object_lamp_02"
+        }
+      ]
+    },
     {
-      "id": "stew_blocks_cloth_&_paper",
-      "icon": "stewblocks:wallpaper_green_pattern"
-  }  
-]
-},
-{
-  "type": "creativeTab",
-  "entries": [
+      "type": "creativeTab",
+      "entries": [
+        {
+          "id": "stew_blocks_glass",
+          "icon": "stewblocks:glass_clear"
+        }
+      ]
+    },
     {
-      "id": "stew_blocks_doors",
-      "icon": "stewblocks:door_iron_exitsign"
-  }  
-]
+      "type": "creativeTab",
+      "entries": [
+        {
+          "id": "stew_blocks_cloth_&_paper",
+          "icon": "stewblocks:wallpaper_green_pattern"
+        }
+      ]
+    },
+    {
+      "type": "creativeTab",
+      "entries": [
+        {
+          "id": "stew_blocks_doors",
+          "icon": "stewblocks:door_iron_exitsign"
+        }
+      ]
+    }
+  ]
 }
-]
-}
-
-

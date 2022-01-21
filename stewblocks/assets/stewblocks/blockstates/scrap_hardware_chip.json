@@ -1,6 +1,7 @@
-
 {
-    "variants": {
-      "normal": {"model": "stewblocks:scrap_hardware_chip"}
+  "variants": {
+    "normal": {
+      "model": "stewblocks:scrap_hardware_chip"
     }
   }
+}

@@ -1,6 +1,6 @@
-     {
+    {
       "parent": "item/generated",
       "textures": {
-          "layer0": "stewblocks:blocks/fence_rustic_brown"
+        "layer0": "stewblocks:blocks/fence_rustic_brown"
       }
     }

@@ -1,8 +1,20 @@
 {
     "variants": {
-    "facing=north": { "model": "stewblocks:furniture_white_starlamp", "y": 270},
-    "facing=south": { "model": "stewblocks:furniture_white_starlamp", "y": 90 },
-    "facing=west":  { "model": "stewblocks:furniture_white_starlamp", "y": 180 },
-    "facing=east":  { "model": "stewblocks:furniture_white_starlamp", "y": 0 }
-}
+        "facing=north": {
+            "model": "stewblocks:furniture_white_starlamp",
+            "y": 270
+        },
+        "facing=south": {
+            "model": "stewblocks:furniture_white_starlamp",
+            "y": 90
+        },
+        "facing=west": {
+            "model": "stewblocks:furniture_white_starlamp",
+            "y": 180
+        },
+        "facing=east": {
+            "model": "stewblocks:furniture_white_starlamp",
+            "y": 0
+        }
+    }
 }

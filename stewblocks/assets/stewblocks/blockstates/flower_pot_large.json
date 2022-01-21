@@ -1,5 +1,7 @@
 {
   "variants": {
-      "normal": { "model": "stewblocks:flower_pot_large" }
+    "normal": {
+      "model": "stewblocks:flower_pot_large"
+    }
   }
 }

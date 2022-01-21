@@ -1,5 +1,7 @@
 {
-    "variants": {
-      "normal": {"model": "stewblocks:table_office"}
+  "variants": {
+    "normal": {
+      "model": "stewblocks:table_office"
     }
+  }
 }

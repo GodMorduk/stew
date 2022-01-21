@@ -1,8 +1,20 @@
 {
     "variants": {
-    "facing=north": { "model": "stewblocks:furniture_old_camera", "y": 90},
-    "facing=south": { "model": "stewblocks:furniture_old_camera", "y": 270 },
-    "facing=west":  { "model": "stewblocks:furniture_old_camera", "y": 0 },
-    "facing=east":  { "model": "stewblocks:furniture_old_camera", "y": 180 }
-}
+        "facing=north": {
+            "model": "stewblocks:furniture_old_camera",
+            "y": 90
+        },
+        "facing=south": {
+            "model": "stewblocks:furniture_old_camera",
+            "y": 270
+        },
+        "facing=west": {
+            "model": "stewblocks:furniture_old_camera",
+            "y": 0
+        },
+        "facing=east": {
+            "model": "stewblocks:furniture_old_camera",
+            "y": 180
+        }
+    }
 }

@@ -2,7 +2,7 @@
     "parent": "stewblocks:block/top_side_face",
     "textures": {
         "face": "stewblocks:blocks/pillow_red_side",
-        "top": "stewblocks:blocks/pillow_red",        
+        "top": "stewblocks:blocks/pillow_red",
         "side": "stewblocks:blocks/pillow_red_side"
     }
 }

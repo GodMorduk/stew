@@ -1,5 +1,7 @@
 {
     "variants": {
-    "normal": {"model": "stewblocks:sandstone_cornice"}  
+        "normal": {
+            "model": "stewblocks:sandstone_cornice"
+        }
     }
 }

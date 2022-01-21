@@ -1,413 +1,486 @@
 {
-    "items":[
-       {
-          "type":"item:simple",
-          "entries":[
-             {
-                "id": "alchemy_salt_fire",
-                "creativeTab": "stewalchemy",
-                "maxStack" : 50,
-                "information" : ["Мелкая переливающаяся пыль. Алая как рубин и излучает сильный жар. Используется как алхимический катализатор."],
-                "burnTime": 5
+   "items": [
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "alchemy_salt_fire",
+               "creativeTab": "stewalchemy",
+               "maxStack": 50,
+               "information": [
+                  "Мелкая переливающаяся пыль. Алая как рубин и излучает сильный жар. Используется как алхимический катализатор."
+               ],
+               "burnTime": 5
             }
-        ]
-     },
-     {
-        "type":"item:simple",
-        "entries":[
-           {
-                "id": "alchemy_salt_frost",
-                "creativeTab": "stewalchemy",
-                "maxStack" : 50,
-                "information" : ["Крупные голубые гранулы поблёскивают и подёрнутые инеем. Вокруг них клубится морозный воздух. Используется как алхимический катализатор."]
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "alchemy_salt_frost",
+               "creativeTab": "stewalchemy",
+               "maxStack": 50,
+               "information": [
+                  "Крупные голубые гранулы поблёскивают и подёрнутые инеем. Вокруг них клубится морозный воздух. Используется как алхимический катализатор."
+               ]
             }
-        ]
-     },
-     {
-        "type":"item:simple",
-        "entries":[
-           {
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
                "id": "alchemy_salt_lightning",
                "creativeTab": "stewalchemy",
-               "maxStack" : 50,
-               "information" : ["Янтарно жёлтые осколки со скруглёнными краями. Время от времени между ними пробегает молния. Используется как алхимический катализатор."]
+               "maxStack": 50,
+               "information": [
+                  "Янтарно жёлтые осколки со скруглёнными краями. Время от времени между ними пробегает молния. Используется как алхимический катализатор."
+               ]
             }
-        ]
-     },
-     {
-        "type":"item:simple",
-        "entries":[
-           {
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
                "id": "alchemy_salt_earth",
                "creativeTab": "stewalchemy",
-               "maxStack" : 50,
-               "information" : ["Горсть грубой нефритовой гальки, покрытой отложениями, похожими на мох. Невероятно тяжёлая. Что-то будто тянет её вниз. Используется как алхимический катализатор."]
+               "maxStack": 50,
+               "information": [
+                  "Горсть грубой нефритовой гальки, покрытой отложениями, похожими на мох. Невероятно тяжёлая. Что-то будто тянет её вниз. Используется как алхимический катализатор."
+               ]
             }
-        ]
-     },
-     {
-        "type":"item:simple",
-        "entries":[
-           {
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
                "id": "alchemy_salt_order",
                "creativeTab": "stewalchemy",
-               "maxStack" : 50,
-               "information" : ["Абсолютно прозрачные кристаллы. Каждый из них представляет собой идеальный октаэдр. Отличается лишь их размер. Если долго смотреть на горсть, у вас начинают сильно болеть глаза. Используется как алхимический катализатор."]
+               "maxStack": 50,
+               "information": [
+                  "Абсолютно прозрачные кристаллы. Каждый из них представляет собой идеальный октаэдр. Отличается лишь их размер. Если долго смотреть на горсть, у вас начинают сильно болеть глаза. Используется как алхимический катализатор."
+               ]
             }
-        ]
-     },
-     {
-        "type":"item:simple",
-        "entries":[
-           {
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
                "id": "alchemy_salt_entropy",
                "creativeTab": "stewalchemy",
-               "maxStack" : 50,
-               "information" : ["Эта чёрная пыль обладает самой мелкой фракцией из всех, что вам доводилось видеть. От малейшего дуновения ветра она пытается разлететься в разные стороны. Вам кажется, что пылинки продолжают делиться и распадаться, постепенно превращаясь в пустоту. Используется как алхимический катализатор."]
+               "maxStack": 50,
+               "information": [
+                  "Эта чёрная пыль обладает самой мелкой фракцией из всех, что вам доводилось видеть. От малейшего дуновения ветра она пытается разлететься в разные стороны. Вам кажется, что пылинки продолжают делиться и распадаться, постепенно превращаясь в пустоту. Используется как алхимический катализатор."
+               ]
             }
-          ]
-         },
-         {
-            "type":"item:simple",
-            "entries":[
-               {
-                   "id": "alchemy_nigredo",
-                   "creativeTab": "stewalchemy",
-                   "maxStack" : 50,
-                   "information" : ["Абсолютно черный комковатый порошок. Он словно поглощает свет вокруг себя. В алхимии символизирует полное разложение. Используется как катализатор."]
-                }
-              ]
-             },
-         {
-            "type":"item:simple",
-            "entries":[
-               {
-                   "id": "alchemy_albedo",
-                   "creativeTab": "stewalchemy",
-                   "maxStack" : 50,
-                   "information" : ["Светлая голубоватая субстанция, похожая на ртуть. В алхимии символизирует собой очищение и сублимацию.  Используется как катализатор."]
-                }
-              ]
-            },
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
             {
-               "type":"item:simple",
-               "entries":[
-                  {
-                      "id": "alchemy_citrinitas",
-                      "creativeTab": "stewalchemy",
-                      "maxStack" : 50,
-                      "information" : ["Поблескивающий золотом комок смолистой пасты. В алхимии ассоциируется с трансмутацией. Используется как катализатор."]
-                   }
-                 ]
-               },
-               {
-                  "type":"item:simple",
-                  "entries":[
-                     {
-                         "id": "alchemy_rubedo",
-                         "creativeTab": "stewalchemy",
-                         "maxStack" : 50,
-                         "information" : ["Камень алый, словно кровь. У алхимиков олицетворяет собой единство слияния духа и материи. Считается последним этапом на пути создания философского камня."]
-                      }
-                    ]
-                  },
-                  {
-                     "type":"item:simple",
-                     "entries":[
-                        {
-                            "id": "alchemy_rebis",
-                            "creativeTab": "stewalchemy",
-                            "maxStack" : 50,
-                            "information" : ["Ребис, он же василиск. Маленький оплавленный радужный камушек, скрывающий в себе много секретов."]
-                         }
-                       ]
-                     },
-                     {
-                        "type":"item:simple",
-                        "entries":[
-                           {
-                               "id": "alchemy_phlogiston",
-                               "creativeTab": "stewalchemy",
-                               "maxStack" : 50,
-                               "information" : ["Нестабильный оранжевый самоцвет, напоминающий замороженные языки пламени. Содержит в себе разрушительную силу."]
-                            }
-                          ]
-                        },
-                        {
-                           "type":"item:simple",
-                           "entries":[
-                              {
-                                  "id": "alchemy_vitola",
-                                  "creativeTab": "stewalchemy",
-                                  "maxStack" : 50,
-                                  "information" : ["Горсть маленьких голубоватых поблёскивающих камушков. Если смотреть на них достаточно долго, можно заметить, что каждый их них слегка меняет свои очертания. Некоторые из гранул лениво ползут в разные стороны, будто пытаясь покинуть кучку."]
-                               }
-                             ]
-                           },
-                           {
-                              "type":"item:simple",
-                              "entries":[
-                                 {
-                                     "id": "alchemy_marna",
-                                     "creativeTab": "stewalchemy",
-                                     "maxStack" : 50,
-                                     "information" : ["Комок костей и почерневшей мумифицированной плоти. Напоминает странный экзотический фрукт. Холодный и сухой на ощупь."]
-                                  }
-                                ]
-                              },
-                              {
-                                 "type":"item:simple",
-                                 "entries":[
-                                    {
-                                        "id": "alchemy_sklirot",
-                                        "creativeTab": "stewalchemy",
-                                        "maxStack" : 50,
-                                        "information" : ["Невероятно тяжёлый кусок камня, покрытый зеленоватыми стеблями кристаллов. Если отколоть один из них, он тут же превращается в прах, но на его месте вырастает новый."]
-                                     }
-                                   ]
-                                 },
-                                 {
-                                    "type":"item:simple",
-                                    "entries":[
-                                       {
-                                           "id": "alchemy_ether",
-                                           "creativeTab": "stewalchemy",
-                                           "maxStack" : 50,
-                                           "information" : ["Невероятно лёгкие и ломкие золотистые кристаллы. Если присмотреться, можно заметить, что они состоят из полого стержня и множества тончайших волокон, расходящихся от него в разные стороны.  При малейшем повреждении своей структуры, кристалл превращаются в облако светящегося газа, которое тут же улетучивается."]
-                                        }
-                                      ]
-                                    },
-                                    {
-                                       "type":"item:simple",
-                                       "entries":[
-                                          {
-                                              "id": "alchemy_ortara",
-                                              "creativeTab": "stewalchemy",
-                                              "maxStack" : 50,
-                                              "information" : ["На радужных, словно бензиновая плёнка, гранях этого кристалла вы видите гротескных отражения всех окружающих вас предметов. Все, кроме вас самих."]
-                                           }
-                                         ]
-                                        },
-         {
-            "type":"item:simple",
-            "entries":[
-               {
-                   "id": "alchemy_prepared_eye",
-                   "creativeTab": "stewalchemy",
-                   "maxStack" : 50,
-                   "information" : ["Препарат из глаза какого-то существа. Поблёк и остекленел. Используется как реагент в алхимии."]
-                }
-              ]
-            },
+               "id": "alchemy_nigredo",
+               "creativeTab": "stewalchemy",
+               "maxStack": 50,
+               "information": [
+                  "Абсолютно черный комковатый порошок. Он словно поглощает свет вокруг себя. В алхимии символизирует полное разложение. Используется как катализатор."
+               ]
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
             {
-               "type":"item:simple",
-               "entries":[
-                  {
-                      "id": "alchemy_brain_gland",
-                      "creativeTab": "stewalchemy",
-                      "maxStack" : 50,
-                      "information" : ["Фрагмент мозга, всё ещё истекающий гормонами. Используется как реагент в алхимии."]
-                   }
-                 ]
-               },
-               {
-                  "type":"item:simple",
-                  "entries":[
-                     {
-                         "id": "alchemy_poison_gland",
-                         "creativeTab": "stewalchemy",
-                         "maxStack" : 50,
-                         "information" : ["Странный алый мешочек, заполненный ядом. Вы затрудняетесь сказать кому или чему принадлежала эта железа. Используется как реагент в алхимии."]
-                      }
-                    ]
-                  },
-                  {
-                     "type":"item:simple",
-                     "entries":[
-                        {
-                            "id": "alchemy_prepared_spleen",
-                            "creativeTab": "stewalchemy",
-                            "maxStack" : 50,
-                            "information" : ["Хирургически удалённая селезёнка. Используется как реагент в алхимии."]
-                         }
-                       ]
-                     },
-                        {
-                           "type":"item:simple",
-                           "entries":[
-                              {
-                                  "id": "alchemy_prepared_heart",
-                                  "creativeTab": "stewalchemy",
-                                  "maxStack" : 50,
-                                  "information" : ["Когда-то это сердце билось в чьей-то груди. Теперь оно неподвижно."]
-                               }
-                             ]
-                           },
-                           {
-                              "type":"item:simple",
-                              "entries":[
-                                 {
-                                     "id": "alchemy_prepared_stomach",
-                                     "creativeTab": "stewalchemy",
-                                     "maxStack" : 50,
-                                     "information" : ["Хирургически удалённый желудок. Прочный и эластичный. Всё содержимое, с счастью, его уже покинуло. Используется как реагент в алхимии."]
-                                  }
-                                ]
-                              },
-                              {
-                                 "type":"item:simple",
-                                 "entries":[
-                                    {
-                                        "id": "alchemy_horn",
-                                        "creativeTab": "stewalchemy",
-                                        "maxStack" : 50,
-                                        "information" : ["Фрагмент рога какого-то существа. Слишком поврежден, чтобы определить его принадлежность"]
-                                     }
-                                   ]
-                                 },
-                                 {
-                                    "type":"item:simple",
-                                    "entries":[
-                                       {
-                                           "id": "alchemy_bone_marrow",
-                                           "creativeTab": "stewalchemy",
-                                           "maxStack" : 50,
-                                           "information" : ["Срез кости, заполненный жирным желтоватым костным мозгом."]
-                                        }
-                                      ]
-                                    },
-                                    {
-                                       "type":"item:simple",
-                                       "entries":[
-                                          {
-                                              "id": "alchemy_prepared_gallbladder",
-                                              "creativeTab": "stewalchemy",
-                                              "maxStack" : 50,
-                                              "information" : ["Хирургически удалённый желчный пузырь. Многие считают избыток желчи - первопричиной дурного характера. Возможно, его потеря пошла кому-то на пользу. Используется как реагент в алхимии."]
-                                           }
-                                         ]
-                                       },
-                                       {
-                                          "type":"item:simple",
-                                          "entries":[
-                                             {
-                                                 "id": "alchemy_prepared_liver",
-                                                 "creativeTab": "stewalchemy",
-                                                 "maxStack" : 50,
-                                                 "information" : ["Хирургически удалённая печень. Во многих примитивных культурах считается, что именно в печени содержится сила живого существа. Используется как реагент в алхимии."]
-                                              }
-                                            ]
-                                          },
-                                          {
-                                             "type":"item:simple",
-                                             "entries":[
-                                                {
-                                                    "id": "alchemy_prepared_kidney",
-                                                    "creativeTab": "stewalchemy",
-                                                    "maxStack" : 50,
-                                                    "information" : ["Хирургически удалённая почка. Главный фильтр организма. Используется как реагент в алхимии."]
-                                                 }
-                                               ]
-                                             },
-                     {
-                        "type":"item:simple",
-                        "entries":[
-                           {
-                               "id": "alchemy_prepared_ganglion",
-                               "creativeTab": "stewalchemy",
-                               "maxStack" : 50,
-                               "information" : ["Кусок плоти с тонкими отростками, напоминающими щупальца или усики. Лучше лишний раз не думать, частью чего они являлись. Используется как реагент в алхимии."]
-                            }
-                          ]
-                        },
-                     {
-                        "type":"item:simple",
-                        "entries":[
-                           {
-                               "id": "alchemy_dead_mash",
-                               "creativeTab": "stewalchemy",
-                               "maxStack" : 50,
-                               "information" : ["Малоприятная на вид субстанция. Красно-розовое месиво местами превратилось в студенистые хлопья. Явно животного происхождения. Используется как реагент в алхимии."]
-                            }
-                          ]
-                        },
-                        {
-                           "type":"item:simple",
-                           "entries":[
-                              {
-                                  "id": "alchemy_herbal_tincture",
-                                  "creativeTab": "stewalchemy",
-                                  "maxStack" : 50,
-                                  "information" : ["Горькая бурая настойка из диких трав и кореньев."]
-                               }
-                             ]
-                           },
-                           {
-                              "type":"item:simple",
-                              "entries":[
-                                 {
-                                     "id": "alchemy_blood_tincture",
-                                     "creativeTab": "stewalchemy",
-                                     "maxStack" : 50,
-                                     "information" : ["Пузырёк с алой жидкостью. На дне отложился темный осадок. На вкус как железо."]
-                                  }
-                                ]
-                              },
-                              {
-                                 "type":"item:simple",
-                                 "entries":[
-                                    {
-                                        "id": "alchemy_fungus_tincture",
-                                        "creativeTab": "stewalchemy",
-                                        "maxStack" : 50,
-                                        "information" : ["Зловонная зелёная слизь, полученная из грибов. Обжигает рот так сильно, что в чистом виде ее не проглотить."]
-                                     }
-                                   ]
-                                 },
-                                 {
-                                    "type":"item:simple",
-                                    "entries":[
-                                       {
-                                           "id": "alchemy_scales",
-                                           "creativeTab": "stewalchemy",
-                                           "maxStack" : 50,
-                                           "information" : ["Лоскут грубой кожи с несколькими крупными чешуйками."]
-                                        }
-                                      ]
-                                    },
-                                    {
-                                       "type":"item:simple",
-                                       "entries":[
-                                          {
-                                              "id": "alchemy_ichor",
-                                              "creativeTab": "stewalchemy",
-                                              "maxStack" : 50,
-                                              "information" : ["Комок липкого желто-зеленого гноя. Источает сладковатый запах."]
-                                           }
-                                         ]
-                                       },
-                                       {
-                                          "type":"item:simple",
-                                          "entries":[
-                                             {
-                                                 "id": "alchemy_chitin",
-                                                 "creativeTab": "stewalchemy",
-                                                 "maxStack" : 50,
-                                                 "information" : ["Фрагмент крепкого шершавого панциря."]
-                                              }
-                                            ]
-                                          },
-                                          {
-                                             "type":"item:simple",
-                                             "entries":[
-                                                {
-                                                    "id": "alchemy_true_litania",
-                                                    "creativeTab": "stewalchemy",
-                                                    "maxStack" : 50,
-                                                    "information" : ["Круглый чёрный комочек, похожий на уголёк. Сквозь трещины на поверхности вы видите, как внутри него пульсирует лиловое свечение. Воздух вокруг него будто густеет."]
-                                                 }
-                                               ]
-                                             }
-    ]
+               "id": "alchemy_albedo",
+               "creativeTab": "stewalchemy",
+               "maxStack": 50,
+               "information": [
+                  "Светлая голубоватая субстанция, похожая на ртуть. В алхимии символизирует собой очищение и сублимацию.  Используется как катализатор."
+               ]
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "alchemy_citrinitas",
+               "creativeTab": "stewalchemy",
+               "maxStack": 50,
+               "information": [
+                  "Поблескивающий золотом комок смолистой пасты. В алхимии ассоциируется с трансмутацией. Используется как катализатор."
+               ]
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "alchemy_rubedo",
+               "creativeTab": "stewalchemy",
+               "maxStack": 50,
+               "information": [
+                  "Камень алый, словно кровь. У алхимиков олицетворяет собой единство слияния духа и материи. Считается последним этапом на пути создания философского камня."
+               ]
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "alchemy_rebis",
+               "creativeTab": "stewalchemy",
+               "maxStack": 50,
+               "information": [
+                  "Ребис, он же василиск. Маленький оплавленный радужный камушек, скрывающий в себе много секретов."
+               ]
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "alchemy_phlogiston",
+               "creativeTab": "stewalchemy",
+               "maxStack": 50,
+               "information": [
+                  "Нестабильный оранжевый самоцвет, напоминающий замороженные языки пламени. Содержит в себе разрушительную силу."
+               ]
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "alchemy_vitola",
+               "creativeTab": "stewalchemy",
+               "maxStack": 50,
+               "information": [
+                  "Горсть маленьких голубоватых поблёскивающих камушков. Если смотреть на них достаточно долго, можно заметить, что каждый их них слегка меняет свои очертания. Некоторые из гранул лениво ползут в разные стороны, будто пытаясь покинуть кучку."
+               ]
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "alchemy_marna",
+               "creativeTab": "stewalchemy",
+               "maxStack": 50,
+               "information": [
+                  "Комок костей и почерневшей мумифицированной плоти. Напоминает странный экзотический фрукт. Холодный и сухой на ощупь."
+               ]
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "alchemy_sklirot",
+               "creativeTab": "stewalchemy",
+               "maxStack": 50,
+               "information": [
+                  "Невероятно тяжёлый кусок камня, покрытый зеленоватыми стеблями кристаллов. Если отколоть один из них, он тут же превращается в прах, но на его месте вырастает новый."
+               ]
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "alchemy_ether",
+               "creativeTab": "stewalchemy",
+               "maxStack": 50,
+               "information": [
+                  "Невероятно лёгкие и ломкие золотистые кристаллы. Если присмотреться, можно заметить, что они состоят из полого стержня и множества тончайших волокон, расходящихся от него в разные стороны.  При малейшем повреждении своей структуры, кристалл превращаются в облако светящегося газа, которое тут же улетучивается."
+               ]
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "alchemy_ortara",
+               "creativeTab": "stewalchemy",
+               "maxStack": 50,
+               "information": [
+                  "На радужных, словно бензиновая плёнка, гранях этого кристалла вы видите гротескных отражения всех окружающих вас предметов. Все, кроме вас самих."
+               ]
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "alchemy_prepared_eye",
+               "creativeTab": "stewalchemy",
+               "maxStack": 50,
+               "information": [
+                  "Препарат из глаза какого-то существа. Поблёк и остекленел. Используется как реагент в алхимии."
+               ]
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "alchemy_brain_gland",
+               "creativeTab": "stewalchemy",
+               "maxStack": 50,
+               "information": [
+                  "Фрагмент мозга, всё ещё истекающий гормонами. Используется как реагент в алхимии."
+               ]
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "alchemy_poison_gland",
+               "creativeTab": "stewalchemy",
+               "maxStack": 50,
+               "information": [
+                  "Странный алый мешочек, заполненный ядом. Вы затрудняетесь сказать кому или чему принадлежала эта железа. Используется как реагент в алхимии."
+               ]
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "alchemy_prepared_spleen",
+               "creativeTab": "stewalchemy",
+               "maxStack": 50,
+               "information": [
+                  "Хирургически удалённая селезёнка. Используется как реагент в алхимии."
+               ]
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "alchemy_prepared_heart",
+               "creativeTab": "stewalchemy",
+               "maxStack": 50,
+               "information": [
+                  "Когда-то это сердце билось в чьей-то груди. Теперь оно неподвижно."
+               ]
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "alchemy_prepared_stomach",
+               "creativeTab": "stewalchemy",
+               "maxStack": 50,
+               "information": [
+                  "Хирургически удалённый желудок. Прочный и эластичный. Всё содержимое, с счастью, его уже покинуло. Используется как реагент в алхимии."
+               ]
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "alchemy_horn",
+               "creativeTab": "stewalchemy",
+               "maxStack": 50,
+               "information": [
+                  "Фрагмент рога какого-то существа. Слишком поврежден, чтобы определить его принадлежность"
+               ]
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "alchemy_bone_marrow",
+               "creativeTab": "stewalchemy",
+               "maxStack": 50,
+               "information": [
+                  "Срез кости, заполненный жирным желтоватым костным мозгом."
+               ]
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "alchemy_prepared_gallbladder",
+               "creativeTab": "stewalchemy",
+               "maxStack": 50,
+               "information": [
+                  "Хирургически удалённый желчный пузырь. Многие считают избыток желчи - первопричиной дурного характера. Возможно, его потеря пошла кому-то на пользу. Используется как реагент в алхимии."
+               ]
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "alchemy_prepared_liver",
+               "creativeTab": "stewalchemy",
+               "maxStack": 50,
+               "information": [
+                  "Хирургически удалённая печень. Во многих примитивных культурах считается, что именно в печени содержится сила живого существа. Используется как реагент в алхимии."
+               ]
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "alchemy_prepared_kidney",
+               "creativeTab": "stewalchemy",
+               "maxStack": 50,
+               "information": [
+                  "Хирургически удалённая почка. Главный фильтр организма. Используется как реагент в алхимии."
+               ]
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "alchemy_prepared_ganglion",
+               "creativeTab": "stewalchemy",
+               "maxStack": 50,
+               "information": [
+                  "Кусок плоти с тонкими отростками, напоминающими щупальца или усики. Лучше лишний раз не думать, частью чего они являлись. Используется как реагент в алхимии."
+               ]
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "alchemy_dead_mash",
+               "creativeTab": "stewalchemy",
+               "maxStack": 50,
+               "information": [
+                  "Малоприятная на вид субстанция. Красно-розовое месиво местами превратилось в студенистые хлопья. Явно животного происхождения. Используется как реагент в алхимии."
+               ]
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "alchemy_herbal_tincture",
+               "creativeTab": "stewalchemy",
+               "maxStack": 50,
+               "information": [
+                  "Горькая бурая настойка из диких трав и кореньев."
+               ]
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "alchemy_blood_tincture",
+               "creativeTab": "stewalchemy",
+               "maxStack": 50,
+               "information": [
+                  "Пузырёк с алой жидкостью. На дне отложился темный осадок. На вкус как железо."
+               ]
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "alchemy_fungus_tincture",
+               "creativeTab": "stewalchemy",
+               "maxStack": 50,
+               "information": [
+                  "Зловонная зелёная слизь, полученная из грибов. Обжигает рот так сильно, что в чистом виде ее не проглотить."
+               ]
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "alchemy_scales",
+               "creativeTab": "stewalchemy",
+               "maxStack": 50,
+               "information": [
+                  "Лоскут грубой кожи с несколькими крупными чешуйками."
+               ]
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "alchemy_ichor",
+               "creativeTab": "stewalchemy",
+               "maxStack": 50,
+               "information": [
+                  "Комок липкого желто-зеленого гноя. Источает сладковатый запах."
+               ]
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "alchemy_chitin",
+               "creativeTab": "stewalchemy",
+               "maxStack": 50,
+               "information": [
+                  "Фрагмент крепкого шершавого панциря."
+               ]
+            }
+         ]
+      },
+      {
+         "type": "item:simple",
+         "entries": [
+            {
+               "id": "alchemy_true_litania",
+               "creativeTab": "stewalchemy",
+               "maxStack": 50,
+               "information": [
+                  "Круглый чёрный комочек, похожий на уголёк. Сквозь трещины на поверхности вы видите, как внутри него пульсирует лиловое свечение. Воздух вокруг него будто густеет."
+               ]
+            }
+         ]
+      }
+   ]
 }
-

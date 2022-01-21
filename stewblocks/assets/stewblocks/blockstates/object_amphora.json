@@ -1,5 +1,7 @@
 {
     "variants": {
-        "normal": { "model": "stewblocks:object_amphora" }
+        "normal": {
+            "model": "stewblocks:object_amphora"
+        }
     }
 }

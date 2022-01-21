@@ -6,29 +6,142 @@
         "side": "stewblocks:blocks/flower_pot_large",
         "eye": "stewblocks:blocks/flower_pot_large_eye",
         "face": "stewblocks:blocks/flower_pot_large_face"
-
     },
     "elements": [
-        {   "from": [ 0, 0, 0 ],
-            "to": [ 16, 13, 16 ],
+        {
+            "from": [
+                0,
+                0,
+                0
+            ],
+            "to": [
+                16,
+                13,
+                16
+            ],
             "faces": {
-                "down":  { "uv": [ 0, 0, 16, 16 ], "texture": "#bottom" },
-                "up":    { "uv": [ 0, 0, 16, 16 ], "texture": "#top" },
-                "north": { "uv": [ 0, 3, 16, 16 ], "texture": "#face" },
-                "south": { "uv": [ 0, 3, 16, 16 ], "texture": "#face" },
-                "west":  { "uv": [ 0, 3, 16, 16 ], "texture": "#side" },
-                "east":  { "uv": [ 0, 3, 16, 16 ], "texture": "#side" }
+                "down": {
+                    "uv": [
+                        0,
+                        0,
+                        16,
+                        16
+                    ],
+                    "texture": "#bottom"
+                },
+                "up": {
+                    "uv": [
+                        0,
+                        0,
+                        16,
+                        16
+                    ],
+                    "texture": "#top"
+                },
+                "north": {
+                    "uv": [
+                        0,
+                        3,
+                        16,
+                        16
+                    ],
+                    "texture": "#face"
+                },
+                "south": {
+                    "uv": [
+                        0,
+                        3,
+                        16,
+                        16
+                    ],
+                    "texture": "#face"
+                },
+                "west": {
+                    "uv": [
+                        0,
+                        3,
+                        16,
+                        16
+                    ],
+                    "texture": "#side"
+                },
+                "east": {
+                    "uv": [
+                        0,
+                        3,
+                        16,
+                        16
+                    ],
+                    "texture": "#side"
+                }
             }
         },
-        {   "from": [ 4, 13, 4 ],
-            "to": [ 12, 16, 12 ],
+        {
+            "from": [
+                4,
+                13,
+                4
+            ],
+            "to": [
+                12,
+                16,
+                12
+            ],
             "faces": {
-                "down":  { "uv": [ 4, 4, 12, 12 ], "texture": "#eye" },
-                "up":    { "uv": [ 4, 4, 12, 12 ], "texture": "#eye" },
-                "north": { "uv": [ 4, 0, 12,  3 ], "texture": "#eye" },
-                "south": { "uv": [ 4, 0, 12,  3 ], "texture": "#eye" },
-                "west":  { "uv": [ 4, 0, 12,  3 ], "texture": "#eye" },
-                "east":  { "uv": [ 4, 0, 12,  3 ], "texture": "#eye" }
+                "down": {
+                    "uv": [
+                        4,
+                        4,
+                        12,
+                        12
+                    ],
+                    "texture": "#eye"
+                },
+                "up": {
+                    "uv": [
+                        4,
+                        4,
+                        12,
+                        12
+                    ],
+                    "texture": "#eye"
+                },
+                "north": {
+                    "uv": [
+                        4,
+                        0,
+                        12,
+                        3
+                    ],
+                    "texture": "#eye"
+                },
+                "south": {
+                    "uv": [
+                        4,
+                        0,
+                        12,
+                        3
+                    ],
+                    "texture": "#eye"
+                },
+                "west": {
+                    "uv": [
+                        4,
+                        0,
+                        12,
+                        3
+                    ],
+                    "texture": "#eye"
+                },
+                "east": {
+                    "uv": [
+                        4,
+                        0,
+                        12,
+                        3
+                    ],
+                    "texture": "#eye"
+                }
             }
         }
     ]

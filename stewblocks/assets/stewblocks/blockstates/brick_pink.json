@@ -1,5 +1,7 @@
 {
   "variants": {
-	"normal": {"model": "stewblocks:brick_pink"}
+    "normal": {
+      "model": "stewblocks:brick_pink"
+    }
   }
 }

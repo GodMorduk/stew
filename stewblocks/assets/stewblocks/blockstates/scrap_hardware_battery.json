@@ -1,8 +1,19 @@
 {
     "variants": {
-    "facing=north": { "model": "stewblocks:scrap_hardware_battery" },
-    "facing=south": { "model": "stewblocks:scrap_hardware_battery", "y": 180 },
-    "facing=west":  { "model": "stewblocks:scrap_hardware_battery", "y": 270 },
-    "facing=east":  { "model": "stewblocks:scrap_hardware_battery", "y": 90 }
-}
+        "facing=north": {
+            "model": "stewblocks:scrap_hardware_battery"
+        },
+        "facing=south": {
+            "model": "stewblocks:scrap_hardware_battery",
+            "y": 180
+        },
+        "facing=west": {
+            "model": "stewblocks:scrap_hardware_battery",
+            "y": 270
+        },
+        "facing=east": {
+            "model": "stewblocks:scrap_hardware_battery",
+            "y": 90
+        }
+    }
 }

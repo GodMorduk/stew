@@ -1,6 +1,7 @@
-
-  {
-    "variants": {
-      "normal": {"model": "stewblocks:force_field_staticnoise_full"}
+{
+  "variants": {
+    "normal": {
+      "model": "stewblocks:force_field_staticnoise_full"
     }
   }
+}

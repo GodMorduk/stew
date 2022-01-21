@@ -1,5 +1,7 @@
 {
-    "variants": {
-      "normal": {"model": "stewblocks:box_old_metal"}
+  "variants": {
+    "normal": {
+      "model": "stewblocks:box_old_metal"
     }
   }
+}

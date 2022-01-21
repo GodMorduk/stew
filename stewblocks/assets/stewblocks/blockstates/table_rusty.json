@@ -1,5 +1,7 @@
 {
-    "variants": {
-      "normal": {"model": "stewblocks:table_rusty"}
+  "variants": {
+    "normal": {
+      "model": "stewblocks:table_rusty"
     }
+  }
 }

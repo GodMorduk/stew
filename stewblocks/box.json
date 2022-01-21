@@ -1,46 +1,46 @@
 {
-"blocks":[
-    {
-       "type": "block:simple",
-       "entries":[
-          {
-             "id": "box_old_metal",
-             "material": "iron",
-             "creativeTab": "stew_blocks_furniture",
-             "soundType" : "iron",
-             "hardness" : 1,
-             "tileEntity": "stewblocks:box",
-             "gui": "stewblocks:box"
-          }
-       ]
-    },
-    {
-      "type": "block:simple",
-      "entries":[
-         {
-            "id": "box_wicker",
-            "material": "wood",
-            "creativeTab": "stew_blocks_furniture",
-            "soundType" : "wood",
-            "hardness" : 1,
-            "tileEntity": "stewblocks:box",
-            "gui": "stewblocks:box"
-         }
-      ]
-   },
-   {
-     "type": "block:simple",
-     "entries":[
-        {
-           "id": "box_cardboard",
-           "material": "wood",
-           "creativeTab": "stew_blocks_furniture",
-           "soundType" : "leaves",
-           "hardness" : 1,
-           "tileEntity": "stewblocks:box",
-           "gui": "stewblocks:box"
-        }
-     ]
-  }
- ]
+   "blocks": [
+      {
+         "type": "block:simple",
+         "entries": [
+            {
+               "id": "box_old_metal",
+               "material": "iron",
+               "creativeTab": "stew_blocks_furniture",
+               "soundType": "iron",
+               "hardness": 1,
+               "tileEntity": "stewblocks:box",
+               "gui": "stewblocks:box"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries": [
+            {
+               "id": "box_wicker",
+               "material": "wood",
+               "creativeTab": "stew_blocks_furniture",
+               "soundType": "wood",
+               "hardness": 1,
+               "tileEntity": "stewblocks:box",
+               "gui": "stewblocks:box"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries": [
+            {
+               "id": "box_cardboard",
+               "material": "wood",
+               "creativeTab": "stew_blocks_furniture",
+               "soundType": "leaves",
+               "hardness": 1,
+               "tileEntity": "stewblocks:box",
+               "gui": "stewblocks:box"
+            }
+         ]
+      }
+   ]
 }

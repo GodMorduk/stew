@@ -1,10 +1,37 @@
 {
-    "variants": {
-    "facing=north": { "model": "stewblocks:cloth_hide_brown", "x": 90, "y": 0, "uvlock": true},
-    "facing=east": { "model": "stewblocks:cloth_hide_brown", "x": 90, "y": 90, "uvlock": true },
-    "facing=south": { "model": "stewblocks:cloth_hide_brown", "x": 90, "y": 180, "uvlock": true },
-    "facing=west": { "model": "stewblocks:cloth_hide_brown", "x": 90, "y": 270, "uvlock": true },
-    "facing=up": { "model": "stewblocks:cloth_hide_brown", "uvlock": true },
-    "facing=down": { "model": "stewblocks:cloth_hide_brown", "x": 180, "uvlock": true }
+  "variants": {
+    "facing=north": {
+      "model": "stewblocks:cloth_hide_brown",
+      "x": 90,
+      "y": 0,
+      "uvlock": true
+    },
+    "facing=east": {
+      "model": "stewblocks:cloth_hide_brown",
+      "x": 90,
+      "y": 90,
+      "uvlock": true
+    },
+    "facing=south": {
+      "model": "stewblocks:cloth_hide_brown",
+      "x": 90,
+      "y": 180,
+      "uvlock": true
+    },
+    "facing=west": {
+      "model": "stewblocks:cloth_hide_brown",
+      "x": 90,
+      "y": 270,
+      "uvlock": true
+    },
+    "facing=up": {
+      "model": "stewblocks:cloth_hide_brown",
+      "uvlock": true
+    },
+    "facing=down": {
+      "model": "stewblocks:cloth_hide_brown",
+      "x": 180,
+      "uvlock": true
+    }
   }
 }

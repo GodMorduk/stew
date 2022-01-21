@@ -1,11 +1,31 @@
-
 {
   "variants": {
-    "facing=north": { "model": "stewblocks:plasteel_panel_green", "x": 90, "y": 0},
-    "facing=east": { "model": "stewblocks:plasteel_panel_green", "x": 90, "y": 90},
-    "facing=south": { "model": "stewblocks:plasteel_panel_green", "x": 90, "y": 180},
-    "facing=west": { "model": "stewblocks:plasteel_panel_green", "x": 90, "y": 270},
-    "facing=up": { "model": "stewblocks:plasteel_panel_green" },
-    "facing=down": { "model": "stewblocks:plasteel_panel_green", "x": 180 }
+    "facing=north": {
+      "model": "stewblocks:plasteel_panel_green",
+      "x": 90,
+      "y": 0
+    },
+    "facing=east": {
+      "model": "stewblocks:plasteel_panel_green",
+      "x": 90,
+      "y": 90
+    },
+    "facing=south": {
+      "model": "stewblocks:plasteel_panel_green",
+      "x": 90,
+      "y": 180
+    },
+    "facing=west": {
+      "model": "stewblocks:plasteel_panel_green",
+      "x": 90,
+      "y": 270
+    },
+    "facing=up": {
+      "model": "stewblocks:plasteel_panel_green"
+    },
+    "facing=down": {
+      "model": "stewblocks:plasteel_panel_green",
+      "x": 180
+    }
   }
 }

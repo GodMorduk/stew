@@ -1,191 +1,191 @@
 {
-    "blocks":[
-       {
-          "type": "block:simple",
-          "entries":[
-             {
-                "id": "wood_carved_acacia",
-            "material": "wood",
-          "soundType" : "wood",
-                "creativeTab": "stew_blocks_wood"
-             }
-          ]
-       },
-       {
-        "type": "block:simple",
-        "entries":[
-           {
-              "id": "wood_carved_darkoak",
-          "material": "wood",
-          "soundType" : "wood",
-              "creativeTab": "stew_blocks_wood"
-           }
-        ]
-     },
-     {
-        "type": "block:simple",
-        "entries":[
-           {
-              "id": "wood_carved_jungle",
-          "material": "wood",
-          "soundType" : "wood",
-              "creativeTab": "stew_blocks_wood"
-           }
-        ]
-     },
-     {
-        "type": "block:simple",
-        "entries":[
-           {
-              "id": "wood_carved_spruce",
-          "material": "wood",
-          "soundType" : "wood",
-              "creativeTab": "stew_blocks_wood"
-           }
-        ]
-     },
-     {
-        "type": "block:simple",
-        "entries":[
-           {
-              "id": "wood_carved_zoak",
-          "material": "wood",
-          "soundType" : "wood",
-              "creativeTab": "stew_blocks_wood"
-           }
-        ]
-     },
-     {
-        "type": "block:simple",
-        "entries":[
-           {
-              "id": "wooden_panel_lily",
-          "material": "wood",
-          "soundType" : "wood",
-              "creativeTab": "stew_blocks_wood"
-           }
-        ]
-     },
-       {
-        "type": "block:simple",
-        "entries":[
-           {
-              "id": "wood_carved_birch",
-          "material": "wood",
-          "soundType" : "wood",
-              "creativeTab": "stew_blocks_wood"
-           }
-        ]
-     },
-     {
-      "type": "block:orientable:directional",
-      "entries":[
-         {
-            "id": "wooden_beam_birch",
-        "material": "wood",
-        "soundType" : "wood",
-            "creativeTab": "stew_blocks_wood"
-         }
-      ]
+   "blocks": [
+      {
+         "type": "block:simple",
+         "entries": [
+            {
+               "id": "wood_carved_acacia",
+               "material": "wood",
+               "soundType": "wood",
+               "creativeTab": "stew_blocks_wood"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries": [
+            {
+               "id": "wood_carved_darkoak",
+               "material": "wood",
+               "soundType": "wood",
+               "creativeTab": "stew_blocks_wood"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries": [
+            {
+               "id": "wood_carved_jungle",
+               "material": "wood",
+               "soundType": "wood",
+               "creativeTab": "stew_blocks_wood"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries": [
+            {
+               "id": "wood_carved_spruce",
+               "material": "wood",
+               "soundType": "wood",
+               "creativeTab": "stew_blocks_wood"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries": [
+            {
+               "id": "wood_carved_zoak",
+               "material": "wood",
+               "soundType": "wood",
+               "creativeTab": "stew_blocks_wood"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries": [
+            {
+               "id": "wooden_panel_lily",
+               "material": "wood",
+               "soundType": "wood",
+               "creativeTab": "stew_blocks_wood"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries": [
+            {
+               "id": "wood_carved_birch",
+               "material": "wood",
+               "soundType": "wood",
+               "creativeTab": "stew_blocks_wood"
+            }
+         ]
       },
       {
          "type": "block:orientable:directional",
-         "entries":[
+         "entries": [
+            {
+               "id": "wooden_beam_birch",
+               "material": "wood",
+               "soundType": "wood",
+               "creativeTab": "stew_blocks_wood"
+            }
+         ]
+      },
+      {
+         "type": "block:orientable:directional",
+         "entries": [
             {
                "id": "wooden_beam_jungle",
-           "material": "wood",
-           "soundType" : "wood",
+               "material": "wood",
+               "soundType": "wood",
                "creativeTab": "stew_blocks_wood"
             }
          ]
       },
       {
          "type": "block:orientable:directional",
-         "entries":[
+         "entries": [
             {
                "id": "wooden_beam_dark",
-           "material": "wood",
-           "soundType" : "wood",
+               "material": "wood",
+               "soundType": "wood",
                "creativeTab": "stew_blocks_wood"
             }
          ]
       },
       {
          "type": "block:simple",
-         "entries":[
+         "entries": [
             {
                "id": "wooden_panel_dark_oak",
-           "material": "wood",
-           "soundType" : "wood",
+               "material": "wood",
+               "soundType": "wood",
                "creativeTab": "stew_blocks_wood"
             }
          ]
       },
       {
          "type": "block:simple",
-         "entries":[
+         "entries": [
             {
                "id": "wooden_panel_jungle",
-           "material": "wood",
-           "soundType" : "wood",
+               "material": "wood",
+               "soundType": "wood",
                "creativeTab": "stew_blocks_wood"
             }
          ]
       },
       {
          "type": "block:simple",
-         "entries":[
+         "entries": [
             {
                "id": "wooden_panel_oak",
-           "material": "wood",
-           "soundType" : "wood",
+               "material": "wood",
+               "soundType": "wood",
                "creativeTab": "stew_blocks_wood"
             }
          ]
       },
       {
          "type": "block:simple",
-         "entries":[
+         "entries": [
             {
                "id": "wooden_logwall",
-           "material": "wood",
-           "soundType" : "wood",
+               "material": "wood",
+               "soundType": "wood",
                "creativeTab": "stew_blocks_wood"
             }
          ]
       },
       {
          "type": "block:simple",
-         "entries":[
+         "entries": [
             {
                "id": "wooden_logwall_dark",
-           "material": "wood",
-           "soundType" : "wood",
+               "material": "wood",
+               "soundType": "wood",
                "creativeTab": "stew_blocks_wood"
             }
          ]
       },
       {
-      "type": "block:simple",
-      "entries":[
-         {
-            "id": "planks_driftwood",
-        "material": "wood",
-        "soundType" : "wood",
-            "creativeTab": "stew_blocks_wood"
-         }
+         "type": "block:simple",
+         "entries": [
+            {
+               "id": "planks_driftwood",
+               "material": "wood",
+               "soundType": "wood",
+               "creativeTab": "stew_blocks_wood"
+            }
          ]
       },
       {
-      "type": "block:simple",
-      "entries":[
-         {
-            "id": "planks_overgrown",
-        "material": "wood",
-        "soundType" : "wood",
-            "creativeTab": "stew_blocks_wood"
-         }
+         "type": "block:simple",
+         "entries": [
+            {
+               "id": "planks_overgrown",
+               "material": "wood",
+               "soundType": "wood",
+               "creativeTab": "stew_blocks_wood"
+            }
          ]
       }
-    ]
+   ]
 }

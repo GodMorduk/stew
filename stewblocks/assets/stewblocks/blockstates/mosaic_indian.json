@@ -1,5 +1,7 @@
 {
     "variants": {
-    "normal": {"model": "stewblocks:mosaic_indian"}  
+        "normal": {
+            "model": "stewblocks:mosaic_indian"
+        }
     }
 }

@@ -1,5 +1,7 @@
 {
-    "variants": {
-      "normal": {"model": "stewblocks:box_cardboard"}
+  "variants": {
+    "normal": {
+      "model": "stewblocks:box_cardboard"
     }
   }
+}

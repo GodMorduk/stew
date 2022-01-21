@@ -1,5 +1,7 @@
 {
     "variants": {
-        "normal": { "model": "stewblocks:object_bloom" }
+        "normal": {
+            "model": "stewblocks:object_bloom"
+        }
     }
 }

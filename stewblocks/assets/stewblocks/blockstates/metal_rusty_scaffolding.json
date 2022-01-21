@@ -1,5 +1,7 @@
 {
-    "variants": {
-      "normal": {"model": "stewblocks:metal_rusty_scaffolding"}
+  "variants": {
+    "normal": {
+      "model": "stewblocks:metal_rusty_scaffolding"
     }
+  }
 }

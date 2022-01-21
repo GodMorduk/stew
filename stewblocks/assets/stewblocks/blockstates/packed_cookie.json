@@ -1,5 +1,7 @@
 {
   "variants": {
-	"normal": {"model": "stewblocks:packed_cookie"}
+    "normal": {
+      "model": "stewblocks:packed_cookie"
+    }
   }
 }

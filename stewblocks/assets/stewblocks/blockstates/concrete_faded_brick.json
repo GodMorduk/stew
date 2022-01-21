@@ -1,5 +1,7 @@
 {
-    "variants": {
-    "normal": {"model": "stewblocks:concrete_faded_brick"}
+  "variants": {
+    "normal": {
+      "model": "stewblocks:concrete_faded_brick"
     }
   }
+}

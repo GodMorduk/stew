@@ -27,21 +27,21 @@ item.stewitems.food_snack_meat.name=Meat Snack
 item.stewitems.food_snack_psy.name=Candy Snack
 item.stewitems.food_snack_serup.name=Serup Snack
 
-item.stewitems.coupon_0.name=1 Coupon
-item.stewitems.coupon_1.name=10 Coupon
-item.stewitems.coupon_2.name=100 Coupon
-item.stewitems.coupon_3.name=1000 Coupon
-item.stewitems.coupon_special.name="Special" Coupon
-item.stewitems.moneybundle_0.name=Small Coupon Bundle
-item.stewitems.moneybundle_1.name=Solid Coupon Bundle
-item.stewitems.moneybundle_2.name=Average Coupon Bundle
-item.stewitems.moneybundle_3.name=Big Coupon Bundle
-item.stewitems.moneybundle_4.name=Huge Coupon Bundle
-item.stewitems.moneybundle_5.name=Legendary Coupon Bundle
-item.stewitems.vilent_0.name=Vilent
-item.stewitems.vilent_1.name=10 Vilents
-item.stewitems.vilent_2.name=100 Vilents
-item.stewitems.vilent_3.name=1000 Vilents
+item.stewitems.talon_0.name=1 Talon
+item.stewitems.talon_1.name=10 Talon
+item.stewitems.talon_2.name=100 Talon
+item.stewitems.talon_3.name=1000 Talon
+item.stewitems.talon_special.name="Special" Talon
+item.stewitems.moneybundle_0.name=Small Talon Bundle
+item.stewitems.moneybundle_1.name=Solid Talon Bundle
+item.stewitems.moneybundle_2.name=Average Talon Bundle
+item.stewitems.moneybundle_3.name=Big Talon Bundle
+item.stewitems.moneybundle_4.name=Huge Talon Bundle
+item.stewitems.moneybundle_5.name=Legendary Talon Bundle
+item.stewitems.echo_0.name=Echo
+item.stewitems.echo_1.name=10 Echoes
+item.stewitems.echo_2.name=100 Echoes
+item.stewitems.echo_3.name=1000 Echoes
 
 item.stewitems.medicine_scanner.name=Medicine Scanner
 item.stewitems.fingerbox.name=Fingerbox
@@ -112,20 +112,20 @@ item.stewitems.papirosa_1.name=Ciggy
 item.stewitems.cigarette_1.name=Second-class cigarette
 item.stewitems.cigarette_2.name=First-class cigarette
 item.stewitems.cigarette_3.name=Magic cigarette
-item.stewitems.cigarette_4.name=Cigarette from the City - "Grace"
+item.stewitems.cigarette_4.name=Cigarette from the Harbor - "Fortress" 
 item.stewitems.cigar_1.name=Second-class cigar
 item.stewitems.cigar_2.name=First-class cigar
 item.stewitems.cigar_3.name=Magic cigar
-item.stewitems.cigar_4.name=Cigar from the City - "Imperest"
+item.stewitems.cigar_4.name=Cigar - "Golden Garce"
 item.stewitems.papirosa_pack_1.name=Pack of ciggies
 item.stewitems.cigarette_pack_1.name=Pack of second-class cigarettes
 item.stewitems.cigarette_pack_2.name=Pack of first-class cigarettes
 item.stewitems.cigarette_pack_3.name=Pack of magic cigarettes
-item.stewitems.cigarette_pack_4.name=Pack of cigarettes from the City - "Grace"
+item.stewitems.cigarette_pack_4.name=Pack of cigarettes from the Harbor - "Fortress" 
 item.stewitems.cigar_box_1.name=Box of second-class cigars
 item.stewitems.cigar_box_2.name=Box of first-class cigars
 item.stewitems.cigar_box_3.name=Box of magic cigars
-item.stewitems.cigar_box_4.name=box of cigars from the City - "Imperest"
+item.stewitems.cigar_box_4.name=box of cigars - "Golden Garce"
 
 item.stewitems.alchemy_albedo.name=Аlbedo
 item.stewitems.alchemy_blood_tincture.name=Blood Tincture
@@ -159,4 +159,65 @@ item.stewitems.alchemy_salt_frost.name=Frost Salts
 item.stewitems.alchemy_salt_lightning.name=Lightning Salts
 item.stewitems.alchemy_salt_order.name=Order Salts
 item.stewitems.alchemy_scales.name=Scales
-item.stewitems.alchemy_true_litania.name=Iitania
+item.stewitems.alchemy_true_litania.name=Litania
+item.stewitems.alchemy_vitola.name=Vitola
+item.stewitems.alchemy_marna.name=Marna
+item.stewitems.alchemy_sklirot.name=Sklirot
+item.stewitems.alchemy_ether.name=Ether
+item.stewitems.alchemy_ortara.name=Ortara
+
+item.stewitems.enc_glyph_a — Scroll of Glyph Al
+item.stewitems.enc_glyph_b — Scroll of Glyph Bet
+item.stewitems.enc_glyph_c — Scroll of Glyph Cur
+item.stewitems.enc_glyph_d — Scroll of Glyph Da
+item.stewitems.enc_glyph_e — Scroll of Glyph Eht
+item.stewitems.enc_glyph_f — Scroll of Glyph Fta
+item.stewitems.enc_glyph_g — Scroll of Glyph Gur
+item.stewitems.enc_glyph_h — Scroll of Glyph Hin
+item.stewitems.enc_glyph_i — Scroll of Glyph Igi
+item.stewitems.enc_glyph_j — Scroll of Glyph Jeh
+item.stewitems.enc_glyph_k — Scroll of Glyph Ka
+item.stewitems.enc_glyph_l — Scroll of Glyph Lo
+item.stewitems.enc_glyph_m — Scroll of Glyph Mu
+item.stewitems.enc_glyph_n — Scroll of Glyph Ny
+item.stewitems.enc_glyph_o — Scroll of Glyph Ol
+item.stewitems.enc_glyph_p — Scroll of Glyph Phe
+item.stewitems.enc_glyph_q — Scroll of Glyph Qu
+item.stewitems.enc_glyph_r — Scroll of Glyph Ra
+item.stewitems.enc_glyph_s — Scroll of Glyph Sat
+item.stewitems.enc_glyph_t — Scroll of Glyph Tet
+item.stewitems.enc_glyph_u — Scroll of Glyph Ulu
+item.stewitems.enc_glyph_v — Scroll of Glyph Vry
+item.stewitems.enc_glyph_w — Scroll of Glyph Wlu
+item.stewitems.enc_glyph_x — Scroll of Glyph Xek
+item.stewitems.enc_glyph_y — Scroll of Glyph Yij
+item.stewitems.enc_glyph_z — Scroll of Glyph Zar
+
+item.stewitems.enc_rune_arrow - Arrow Rune
+item.stewitems.enc_rune_bond - Bond Rune
+item.stewitems.enc_rune_cold - Cold Rune
+item.stewitems.enc_rune_creation - Creation Rune
+item.stewitems.enc_rune_death - Death Rune
+item.stewitems.enc_rune_earth - Earth Rune
+item.stewitems.enc_rune_fire - Fire Rune
+item.stewitems.enc_rune_life - Life Rune
+item.stewitems.enc_rune_magic - Magic Rune
+item.stewitems.enc_rune_motion - Movement Rune
+item.stewitems.enc_rune_negation - Negation Rune
+item.stewitems.enc_rune_object - Object rune
+item.stewitems.enc_rune_poison - Poison Rune
+item.stewitems.enc_rune_protection - Protection Rune
+item.stewitems.enc_rune_space - Space Rune
+item.stewitems.enc_rune_storm - Storm Rune
+item.stewitems.enc_rune_strength - Strength Rune
+item.stewitems.enc_rune_time - Time Rune
+item.stewitems.enc_rune_vision - Vision Rune
+item.stewitems.enc_rune_weakening - Weakening Rune
+item.stewitems.enc_lens_adhara — Root Lens
+item.stewitems.enc_lens_bhima - House Lens
+item.stewitems.enc_lens_manipura - Jewel Lens
+item.stewitems.enc_lens_anahta - Protection Lens
+item.stewitems.enc_lens_adjan — Command Lens
+item.stewitems.enc_lens_sahasara - Mind Lens
+
+item.stewitems.enc_ave_flask — Flask of Essence 

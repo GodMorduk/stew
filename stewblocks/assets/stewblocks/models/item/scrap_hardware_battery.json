@@ -1,4 +1,3 @@
 {
-    "parent": "stewblocks:block/scrap_hardware_battery"
-  }
-  
+  "parent": "stewblocks:block/scrap_hardware_battery"
+}

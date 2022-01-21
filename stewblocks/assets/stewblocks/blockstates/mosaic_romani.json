@@ -1,5 +1,7 @@
 {
     "variants": {
-    "normal": {"model": "stewblocks:mosaic_romani"}  
+        "normal": {
+            "model": "stewblocks:mosaic_romani"
+        }
     }
 }

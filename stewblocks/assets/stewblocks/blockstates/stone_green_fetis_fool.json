@@ -1,8 +1,19 @@
 {
     "variants": {
-    "facing=north": { "model": "stewblocks:stone_green_fetis_fool" },
-    "facing=south": { "model": "stewblocks:stone_green_fetis_fool", "y": 180 },
-    "facing=west":  { "model": "stewblocks:stone_green_fetis_fool", "y": 270 },
-    "facing=east":  { "model": "stewblocks:stone_green_fetis_fool", "y": 90 }
-}
+        "facing=north": {
+            "model": "stewblocks:stone_green_fetis_fool"
+        },
+        "facing=south": {
+            "model": "stewblocks:stone_green_fetis_fool",
+            "y": 180
+        },
+        "facing=west": {
+            "model": "stewblocks:stone_green_fetis_fool",
+            "y": 270
+        },
+        "facing=east": {
+            "model": "stewblocks:stone_green_fetis_fool",
+            "y": 90
+        }
+    }
 }

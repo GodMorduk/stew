@@ -1,5 +1,7 @@
 {
     "variants": {
-        "normal": { "model": "stewblocks:object_meat" }
+        "normal": {
+            "model": "stewblocks:object_meat"
+        }
     }
 }

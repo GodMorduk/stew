@@ -1,5 +1,7 @@
 {
-    "variants": {
-      "normal": {"model": "stewblocks:metal_rough_plate_double"}
+  "variants": {
+    "normal": {
+      "model": "stewblocks:metal_rough_plate_double"
     }
+  }
 }

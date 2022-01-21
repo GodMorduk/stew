@@ -1,8 +1,8 @@
 {
-   "blocks":[
+   "blocks": [
       {
          "type": "block:simple",
-         "entries":[
+         "entries": [
             {
                "id": "tiles_clay_mixed",
                "material": "rock",
@@ -12,7 +12,7 @@
       },
       {
          "type": "block:simple",
-         "entries":[
+         "entries": [
             {
                "id": "tiles_clay_dark",
                "material": "rock",
@@ -22,13 +22,13 @@
       },
       {
          "type": "block:simple",
-         "entries":[
+         "entries": [
             {
-                "id": "tiles_clay_light",
-                "material": "rock",
-                "creativeTab": "stew_blocks_stone"
+               "id": "tiles_clay_light",
+               "material": "rock",
+               "creativeTab": "stew_blocks_stone"
             }
          ]
       }
- ]
- }
+   ]
+}

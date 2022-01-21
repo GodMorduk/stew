@@ -1,5 +1,7 @@
 {
   "variants": {
-	"normal": {"model": "stewblocks:packed_pipeweed"}
+    "normal": {
+      "model": "stewblocks:packed_pipeweed"
+    }
   }
 }

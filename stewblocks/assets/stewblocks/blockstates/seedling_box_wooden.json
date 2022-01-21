@@ -1,5 +1,7 @@
 {
-    "variants": {
-      "normal": {"model": "stewblocks:seedling_box_wooden"}
+  "variants": {
+    "normal": {
+      "model": "stewblocks:seedling_box_wooden"
     }
   }
+}

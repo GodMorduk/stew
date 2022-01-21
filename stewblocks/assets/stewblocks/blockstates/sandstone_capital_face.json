@@ -1,6 +1,7 @@
-
 {
     "variants": {
-    "normal": {"model": "stewblocks:sandstone_capital_face"}  
+        "normal": {
+            "model": "stewblocks:sandstone_capital_face"
+        }
     }
 }

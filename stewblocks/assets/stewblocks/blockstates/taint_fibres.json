@@ -1,10 +1,37 @@
 {
-    "variants": {
-      "facing=north": { "model": "stewblocks:taint_fibres", "x": 90, "y": 0, "uvlock": true},
-      "facing=east": { "model": "stewblocks:taint_fibres", "x": 90, "y": 90, "uvlock": true },
-      "facing=south": { "model": "stewblocks:taint_fibres", "x": 90, "y": 180, "uvlock": true },
-      "facing=west": { "model": "stewblocks:taint_fibres", "x": 90, "y": 270, "uvlock": true },
-      "facing=up": { "model": "stewblocks:taint_fibres", "uvlock": true },
-      "facing=down": { "model": "stewblocks:taint_fibres", "x": 180, "uvlock": true }
+  "variants": {
+    "facing=north": {
+      "model": "stewblocks:taint_fibres",
+      "x": 90,
+      "y": 0,
+      "uvlock": true
+    },
+    "facing=east": {
+      "model": "stewblocks:taint_fibres",
+      "x": 90,
+      "y": 90,
+      "uvlock": true
+    },
+    "facing=south": {
+      "model": "stewblocks:taint_fibres",
+      "x": 90,
+      "y": 180,
+      "uvlock": true
+    },
+    "facing=west": {
+      "model": "stewblocks:taint_fibres",
+      "x": 90,
+      "y": 270,
+      "uvlock": true
+    },
+    "facing=up": {
+      "model": "stewblocks:taint_fibres",
+      "uvlock": true
+    },
+    "facing=down": {
+      "model": "stewblocks:taint_fibres",
+      "x": 180,
+      "uvlock": true
     }
   }
+}

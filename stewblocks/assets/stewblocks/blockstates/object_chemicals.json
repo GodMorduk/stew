@@ -1,5 +1,7 @@
 {
     "variants": {
-        "normal": { "model": "stewblocks:object_chemicals" }
+        "normal": {
+            "model": "stewblocks:object_chemicals"
+        }
     }
-  }
+}

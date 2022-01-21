@@ -1,8 +1,8 @@
 {
-    "parent": "stewblocks:block/thin_slab",
-    "textures": {  
-      "front": "stewblocks:blocks/partition_oak_rich",
-      "back": "stewblocks:blocks/partition_oak_rich",     
-      "side": "stewblocks:blocks/partition_oak_rich"
-    }
+  "parent": "stewblocks:block/thin_slab",
+  "textures": {
+    "front": "stewblocks:blocks/partition_oak_rich",
+    "back": "stewblocks:blocks/partition_oak_rich",
+    "side": "stewblocks:blocks/partition_oak_rich"
   }
+}

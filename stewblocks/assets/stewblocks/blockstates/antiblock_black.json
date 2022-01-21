@@ -1,6 +1,7 @@
-
 {
-    "variants": {
-    "normal": {"model": "stewblocks:antiblock_black"}
+  "variants": {
+    "normal": {
+      "model": "stewblocks:antiblock_black"
     }
   }
+}

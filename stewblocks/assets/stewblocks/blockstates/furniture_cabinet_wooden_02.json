@@ -1,8 +1,19 @@
 {
     "variants": {
-        "facing=south": { "model": "stewblocks:furniture_cabinet_wooden_02", "y": 180 },
-        "facing=west": { "model": "stewblocks:furniture_cabinet_wooden_02", "y": 270 },
-        "facing=north": { "model": "stewblocks:furniture_cabinet_wooden_02" },
-        "facing=east": { "model": "stewblocks:furniture_cabinet_wooden_02", "y": 90 }
+        "facing=south": {
+            "model": "stewblocks:furniture_cabinet_wooden_02",
+            "y": 180
+        },
+        "facing=west": {
+            "model": "stewblocks:furniture_cabinet_wooden_02",
+            "y": 270
+        },
+        "facing=north": {
+            "model": "stewblocks:furniture_cabinet_wooden_02"
+        },
+        "facing=east": {
+            "model": "stewblocks:furniture_cabinet_wooden_02",
+            "y": 90
+        }
     }
 }

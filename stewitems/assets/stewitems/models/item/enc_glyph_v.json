@@ -1,1 +1,6 @@
-{"parent": "item/generated", "textures": {"layer0": "stewitems:items/enc_glyph_v"}}
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "stewitems:items/enc_glyph_v"
+  }
+}

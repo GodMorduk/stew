@@ -1,9 +1,9 @@
 {
-   "imports":[
-	  {
+   "imports": [
+      {
          "file": "creative_tabs.json"
       },
-	  {
+      {
          "file": "ortega_weapons.json"
       }
    ]

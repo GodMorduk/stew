@@ -1,11 +1,31 @@
-
 {
   "variants": {
-    "facing=north": { "model": "stewblocks:wall_ornament_04", "x": 90, "y": 0},
-    "facing=east": { "model": "stewblocks:wall_ornament_04", "x": 90, "y": 90},
-    "facing=south": { "model": "stewblocks:wall_ornament_04", "x": 90, "y": 180},
-    "facing=west": { "model": "stewblocks:wall_ornament_04", "x": 90, "y": 270},
-    "facing=up": { "model": "stewblocks:wall_ornament_04" },
-    "facing=down": { "model": "stewblocks:wall_ornament_04", "x": 180 }
+    "facing=north": {
+      "model": "stewblocks:wall_ornament_04",
+      "x": 90,
+      "y": 0
+    },
+    "facing=east": {
+      "model": "stewblocks:wall_ornament_04",
+      "x": 90,
+      "y": 90
+    },
+    "facing=south": {
+      "model": "stewblocks:wall_ornament_04",
+      "x": 90,
+      "y": 180
+    },
+    "facing=west": {
+      "model": "stewblocks:wall_ornament_04",
+      "x": 90,
+      "y": 270
+    },
+    "facing=up": {
+      "model": "stewblocks:wall_ornament_04"
+    },
+    "facing=down": {
+      "model": "stewblocks:wall_ornament_04",
+      "x": 180
+    }
   }
 }

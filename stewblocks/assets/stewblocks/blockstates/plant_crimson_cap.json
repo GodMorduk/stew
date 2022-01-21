@@ -1,5 +1,8 @@
 {
     "variants": {
-        "normal": { "model": "stewblocks:plant_crimson_cap","uvlock": true }
+        "normal": {
+            "model": "stewblocks:plant_crimson_cap",
+            "uvlock": true
+        }
     }
-  }
+}

@@ -1,5 +1,7 @@
 {
-    "variants": {
-      "normal": {"model": "stewblocks:ruin_urian_concrete_01"}
+  "variants": {
+    "normal": {
+      "model": "stewblocks:ruin_urian_concrete_01"
     }
   }
+}

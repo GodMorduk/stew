@@ -1,10 +1,31 @@
 {
-        "variants": {
-          "facing=north": { "model": "stewblocks:flesh_ribs", "x": 90, "y": 0},
-          "facing=east": { "model": "stewblocks:flesh_ribs", "x": 90, "y": 90},
-          "facing=south": { "model": "stewblocks:flesh_ribs", "x": 90, "y": 180},
-          "facing=west": { "model": "stewblocks:flesh_ribs", "x": 90, "y": 270},
-          "facing=up": { "model": "stewblocks:flesh_ribs" },
-          "facing=down": { "model": "stewblocks:flesh_ribs", "x": 180 }
-        }
-      }
+  "variants": {
+    "facing=north": {
+      "model": "stewblocks:flesh_ribs",
+      "x": 90,
+      "y": 0
+    },
+    "facing=east": {
+      "model": "stewblocks:flesh_ribs",
+      "x": 90,
+      "y": 90
+    },
+    "facing=south": {
+      "model": "stewblocks:flesh_ribs",
+      "x": 90,
+      "y": 180
+    },
+    "facing=west": {
+      "model": "stewblocks:flesh_ribs",
+      "x": 90,
+      "y": 270
+    },
+    "facing=up": {
+      "model": "stewblocks:flesh_ribs"
+    },
+    "facing=down": {
+      "model": "stewblocks:flesh_ribs",
+      "x": 180
+    }
+  }
+}

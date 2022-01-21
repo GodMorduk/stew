@@ -1,5 +1,7 @@
 {
   "variants": {
-	"normal": {"model": "stewblocks:brick_plaster_masonry"}
+    "normal": {
+      "model": "stewblocks:brick_plaster_masonry"
+    }
   }
 }

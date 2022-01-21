@@ -1,5 +1,7 @@
 {
     "variants": {
-        "normal": { "model": "stewblocks:object_glowglobe_2" }
+        "normal": {
+            "model": "stewblocks:object_glowglobe_2"
+        }
     }
 }

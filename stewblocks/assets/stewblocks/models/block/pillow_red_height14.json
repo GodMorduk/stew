@@ -5,15 +5,73 @@
         "top": "stewblocks:blocks/pillow_red"
     },
     "elements": [
-        {   "from": [ 0, 0, 0 ],
-            "to": [ 16, 14, 16 ],
+        {
+            "from": [
+                0,
+                0,
+                0
+            ],
+            "to": [
+                16,
+                14,
+                16
+            ],
             "faces": {
-                "down":  { "uv": [ 0, 0, 16, 16 ], "texture": "#top", "cullface": "down" },
-                "up":    { "uv": [ 0, 0, 16, 16 ], "texture": "#top" },
-                "north": { "uv": [ 0, 2, 16, 16 ], "texture": "#texture" },
-                "south": { "uv": [ 0, 2, 16, 16 ], "texture": "#texture" },
-                "west":  { "uv": [ 0, 2, 16, 16 ], "texture": "#texture" },
-                "east":  { "uv": [ 0, 2, 16, 16 ], "texture": "#texture" }
+                "down": {
+                    "uv": [
+                        0,
+                        0,
+                        16,
+                        16
+                    ],
+                    "texture": "#top",
+                    "cullface": "down"
+                },
+                "up": {
+                    "uv": [
+                        0,
+                        0,
+                        16,
+                        16
+                    ],
+                    "texture": "#top"
+                },
+                "north": {
+                    "uv": [
+                        0,
+                        2,
+                        16,
+                        16
+                    ],
+                    "texture": "#texture"
+                },
+                "south": {
+                    "uv": [
+                        0,
+                        2,
+                        16,
+                        16
+                    ],
+                    "texture": "#texture"
+                },
+                "west": {
+                    "uv": [
+                        0,
+                        2,
+                        16,
+                        16
+                    ],
+                    "texture": "#texture"
+                },
+                "east": {
+                    "uv": [
+                        0,
+                        2,
+                        16,
+                        16
+                    ],
+                    "texture": "#texture"
+                }
             }
         }
     ]

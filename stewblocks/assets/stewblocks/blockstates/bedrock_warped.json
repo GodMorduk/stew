@@ -1,5 +1,7 @@
 {
-    "variants": {
-    "normal": {"model": "stewblocks:bedrock_warped"}
+  "variants": {
+    "normal": {
+      "model": "stewblocks:bedrock_warped"
     }
   }
+}

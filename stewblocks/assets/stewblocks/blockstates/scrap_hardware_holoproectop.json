@@ -1,5 +1,7 @@
 {
-    "variants": {
-      "normal": {"model": "stewblocks:scrap_hardware_holoproectop"}
+  "variants": {
+    "normal": {
+      "model": "stewblocks:scrap_hardware_holoproectop"
     }
   }
+}

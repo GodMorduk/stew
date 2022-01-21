@@ -1,5 +1,7 @@
 {
     "variants": {
-        "normal": { "model": "stewblocks:object_nostradamus_01" }
+        "normal": {
+            "model": "stewblocks:object_nostradamus_01"
+        }
     }
 }

@@ -1,8 +1,8 @@
 {
-    "parent": "stewblocks:block/thin_slab",
-    "textures": {  
-      "front": "stewblocks:blocks/carpet_green",
-      "back": "stewblocks:blocks/carpet_green",     
-      "side": "stewblocks:blocks/empty"
-    }
+  "parent": "stewblocks:block/thin_slab",
+  "textures": {
+    "front": "stewblocks:blocks/carpet_green",
+    "back": "stewblocks:blocks/carpet_green",
+    "side": "stewblocks:blocks/empty"
+  }
 }

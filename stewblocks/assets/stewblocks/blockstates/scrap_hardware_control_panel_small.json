@@ -1,5 +1,7 @@
 {
-    "variants": {
-      "normal": {"model": "stewblocks:scrap_hardware_control_panel_small"}
+  "variants": {
+    "normal": {
+      "model": "stewblocks:scrap_hardware_control_panel_small"
     }
+  }
 }

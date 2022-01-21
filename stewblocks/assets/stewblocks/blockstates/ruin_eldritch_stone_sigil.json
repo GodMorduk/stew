@@ -1,5 +1,7 @@
 {
-    "variants": {
-      "normal": {"model": "stewblocks:ruin_eldritch_stone_sigil"}
+  "variants": {
+    "normal": {
+      "model": "stewblocks:ruin_eldritch_stone_sigil"
     }
   }
+}

@@ -1,8 +1,8 @@
 {
-    "parent": "stewblocks:block/thin_slab",
-    "textures": {  
-      "front": "minecraft:blocks/brick",
-      "back": "minecraft:blocks/brick",     
-      "side": "minecraft:blocks/brick"
-    }
+  "parent": "stewblocks:block/thin_slab",
+  "textures": {
+    "front": "minecraft:blocks/brick",
+    "back": "minecraft:blocks/brick",
+    "side": "minecraft:blocks/brick"
+  }
 }

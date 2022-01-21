@@ -1,5 +1,7 @@
 {
   "variants": {
-	"normal": {"model": "stewblocks:packed_flint"}
+    "normal": {
+      "model": "stewblocks:packed_flint"
+    }
   }
 }

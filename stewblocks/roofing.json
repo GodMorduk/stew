@@ -1,164 +1,164 @@
 {
-    "blocks":[
-        {
-            "type": "block:simple",
-            "entries":[
-               {
-                  "id": "roofing_black",
-                  "material": "rock",
-                  "creativeTab": "stew_blocks_stone"
-               }
-            ]
-         },
-         {
-            "type": "block:simple",
-            "entries":[
-               {
-                  "id": "roofing_blue",
-                  "material": "rock",
-                  "creativeTab": "stew_blocks_stone"
-               }
-            ]
-         },
-         {
-            "type": "block:simple",
-            "entries":[
-               {
-                  "id": "roofing_brown",
-                  "material": "rock",
-                  "creativeTab": "stew_blocks_stone"
-               }
-            ]
-         },
-         {
-            "type": "block:simple",
-            "entries":[
-               {
-                  "id": "roofing_gray",
-                  "material": "rock",
-                  "creativeTab": "stew_blocks_stone"
-               }
-            ]
-         },
-         {
-            "type": "block:simple",
-            "entries":[
-               {
-                  "id": "roofing_gray_dark",
-                  "material": "rock",
-                  "creativeTab": "stew_blocks_stone"
-               }
-            ]
-         },
-         {
-            "type": "block:simple",
-            "entries":[
-               {
-                  "id": "roofing_orange_faded",
-                  "material": "rock",
-                  "creativeTab": "stew_blocks_stone"
-               }
-            ]
-         },
-         {
-            "type": "block:simple",
-            "entries":[
-               {
-                  "id": "roofing_green",
-                  "material": "rock",
-                  "creativeTab": "stew_blocks_stone"
-               }
-            ]
-         },
-         {
-            "type": "block:simple",
-            "entries":[
-               {
-                  "id": "roofing_blue_mossy",
-                  "material": "rock",
-                  "creativeTab": "stew_blocks_stone"
-               }
-            ]
-         },
-         {
-            "type": "block:simple",
-            "entries":[
-               {
-                  "id": "roofing_green_mossy",
-                  "material": "rock",
-                  "creativeTab": "stew_blocks_stone"
-               }
-            ]
-         },
-         {
-            "type": "block:simple",
-            "entries":[
-               {
-                  "id": "roofing_orange",
-                  "material": "rock",
-                  "creativeTab": "stew_blocks_stone"
-               }
-            ]
-         },
-         {
-            "type": "block:simple",
-            "entries":[
-               {
-                  "id": "roofing_pink",
-                  "material": "rock",
-                  "creativeTab": "stew_blocks_stone"
-               }
-            ]
-         },
-         {
-            "type": "block:simple",
-            "entries":[
-               {
-                  "id": "roofing_red",
-                  "material": "rock",
-                  "creativeTab": "stew_blocks_stone"
-               }
-            ]
-         },
-         {
-            "type": "block:simple",
-            "entries":[
-               {
-                  "id": "roofing_green_slate",
-                  "material": "rock",
-                  "creativeTab": "stew_blocks_stone"
-               }
-            ]
-         },
-         {
-            "type": "block:simple",
-            "entries":[
-               {
-                  "id": "roofing_cyan",
-                  "material": "rock",
-                  "creativeTab": "stew_blocks_stone"
-               }
-            ]
-         },
-         {
-            "type": "block:simple",
-            "entries":[
-               {
-                  "id": "roofing_cyan_cracked",
-                  "material": "rock",
-                  "creativeTab": "stew_blocks_stone"
-               }
-            ]
-         },
-         {
-            "type": "block:simple",
-            "entries":[
-               {
-                  "id": "roofing_gray_wavy",
-                  "material": "rock",
-                  "creativeTab": "stew_blocks_stone"
-               }
-            ]
-         }
-    ]
+   "blocks": [
+      {
+         "type": "block:simple",
+         "entries": [
+            {
+               "id": "roofing_black",
+               "material": "rock",
+               "creativeTab": "stew_blocks_stone"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries": [
+            {
+               "id": "roofing_blue",
+               "material": "rock",
+               "creativeTab": "stew_blocks_stone"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries": [
+            {
+               "id": "roofing_brown",
+               "material": "rock",
+               "creativeTab": "stew_blocks_stone"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries": [
+            {
+               "id": "roofing_gray",
+               "material": "rock",
+               "creativeTab": "stew_blocks_stone"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries": [
+            {
+               "id": "roofing_gray_dark",
+               "material": "rock",
+               "creativeTab": "stew_blocks_stone"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries": [
+            {
+               "id": "roofing_orange_faded",
+               "material": "rock",
+               "creativeTab": "stew_blocks_stone"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries": [
+            {
+               "id": "roofing_green",
+               "material": "rock",
+               "creativeTab": "stew_blocks_stone"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries": [
+            {
+               "id": "roofing_blue_mossy",
+               "material": "rock",
+               "creativeTab": "stew_blocks_stone"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries": [
+            {
+               "id": "roofing_green_mossy",
+               "material": "rock",
+               "creativeTab": "stew_blocks_stone"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries": [
+            {
+               "id": "roofing_orange",
+               "material": "rock",
+               "creativeTab": "stew_blocks_stone"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries": [
+            {
+               "id": "roofing_pink",
+               "material": "rock",
+               "creativeTab": "stew_blocks_stone"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries": [
+            {
+               "id": "roofing_red",
+               "material": "rock",
+               "creativeTab": "stew_blocks_stone"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries": [
+            {
+               "id": "roofing_green_slate",
+               "material": "rock",
+               "creativeTab": "stew_blocks_stone"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries": [
+            {
+               "id": "roofing_cyan",
+               "material": "rock",
+               "creativeTab": "stew_blocks_stone"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries": [
+            {
+               "id": "roofing_cyan_cracked",
+               "material": "rock",
+               "creativeTab": "stew_blocks_stone"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries": [
+            {
+               "id": "roofing_gray_wavy",
+               "material": "rock",
+               "creativeTab": "stew_blocks_stone"
+            }
+         ]
+      }
+   ]
 }

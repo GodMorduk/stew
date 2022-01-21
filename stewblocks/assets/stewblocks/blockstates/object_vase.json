@@ -1,11 +1,25 @@
 {
   "variants": {
-    "subtype=subtype0": {"model": "stewblocks:object_vase_chicken"},
-    "subtype=subtype1": {"model": "stewblocks:object_vase_dragon"},
-    "subtype=subtype2": {"model": "stewblocks:object_vase_crown"},
-    "subtype=subtype3": {"model": "stewblocks:object_vase_scales"},
-    "subtype=subtype4": {"model": "stewblocks:object_vase_stars"},
-    "subtype=subtype5": {"model": "stewblocks:object_vase_tree"},
-    "subtype=subtype6": {"model": "stewblocks:object_vase_waves"}
+    "subtype=subtype0": {
+      "model": "stewblocks:object_vase_chicken"
+    },
+    "subtype=subtype1": {
+      "model": "stewblocks:object_vase_dragon"
+    },
+    "subtype=subtype2": {
+      "model": "stewblocks:object_vase_crown"
+    },
+    "subtype=subtype3": {
+      "model": "stewblocks:object_vase_scales"
+    },
+    "subtype=subtype4": {
+      "model": "stewblocks:object_vase_stars"
+    },
+    "subtype=subtype5": {
+      "model": "stewblocks:object_vase_tree"
+    },
+    "subtype=subtype6": {
+      "model": "stewblocks:object_vase_waves"
+    }
   }
 }

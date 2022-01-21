@@ -1,5 +1,7 @@
 {
-    "variants": {
-      "normal": {"model": "stewblocks:wallgap_stonebrick_rhombus"}
+  "variants": {
+    "normal": {
+      "model": "stewblocks:wallgap_stonebrick_rhombus"
     }
+  }
 }

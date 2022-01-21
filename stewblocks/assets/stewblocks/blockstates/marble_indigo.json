@@ -1,5 +1,7 @@
 {
     "variants": {
-    "normal": {"model": "stewblocks:marble_indigo"}  
+        "normal": {
+            "model": "stewblocks:marble_indigo"
+        }
     }
 }

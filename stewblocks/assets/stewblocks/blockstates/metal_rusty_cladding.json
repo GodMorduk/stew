@@ -1,5 +1,7 @@
 {
-    "variants": {
-      "normal": {"model": "stewblocks:metal_rusty_cladding"}
+  "variants": {
+    "normal": {
+      "model": "stewblocks:metal_rusty_cladding"
     }
+  }
 }

@@ -1,5 +1,7 @@
 {
   "variants": {
-	"normal": {"model": "stewblocks:concrete_faded_ornament"}
+    "normal": {
+      "model": "stewblocks:concrete_faded_ornament"
+    }
   }
 }

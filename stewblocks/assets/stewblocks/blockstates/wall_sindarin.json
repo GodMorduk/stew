@@ -1,5 +1,7 @@
 {
   "variants": {
-	"normal": {"model": "stewblocks:wall_sindarin"}
+    "normal": {
+      "model": "stewblocks:wall_sindarin"
+    }
   }
 }

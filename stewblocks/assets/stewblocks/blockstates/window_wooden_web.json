@@ -1,6 +1,7 @@
-
 {
-    "variants": {
-      "normal": {"model": "stewblocks:window_wooden_web"}
+  "variants": {
+    "normal": {
+      "model": "stewblocks:window_wooden_web"
     }
   }
+}

@@ -1,9 +1,13 @@
 {
-    "tabs": [{
-        "type": "creativeTab",
-        "entries": [{
-            "id": "stewprops",
-            "icon": "stewprops:etc"
-        }]
-    }]
-}				
+    "tabs": [
+        {
+            "type": "creativeTab",
+            "entries": [
+                {
+                    "id": "stewprops",
+                    "icon": "stewprops:etc"
+                }
+            ]
+        }
+    ]
+}

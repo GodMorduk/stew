@@ -1,7 +1,6 @@
-
-  {
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "stewblocks:blocks/loophole_gothiccarved"
-    }
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "stewblocks:blocks/loophole_gothiccarved"
   }
+}

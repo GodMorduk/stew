@@ -1,5 +1,7 @@
 {
-    "variants": {
-      "normal": {"model": "stewblocks:roofing_green"}
+  "variants": {
+    "normal": {
+      "model": "stewblocks:roofing_green"
     }
   }
+}

@@ -9,129 +9,122 @@
     {
       "file": "scrap.json"
     },
-    { 
+    {
       "file": "creative_tabs.json"
     },
-    { 
+    {
       "file": "bedrock.json"
     },
-    { 
+    {
       "file": "shelf.json"
     },
-    { 
+    {
       "file": "terracota.json"
     },
-    { 
+    {
       "file": "railing.json"
     },
-    { 
+    {
       "file": "effects.json"
     },
-    { 
+    {
       "file": "objects.json"
     },
-    { 
+    {
       "file": "packed.json"
     },
-    { 
+    {
       "file": "gardening.json"
     },
-    { 
+    {
       "file": "force_field.json"
     },
-    { 
+    {
       "file": "ambience.json"
     },
-    { 
+    {
       "file": "ruin.json"
     },
-    { 
+    {
       "file": "box.json"
     },
-    { 
+    {
       "file": "glass.json"
     },
-    { 
+    {
       "file": "concrete.json"
     },
-    { 
+    {
       "file": "furniture.json"
     },
-    { 
+    {
       "file": "wallpaper.json"
     },
-    { 
+    {
       "file": "door.json"
     },
-    { 
+    {
       "file": "cladding.json"
     },
-    { 
+    {
       "file": "cloth.json"
     },
-    { 
+    {
       "file": "wood.json"
     },
-    { 
+    {
       "file": "roofing.json"
     },
-    { 
+    {
       "file": "plasteel.json"
     },
-    { 
+    {
       "file": "metal.json"
     },
-    { 
+    {
       "file": "brick_plastered_window.json"
     },
-    { 
+    {
       "file": "curtain.json"
     },
-    { 
+    {
       "file": "tiles.json"
     },
-    { 
+    {
       "file": "light.json"
     },
-    { 
+    {
       "file": "casement.json"
     },
-    { 
+    {
       "file": "loophole.json"
     },
-    { 
+    {
       "file": "wooden_window.json"
     },
-    { 
+    {
       "file": "stone.json"
     },
-    { 
+    {
       "file": "stone_window.json"
     },
-    { 
+    {
       "file": "organic.json"
     },
-    { 
+    {
       "file": "crusted_metal.json"
     },
-    { 
+    {
       "file": "marble.json"
     },
-    { 
+    {
       "file": "sandstone.json"
     },
-    { 
+    {
       "file": "metal_rusty.json"
     },
-    { 
+    {
       "file": "_containers.json"
     }
-    
   ]
 }
-
-
-
-
-
-

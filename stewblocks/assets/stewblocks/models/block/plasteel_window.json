@@ -1,8 +1,8 @@
 {
-    "parent": "stewblocks:block/thin_slab",
-    "textures": {  
-      "front": "stewblocks:blocks/plasteel_window",
-      "back": "stewblocks:blocks/plasteel_window",     
-      "side": "stewblocks:blocks/plasteel_window"
-    }
+  "parent": "stewblocks:block/thin_slab",
+  "textures": {
+    "front": "stewblocks:blocks/plasteel_window",
+    "back": "stewblocks:blocks/plasteel_window",
+    "side": "stewblocks:blocks/plasteel_window"
   }
+}

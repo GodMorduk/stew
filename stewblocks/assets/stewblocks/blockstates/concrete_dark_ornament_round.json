@@ -1,5 +1,7 @@
 {
-    "variants": {
-      "normal": {"model": "stewblocks:concrete_dark_ornament_round"}
+  "variants": {
+    "normal": {
+      "model": "stewblocks:concrete_dark_ornament_round"
     }
   }
+}

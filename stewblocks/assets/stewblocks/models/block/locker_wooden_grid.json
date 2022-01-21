@@ -2,7 +2,7 @@
     "parent": "stewblocks:block/top_side_face",
     "textures": {
         "face": "stewblocks:blocks/locker_wooden_grid",
-        "top": "stewblocks:blocks/wood_02",        
+        "top": "stewblocks:blocks/wood_02",
         "side": "stewblocks:blocks/wood_01"
     }
 }

@@ -1,5 +1,7 @@
 {
     "variants": {
-        "normal": { "model": "stewblocks:object_chain_fancy" }
+        "normal": {
+            "model": "stewblocks:object_chain_fancy"
+        }
     }
 }

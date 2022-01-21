@@ -1,8 +1,8 @@
 {
-    "parent": "stewblocks:block/thin_slab",
-    "textures": {  
-      "front": "stewblocks:blocks/object_flat_fanblade",
-      "back": "stewblocks:blocks/object_flat_fanblade",     
-      "side": "stewblocks:blocks/empty"
-    }
+  "parent": "stewblocks:block/thin_slab",
+  "textures": {
+    "front": "stewblocks:blocks/object_flat_fanblade",
+    "back": "stewblocks:blocks/object_flat_fanblade",
+    "side": "stewblocks:blocks/empty"
+  }
 }

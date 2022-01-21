@@ -1,5 +1,7 @@
 {
-    "variants": {
-      "normal": {"model": "stewblocks:plasteel_cell_ocherus"}
+  "variants": {
+    "normal": {
+      "model": "stewblocks:plasteel_cell_ocherus"
     }
   }
+}

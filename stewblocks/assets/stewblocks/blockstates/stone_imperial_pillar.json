@@ -1,5 +1,7 @@
 {
-    "variants": {
-      "normal": {"model": "stewblocks:stone_imperial_pillar"}
+  "variants": {
+    "normal": {
+      "model": "stewblocks:stone_imperial_pillar"
     }
   }
+}

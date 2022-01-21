@@ -1,5 +1,7 @@
 {
-    "variants": {
-    "normal": {"model": "stewblocks:decayed_sand"}
+  "variants": {
+    "normal": {
+      "model": "stewblocks:decayed_sand"
     }
   }
+}

@@ -1,8 +1,8 @@
 {
-    "parent": "stewblocks:block/thin_slab",
-    "textures": {  
-      "front": "stewblocks:blocks/object_flat_coins",
-      "back": "stewblocks:blocks/object_flat_coins",     
-      "side": "stewblocks:blocks/empty"
-    }
+  "parent": "stewblocks:block/thin_slab",
+  "textures": {
+    "front": "stewblocks:blocks/object_flat_coins",
+    "back": "stewblocks:blocks/object_flat_coins",
+    "side": "stewblocks:blocks/empty"
+  }
 }

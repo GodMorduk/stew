@@ -1,275 +1,275 @@
 {
-   "items":[
+   "items": [
       {
-         "type":"item:food",
-         "entries":[
+         "type": "item:food",
+         "entries": [
             {
-               "id":"food_bottle_water",
-               "creativeTab":"stewfood",
-               "model":"stewitems:food_bottle_water",
-			   "maxStack" : 32,
-			   "healAmount": 0,
-			   "saturation" : 0,
-			   "useAction": "drink"
+               "id": "food_bottle_water",
+               "creativeTab": "stewfood",
+               "model": "stewitems:food_bottle_water",
+               "maxStack": 32,
+               "healAmount": 0,
+               "saturation": 0,
+               "useAction": "drink"
             }
          ]
       },
       {
-         "type":"item:food",
-         "entries":[
+         "type": "item:food",
+         "entries": [
             {
-               "id":"food_canned_berries",
-               "creativeTab":"stewfood",
-               "model":"stewitems:food_canned_berries",
-			   "maxStack" : 32,
-			   "healAmount": 10,
-			   "saturation" : 1.8,
-			   "useAction": "eat",
-			   "result": "stewprops:random_empty_can"
+               "id": "food_canned_berries",
+               "creativeTab": "stewfood",
+               "model": "stewitems:food_canned_berries",
+               "maxStack": 32,
+               "healAmount": 10,
+               "saturation": 1.8,
+               "useAction": "eat",
+               "result": "stewprops:random_empty_can"
             }
          ]
       },
       {
-         "type":"item:food",
-         "entries":[
+         "type": "item:food",
+         "entries": [
             {
-               "id":"food_canned_bugs",
-               "creativeTab":"stewfood",
-               "model":"stewitems:food_canned_bugs",
-			   "maxStack" : 32,
-			   "healAmount": 10,
-			   "saturation" : 1.8,
-			   "useAction": "eat",
-			   "result": "stewprops:random_empty_can"
+               "id": "food_canned_bugs",
+               "creativeTab": "stewfood",
+               "model": "stewitems:food_canned_bugs",
+               "maxStack": 32,
+               "healAmount": 10,
+               "saturation": 1.8,
+               "useAction": "eat",
+               "result": "stewprops:random_empty_can"
             }
          ]
       },
       {
-         "type":"item:food",
-         "entries":[
+         "type": "item:food",
+         "entries": [
             {
-               "id":"food_canned_cuicari",
-               "creativeTab":"stewfood",
-               "model":"stewitems:food_canned_cuicari",
-			   "maxStack" : 32,
-			   "healAmount": 10,
-			   "saturation" : 1.8,
-			   "useAction": "eat",
-			   "result": "stewprops:random_empty_can"
+               "id": "food_canned_cuicari",
+               "creativeTab": "stewfood",
+               "model": "stewitems:food_canned_cuicari",
+               "maxStack": 32,
+               "healAmount": 10,
+               "saturation": 1.8,
+               "useAction": "eat",
+               "result": "stewprops:random_empty_can"
             }
          ]
       },
       {
-         "type":"item:food",
-         "entries":[
+         "type": "item:food",
+         "entries": [
             {
-               "id":"food_canned_fish",
-               "creativeTab":"stewfood",
-               "model":"stewitems:food_canned_fish",
-			   "maxStack" : 32,
-			   "healAmount": 10,
-			   "saturation" : 1.8,
-			   "useAction": "eat",
-			   "result": "stewprops:random_empty_can"
+               "id": "food_canned_fish",
+               "creativeTab": "stewfood",
+               "model": "stewitems:food_canned_fish",
+               "maxStack": 32,
+               "healAmount": 10,
+               "saturation": 1.8,
+               "useAction": "eat",
+               "result": "stewprops:random_empty_can"
             }
          ]
       },
       {
-         "type":"item:food",
-         "entries":[
+         "type": "item:food",
+         "entries": [
             {
-               "id":"food_canned_food",
-               "creativeTab":"stewfood",
-               "model":"stewitems:food_canned_food",
-			   "maxStack" : 32,
-			   "healAmount": 10,
-			   "saturation" : 1.8,
-			   "useAction": "eat",
-			   "result": "stewprops:random_empty_can"
+               "id": "food_canned_food",
+               "creativeTab": "stewfood",
+               "model": "stewitems:food_canned_food",
+               "maxStack": 32,
+               "healAmount": 10,
+               "saturation": 1.8,
+               "useAction": "eat",
+               "result": "stewprops:random_empty_can"
             }
          ]
       },
       {
-         "type":"item:food",
-         "entries":[
+         "type": "item:food",
+         "entries": [
             {
-               "id":"food_canned_meat",
-               "creativeTab":"stewfood",
-               "model":"stewitems:food_canned_meat",
-			   "maxStack" : 32,
-			   "healAmount": 10,
-			   "saturation" : 1.8,
-			   "useAction": "eat",
-			   "result": "stewprops:random_empty_can"
+               "id": "food_canned_meat",
+               "creativeTab": "stewfood",
+               "model": "stewitems:food_canned_meat",
+               "maxStack": 32,
+               "healAmount": 10,
+               "saturation": 1.8,
+               "useAction": "eat",
+               "result": "stewprops:random_empty_can"
             }
          ]
       },
       {
-         "type":"item:food",
-         "entries":[
+         "type": "item:food",
+         "entries": [
             {
-               "id":"food_canned_milk",
-               "creativeTab":"stewfood",
-               "model":"stewitems:food_canned_milk",
-			   "maxStack" : 32,
-			   "healAmount": 10,
-			   "saturation" : 1.8,
-			   "useAction": "eat",
-			   "result": "stewprops:random_empty_can"
+               "id": "food_canned_milk",
+               "creativeTab": "stewfood",
+               "model": "stewitems:food_canned_milk",
+               "maxStack": 32,
+               "healAmount": 10,
+               "saturation": 1.8,
+               "useAction": "eat",
+               "result": "stewprops:random_empty_can"
             }
          ]
       },
       {
-         "type":"item:food",
-         "entries":[
+         "type": "item:food",
+         "entries": [
             {
-               "id":"food_cooked_meat_1",
-               "creativeTab":"stewfood",
-               "model":"stewitems:food_cooked_meat_1",
-			   "maxStack" : 32,
-			   "healAmount": 8,
-			   "saturation" : 1.2,
-			   "useAction": "eat"
+               "id": "food_cooked_meat_1",
+               "creativeTab": "stewfood",
+               "model": "stewitems:food_cooked_meat_1",
+               "maxStack": 32,
+               "healAmount": 8,
+               "saturation": 1.2,
+               "useAction": "eat"
             }
          ]
       },
       {
-         "type":"item:food",
-         "entries":[
+         "type": "item:food",
+         "entries": [
             {
-               "id":"food_cooked_meat",
-               "creativeTab":"stewfood",
-               "model":"stewitems:food_cooked_meat",
-			   "maxStack" : 32,
-			   "healAmount": 8,
-			   "saturation" : 1.2,
-			   "useAction": "eat"
+               "id": "food_cooked_meat",
+               "creativeTab": "stewfood",
+               "model": "stewitems:food_cooked_meat",
+               "maxStack": 32,
+               "healAmount": 8,
+               "saturation": 1.2,
+               "useAction": "eat"
             }
          ]
       },
       {
-         "type":"item:food",
-         "entries":[
+         "type": "item:food",
+         "entries": [
             {
-               "id":"food_insect_meat",
-               "creativeTab":"stewfood",
-               "model":"stewitems:food_insect_meat",
-			   "maxStack" : 32,
-			   "healAmount": 6,
-			   "saturation" : 1.2,
-			   "useAction": "eat"
+               "id": "food_insect_meat",
+               "creativeTab": "stewfood",
+               "model": "stewitems:food_insect_meat",
+               "maxStack": 32,
+               "healAmount": 6,
+               "saturation": 1.2,
+               "useAction": "eat"
             }
          ]
       },
       {
-         "type":"item:food",
-         "entries":[
+         "type": "item:food",
+         "entries": [
             {
-               "id":"food_meat_raw",
-               "creativeTab":"stewfood",
-               "model":"stewitems:food_meat_raw",
-			   "maxStack" : 32,
-			   "healAmount": 3,
-			   "saturation" : 0.6,
-			   "useAction": "eat"
+               "id": "food_meat_raw",
+               "creativeTab": "stewfood",
+               "model": "stewitems:food_meat_raw",
+               "maxStack": 32,
+               "healAmount": 3,
+               "saturation": 0.6,
+               "useAction": "eat"
             }
          ]
       },
       {
-         "type":"item:food",
-         "entries":[
+         "type": "item:food",
+         "entries": [
             {
-               "id":"food_meat_raw_1",
-               "creativeTab":"stewfood",
-               "model":"stewitems:food_meat_raw_1",
-			   "maxStack" : 32,
-			   "healAmount": 3,
-			   "saturation" : 0.6,
-			   "useAction": "eat"
+               "id": "food_meat_raw_1",
+               "creativeTab": "stewfood",
+               "model": "stewitems:food_meat_raw_1",
+               "maxStack": 32,
+               "healAmount": 3,
+               "saturation": 0.6,
+               "useAction": "eat"
             }
          ]
       },
       {
-         "type":"item:food",
-         "entries":[
+         "type": "item:food",
+         "entries": [
             {
-               "id":"food_meat_raw_2",
-               "creativeTab":"stewfood",
-               "model":"stewitems:food_meat_raw_2",
-			   "maxStack" : 32,
-			   "healAmount": 3,
-			   "saturation" : 0.6,
-			   "useAction": "eat"
+               "id": "food_meat_raw_2",
+               "creativeTab": "stewfood",
+               "model": "stewitems:food_meat_raw_2",
+               "maxStack": 32,
+               "healAmount": 3,
+               "saturation": 0.6,
+               "useAction": "eat"
             }
          ]
       },
       {
-         "type":"item:food",
-         "entries":[
+         "type": "item:food",
+         "entries": [
             {
-               "id":"food_meat_reptile",
-               "creativeTab":"stewfood",
-               "model":"stewitems:food_meat_reptile",
-			   "maxStack" : 32,
-			   "healAmount": 3,
-			   "saturation" : 0.6,
-			   "useAction": "eat"
+               "id": "food_meat_reptile",
+               "creativeTab": "stewfood",
+               "model": "stewitems:food_meat_reptile",
+               "maxStack": 32,
+               "healAmount": 3,
+               "saturation": 0.6,
+               "useAction": "eat"
             }
          ]
       },
       {
-         "type":"item:food",
-         "entries":[
+         "type": "item:food",
+         "entries": [
             {
-               "id":"food_snack_drink",
-               "creativeTab":"stewfood",
-               "model":"stewitems:food_snack_drink",
-			   "maxStack" : 32,
-			   "healAmount": 1,
-			   "saturation" : 0.2,
-			   "useAction": "eat"
+               "id": "food_snack_drink",
+               "creativeTab": "stewfood",
+               "model": "stewitems:food_snack_drink",
+               "maxStack": 32,
+               "healAmount": 1,
+               "saturation": 0.2,
+               "useAction": "eat"
             }
          ]
       },
       {
-         "type":"item:food",
-         "entries":[
+         "type": "item:food",
+         "entries": [
             {
-               "id":"food_snack_meat",
-               "creativeTab":"stewfood",
-               "model":"stewitems:food_snack_meat",
-			   "maxStack" : 32,
-			   "healAmount": 8,
-			   "saturation" : 1.2,
-			   "useAction": "eat"
+               "id": "food_snack_meat",
+               "creativeTab": "stewfood",
+               "model": "stewitems:food_snack_meat",
+               "maxStack": 32,
+               "healAmount": 8,
+               "saturation": 1.2,
+               "useAction": "eat"
             }
          ]
       },
       {
-         "type":"item:food",
-         "entries":[
+         "type": "item:food",
+         "entries": [
             {
-               "id":"food_snack_psy",
-               "creativeTab":"stewfood",
-               "model":"stewitems:food_snack_psy",
-			   "maxStack" : 32,
-			   "healAmount": 8,
-			   "saturation" : 1.2,
-			   "useAction": "eat"
+               "id": "food_snack_psy",
+               "creativeTab": "stewfood",
+               "model": "stewitems:food_snack_psy",
+               "maxStack": 32,
+               "healAmount": 8,
+               "saturation": 1.2,
+               "useAction": "eat"
             }
          ]
       },
       {
-         "type":"item:food",
-         "entries":[
+         "type": "item:food",
+         "entries": [
             {
-               "id":"food_snack_serup",
-               "creativeTab":"stewfood",
-               "model":"stewitems:food_snack_serup",
-			   "maxStack" : 32,
-			   "healAmount": 8,
-			   "saturation" : 1.2,
-			   "useAction": "eat"
+               "id": "food_snack_serup",
+               "creativeTab": "stewfood",
+               "model": "stewitems:food_snack_serup",
+               "maxStack": 32,
+               "healAmount": 8,
+               "saturation": 1.2,
+               "useAction": "eat"
             }
          ]
       }

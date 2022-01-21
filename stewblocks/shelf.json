@@ -10,7 +10,7 @@
           "tileEntity": "stewblocks:shelf",
           "gui": "stewblocks:shelf",
           "material": "wood",
-          "soundType" : "wood"
+          "soundType": "wood"
         }
       ]
     },
@@ -24,7 +24,12 @@
               "type": "inventory",
               "name": "inv1",
               "size": 27,
-              "sides": ["north", "east", "south", "west"]
+              "sides": [
+                "north",
+                "east",
+                "south",
+                "west"
+              ]
             }
           ]
         }
@@ -62,12 +67,24 @@
           ],
           "shiftClickRules": [
             {
-              "from": [0, 17],
-              "to": [18, 53]
+              "from": [
+                0,
+                17
+              ],
+              "to": [
+                18,
+                53
+              ]
             },
             {
-              "from": [18, 53],
-              "to": [0, 17]
+              "from": [
+                18,
+                53
+              ],
+              "to": [
+                0,
+                17
+              ]
             }
           ],
           "labels": [
@@ -95,7 +112,7 @@
           "tileEntity": "stewblocks:shelf",
           "gui": "stewblocks:shelf",
           "material": "wood",
-          "soundType" : "wood"
+          "soundType": "wood"
         }
       ]
     },
@@ -109,7 +126,7 @@
           "tileEntity": "stewblocks:shelf",
           "gui": "stewblocks:shelf",
           "material": "wood",
-          "soundType" : "wood"
+          "soundType": "wood"
         }
       ]
     },
@@ -123,7 +140,7 @@
           "tileEntity": "stewblocks:shelf",
           "gui": "stewblocks:shelf",
           "material": "wood",
-          "soundType" : "wood"
+          "soundType": "wood"
         }
       ]
     },
@@ -137,7 +154,7 @@
           "tileEntity": "stewblocks:shelf",
           "gui": "stewblocks:shelf",
           "material": "wood",
-          "soundType" : "wood"
+          "soundType": "wood"
         }
       ]
     },
@@ -151,7 +168,7 @@
           "tileEntity": "stewblocks:shelf",
           "gui": "stewblocks:shelf",
           "material": "wood",
-          "soundType" : "wood"
+          "soundType": "wood"
         }
       ]
     },
@@ -165,7 +182,7 @@
           "tileEntity": "stewblocks:shelf",
           "gui": "stewblocks:shelf",
           "material": "wood",
-          "soundType" : "wood"
+          "soundType": "wood"
         }
       ]
     },
@@ -179,7 +196,7 @@
           "tileEntity": "stewblocks:shelf",
           "gui": "stewblocks:shelf",
           "material": "wood",
-          "soundType" : "wood"
+          "soundType": "wood"
         }
       ]
     },
@@ -193,7 +210,7 @@
           "tileEntity": "stewblocks:shelf",
           "gui": "stewblocks:shelf",
           "material": "wood",
-          "soundType" : "wood"
+          "soundType": "wood"
         }
       ]
     },
@@ -207,7 +224,7 @@
           "tileEntity": "stewblocks:shelf",
           "gui": "stewblocks:shelf",
           "material": "wood",
-          "soundType" : "wood"
+          "soundType": "wood"
         }
       ]
     },
@@ -221,7 +238,7 @@
           "tileEntity": "stewblocks:shelf",
           "gui": "stewblocks:shelf",
           "material": "wood",
-          "soundType" : "wood"
+          "soundType": "wood"
         }
       ]
     },
@@ -235,7 +252,7 @@
           "tileEntity": "stewblocks:shelf",
           "gui": "stewblocks:shelf",
           "material": "wood",
-          "soundType" : "wood"
+          "soundType": "wood"
         }
       ]
     },
@@ -249,7 +266,7 @@
           "tileEntity": "stewblocks:shelf",
           "gui": "stewblocks:shelf",
           "material": "wood",
-          "soundType" : "wood"
+          "soundType": "wood"
         }
       ]
     },
@@ -263,7 +280,7 @@
           "tileEntity": "stewblocks:shelf",
           "gui": "stewblocks:shelf",
           "material": "wood",
-          "soundType" : "wood"
+          "soundType": "wood"
         }
       ]
     },
@@ -277,7 +294,7 @@
           "tileEntity": "stewblocks:shelf",
           "gui": "stewblocks:shelf",
           "material": "wood",
-          "soundType" : "wood"
+          "soundType": "wood"
         }
       ]
     },
@@ -291,7 +308,7 @@
           "tileEntity": "stewblocks:shelf",
           "gui": "stewblocks:shelf",
           "material": "wood",
-          "soundType" : "wood"
+          "soundType": "wood"
         }
       ]
     },
@@ -305,7 +322,7 @@
           "tileEntity": "stewblocks:shelf",
           "gui": "stewblocks:shelf",
           "material": "wood",
-          "soundType" : "wood"
+          "soundType": "wood"
         }
       ]
     },
@@ -319,7 +336,7 @@
           "tileEntity": "stewblocks:shelf",
           "gui": "stewblocks:shelf",
           "material": "wood",
-          "soundType" : "wood"
+          "soundType": "wood"
         }
       ]
     },
@@ -333,7 +350,7 @@
           "tileEntity": "stewblocks:shelf",
           "gui": "stewblocks:shelf",
           "material": "wood",
-          "soundType" : "wood"
+          "soundType": "wood"
         }
       ]
     },
@@ -347,7 +364,7 @@
           "tileEntity": "stewblocks:shelf",
           "gui": "stewblocks:shelf",
           "material": "iron",
-               "soundType" : "metal"
+          "soundType": "metal"
         }
       ]
     },
@@ -361,7 +378,7 @@
           "tileEntity": "stewblocks:shelf",
           "gui": "stewblocks:shelf",
           "material": "iron",
-               "soundType" : "metal"
+          "soundType": "metal"
         }
       ]
     },
@@ -375,7 +392,7 @@
           "tileEntity": "stewblocks:shelf",
           "gui": "stewblocks:shelf",
           "material": "iron",
-               "soundType" : "metal"
+          "soundType": "metal"
         }
       ]
     },
@@ -389,7 +406,7 @@
           "tileEntity": "stewblocks:shelf",
           "gui": "stewblocks:shelf",
           "material": "wood",
-          "soundType" : "wood"
+          "soundType": "wood"
         }
       ]
     },
@@ -403,7 +420,7 @@
           "tileEntity": "stewblocks:shelf",
           "gui": "stewblocks:shelf",
           "material": "wood",
-          "soundType" : "wood"
+          "soundType": "wood"
         }
       ]
     },
@@ -417,7 +434,7 @@
           "tileEntity": "stewblocks:shelf",
           "gui": "stewblocks:shelf",
           "material": "wood",
-          "soundType" : "wood"
+          "soundType": "wood"
         }
       ]
     },
@@ -431,7 +448,7 @@
           "tileEntity": "stewblocks:shelf",
           "gui": "stewblocks:shelf",
           "material": "wood",
-          "soundType" : "wood"
+          "soundType": "wood"
         }
       ]
     },
@@ -445,7 +462,7 @@
           "tileEntity": "stewblocks:shelf",
           "gui": "stewblocks:shelf",
           "material": "wood",
-          "soundType" : "wood"
+          "soundType": "wood"
         }
       ]
     },
@@ -459,7 +476,7 @@
           "tileEntity": "stewblocks:shelf",
           "gui": "stewblocks:shelf",
           "material": "wood",
-          "soundType" : "wood"
+          "soundType": "wood"
         }
       ]
     }

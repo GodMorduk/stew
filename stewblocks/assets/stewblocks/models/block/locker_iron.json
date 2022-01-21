@@ -2,7 +2,7 @@
     "parent": "stewblocks:block/top_side_face",
     "textures": {
         "face": "stewblocks:blocks/locker_iron",
-        "top": "stewblocks:blocks/locker_iron_top",        
+        "top": "stewblocks:blocks/locker_iron_top",
         "side": "stewblocks:blocks/locker_iron_side"
     }
 }

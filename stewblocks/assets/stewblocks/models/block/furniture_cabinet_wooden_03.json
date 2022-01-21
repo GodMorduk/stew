@@ -1,9 +1,9 @@
 {
-    "parent": "stewblocks:block/cube_frontside",
-    "textures": {
-      "front": "stewblocks:blocks/chest_brown",
-      "side": "stewblocks:blocks/chest_brown_side3",
-      "top": "stewblocks:blocks/furn_planks_brown",
-      "bottom": "stewblocks:blocks/furn_planks_brown"
-    }
+  "parent": "stewblocks:block/cube_frontside",
+  "textures": {
+    "front": "stewblocks:blocks/chest_brown",
+    "side": "stewblocks:blocks/chest_brown_side3",
+    "top": "stewblocks:blocks/furn_planks_brown",
+    "bottom": "stewblocks:blocks/furn_planks_brown"
+  }
 }

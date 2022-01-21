@@ -1,5 +1,7 @@
 {
-    "variants": {
-      "normal": {"model": "stewblocks:plasteel_panel_white_wayline"}
+  "variants": {
+    "normal": {
+      "model": "stewblocks:plasteel_panel_white_wayline"
     }
   }
+}

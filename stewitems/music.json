@@ -1,54 +1,67 @@
 {
-	"items": [{
+	"items": [
+		{
 			"type": "item:simple",
-			"entries": [{
-				"id": "guitar",
-				"model": "stewitems:music_guitar",
-				"creativeTab": "stewextra",
-				"burnTime": 1200
-			}]
+			"entries": [
+				{
+					"id": "guitar",
+					"model": "stewitems:music_guitar",
+					"creativeTab": "stewextra",
+					"burnTime": 1200
+				}
+			]
 		},
 		{
 			"type": "item:simple",
-			"entries": [{
-				"id": "violin",
-				"model": "stewitems:music_violin",
-				"creativeTab": "stewextra",
-				"burnTime": 600
-			}]
+			"entries": [
+				{
+					"id": "violin",
+					"model": "stewitems:music_violin",
+					"creativeTab": "stewextra",
+					"burnTime": 600
+				}
+			]
 		},
 		{
 			"type": "item:simple",
-			"entries": [{
-				"id": "harp",
-				"model": "stewitems:music_harp",
-				"creativeTab": "stewextra"
-			}]
+			"entries": [
+				{
+					"id": "harp",
+					"model": "stewitems:music_harp",
+					"creativeTab": "stewextra"
+				}
+			]
 		},
 		{
 			"type": "item:simple",
-			"entries": [{
-				"id": "horn",
-				"model": "stewitems:music_horn",
-				"creativeTab": "stewextra"
-			}]
+			"entries": [
+				{
+					"id": "horn",
+					"model": "stewitems:music_horn",
+					"creativeTab": "stewextra"
+				}
+			]
 		},
 		{
 			"type": "item:simple",
-			"entries": [{
-				"id": "flute",
-				"model": "stewitems:music_flute",
-				"creativeTab": "stewextra"
-			}]
+			"entries": [
+				{
+					"id": "flute",
+					"model": "stewitems:music_flute",
+					"creativeTab": "stewextra"
+				}
+			]
 		},
 		{
 			"type": "item:simple",
-			"entries": [{
-				"id": "banjo",
-				"model": "stewitems:music_banjo",
-				"creativeTab": "stewextra",
-				"burnTime": 800
-			}]
+			"entries": [
+				{
+					"id": "banjo",
+					"model": "stewitems:music_banjo",
+					"creativeTab": "stewextra",
+					"burnTime": 800
+				}
+			]
 		}
 	]
 }

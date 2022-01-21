@@ -1,10 +1,31 @@
 {
   "variants": {
-    "facing=north": { "model": "stewblocks:brick_plaster_trim", "x": 90, "y": 0},
-    "facing=east": { "model": "stewblocks:brick_plaster_trim", "x": 90, "y": 90},
-    "facing=south": { "model": "stewblocks:brick_plaster_trim", "x": 90, "y": 180},
-    "facing=west": { "model": "stewblocks:brick_plaster_trim", "x": 90, "y": 270},
-    "facing=up": { "model": "stewblocks:brick_plaster_trim" },
-    "facing=down": { "model": "stewblocks:brick_plaster_trim", "x": 180 }
+    "facing=north": {
+      "model": "stewblocks:brick_plaster_trim",
+      "x": 90,
+      "y": 0
+    },
+    "facing=east": {
+      "model": "stewblocks:brick_plaster_trim",
+      "x": 90,
+      "y": 90
+    },
+    "facing=south": {
+      "model": "stewblocks:brick_plaster_trim",
+      "x": 90,
+      "y": 180
+    },
+    "facing=west": {
+      "model": "stewblocks:brick_plaster_trim",
+      "x": 90,
+      "y": 270
+    },
+    "facing=up": {
+      "model": "stewblocks:brick_plaster_trim"
+    },
+    "facing=down": {
+      "model": "stewblocks:brick_plaster_trim",
+      "x": 180
+    }
   }
 }

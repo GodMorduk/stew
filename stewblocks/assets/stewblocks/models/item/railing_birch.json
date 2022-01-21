@@ -1,8 +1,6 @@
-
-
 {
   "parent": "item/generated",
   "textures": {
-      "layer0": "stewblocks:blocks/railing_birch"
+    "layer0": "stewblocks:blocks/railing_birch"
   }
 }

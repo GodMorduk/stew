@@ -1,5 +1,7 @@
 {
   "variants": {
-	"normal": {"model": "stewblocks:packed_beets"}
+    "normal": {
+      "model": "stewblocks:packed_beets"
+    }
   }
 }

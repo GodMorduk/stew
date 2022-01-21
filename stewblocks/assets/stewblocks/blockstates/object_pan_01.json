@@ -1,5 +1,7 @@
 {
     "variants": {
-        "normal": { "model": "stewblocks:object_pan_01" }
+        "normal": {
+            "model": "stewblocks:object_pan_01"
+        }
     }
 }

@@ -26,21 +26,21 @@ item.stewitems.food_snack_meat.name=Мясной баточник
 item.stewitems.food_snack_psy.name=Конфетки
 item.stewitems.food_snack_serup.name=Сладкий сироп
 
-item.stewitems.coupon_0.name=1 купон
-item.stewitems.coupon_1.name=10 купонов
-item.stewitems.coupon_2.name=100 купонов
-item.stewitems.coupon_3.name=1000 купонов
-item.stewitems.coupon_special.name="Особый" купон
-item.stewitems.moneybundle_0.name=Маленькая пачка купонов
-item.stewitems.moneybundle_1.name=Солидная пачка купонов
-item.stewitems.moneybundle_2.name=Внушительная пачка купонов
-item.stewitems.moneybundle_3.name=Уважаемая пачка купонов
-item.stewitems.moneybundle_4.name=Огромная пачка купонов
-item.stewitems.moneybundle_5.name=Легендарная пачка купонов
-item.stewitems.vilent_0.name=Вилент
-item.stewitems.vilent_1.name=10 вилентов
-item.stewitems.vilent_2.name=100 вилентов
-item.stewitems.vilent_3.name=1000 вилентов
+item.stewitems.talon_0.name=1 талон
+item.stewitems.talon_1.name=10 талонов
+item.stewitems.talon_2.name=100 талонов
+item.stewitems.talon_3.name=1000 талонов
+item.stewitems.talon_special.name="Особый" талон
+item.stewitems.moneybundle_0.name=Маленькая пачка талонов
+item.stewitems.moneybundle_1.name=Солидная пачка талонов
+item.stewitems.moneybundle_2.name=Внушительная пачка талонов
+item.stewitems.moneybundle_3.name=Уважаемая пачка талонов
+item.stewitems.moneybundle_4.name=Огромная пачка талонов
+item.stewitems.moneybundle_5.name=Легендарная пачка талонов
+item.stewitems.echo_0.name=Отголосок
+item.stewitems.echo_1.name=10 отголосков
+item.stewitems.echo_2.name=100 отголосков
+item.stewitems.echo_3.name=1000 отголосков
 
 item.stewitems.medicine_scanner.name=Медицинский сканер
 item.stewitems.fingerbox.name=Фингербокс
@@ -109,19 +109,115 @@ item.stewitems.tobacco_leaves_6.name=Высушенные листья втор�
 item.stewitems.tobacco_leaves_7.name=Высушенные листья магического табака
 item.stewitems.papirosa_1.name=Папироса
 item.stewitems.cigarette_1.name=Сигарета из второсортного табака
-item.stewitems.cigarette_2.name=Сигареты из первосортного табака
-item.stewitems.cigarette_3.name=Сигареты из магического табака
-item.stewitems.cigarette_4.name=Сигареты из Города - "Градость"
+item.stewitems.cigarette_2.name=Сигарета из первосортного табака
+item.stewitems.cigarette_3.name=Сигарета из магического табака
+item.stewitems.cigarette_4.name=Сигарета из Гавани - "Крепость"
 item.stewitems.cigar_1.name=Cигара из второсортного табака
 item.stewitems.cigar_2.name=Сигара из первосортного табака
 item.stewitems.cigar_3.name=Сигара из магического табака
-item.stewitems.cigar_4.name=Сигара из Города - "Имперест"
+item.stewitems.cigar_4.name=Сигара - "Золотая гордость"
 item.stewitems.papirosa_pack_1.name=Пачка папирос
 item.stewitems.cigarette_pack_1.name=Пачка сигарет из второсортного табака
 item.stewitems.cigarette_pack_2.name=Пачка сигарет из первосортного табака
 item.stewitems.cigarette_pack_3.name=Пачка сигарет из магического табака
-item.stewitems.cigarette_pack_4.name=Пачка сигарет из Города - "Градость"
+item.stewitems.cigarette_pack_4.name=Пачка сигарет из Гавани - "Крепость"
 item.stewitems.cigar_box_1.name=Коробка cигар из второсортного табака
 item.stewitems.cigar_box_2.name=Коробка сигар из первосортного табака
 item.stewitems.cigar_box_3.name=Коробка сигар из магического табака
-item.stewitems.cigar_box_4.name=Коробка сигар из Города - "Имперест"
+item.stewitems.cigar_box_4.name=Коробка сигар - "Золотая гордость"
+
+item.stewitems.alchemy_albedo.name=Альбедо
+item.stewitems.alchemy_blood_tincture.name=Кровяная настойка
+item.stewitems.alchemy_bone_marrow.name=Костный мозг
+item.stewitems.alchemy_brain_gland.name=Мозговая железа
+item.stewitems.alchemy_chitin.name=Хитин
+item.stewitems.alchemy_citrinitas.name=Цитринитас
+item.stewitems.alchemy_dead_mash.name=Мертвая каша
+item.stewitems.alchemy_fungus_tincture.name=Грибная настойка
+item.stewitems.alchemy_herbal_tincture.name=Травяная настойка
+item.stewitems.alchemy_horn.name=Рог
+item.stewitems.alchemy_ichor.name=Ихор
+item.stewitems.alchemy_nigredo.name=Нигредо
+item.stewitems.alchemy_phlogiston.name=Флогистон
+item.stewitems.alchemy_pills_psyblock.name=ПСИ-блок
+item.stewitems.alchemy_poison_gland.name=Ядовитая железа
+item.stewitems.alchemy_prepared_eye.name=Глаз
+item.stewitems.alchemy_prepared_gallbladder.name=Желчный пузырь
+item.stewitems.alchemy_prepared_ganglion.name=Ганглион
+item.stewitems.alchemy_prepared_heart.name=Сердце
+item.stewitems.alchemy_prepared_kidney.name=Почка
+item.stewitems.alchemy_prepared_liver.name=Печень
+item.stewitems.alchemy_prepared_spleen.name=Селезенка
+item.stewitems.alchemy_prepared_stomach.name=Желудок
+item.stewitems.alchemy_rebis.name=Ребис
+item.stewitems.alchemy_rubedo.name=Рубедо
+item.stewitems.alchemy_salt_earth.name=Соли земли
+item.stewitems.alchemy_salt_entropy.name=Энтропийные соли
+item.stewitems.alchemy_salt_fire.name=Огненные соли
+item.stewitems.alchemy_salt_frost.name=Морозные соли
+item.stewitems.alchemy_salt_lightning.name=Соли молнии
+item.stewitems.alchemy_salt_order.name=Порядковые соли
+item.stewitems.alchemy_scales.name=Весы
+item.stewitems.alchemy_true_litania.name=Литания
+item.stewitems.alchemy_vitola.name=Витола
+item.stewitems.alchemy_marna.name=Марна
+item.stewitems.alchemy_sklirot.name=Склирот
+item.stewitems.alchemy_ether.name=Эфир
+item.stewitems.alchemy_ortara.name=Ортара
+
+item.stewitems.enc_glyph_a — Свиток с глифом Al
+item.stewitems.enc_glyph_b — Свиток с глифом Bet
+item.stewitems.enc_glyph_c — Свиток с глифом Cur
+item.stewitems.enc_glyph_d — Свиток с глифом Da
+item.stewitems.enc_glyph_e — Свиток с глифом Eht
+item.stewitems.enc_glyph_f — Свиток с глифом Fta
+item.stewitems.enc_glyph_g — Свиток с глифом Gur
+item.stewitems.enc_glyph_h — Свиток с глифом Hin
+item.stewitems.enc_glyph_i — Свиток с глифом Igi
+item.stewitems.enc_glyph_j — Свиток с глифом Jeh
+item.stewitems.enc_glyph_k — Свиток с глифом Ka
+item.stewitems.enc_glyph_l — Свиток с глифом Lo
+item.stewitems.enc_glyph_m — Свиток с глифом Mu
+item.stewitems.enc_glyph_n — Свиток с глифом Ny
+item.stewitems.enc_glyph_o — Свиток с глифом Ol
+item.stewitems.enc_glyph_p — Свиток с глифом Phe
+item.stewitems.enc_glyph_q — Свиток с глифом Qu
+item.stewitems.enc_glyph_r — Свиток с глифом Ra
+item.stewitems.enc_glyph_s — Свиток с глифом Sat
+item.stewitems.enc_glyph_t — Свиток с глифом Tet
+item.stewitems.enc_glyph_u — Свиток с глифом Ulu
+item.stewitems.enc_glyph_v — Свиток с глифом Vry
+item.stewitems.enc_glyph_w — Свиток с глифом Wlu
+item.stewitems.enc_glyph_x — Свиток с глифом Xek
+item.stewitems.enc_glyph_y — Свиток с глифом Yij
+item.stewitems.enc_glyph_z — Свиток с глифом Zar
+
+item.stewitems.enc_rune_arrow — Руна стрелы
+item.stewitems.enc_rune_bond — Руна связи
+item.stewitems.enc_rune_cold — Руна холода
+item.stewitems.enc_rune_creation — Руна создания
+item.stewitems.enc_rune_death — Руна смерти
+item.stewitems.enc_rune_earth — Руна земли
+item.stewitems.enc_rune_fire — Руна огня
+item.stewitems.enc_rune_life — Руна жизни
+item.stewitems.enc_rune_magic — Руна магии
+item.stewitems.enc_rune_motion — Руна движения
+item.stewitems.enc_rune_negation — Руна отрицания
+item.stewitems.enc_rune_object — Руна объекта
+item.stewitems.enc_rune_poison — Руна яда
+item.stewitems.enc_rune_protection — Руна защиты
+item.stewitems.enc_rune_space — Руна космоса
+item.stewitems.enc_rune_storm — Руна бури
+item.stewitems.enc_rune_strength — Руна силы
+item.stewitems.enc_rune_time — Руна времени
+item.stewitems.enc_rune_vision — Руна зрения
+item.stewitems.enc_rune_weakening — Руна слабости
+
+item.stewitems.enc_lens_adhara — Линза корня
+item.stewitems.enc_lens_bhima — Линза дома
+item.stewitems.enc_lens_manipura — Линза драгоценности
+item.stewitems.enc_lens_anahta — Линза защиты
+item.stewitems.enc_lens_adjan — Линза команды
+item.stewitems.enc_lens_sahasara — Линза разума
+
+item.stewitems.enc_ave_flask — Фляга эссенции

@@ -1,5 +1,7 @@
 {
     "variants": {
-        "normal": { "model": "stewblocks:object_paperlamp" }
+        "normal": {
+            "model": "stewblocks:object_paperlamp"
+        }
     }
 }

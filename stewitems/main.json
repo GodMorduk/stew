@@ -1,5 +1,6 @@
 {
-	"imports": [{
+	"imports": [
+		{
 			"file": "creativeTab.json"
 		},
 		{
@@ -31,4 +32,3 @@
 		}
 	]
 }
-

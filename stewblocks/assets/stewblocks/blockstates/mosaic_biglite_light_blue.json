@@ -1,5 +1,7 @@
 {
     "variants": {
-    "normal": {"model": "stewblocks:mosaic_bigtile_light_blue"}  
+        "normal": {
+            "model": "stewblocks:mosaic_bigtile_light_blue"
+        }
     }
 }

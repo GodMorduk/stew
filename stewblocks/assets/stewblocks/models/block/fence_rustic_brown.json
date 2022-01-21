@@ -1,10 +1,10 @@
 {
-    "parent": "stewblocks:block/stew_fence",
-    "textures": {  
-      "top": "stewblocks:blocks/empty",
-      "bottom": "stewblocks:blocks/empty",
-      "side": "stewblocks:blocks/fence_rustic_brown",     
-      "face": "stewblocks:blocks/fence_rustic_brown",
-      "particle":"stewblocks:blocks/fence_rustic_brown"
-    }
+  "parent": "stewblocks:block/stew_fence",
+  "textures": {
+    "top": "stewblocks:blocks/empty",
+    "bottom": "stewblocks:blocks/empty",
+    "side": "stewblocks:blocks/fence_rustic_brown",
+    "face": "stewblocks:blocks/fence_rustic_brown",
+    "particle": "stewblocks:blocks/fence_rustic_brown"
   }
+}

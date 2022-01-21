@@ -1,5 +1,7 @@
 {
-    "variants": {
-      "normal": {"model": "stewblocks:cladding_cyan"}
+  "variants": {
+    "normal": {
+      "model": "stewblocks:cladding_cyan"
     }
   }
+}

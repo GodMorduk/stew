@@ -1,5 +1,7 @@
 {
-    "variants": {
-      "normal": {"model": "stewblocks:box_wicker"}
+  "variants": {
+    "normal": {
+      "model": "stewblocks:box_wicker"
     }
   }
+}

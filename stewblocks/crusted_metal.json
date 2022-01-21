@@ -1,195 +1,788 @@
 {
-    "blocks":[
-        {
-            "type": "block:simple",
-            "entries":[
-               {
-                  "id": "crusted_metal",
-                  "material": "iron",
-                 "creativeTab": "stew_blocks_dungeon",
-                  "hardness" : 999999
-               }
-            ]
-           },
-           {
-            "type": "block:simple",
-            "entries":[
-               {
-                  "id": "crusted_metal_machine",
-                  "material": "iron",
-                 "creativeTab": "stew_blocks_dungeon",
-                  "hardness" : 999999
-               }
-            ]
-           },
-           {
-            "type": "block:orientable:directional",
-            "entries":[
-               {
-                  "id": "crusted_metal_slot",
-                  "material": "iron",
-                 "creativeTab": "stew_blocks_dungeon",
-                  "hardness" : 999999
-               }
-            ]
-           },
-           {
-            "type": "block:simple",
-            "entries":[
-               {
-                  "id": "crusted_metal_tube",
-                  "material": "iron",
-                 "creativeTab": "stew_blocks_dungeon",
-                  "hardness" : 999999
-               }
-            ]
-           },
-           {
-            "type": "block:orientable:directional",
-            "entries":[
-               {
-                  "id": "crusted_metal_grating",
-                  "material": "iron",
-                 "creativeTab": "stew_blocks_dungeon",
-                  "hardness" : 999999
-               }
-            ]
-           },
-           {
-            "type": "block:orientable:directional",
-            "entries":[
-               {
-                  "id": "crusted_metal_thin",
-                  "material": "iron",
-                 "creativeTab": "stew_blocks_dungeon",
-                  "hardness" : 999999,
-                  "faceBySide": true,
-                  "isPassable": false,
-                  "isFullCube": false,
-                  "isOpaqueCube": false,
-                  "opacity": 0,
-                  "bounds": {
-                    "0": { "from": [0, 0.9167, 0], "to": [1, 1, 1] },
-                    "1": { "from": [0, 0, 0], "to": [1, 0.0833, 1] },
-                    "2": { "from": [0, 0, 0.9167], "to": [1, 1, 1] },
-                    "3": { "from": [0, 0, 0], "to": [1, 1, 0.0833] },
-                    "4": { "from": [0.9167, 0, 0], "to": [1, 1, 1] },
-                    "5": { "from": [0, 0, 0], "to": [0.0833, 1, 1] }
-                 },
-                 "selectionBounds": {
-                    "0": { "from": [0, 0.9167, 0], "to": [1, 1, 1] },
-                    "1": { "from": [0, 0, 0], "to": [1, 0.0833, 1] },
-                    "2": { "from": [0, 0, 0.9167], "to": [1, 1, 1] },
-                    "3": { "from": [0, 0, 0], "to": [1, 1, 0.0833] },
-                    "4": { "from": [0.9167, 0, 0], "to": [1, 1, 1] },
-                    "5": { "from": [0, 0, 0], "to": [0.0833, 1, 1] }
-                 },
-                 "collisionBounds": {
-                    "0": { "from": [0, 0.9167, 0], "to": [1, 1, 1] },
-                    "1": { "from": [0, 0, 0], "to": [1, 0.0833, 1] },
-                    "2": { "from": [0, 0, 0.9167], "to": [1, 1, 1] },
-                    "3": { "from": [0, 0, 0], "to": [1, 1, 0.0833] },
-                    "4": { "from": [0.9167, 0, 0], "to": [1, 1, 1] },
-                    "5": { "from": [0, 0, 0], "to": [0.0833, 1, 1] }
+   "blocks": [
+      {
+         "type": "block:simple",
+         "entries": [
+            {
+               "id": "crusted_metal",
+               "material": "iron",
+               "creativeTab": "stew_blocks_dungeon",
+               "hardness": 999999
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries": [
+            {
+               "id": "crusted_metal_machine",
+               "material": "iron",
+               "creativeTab": "stew_blocks_dungeon",
+               "hardness": 999999
+            }
+         ]
+      },
+      {
+         "type": "block:orientable:directional",
+         "entries": [
+            {
+               "id": "crusted_metal_slot",
+               "material": "iron",
+               "creativeTab": "stew_blocks_dungeon",
+               "hardness": 999999
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries": [
+            {
+               "id": "crusted_metal_tube",
+               "material": "iron",
+               "creativeTab": "stew_blocks_dungeon",
+               "hardness": 999999
+            }
+         ]
+      },
+      {
+         "type": "block:orientable:directional",
+         "entries": [
+            {
+               "id": "crusted_metal_grating",
+               "material": "iron",
+               "creativeTab": "stew_blocks_dungeon",
+               "hardness": 999999
+            }
+         ]
+      },
+      {
+         "type": "block:orientable:directional",
+         "entries": [
+            {
+               "id": "crusted_metal_thin",
+               "material": "iron",
+               "creativeTab": "stew_blocks_dungeon",
+               "hardness": 999999,
+               "faceBySide": true,
+               "isPassable": false,
+               "isFullCube": false,
+               "isOpaqueCube": false,
+               "opacity": 0,
+               "bounds": {
+                  "0": {
+                     "from": [
+                        0,
+                        0.9167,
+                        0
+                     ],
+                     "to": [
+                        1,
+                        1,
+                        1
+                     ]
+                  },
+                  "1": {
+                     "from": [
+                        0,
+                        0,
+                        0
+                     ],
+                     "to": [
+                        1,
+                        0.0833,
+                        1
+                     ]
+                  },
+                  "2": {
+                     "from": [
+                        0,
+                        0,
+                        0.9167
+                     ],
+                     "to": [
+                        1,
+                        1,
+                        1
+                     ]
+                  },
+                  "3": {
+                     "from": [
+                        0,
+                        0,
+                        0
+                     ],
+                     "to": [
+                        1,
+                        1,
+                        0.0833
+                     ]
+                  },
+                  "4": {
+                     "from": [
+                        0.9167,
+                        0,
+                        0
+                     ],
+                     "to": [
+                        1,
+                        1,
+                        1
+                     ]
+                  },
+                  "5": {
+                     "from": [
+                        0,
+                        0,
+                        0
+                     ],
+                     "to": [
+                        0.0833,
+                        1,
+                        1
+                     ]
+                  }
+               },
+               "selectionBounds": {
+                  "0": {
+                     "from": [
+                        0,
+                        0.9167,
+                        0
+                     ],
+                     "to": [
+                        1,
+                        1,
+                        1
+                     ]
+                  },
+                  "1": {
+                     "from": [
+                        0,
+                        0,
+                        0
+                     ],
+                     "to": [
+                        1,
+                        0.0833,
+                        1
+                     ]
+                  },
+                  "2": {
+                     "from": [
+                        0,
+                        0,
+                        0.9167
+                     ],
+                     "to": [
+                        1,
+                        1,
+                        1
+                     ]
+                  },
+                  "3": {
+                     "from": [
+                        0,
+                        0,
+                        0
+                     ],
+                     "to": [
+                        1,
+                        1,
+                        0.0833
+                     ]
+                  },
+                  "4": {
+                     "from": [
+                        0.9167,
+                        0,
+                        0
+                     ],
+                     "to": [
+                        1,
+                        1,
+                        1
+                     ]
+                  },
+                  "5": {
+                     "from": [
+                        0,
+                        0,
+                        0
+                     ],
+                     "to": [
+                        0.0833,
+                        1,
+                        1
+                     ]
+                  }
+               },
+               "collisionBounds": {
+                  "0": {
+                     "from": [
+                        0,
+                        0.9167,
+                        0
+                     ],
+                     "to": [
+                        1,
+                        1,
+                        1
+                     ]
+                  },
+                  "1": {
+                     "from": [
+                        0,
+                        0,
+                        0
+                     ],
+                     "to": [
+                        1,
+                        0.0833,
+                        1
+                     ]
+                  },
+                  "2": {
+                     "from": [
+                        0,
+                        0,
+                        0.9167
+                     ],
+                     "to": [
+                        1,
+                        1,
+                        1
+                     ]
+                  },
+                  "3": {
+                     "from": [
+                        0,
+                        0,
+                        0
+                     ],
+                     "to": [
+                        1,
+                        1,
+                        0.0833
+                     ]
+                  },
+                  "4": {
+                     "from": [
+                        0.9167,
+                        0,
+                        0
+                     ],
+                     "to": [
+                        1,
+                        1,
+                        1
+                     ]
+                  },
+                  "5": {
+                     "from": [
+                        0,
+                        0,
+                        0
+                     ],
+                     "to": [
+                        0.0833,
+                        1,
+                        1
+                     ]
                   }
                }
-            ]
-           },
-           {
-            "type": "block:orientable:directional",
-            "entries":[
-               {
-                  "id": "crusted_metal_grid",
-                  "material": "iron",
-                 "creativeTab": "stew_blocks_dungeon",
-                  "hardness" : 999999,
-                  "renderLayer": "mippedCutout",
-                  "faceBySide": true,
-                  "isPassable": false,
-                  "isFullCube": false,
-                  "isOpaqueCube": false,
-                  "hideAdjacentSides": true,
-                  "opacity": 0,
-                  "bounds": {
-                    "0": { "from": [0, 0.9167, 0], "to": [1, 1, 1] },
-                    "1": { "from": [0, 0, 0], "to": [1, 0.0833, 1] },
-                    "2": { "from": [0, 0, 0.9167], "to": [1, 1, 1] },
-                    "3": { "from": [0, 0, 0], "to": [1, 1, 0.0833] },
-                    "4": { "from": [0.9167, 0, 0], "to": [1, 1, 1] },
-                    "5": { "from": [0, 0, 0], "to": [0.0833, 1, 1] }
-                 },
-                 "selectionBounds": {
-                    "0": { "from": [0, 0.9167, 0], "to": [1, 1, 1] },
-                    "1": { "from": [0, 0, 0], "to": [1, 0.0833, 1] },
-                    "2": { "from": [0, 0, 0.9167], "to": [1, 1, 1] },
-                    "3": { "from": [0, 0, 0], "to": [1, 1, 0.0833] },
-                    "4": { "from": [0.9167, 0, 0], "to": [1, 1, 1] },
-                    "5": { "from": [0, 0, 0], "to": [0.0833, 1, 1] }
-                 },
-                 "collisionBounds": {
-                    "0": { "from": [0, 0.9167, 0], "to": [1, 1, 1] },
-                    "1": { "from": [0, 0, 0], "to": [1, 0.0833, 1] },
-                    "2": { "from": [0, 0, 0.9167], "to": [1, 1, 1] },
-                    "3": { "from": [0, 0, 0], "to": [1, 1, 0.0833] },
-                    "4": { "from": [0.9167, 0, 0], "to": [1, 1, 1] },
-                    "5": { "from": [0, 0, 0], "to": [0.0833, 1, 1] }
+            }
+         ]
+      },
+      {
+         "type": "block:orientable:directional",
+         "entries": [
+            {
+               "id": "crusted_metal_grid",
+               "material": "iron",
+               "creativeTab": "stew_blocks_dungeon",
+               "hardness": 999999,
+               "renderLayer": "mippedCutout",
+               "faceBySide": true,
+               "isPassable": false,
+               "isFullCube": false,
+               "isOpaqueCube": false,
+               "hideAdjacentSides": true,
+               "opacity": 0,
+               "bounds": {
+                  "0": {
+                     "from": [
+                        0,
+                        0.9167,
+                        0
+                     ],
+                     "to": [
+                        1,
+                        1,
+                        1
+                     ]
+                  },
+                  "1": {
+                     "from": [
+                        0,
+                        0,
+                        0
+                     ],
+                     "to": [
+                        1,
+                        0.0833,
+                        1
+                     ]
+                  },
+                  "2": {
+                     "from": [
+                        0,
+                        0,
+                        0.9167
+                     ],
+                     "to": [
+                        1,
+                        1,
+                        1
+                     ]
+                  },
+                  "3": {
+                     "from": [
+                        0,
+                        0,
+                        0
+                     ],
+                     "to": [
+                        1,
+                        1,
+                        0.0833
+                     ]
+                  },
+                  "4": {
+                     "from": [
+                        0.9167,
+                        0,
+                        0
+                     ],
+                     "to": [
+                        1,
+                        1,
+                        1
+                     ]
+                  },
+                  "5": {
+                     "from": [
+                        0,
+                        0,
+                        0
+                     ],
+                     "to": [
+                        0.0833,
+                        1,
+                        1
+                     ]
+                  }
+               },
+               "selectionBounds": {
+                  "0": {
+                     "from": [
+                        0,
+                        0.9167,
+                        0
+                     ],
+                     "to": [
+                        1,
+                        1,
+                        1
+                     ]
+                  },
+                  "1": {
+                     "from": [
+                        0,
+                        0,
+                        0
+                     ],
+                     "to": [
+                        1,
+                        0.0833,
+                        1
+                     ]
+                  },
+                  "2": {
+                     "from": [
+                        0,
+                        0,
+                        0.9167
+                     ],
+                     "to": [
+                        1,
+                        1,
+                        1
+                     ]
+                  },
+                  "3": {
+                     "from": [
+                        0,
+                        0,
+                        0
+                     ],
+                     "to": [
+                        1,
+                        1,
+                        0.0833
+                     ]
+                  },
+                  "4": {
+                     "from": [
+                        0.9167,
+                        0,
+                        0
+                     ],
+                     "to": [
+                        1,
+                        1,
+                        1
+                     ]
+                  },
+                  "5": {
+                     "from": [
+                        0,
+                        0,
+                        0
+                     ],
+                     "to": [
+                        0.0833,
+                        1,
+                        1
+                     ]
+                  }
+               },
+               "collisionBounds": {
+                  "0": {
+                     "from": [
+                        0,
+                        0.9167,
+                        0
+                     ],
+                     "to": [
+                        1,
+                        1,
+                        1
+                     ]
+                  },
+                  "1": {
+                     "from": [
+                        0,
+                        0,
+                        0
+                     ],
+                     "to": [
+                        1,
+                        0.0833,
+                        1
+                     ]
+                  },
+                  "2": {
+                     "from": [
+                        0,
+                        0,
+                        0.9167
+                     ],
+                     "to": [
+                        1,
+                        1,
+                        1
+                     ]
+                  },
+                  "3": {
+                     "from": [
+                        0,
+                        0,
+                        0
+                     ],
+                     "to": [
+                        1,
+                        1,
+                        0.0833
+                     ]
+                  },
+                  "4": {
+                     "from": [
+                        0.9167,
+                        0,
+                        0
+                     ],
+                     "to": [
+                        1,
+                        1,
+                        1
+                     ]
+                  },
+                  "5": {
+                     "from": [
+                        0,
+                        0,
+                        0
+                     ],
+                     "to": [
+                        0.0833,
+                        1,
+                        1
+                     ]
                   }
                }
-            ]
-           },
-           {
-            "type": "block:orientable:directional",
-            "entries":[
-               {
-                  "id": "crusted_metal_plate",
-                  "material": "iron",
-                 "creativeTab": "stew_blocks_dungeon",
-                  "hardness" : 999999,
-                  "faceBySide": true,
-                  "isPassable": false,
-                  "isFullCube": false,
-                  "isOpaqueCube": false,
-                  "opacity": 0,
-                  "bounds": {
-                    "0": { "from": [0, 0.9167, 0], "to": [1, 1, 1] },
-                    "1": { "from": [0, 0, 0], "to": [1, 0.0833, 1] },
-                    "2": { "from": [0, 0, 0.9167], "to": [1, 1, 1] },
-                    "3": { "from": [0, 0, 0], "to": [1, 1, 0.0833] },
-                    "4": { "from": [0.9167, 0, 0], "to": [1, 1, 1] },
-                    "5": { "from": [0, 0, 0], "to": [0.0833, 1, 1] }
-                 },
-                 "selectionBounds": {
-                    "0": { "from": [0, 0.9167, 0], "to": [1, 1, 1] },
-                    "1": { "from": [0, 0, 0], "to": [1, 0.0833, 1] },
-                    "2": { "from": [0, 0, 0.9167], "to": [1, 1, 1] },
-                    "3": { "from": [0, 0, 0], "to": [1, 1, 0.0833] },
-                    "4": { "from": [0.9167, 0, 0], "to": [1, 1, 1] },
-                    "5": { "from": [0, 0, 0], "to": [0.0833, 1, 1] }
-                 },
-                 "collisionBounds": {
-                    "0": { "from": [0, 0.9167, 0], "to": [1, 1, 1] },
-                    "1": { "from": [0, 0, 0], "to": [1, 0.0833, 1] },
-                    "2": { "from": [0, 0, 0.9167], "to": [1, 1, 1] },
-                    "3": { "from": [0, 0, 0], "to": [1, 1, 0.0833] },
-                    "4": { "from": [0.9167, 0, 0], "to": [1, 1, 1] },
-                    "5": { "from": [0, 0, 0], "to": [0.0833, 1, 1] }
+            }
+         ]
+      },
+      {
+         "type": "block:orientable:directional",
+         "entries": [
+            {
+               "id": "crusted_metal_plate",
+               "material": "iron",
+               "creativeTab": "stew_blocks_dungeon",
+               "hardness": 999999,
+               "faceBySide": true,
+               "isPassable": false,
+               "isFullCube": false,
+               "isOpaqueCube": false,
+               "opacity": 0,
+               "bounds": {
+                  "0": {
+                     "from": [
+                        0,
+                        0.9167,
+                        0
+                     ],
+                     "to": [
+                        1,
+                        1,
+                        1
+                     ]
+                  },
+                  "1": {
+                     "from": [
+                        0,
+                        0,
+                        0
+                     ],
+                     "to": [
+                        1,
+                        0.0833,
+                        1
+                     ]
+                  },
+                  "2": {
+                     "from": [
+                        0,
+                        0,
+                        0.9167
+                     ],
+                     "to": [
+                        1,
+                        1,
+                        1
+                     ]
+                  },
+                  "3": {
+                     "from": [
+                        0,
+                        0,
+                        0
+                     ],
+                     "to": [
+                        1,
+                        1,
+                        0.0833
+                     ]
+                  },
+                  "4": {
+                     "from": [
+                        0.9167,
+                        0,
+                        0
+                     ],
+                     "to": [
+                        1,
+                        1,
+                        1
+                     ]
+                  },
+                  "5": {
+                     "from": [
+                        0,
+                        0,
+                        0
+                     ],
+                     "to": [
+                        0.0833,
+                        1,
+                        1
+                     ]
+                  }
+               },
+               "selectionBounds": {
+                  "0": {
+                     "from": [
+                        0,
+                        0.9167,
+                        0
+                     ],
+                     "to": [
+                        1,
+                        1,
+                        1
+                     ]
+                  },
+                  "1": {
+                     "from": [
+                        0,
+                        0,
+                        0
+                     ],
+                     "to": [
+                        1,
+                        0.0833,
+                        1
+                     ]
+                  },
+                  "2": {
+                     "from": [
+                        0,
+                        0,
+                        0.9167
+                     ],
+                     "to": [
+                        1,
+                        1,
+                        1
+                     ]
+                  },
+                  "3": {
+                     "from": [
+                        0,
+                        0,
+                        0
+                     ],
+                     "to": [
+                        1,
+                        1,
+                        0.0833
+                     ]
+                  },
+                  "4": {
+                     "from": [
+                        0.9167,
+                        0,
+                        0
+                     ],
+                     "to": [
+                        1,
+                        1,
+                        1
+                     ]
+                  },
+                  "5": {
+                     "from": [
+                        0,
+                        0,
+                        0
+                     ],
+                     "to": [
+                        0.0833,
+                        1,
+                        1
+                     ]
+                  }
+               },
+               "collisionBounds": {
+                  "0": {
+                     "from": [
+                        0,
+                        0.9167,
+                        0
+                     ],
+                     "to": [
+                        1,
+                        1,
+                        1
+                     ]
+                  },
+                  "1": {
+                     "from": [
+                        0,
+                        0,
+                        0
+                     ],
+                     "to": [
+                        1,
+                        0.0833,
+                        1
+                     ]
+                  },
+                  "2": {
+                     "from": [
+                        0,
+                        0,
+                        0.9167
+                     ],
+                     "to": [
+                        1,
+                        1,
+                        1
+                     ]
+                  },
+                  "3": {
+                     "from": [
+                        0,
+                        0,
+                        0
+                     ],
+                     "to": [
+                        1,
+                        1,
+                        0.0833
+                     ]
+                  },
+                  "4": {
+                     "from": [
+                        0.9167,
+                        0,
+                        0
+                     ],
+                     "to": [
+                        1,
+                        1,
+                        1
+                     ]
+                  },
+                  "5": {
+                     "from": [
+                        0,
+                        0,
+                        0
+                     ],
+                     "to": [
+                        0.0833,
+                        1,
+                        1
+                     ]
                   }
                }
-            ]
-         },
-         {
-           "type": "block:door",
-           "entries": [
-             {
+            }
+         ]
+      },
+      {
+         "type": "block:door",
+         "entries": [
+            {
                "id": "door_crusted_metal_tagged",
                "creativeTab": "stew_blocks_dungeon",
                "itemModel": "stewblocks:door_crusted_metal_tagged",
-               "hardness" : 999999,
+               "hardness": 999999,
                "opensWithRedstone": false,
-               "opensWithHands":  true
-           }      
-       ]
-       }
-           ] 
-           }
-     
+               "opensWithHands": true
+            }
+         ]
+      }
+   ]
+}

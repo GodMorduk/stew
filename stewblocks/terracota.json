@@ -1,18 +1,18 @@
 {
-   "blocks":[
+   "blocks": [
       {
          "type": "block:simple",
-         "entries":[
+         "entries": [
             {
-                "id": "mosaic_blue",
-                "material": "rock",
-                "creativeTab": "stew_blocks_stone"
+               "id": "mosaic_blue",
+               "material": "rock",
+               "creativeTab": "stew_blocks_stone"
             }
          ]
       },
       {
          "type": "block:simple",
-         "entries":[
+         "entries": [
             {
                "id": "mosaic_indian",
                "material": "rock",
@@ -22,7 +22,7 @@
       },
       {
          "type": "block:simple",
-         "entries":[
+         "entries": [
             {
                "id": "mosaic_red",
                "material": "rock",
@@ -32,7 +32,7 @@
       },
       {
          "type": "block:simple",
-         "entries":[
+         "entries": [
             {
                "id": "mosaic_rhombus",
                "material": "rock",
@@ -42,7 +42,7 @@
       },
       {
          "type": "block:simple",
-         "entries":[
+         "entries": [
             {
                "id": "mosaic_romani",
                "material": "rock",
@@ -52,7 +52,7 @@
       },
       {
          "type": "block:simple",
-         "entries":[
+         "entries": [
             {
                "id": "mosaic_spanisharabic",
                "material": "rock",
@@ -62,7 +62,7 @@
       },
       {
          "type": "block:orientable:directional",
-         "entries":[
+         "entries": [
             {
                "id": "wall_ornament_01",
                "creativeTab": "stew_blocks_stone",
@@ -70,12 +70,12 @@
                "itemModel": "stewblocks:wall_ornament_01",
                "hardness": 1,
                "faceBySide": true
-             }
+            }
          ]
       },
       {
          "type": "block:orientable:directional",
-         "entries":[
+         "entries": [
             {
                "id": "wall_ornament_02",
                "creativeTab": "stew_blocks_stone",
@@ -83,12 +83,12 @@
                "itemModel": "stewblocks:wall_ornament_02",
                "hardness": 1,
                "faceBySide": true
-             }
+            }
          ]
       },
       {
          "type": "block:orientable:directional",
-         "entries":[
+         "entries": [
             {
                "id": "wall_ornament_03",
                "creativeTab": "stew_blocks_stone",
@@ -96,12 +96,12 @@
                "itemModel": "stewblocks:wall_ornament_03",
                "hardness": 1,
                "faceBySide": true
-             }
+            }
          ]
       },
       {
          "type": "block:orientable:directional",
-         "entries":[
+         "entries": [
             {
                "id": "wall_ornament_04",
                "creativeTab": "stew_blocks_stone",
@@ -109,12 +109,12 @@
                "itemModel": "stewblocks:wall_ornament_04",
                "hardness": 1,
                "faceBySide": true
-             }
+            }
          ]
       },
       {
          "type": "block:orientable:directional",
-         "entries":[
+         "entries": [
             {
                "id": "wall_ornament_05",
                "creativeTab": "stew_blocks_stone",
@@ -122,12 +122,12 @@
                "itemModel": "stewblocks:wall_ornament_05",
                "hardness": 1,
                "faceBySide": true
-             }
+            }
          ]
       },
       {
          "type": "block:orientable:directional",
-         "entries":[
+         "entries": [
             {
                "id": "wall_ornament_06",
                "creativeTab": "stew_blocks_stone",
@@ -135,12 +135,12 @@
                "itemModel": "stewblocks:wall_ornament_06",
                "hardness": 1,
                "faceBySide": true
-             }
+            }
          ]
       },
       {
          "type": "block:orientable:directional",
-         "entries":[
+         "entries": [
             {
                "id": "wall_ornament_07",
                "creativeTab": "stew_blocks_stone",
@@ -148,12 +148,12 @@
                "itemModel": "stewblocks:wall_ornament_07",
                "hardness": 1,
                "faceBySide": true
-             }
+            }
          ]
       },
       {
          "type": "block:orientable:directional",
-         "entries":[
+         "entries": [
             {
                "id": "wall_ornament_08",
                "creativeTab": "stew_blocks_stone",
@@ -161,12 +161,12 @@
                "itemModel": "stewblocks:wall_ornament_08",
                "hardness": 1,
                "faceBySide": true
-             }
+            }
          ]
       },
       {
          "type": "block:orientable:directional",
-         "entries":[
+         "entries": [
             {
                "id": "wall_ornament_09",
                "creativeTab": "stew_blocks_stone",
@@ -174,12 +174,12 @@
                "itemModel": "stewblocks:wall_ornament_09",
                "hardness": 1,
                "faceBySide": true
-             }
+            }
          ]
       },
       {
          "type": "block:orientable:directional",
-         "entries":[
+         "entries": [
             {
                "id": "wall_ornament_10",
                "creativeTab": "stew_blocks_stone",
@@ -187,12 +187,12 @@
                "itemModel": "stewblocks:wall_ornament_10",
                "hardness": 1,
                "faceBySide": true
-             }
+            }
          ]
       },
       {
          "type": "block:orientable:directional",
-         "entries":[
+         "entries": [
             {
                "id": "wall_ornament_11",
                "creativeTab": "stew_blocks_stone",
@@ -200,12 +200,12 @@
                "itemModel": "stewblocks:wall_ornament_11",
                "hardness": 1,
                "faceBySide": true
-             }
+            }
          ]
       },
       {
          "type": "block:orientable:directional",
-         "entries":[
+         "entries": [
             {
                "id": "wall_ornament_12",
                "creativeTab": "stew_blocks_stone",
@@ -213,12 +213,12 @@
                "itemModel": "stewblocks:wall_ornament_12",
                "hardness": 1,
                "faceBySide": true
-             }
+            }
          ]
       },
       {
          "type": "block:orientable:directional",
-         "entries":[
+         "entries": [
             {
                "id": "wall_ornament_13",
                "creativeTab": "stew_blocks_stone",
@@ -226,12 +226,12 @@
                "itemModel": "stewblocks:wall_ornament_13",
                "hardness": 1,
                "faceBySide": true
-             }
+            }
          ]
       },
       {
          "type": "block:orientable:directional",
-         "entries":[
+         "entries": [
             {
                "id": "wall_ornament_14",
                "creativeTab": "stew_blocks_stone",
@@ -239,12 +239,12 @@
                "itemModel": "stewblocks:wall_ornament_14",
                "hardness": 1,
                "faceBySide": true
-             }
+            }
          ]
       },
       {
          "type": "block:orientable:directional",
-         "entries":[
+         "entries": [
             {
                "id": "wall_ornament_15",
                "creativeTab": "stew_blocks_stone",
@@ -252,12 +252,12 @@
                "itemModel": "stewblocks:wall_ornament_15",
                "hardness": 1,
                "faceBySide": true
-             }
+            }
          ]
       },
       {
          "type": "block:orientable:directional",
-         "entries":[
+         "entries": [
             {
                "id": "wall_ornament_16",
                "creativeTab": "stew_blocks_stone",
@@ -265,12 +265,12 @@
                "itemModel": "stewblocks:wall_ornament_16",
                "hardness": 1,
                "faceBySide": true
-             }
+            }
          ]
       },
       {
          "type": "block:orientable:directional",
-         "entries":[
+         "entries": [
             {
                "id": "wall_ornament_17",
                "creativeTab": "stew_blocks_stone",
@@ -278,12 +278,12 @@
                "itemModel": "stewblocks:wall_ornament_17",
                "hardness": 1,
                "faceBySide": true
-             }
+            }
          ]
       },
       {
          "type": "block:orientable:directional",
-         "entries":[
+         "entries": [
             {
                "id": "wall_ornament_18",
                "creativeTab": "stew_blocks_stone",
@@ -291,12 +291,12 @@
                "itemModel": "stewblocks:wall_ornament_18",
                "hardness": 1,
                "faceBySide": true
-             }
+            }
          ]
       },
       {
          "type": "block:orientable:directional",
-         "entries":[
+         "entries": [
             {
                "id": "wall_ornament_19",
                "creativeTab": "stew_blocks_stone",
@@ -304,12 +304,12 @@
                "itemModel": "stewblocks:wall_ornament_19",
                "hardness": 1,
                "faceBySide": true
-             }
+            }
          ]
       },
       {
          "type": "block:orientable:directional",
-         "entries":[
+         "entries": [
             {
                "id": "wall_ornament_20",
                "creativeTab": "stew_blocks_stone",
@@ -317,12 +317,12 @@
                "itemModel": "stewblocks:wall_ornament_20",
                "hardness": 1,
                "faceBySide": true
-             }
+            }
          ]
       },
       {
          "type": "block:orientable:directional",
-         "entries":[
+         "entries": [
             {
                "id": "wall_ornament_22",
                "creativeTab": "stew_blocks_stone",
@@ -330,12 +330,12 @@
                "itemModel": "stewblocks:wall_ornament_22",
                "hardness": 1,
                "faceBySide": true
-             }
+            }
          ]
       },
       {
          "type": "block:orientable:directional",
-         "entries":[
+         "entries": [
             {
                "id": "wall_ornament_23",
                "creativeTab": "stew_blocks_stone",
@@ -343,12 +343,12 @@
                "itemModel": "stewblocks:wall_ornament_23",
                "hardness": 1,
                "faceBySide": true
-             }
+            }
          ]
       },
       {
          "type": "block:orientable:directional",
-         "entries":[
+         "entries": [
             {
                "id": "wall_ornament_25",
                "creativeTab": "stew_blocks_stone",
@@ -356,12 +356,12 @@
                "itemModel": "stewblocks:wall_ornament_25",
                "hardness": 1,
                "faceBySide": true
-             }
+            }
          ]
       },
       {
          "type": "block:orientable:directional",
-         "entries":[
+         "entries": [
             {
                "id": "wall_sindarin_01",
                "creativeTab": "stew_blocks_stone",
@@ -369,12 +369,12 @@
                "itemModel": "stewblocks:wall_sindarin_01",
                "hardness": 1,
                "faceBySide": true
-             }
+            }
          ]
       },
       {
          "type": "block:orientable:directional",
-         "entries":[
+         "entries": [
             {
                "id": "wall_sindarin_02",
                "creativeTab": "stew_blocks_stone",
@@ -382,12 +382,12 @@
                "itemModel": "stewblocks:wall_sindarin_02",
                "hardness": 1,
                "faceBySide": true
-             }
+            }
          ]
       },
       {
          "type": "block:orientable:directional",
-         "entries":[
+         "entries": [
             {
                "id": "wall_sindarin_03",
                "creativeTab": "stew_blocks_stone",
@@ -395,12 +395,12 @@
                "itemModel": "stewblocks:wall_sindarin_03",
                "hardness": 1,
                "faceBySide": true
-             }
+            }
          ]
       },
       {
          "type": "block:orientable:directional",
-         "entries":[
+         "entries": [
             {
                "id": "wall_sindarin_04",
                "creativeTab": "stew_blocks_stone",
@@ -408,12 +408,12 @@
                "itemModel": "stewblocks:wall_sindarin_04",
                "hardness": 1,
                "faceBySide": true
-             }
+            }
          ]
       },
       {
          "type": "block:orientable:directional",
-         "entries":[
+         "entries": [
             {
                "id": "wall_sindarin_05",
                "creativeTab": "stew_blocks_stone",
@@ -421,12 +421,12 @@
                "itemModel": "stewblocks:wall_sindarin_05",
                "hardness": 1,
                "faceBySide": true
-             }
+            }
          ]
       },
       {
          "type": "block:orientable:directional",
-         "entries":[
+         "entries": [
             {
                "id": "wall_sindarin_06",
                "creativeTab": "stew_blocks_stone",
@@ -434,12 +434,12 @@
                "itemModel": "stewblocks:wall_sindarin_06",
                "hardness": 1,
                "faceBySide": true
-             }
+            }
          ]
       },
       {
          "type": "block:simple",
-         "entries":[
+         "entries": [
             {
                "id": "wall_sindarin_dark",
                "creativeTab": "stew_blocks_stone",
@@ -447,12 +447,12 @@
                "itemModel": "stewblocks:wall_sindarin_dark",
                "hardness": 1,
                "faceBySide": true
-             }
+            }
          ]
       },
       {
          "type": "block:simple",
-         "entries":[
+         "entries": [
             {
                "id": "wall_sindarin",
                "creativeTab": "stew_blocks_stone",
@@ -460,9 +460,8 @@
                "itemModel": "stewblocks:wall_sindarin",
                "hardness": 1,
                "faceBySide": true
-             }
+            }
          ]
       }
-
    ]
-}     
+}

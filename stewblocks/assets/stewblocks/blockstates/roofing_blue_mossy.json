@@ -1,5 +1,7 @@
 {
-    "variants": {
-      "normal": {"model": "stewblocks:roofing_blue_mossy"}
+  "variants": {
+    "normal": {
+      "model": "stewblocks:roofing_blue_mossy"
     }
   }
+}
