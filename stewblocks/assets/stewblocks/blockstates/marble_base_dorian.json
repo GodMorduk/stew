@@ -1,5 +1,7 @@
 {
     "variants": {
-    "normal": {"model": "stewblocks:marble_base_dorian"}  
+        "normal": {
+            "model": "stewblocks:marble_base_dorian"
+        }
     }
 }

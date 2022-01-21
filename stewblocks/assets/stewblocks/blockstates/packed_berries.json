@@ -1,5 +1,7 @@
 {
   "variants": {
-	"normal": {"model": "stewblocks:packed_berries"}
+    "normal": {
+      "model": "stewblocks:packed_berries"
+    }
   }
 }

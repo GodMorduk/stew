@@ -2,5 +2,5 @@
     "parent": "block/pane_post",
     "textures": {
         "edge": "stewblocks:blocks/laser_barrier_top"
-        }
     }
+}

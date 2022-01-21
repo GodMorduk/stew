@@ -1,5 +1,7 @@
 {
   "variants": {
-  "normal": {"model": "stewblocks:bedrock_small_bricks"}
+    "normal": {
+      "model": "stewblocks:bedrock_small_bricks"
+    }
   }
 }

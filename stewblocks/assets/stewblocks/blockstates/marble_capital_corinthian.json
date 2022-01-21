@@ -1,5 +1,7 @@
 {
     "variants": {
-    "normal": {"model": "stewblocks:marble_capital_corinthian"}  
+        "normal": {
+            "model": "stewblocks:marble_capital_corinthian"
+        }
     }
 }

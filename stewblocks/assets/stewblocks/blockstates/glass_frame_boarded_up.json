@@ -1,5 +1,7 @@
 {
-    "variants": {
-      "normal": {"model": "stewblocks:glass_frame_boarded_up"}
+  "variants": {
+    "normal": {
+      "model": "stewblocks:glass_frame_boarded_up"
     }
+  }
 }

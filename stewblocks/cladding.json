@@ -1,166 +1,164 @@
 {
-    "blocks":[
-       {
-          "type": "block:simple",
-          "entries":[
-             {
-                "id": "cladding_black",
-                "material": "iron",
-                "creativeTab": "stew_blocks_metal"
-               }
-            ]
-         },
-         {
-            "type": "block:simple",
-            "entries":[
-               {
-                  "id": "cladding_blue",
-                  "material": "iron",
-                  "creativeTab": "stew_blocks_metal"
-                 }
-              ]
-           },
-           {
-            "type": "block:simple",
-            "entries":[
-               {
-                  "id": "cladding_brown",
-                  "material": "iron",
-                  "creativeTab": "stew_blocks_metal"
-                 }
-              ]
-           },
-           {
-            "type": "block:simple",
-            "entries":[
-               {
-                  "id": "cladding_cyan",
-                  "material": "iron",
-                  "creativeTab": "stew_blocks_metal"
-                 }
-              ]
-           },
-           {
-            "type": "block:simple",
-            "entries":[
-               {
-                  "id": "cladding_green_2",
-                  "material": "iron",
-                  "creativeTab": "stew_blocks_metal"
-                 }
-              ]
-           },
-           {
-            "type": "block:simple",
-            "entries":[
-               {
-                  "id": "cladding_grey",
-                  "material": "iron",
-                  "creativeTab": "stew_blocks_metal"
-                 }
-              ]
-           },
-           {
-            "type": "block:simple",
-            "entries":[
-               {
-                  "id": "cladding_lightblue",
-                  "material": "iron",
-                  "creativeTab": "stew_blocks_metal"
-                 }
-              ]
-           },
-           {
-            "type": "block:simple",
-            "entries":[
-               {
-                  "id": "cladding_lightgrey",
-                  "material": "iron",
-                  "creativeTab": "stew_blocks_metal"
-                 }
-              ]
-           },
-           {
-            "type": "block:simple",
-            "entries":[
-               {
-                  "id": "cladding_lime",
-                  "material": "iron",
-                  "creativeTab": "stew_blocks_metal"
-                 }
-              ]
-           },
-           {
-            "type": "block:simple",
-            "entries":[
-               {
-                  "id": "cladding_magenta",
-                  "material": "iron",
-                  "creativeTab": "stew_blocks_metal"
-                 }
-              ]
-           },
-           {
-            "type": "block:simple",
-            "entries":[
-               {
-                  "id": "cladding_orange",
-                  "material": "iron",
-                  "creativeTab": "stew_blocks_metal"
-                 }
-              ]
-           },
-           {
-            "type": "block:simple",
-            "entries":[
-               {
-                  "id": "cladding_pink",
-                  "material": "iron",
-                  "creativeTab": "stew_blocks_metal"
-                 }
-              ]
-           },
-           {
-            "type": "block:simple",
-            "entries":[
-               {
-                  "id": "cladding_purple",
-                  "material": "iron",
-                  "creativeTab": "stew_blocks_metal"
-                 }
-              ]
-           },
-           {
-            "type": "block:simple",
-            "entries":[
-               {
-                  "id": "cladding_red",
-                  "material": "iron",
-                  "creativeTab": "stew_blocks_metal"
-                 }
-              ]
-           },
-           {
-            "type": "block:simple",
-            "entries":[
-               {
-                  "id": "cladding_white",
-                  "material": "iron",
-                  "creativeTab": "stew_blocks_metal"
-                 }
-              ]
-           },
-           {
-            "type": "block:simple",
-            "entries":[
-               {
-                  "id": "cladding_yellow",
-                  "material": "iron",
-                  "creativeTab": "stew_blocks_metal"
-                 }
-              ]
-           }
-
-         
-      ]
-   }
+   "blocks": [
+      {
+         "type": "block:simple",
+         "entries": [
+            {
+               "id": "cladding_black",
+               "material": "iron",
+               "creativeTab": "stew_blocks_metal"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries": [
+            {
+               "id": "cladding_blue",
+               "material": "iron",
+               "creativeTab": "stew_blocks_metal"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries": [
+            {
+               "id": "cladding_brown",
+               "material": "iron",
+               "creativeTab": "stew_blocks_metal"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries": [
+            {
+               "id": "cladding_cyan",
+               "material": "iron",
+               "creativeTab": "stew_blocks_metal"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries": [
+            {
+               "id": "cladding_green_2",
+               "material": "iron",
+               "creativeTab": "stew_blocks_metal"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries": [
+            {
+               "id": "cladding_grey",
+               "material": "iron",
+               "creativeTab": "stew_blocks_metal"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries": [
+            {
+               "id": "cladding_lightblue",
+               "material": "iron",
+               "creativeTab": "stew_blocks_metal"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries": [
+            {
+               "id": "cladding_lightgrey",
+               "material": "iron",
+               "creativeTab": "stew_blocks_metal"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries": [
+            {
+               "id": "cladding_lime",
+               "material": "iron",
+               "creativeTab": "stew_blocks_metal"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries": [
+            {
+               "id": "cladding_magenta",
+               "material": "iron",
+               "creativeTab": "stew_blocks_metal"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries": [
+            {
+               "id": "cladding_orange",
+               "material": "iron",
+               "creativeTab": "stew_blocks_metal"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries": [
+            {
+               "id": "cladding_pink",
+               "material": "iron",
+               "creativeTab": "stew_blocks_metal"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries": [
+            {
+               "id": "cladding_purple",
+               "material": "iron",
+               "creativeTab": "stew_blocks_metal"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries": [
+            {
+               "id": "cladding_red",
+               "material": "iron",
+               "creativeTab": "stew_blocks_metal"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries": [
+            {
+               "id": "cladding_white",
+               "material": "iron",
+               "creativeTab": "stew_blocks_metal"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries": [
+            {
+               "id": "cladding_yellow",
+               "material": "iron",
+               "creativeTab": "stew_blocks_metal"
+            }
+         ]
+      }
+   ]
+}

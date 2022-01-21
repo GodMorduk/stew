@@ -1,9 +1,8 @@
-
-  {
-    "parent": "stewblocks:block/thin_slab",
-    "textures": {  
-      "front": "stewblocks:blocks/force_field_meander",
-      "back": "stewblocks:blocks/force_field_meander",     
-      "side": "stewblocks:blocks/force_field_meander"
-    }
+{
+  "parent": "stewblocks:block/thin_slab",
+  "textures": {
+    "front": "stewblocks:blocks/force_field_meander",
+    "back": "stewblocks:blocks/force_field_meander",
+    "side": "stewblocks:blocks/force_field_meander"
   }
+}

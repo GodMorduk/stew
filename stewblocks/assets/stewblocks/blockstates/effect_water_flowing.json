@@ -1,10 +1,37 @@
 {
-    "variants": {
-      "facing=north": { "model": "stewblocks:effect_water_flowing", "x": 90, "y": 0, "uvlock": true},
-      "facing=east": { "model": "stewblocks:effect_water_flowing", "x": 90, "y": 90, "uvlock": true },
-      "facing=south": { "model": "stewblocks:effect_water_flowing", "x": 90, "y": 180, "uvlock": true },
-      "facing=west": { "model": "stewblocks:effect_water_flowing", "x": 90, "y": 270, "uvlock": true },
-      "facing=up": { "model": "stewblocks:effect_water_flowing", "uvlock": true },
-      "facing=down": { "model": "stewblocks:effect_water_flowing", "x": 180, "uvlock": true }
+  "variants": {
+    "facing=north": {
+      "model": "stewblocks:effect_water_flowing",
+      "x": 90,
+      "y": 0,
+      "uvlock": true
+    },
+    "facing=east": {
+      "model": "stewblocks:effect_water_flowing",
+      "x": 90,
+      "y": 90,
+      "uvlock": true
+    },
+    "facing=south": {
+      "model": "stewblocks:effect_water_flowing",
+      "x": 90,
+      "y": 180,
+      "uvlock": true
+    },
+    "facing=west": {
+      "model": "stewblocks:effect_water_flowing",
+      "x": 90,
+      "y": 270,
+      "uvlock": true
+    },
+    "facing=up": {
+      "model": "stewblocks:effect_water_flowing",
+      "uvlock": true
+    },
+    "facing=down": {
+      "model": "stewblocks:effect_water_flowing",
+      "x": 180,
+      "uvlock": true
     }
   }
+}

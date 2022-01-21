@@ -1,5 +1,7 @@
 {
-    "variants": {
-    "normal": {"model": "stewblocks:bedrock_pillar"}
+  "variants": {
+    "normal": {
+      "model": "stewblocks:bedrock_pillar"
     }
   }
+}

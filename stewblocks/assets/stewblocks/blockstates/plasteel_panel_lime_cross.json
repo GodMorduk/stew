@@ -1,5 +1,7 @@
 {
-    "variants": {
-      "normal": {"model": "stewblocks:plasteel_panel_lime_cross"}
+  "variants": {
+    "normal": {
+      "model": "stewblocks:plasteel_panel_lime_cross"
     }
   }
+}

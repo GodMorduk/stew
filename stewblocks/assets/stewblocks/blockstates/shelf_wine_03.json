@@ -1,8 +1,19 @@
 {
     "variants": {
-    "facing=north": { "model": "stewblocks:shelf_wine_03" },
-    "facing=south": { "model": "stewblocks:shelf_wine_03", "y": 180 },
-    "facing=west":  { "model": "stewblocks:shelf_wine_03", "y": 270 },
-    "facing=east":  { "model": "stewblocks:shelf_wine_03", "y": 90 }
-}
+        "facing=north": {
+            "model": "stewblocks:shelf_wine_03"
+        },
+        "facing=south": {
+            "model": "stewblocks:shelf_wine_03",
+            "y": 180
+        },
+        "facing=west": {
+            "model": "stewblocks:shelf_wine_03",
+            "y": 270
+        },
+        "facing=east": {
+            "model": "stewblocks:shelf_wine_03",
+            "y": 90
+        }
+    }
 }

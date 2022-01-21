@@ -1,5 +1,7 @@
 {
-    "variants": {
-      "normal": {"model": "stewblocks:old_metal_flor_scarlet"}
+  "variants": {
+    "normal": {
+      "model": "stewblocks:old_metal_flor_scarlet"
     }
+  }
 }

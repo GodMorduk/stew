@@ -1,5 +1,7 @@
 {
-    "variants": {
-      "normal": {"model": "stewblocks:ruin_tomb_marble"}
+  "variants": {
+    "normal": {
+      "model": "stewblocks:ruin_tomb_marble"
     }
   }
+}

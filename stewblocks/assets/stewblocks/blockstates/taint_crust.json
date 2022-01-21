@@ -1,5 +1,7 @@
 {
-    "variants": {
-      "normal": {"model": "stewblocks:taint_crust"}
+  "variants": {
+    "normal": {
+      "model": "stewblocks:taint_crust"
     }
   }
+}

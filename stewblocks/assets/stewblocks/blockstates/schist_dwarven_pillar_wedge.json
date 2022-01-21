@@ -1,5 +1,7 @@
 {
-    "variants": {
-      "normal": {"model": "stewblocks:schist_dwarven_pillar_wedge"}
+  "variants": {
+    "normal": {
+      "model": "stewblocks:schist_dwarven_pillar_wedge"
     }
+  }
 }

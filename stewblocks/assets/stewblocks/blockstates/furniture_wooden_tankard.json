@@ -1,8 +1,20 @@
 {
     "variants": {
-    "facing=north": { "model": "stewblocks:furniture_wooden_tankard", "y": 180},
-    "facing=south": { "model": "stewblocks:furniture_wooden_tankard", "y": 0 },
-    "facing=west":  { "model": "stewblocks:furniture_wooden_tankard", "y": 90 },
-    "facing=east":  { "model": "stewblocks:furniture_wooden_tankard", "y": 270 }
-}
+        "facing=north": {
+            "model": "stewblocks:furniture_wooden_tankard",
+            "y": 180
+        },
+        "facing=south": {
+            "model": "stewblocks:furniture_wooden_tankard",
+            "y": 0
+        },
+        "facing=west": {
+            "model": "stewblocks:furniture_wooden_tankard",
+            "y": 90
+        },
+        "facing=east": {
+            "model": "stewblocks:furniture_wooden_tankard",
+            "y": 270
+        }
+    }
 }

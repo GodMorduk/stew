@@ -1,5 +1,7 @@
 {
     "variants": {
-    "normal": {"model": "stewblocks:sandstone_capital_eagle"}  
+        "normal": {
+            "model": "stewblocks:sandstone_capital_eagle"
+        }
     }
 }

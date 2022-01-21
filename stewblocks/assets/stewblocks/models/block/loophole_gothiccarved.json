@@ -1,8 +1,8 @@
 {
-    "parent": "stewblocks:block/stew_loophole",
-    "textures": {
-		"face": "stewblocks:blocks/loophole_gothiccarved",
-		"side": "minecraft:blocks/stone_slab_top",
+  "parent": "stewblocks:block/stew_loophole",
+  "textures": {
+    "face": "stewblocks:blocks/loophole_gothiccarved",
+    "side": "minecraft:blocks/stone_slab_top",
     "particle": "stewblocks:blocks/loophole_gothiccarved"
-    }
+  }
 }

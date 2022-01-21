@@ -1,255 +1,255 @@
 {
-"blocks":[
-    {
-       "type": "block:simple",
-       "entries":[
-          {
-              "id": "schist_dwarven_design",
-              "material": "rock",
-              "creativeTab": "stew_blocks_stone"
-            }
-        ]
-     },
-     {
-        "type": "block:simple",
-        "entries":[
-           {
-               "id": "schist_dwarven_pillar_decorative",
-               "material": "rock",
-               "creativeTab": "stew_blocks_stone"
-             }
-         ]
-        },
+    "blocks": [
         {
-           "type": "block:simple",
-           "entries":[
-              {
-                  "id": "schist_dwarven_pillar_rough",
-                  "material": "rock",
-                  "creativeTab": "stew_blocks_stone"
+            "type": "block:simple",
+            "entries": [
+                {
+                    "id": "schist_dwarven_design",
+                    "material": "rock",
+                    "creativeTab": "stew_blocks_stone"
                 }
             ]
         },
         {
-           "type": "block:simple",
-           "entries":[
-              {
-                  "id": "schist_dwarven_pillar_wedge",
-                  "material": "rock",
-                  "creativeTab": "stew_blocks_stone"
+            "type": "block:simple",
+            "entries": [
+                {
+                    "id": "schist_dwarven_pillar_decorative",
+                    "material": "rock",
+                    "creativeTab": "stew_blocks_stone"
                 }
             ]
         },
         {
-           "type": "block:simple",
-           "entries":[
-              {
-                  "id": "schist_dwarven_plain",
-                  "material": "rock",
-                  "creativeTab": "stew_blocks_stone"
+            "type": "block:simple",
+            "entries": [
+                {
+                    "id": "schist_dwarven_pillar_rough",
+                    "material": "rock",
+                    "creativeTab": "stew_blocks_stone"
                 }
             ]
         },
         {
-           "type": "block:simple",
-           "entries":[
-              {
-                  "id": "schist_dwarven_runes",
-                  "material": "rock",
-                  "creativeTab": "stew_blocks_stone"
+            "type": "block:simple",
+            "entries": [
+                {
+                    "id": "schist_dwarven_pillar_wedge",
+                    "material": "rock",
+                    "creativeTab": "stew_blocks_stone"
                 }
             ]
         },
         {
-           "type": "block:simple",
-           "entries":[
-              {
-                  "id": "stone_elven_cross",
-                  "material": "rock",
-                  "creativeTab": "stew_blocks_stone"
+            "type": "block:simple",
+            "entries": [
+                {
+                    "id": "schist_dwarven_plain",
+                    "material": "rock",
+                    "creativeTab": "stew_blocks_stone"
                 }
             ]
         },
         {
-           "type": "block:simple",
-           "entries":[
-              {
-                  "id": "stone_elven_pillar_floristic",
-                  "material": "rock",
-                  "creativeTab": "stew_blocks_stone"
+            "type": "block:simple",
+            "entries": [
+                {
+                    "id": "schist_dwarven_runes",
+                    "material": "rock",
+                    "creativeTab": "stew_blocks_stone"
                 }
             ]
         },
         {
-           "type": "block:simple",
-           "entries":[
-              {
-                  "id": "stone_elven_pillar_wave",
-                  "material": "rock",
-                  "creativeTab": "stew_blocks_stone"
+            "type": "block:simple",
+            "entries": [
+                {
+                    "id": "stone_elven_cross",
+                    "material": "rock",
+                    "creativeTab": "stew_blocks_stone"
                 }
             ]
         },
         {
-           "type": "block:simple",
-           "entries":[
-              {
-                  "id": "stone_elven_shabby",
-                  "material": "rock",
-                  "creativeTab": "stew_blocks_stone"
+            "type": "block:simple",
+            "entries": [
+                {
+                    "id": "stone_elven_pillar_floristic",
+                    "material": "rock",
+                    "creativeTab": "stew_blocks_stone"
                 }
             ]
         },
         {
-           "type": "block:orientable:horizontal",
-           "entries":[
-              {
-                  "id": "stone_green_fetis_blaze",
-                  "material": "rock",
-                  "light" : 15,                 
-                  "creativeTab": "stew_blocks_stone"
+            "type": "block:simple",
+            "entries": [
+                {
+                    "id": "stone_elven_pillar_wave",
+                    "material": "rock",
+                    "creativeTab": "stew_blocks_stone"
                 }
             ]
         },
         {
-           "type": "block:orientable:horizontal",
-           "entries":[
-              {
-                  "id": "stone_green_fetis_fish",
-                  "material": "rock",
-                  "creativeTab": "stew_blocks_stone"
+            "type": "block:simple",
+            "entries": [
+                {
+                    "id": "stone_elven_shabby",
+                    "material": "rock",
+                    "creativeTab": "stew_blocks_stone"
                 }
             ]
         },
         {
-           "type": "block:orientable:horizontal",
-           "entries":[
-              {
-                  "id": "stone_green_fetis_fool",
-                  "material": "rock",
-                  "creativeTab": "stew_blocks_stone"
+            "type": "block:orientable:horizontal",
+            "entries": [
+                {
+                    "id": "stone_green_fetis_blaze",
+                    "material": "rock",
+                    "light": 15,
+                    "creativeTab": "stew_blocks_stone"
                 }
             ]
         },
         {
-           "type": "block:orientable:horizontal",
-           "entries":[
-              {
-                  "id": "stone_green_fetis_frog",
-                  "material": "rock",
-                  "creativeTab": "stew_blocks_stone"
+            "type": "block:orientable:horizontal",
+            "entries": [
+                {
+                    "id": "stone_green_fetis_fish",
+                    "material": "rock",
+                    "creativeTab": "stew_blocks_stone"
                 }
             ]
         },
         {
-           "type": "block:orientable:horizontal",
-           "entries":[
-              {
-                  "id": "stone_green_fetis_shishi",
-                  "material": "rock",
-                  "creativeTab": "stew_blocks_stone"
+            "type": "block:orientable:horizontal",
+            "entries": [
+                {
+                    "id": "stone_green_fetis_fool",
+                    "material": "rock",
+                    "creativeTab": "stew_blocks_stone"
                 }
             ]
         },
         {
-           "type": "block:orientable:horizontal",
-           "entries":[
-              {
-                  "id": "stone_green_fetis_trickster",
-                  "material": "rock",
-                  "creativeTab": "stew_blocks_stone"
+            "type": "block:orientable:horizontal",
+            "entries": [
+                {
+                    "id": "stone_green_fetis_frog",
+                    "material": "rock",
+                    "creativeTab": "stew_blocks_stone"
                 }
             ]
         },
         {
-           "type": "block:simple",
-           "entries":[
-              {
-                  "id": "stone_green",
-                  "material": "rock",
-                  "creativeTab": "stew_blocks_stone"
+            "type": "block:orientable:horizontal",
+            "entries": [
+                {
+                    "id": "stone_green_fetis_shishi",
+                    "material": "rock",
+                    "creativeTab": "stew_blocks_stone"
                 }
             ]
         },
         {
-           "type": "block:simple",
-           "entries":[
-              {
-                  "id": "stone_imperial_base",
-                  "material": "rock",
-                  "creativeTab": "stew_blocks_stone"
+            "type": "block:orientable:horizontal",
+            "entries": [
+                {
+                    "id": "stone_green_fetis_trickster",
+                    "material": "rock",
+                    "creativeTab": "stew_blocks_stone"
                 }
             ]
         },
         {
-           "type": "block:simple",
-           "entries":[
-              {
-                  "id": "stone_imperial_chiseled",
-                  "material": "rock",
-                  "creativeTab": "stew_blocks_stone"
+            "type": "block:simple",
+            "entries": [
+                {
+                    "id": "stone_green",
+                    "material": "rock",
+                    "creativeTab": "stew_blocks_stone"
                 }
             ]
         },
         {
-           "type": "block:simple",
-           "entries":[
-              {
-                  "id": "stone_imperial_pillar",
-                  "material": "rock",
-                  "creativeTab": "stew_blocks_stone"
+            "type": "block:simple",
+            "entries": [
+                {
+                    "id": "stone_imperial_base",
+                    "material": "rock",
+                    "creativeTab": "stew_blocks_stone"
                 }
             ]
         },
         {
-           "type": "block:simple",
-           "entries":[
-              {
-                  "id": "cobblestone_andesite",
-                  "material": "rock",
-                  "creativeTab": "stew_blocks_stone"
+            "type": "block:simple",
+            "entries": [
+                {
+                    "id": "stone_imperial_chiseled",
+                    "material": "rock",
+                    "creativeTab": "stew_blocks_stone"
                 }
             ]
         },
         {
-           "type": "block:simple",
-           "entries":[
-              {
-                  "id": "cobblestone_diorite",
-                  "material": "rock",
-                  "creativeTab": "stew_blocks_stone"
+            "type": "block:simple",
+            "entries": [
+                {
+                    "id": "stone_imperial_pillar",
+                    "material": "rock",
+                    "creativeTab": "stew_blocks_stone"
                 }
             ]
         },
         {
-           "type": "block:simple",
-           "entries":[
-              {
-                  "id": "cobblestone_granite",
-                  "material": "rock",
-                  "creativeTab": "stew_blocks_stone"
+            "type": "block:simple",
+            "entries": [
+                {
+                    "id": "cobblestone_andesite",
+                    "material": "rock",
+                    "creativeTab": "stew_blocks_stone"
                 }
             ]
         },
         {
-           "type": "block:simple",
-           "entries":[
-              {
-                  "id": "cobblestone_limestone",
-                  "material": "rock",
-                  "creativeTab": "stew_blocks_stone"
+            "type": "block:simple",
+            "entries": [
+                {
+                    "id": "cobblestone_diorite",
+                    "material": "rock",
+                    "creativeTab": "stew_blocks_stone"
                 }
             ]
         },
         {
-           "type": "block:simple",
-           "entries":[
-              {
-                  "id": "limestone",
-                  "material": "rock",
-                  "creativeTab": "stew_blocks_stone"
+            "type": "block:simple",
+            "entries": [
+                {
+                    "id": "cobblestone_granite",
+                    "material": "rock",
+                    "creativeTab": "stew_blocks_stone"
+                }
+            ]
+        },
+        {
+            "type": "block:simple",
+            "entries": [
+                {
+                    "id": "cobblestone_limestone",
+                    "material": "rock",
+                    "creativeTab": "stew_blocks_stone"
+                }
+            ]
+        },
+        {
+            "type": "block:simple",
+            "entries": [
+                {
+                    "id": "limestone",
+                    "material": "rock",
+                    "creativeTab": "stew_blocks_stone"
                 }
             ]
         }
     ]
-}  
+}

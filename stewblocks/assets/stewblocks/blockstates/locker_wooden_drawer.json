@@ -1,8 +1,19 @@
 {
     "variants": {
-    "facing=north": { "model": "stewblocks:locker_wooden_drawer" },
-    "facing=south": { "model": "stewblocks:locker_wooden_drawer", "y": 180 },
-    "facing=west":  { "model": "stewblocks:locker_wooden_drawer", "y": 270 },
-    "facing=east":  { "model": "stewblocks:locker_wooden_drawer", "y": 90 }
-}
+        "facing=north": {
+            "model": "stewblocks:locker_wooden_drawer"
+        },
+        "facing=south": {
+            "model": "stewblocks:locker_wooden_drawer",
+            "y": 180
+        },
+        "facing=west": {
+            "model": "stewblocks:locker_wooden_drawer",
+            "y": 270
+        },
+        "facing=east": {
+            "model": "stewblocks:locker_wooden_drawer",
+            "y": 90
+        }
+    }
 }

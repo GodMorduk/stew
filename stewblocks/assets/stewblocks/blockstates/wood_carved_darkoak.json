@@ -1,5 +1,7 @@
 {
-    "variants": {
-      "normal": {"model": "stewblocks:wood_carved_darkoak"}
+  "variants": {
+    "normal": {
+      "model": "stewblocks:wood_carved_darkoak"
     }
   }
+}

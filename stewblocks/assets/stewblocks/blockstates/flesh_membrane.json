@@ -1,10 +1,37 @@
 {
-    "variants": {
-      "facing=north": { "model": "stewblocks:flesh_membrane", "x": 90, "y": 0, "uvlock": true},
-      "facing=east": { "model": "stewblocks:flesh_membrane", "x": 90, "y": 90, "uvlock": true },
-      "facing=south": { "model": "stewblocks:flesh_membrane", "x": 90, "y": 180, "uvlock": true },
-      "facing=west": { "model": "stewblocks:flesh_membrane", "x": 90, "y": 270, "uvlock": true },
-      "facing=up": { "model": "stewblocks:flesh_membrane", "uvlock": true },
-      "facing=down": { "model": "stewblocks:flesh_membrane", "x": 180, "uvlock": true }
+  "variants": {
+    "facing=north": {
+      "model": "stewblocks:flesh_membrane",
+      "x": 90,
+      "y": 0,
+      "uvlock": true
+    },
+    "facing=east": {
+      "model": "stewblocks:flesh_membrane",
+      "x": 90,
+      "y": 90,
+      "uvlock": true
+    },
+    "facing=south": {
+      "model": "stewblocks:flesh_membrane",
+      "x": 90,
+      "y": 180,
+      "uvlock": true
+    },
+    "facing=west": {
+      "model": "stewblocks:flesh_membrane",
+      "x": 90,
+      "y": 270,
+      "uvlock": true
+    },
+    "facing=up": {
+      "model": "stewblocks:flesh_membrane",
+      "uvlock": true
+    },
+    "facing=down": {
+      "model": "stewblocks:flesh_membrane",
+      "x": 180,
+      "uvlock": true
     }
   }
+}

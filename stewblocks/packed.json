@@ -1,8 +1,8 @@
 {
-   "blocks":[
+   "blocks": [
       {
          "type": "block:simple",
-         "entries":[
+         "entries": [
             {
                "id": "packed_apples",
                "material": "tnt",
@@ -12,7 +12,7 @@
       },
       {
          "type": "block:simple",
-         "entries":[
+         "entries": [
             {
                "id": "packed_beets",
                "material": "tnt",
@@ -22,7 +22,7 @@
       },
       {
          "type": "block:simple",
-         "entries":[
+         "entries": [
             {
                "id": "packed_berries",
                "material": "tnt",
@@ -32,7 +32,7 @@
       },
       {
          "type": "block:simple",
-         "entries":[
+         "entries": [
             {
                "id": "packed_bread",
                "material": "tnt",
@@ -42,7 +42,7 @@
       },
       {
          "type": "block:simple",
-         "entries":[
+         "entries": [
             {
                "id": "packed_cabbage",
                "material": "tnt",
@@ -52,7 +52,7 @@
       },
       {
          "type": "block:simple",
-         "entries":[
+         "entries": [
             {
                "id": "packed_carrots",
                "material": "tnt",
@@ -62,7 +62,7 @@
       },
       {
          "type": "block:simple",
-         "entries":[
+         "entries": [
             {
                "id": "packed_cloth",
                "material": "tnt",
@@ -72,7 +72,7 @@
       },
       {
          "type": "block:simple",
-         "entries":[
+         "entries": [
             {
                "id": "packed_coal",
                "material": "tnt",
@@ -82,7 +82,7 @@
       },
       {
          "type": "block:simple",
-         "entries":[
+         "entries": [
             {
                "id": "packed_cocoa",
                "material": "tnt",
@@ -92,7 +92,7 @@
       },
       {
          "type": "block:simple",
-         "entries":[
+         "entries": [
             {
                "id": "packed_cookie",
                "material": "tnt",
@@ -102,7 +102,7 @@
       },
       {
          "type": "block:simple",
-         "entries":[
+         "entries": [
             {
                "id": "packed_cotton",
                "material": "tnt",
@@ -112,7 +112,7 @@
       },
       {
          "type": "block:simple",
-         "entries":[
+         "entries": [
             {
                "id": "packed_diamond",
                "material": "tnt",
@@ -122,7 +122,7 @@
       },
       {
          "type": "block:simple",
-         "entries":[
+         "entries": [
             {
                "id": "packed_eggs",
                "material": "tnt",
@@ -132,7 +132,7 @@
       },
       {
          "type": "block:simple",
-         "entries":[
+         "entries": [
             {
                "id": "packed_emerald",
                "material": "tnt",
@@ -142,17 +142,17 @@
       },
       {
          "type": "block:simple",
-         "entries":[
+         "entries": [
             {
                "id": "packed_fish",
-               "material": "tnt",            
+               "material": "tnt",
                "creativeTab": "stew_blocks_furniture"
             }
          ]
       },
       {
          "type": "block:simple",
-         "entries":[
+         "entries": [
             {
                "id": "packed_flint",
                "material": "tnt",
@@ -162,7 +162,7 @@
       },
       {
          "type": "block:simple",
-         "entries":[
+         "entries": [
             {
                "id": "packed_gold_1",
                "material": "tnt",
@@ -172,7 +172,7 @@
       },
       {
          "type": "block:simple",
-         "entries":[
+         "entries": [
             {
                "id": "packed_gold_02",
                "material": "tnt",
@@ -182,7 +182,7 @@
       },
       {
          "type": "block:simple",
-         "entries":[
+         "entries": [
             {
                "id": "packed_gold_ore",
                "material": "tnt",
@@ -192,7 +192,7 @@
       },
       {
          "type": "block:simple",
-         "entries":[
+         "entries": [
             {
                "id": "packed_grain",
                "material": "tnt",
@@ -202,7 +202,7 @@
       },
       {
          "type": "block:simple",
-         "entries":[
+         "entries": [
             {
                "id": "packed_lapis",
                "material": "tnt",
@@ -212,7 +212,7 @@
       },
       {
          "type": "block:simple",
-         "entries":[
+         "entries": [
             {
                "id": "packed_mre",
                "material": "tnt",
@@ -222,7 +222,7 @@
       },
       {
          "type": "block:simple",
-         "entries":[
+         "entries": [
             {
                "id": "packed_pipeweed",
                "material": "tnt",
@@ -232,7 +232,7 @@
       },
       {
          "type": "block:simple",
-         "entries":[
+         "entries": [
             {
                "id": "packed_oranges",
                "material": "tnt",
@@ -242,7 +242,7 @@
       },
       {
          "type": "block:orientable:directional",
-         "entries":[
+         "entries": [
             {
                "id": "packed_sticks",
                "material": "tnt",
@@ -252,7 +252,7 @@
       },
       {
          "type": "block:simple",
-         "entries":[
+         "entries": [
             {
                "id": "packed_ruby",
                "material": "tnt",
@@ -262,7 +262,7 @@
       },
       {
          "type": "block:simple",
-         "entries":[
+         "entries": [
             {
                "id": "packed_turnip",
                "material": "tnt",
@@ -272,7 +272,7 @@
       },
       {
          "type": "block:simple",
-         "entries":[
+         "entries": [
             {
                "id": "packed_tomatos",
                "material": "tnt",
@@ -282,7 +282,7 @@
       },
       {
          "type": "block:simple",
-         "entries":[
+         "entries": [
             {
                "id": "packed_wheat",
                "material": "tnt",

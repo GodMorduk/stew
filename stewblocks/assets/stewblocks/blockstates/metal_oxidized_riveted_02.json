@@ -1,5 +1,7 @@
 {
-    "variants": {
-      "normal": {"model": "stewblocks:metal_oxidized_riveted_02"}
+  "variants": {
+    "normal": {
+      "model": "stewblocks:metal_oxidized_riveted_02"
     }
+  }
 }

@@ -1,4 +1,3 @@
-
 {
     "parent": "block/orientable",
     "textures": {
@@ -6,4 +5,4 @@
         "front": "stewblocks:blocks/scrap_hardware_observer",
         "side": "stewblocks:blocks/scrap_hardware_observer_side"
     }
-  }
+}

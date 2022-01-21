@@ -1,8 +1,20 @@
 {
   "variants": {
-  "facing=north": { "model": "stewblocks:effect_blood_footprints", "y": 90},
-  "facing=south": { "model": "stewblocks:effect_blood_footprints", "y": 270 },
-  "facing=west":  { "model": "stewblocks:effect_blood_footprints", "y": 0 },
-  "facing=east":  { "model": "stewblocks:effect_blood_footprints", "y": 180 }
-}
+    "facing=north": {
+      "model": "stewblocks:effect_blood_footprints",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "stewblocks:effect_blood_footprints",
+      "y": 270
+    },
+    "facing=west": {
+      "model": "stewblocks:effect_blood_footprints",
+      "y": 0
+    },
+    "facing=east": {
+      "model": "stewblocks:effect_blood_footprints",
+      "y": 180
+    }
+  }
 }

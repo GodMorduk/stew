@@ -1,5 +1,7 @@
 {
-    "variants": {
-      "normal": {"model": "stewblocks:cladding_lightgrey"}
+  "variants": {
+    "normal": {
+      "model": "stewblocks:cladding_lightgrey"
     }
   }
+}

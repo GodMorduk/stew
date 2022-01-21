@@ -1,8 +1,19 @@
 {
     "variants": {
-    "facing=north": { "model": "stewblocks:shelf_wardrobe" },
-    "facing=south": { "model": "stewblocks:shelf_wardrobe", "y": 180 },
-    "facing=west":  { "model": "stewblocks:shelf_wardrobe", "y": 270 },
-    "facing=east":  { "model": "stewblocks:shelf_wardrobe", "y": 90 }
-}
+        "facing=north": {
+            "model": "stewblocks:shelf_wardrobe"
+        },
+        "facing=south": {
+            "model": "stewblocks:shelf_wardrobe",
+            "y": 180
+        },
+        "facing=west": {
+            "model": "stewblocks:shelf_wardrobe",
+            "y": 270
+        },
+        "facing=east": {
+            "model": "stewblocks:shelf_wardrobe",
+            "y": 90
+        }
+    }
 }

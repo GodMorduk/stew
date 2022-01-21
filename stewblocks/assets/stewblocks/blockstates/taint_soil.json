@@ -1,5 +1,7 @@
 {
-    "variants": {
-      "normal": {"model": "stewblocks:taint_soil"}
+  "variants": {
+    "normal": {
+      "model": "stewblocks:taint_soil"
     }
   }
+}

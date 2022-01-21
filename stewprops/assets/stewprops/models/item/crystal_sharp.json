@@ -1,1 +1,6 @@
-{"parent": "item/generated", "textures": {"layer0": "stewprops:items/crystal_sharp"}}
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "stewprops:items/crystal_sharp"
+  }
+}

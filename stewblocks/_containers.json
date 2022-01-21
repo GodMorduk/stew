@@ -1,146 +1,180 @@
 {
-    "blocks": [
-     {
-            "type": "tileentity:simple",
-            "entries": [
-              {
-                "id": "first_aid_kit",
-                "modules": [
-                  {
-                    "type": "inventory",
-                    "name": "inv1",
-                    "size": 27,
-                    "sides": ["north", "east", "south", "west"]
-                  }
-                ]
-              }
-            ]
-          },        
+  "blocks": [
+    {
+      "type": "tileentity:simple",
+      "entries": [
         {
-        "type": "gui:container",
-        "entries": [
-          {
-            "id": "container_3x9",
-            "bg": "stewblocks:textures/gui/container/container_3x9.png",
-            "slots": [
-                {
-                  "name": "inv1",
-                  "rows": 3,
-                  "columns": 9,
-                  "x": 8,
-                  "y": 17
-                },
-                {
-                  "name": "player",
-                  "firstSlot": 9,
-                  "rows": 3,
-                  "columns": 9,
-                  "x": 8,
-                  "y": 84
-                },
-                {
-                  "name": "player",
-                  "rows": 1,
-                  "columns": 9,
-                  "x": 8,
-                  "y": 142
-                }
-              ],
-              "shiftClickRules": [
-                {
-                  "from": [0, 26],
-                  "to": [62, 27]
-                },
-                {
-                  "from": [27, 62],
-                  "to": [0, 26]
-                }
-              ],
-              "labels": [
-                {
-                  "text": "first.aid.kit",
-                  "x": 8,
-                  "y": 6
-                },
-                {
-                  "text": "container.inventory",
-                  "x": 8,
-                  "y": 73
-                }
+          "id": "first_aid_kit",
+          "modules": [
+            {
+              "type": "inventory",
+              "name": "inv1",
+              "size": 27,
+              "sides": [
+                "north",
+                "east",
+                "south",
+                "west"
               ]
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "type": "gui:container",
+      "entries": [
         {
-          "type": "tileentity:simple",
-          "entries": [
+          "id": "container_3x9",
+          "bg": "stewblocks:textures/gui/container/container_3x9.png",
+          "slots": [
             {
-              "id": "box",
-              "modules": [
-                {
-                  "type": "inventory",
-                  "name": "inv1",
-                  "size": 27,
-                  "sides": ["north", "east", "south", "west"]
-                }
+              "name": "inv1",
+              "rows": 3,
+              "columns": 9,
+              "x": 8,
+              "y": 17
+            },
+            {
+              "name": "player",
+              "firstSlot": 9,
+              "rows": 3,
+              "columns": 9,
+              "x": 8,
+              "y": 84
+            },
+            {
+              "name": "player",
+              "rows": 1,
+              "columns": 9,
+              "x": 8,
+              "y": 142
+            }
+          ],
+          "shiftClickRules": [
+            {
+              "from": [
+                0,
+                26
+              ],
+              "to": [
+                62,
+                27
+              ]
+            },
+            {
+              "from": [
+                27,
+                62
+              ],
+              "to": [
+                0,
+                26
+              ]
+            }
+          ],
+          "labels": [
+            {
+              "text": "first.aid.kit",
+              "x": 8,
+              "y": 6
+            },
+            {
+              "text": "container.inventory",
+              "x": 8,
+              "y": 73
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tileentity:simple",
+      "entries": [
+        {
+          "id": "box",
+          "modules": [
+            {
+              "type": "inventory",
+              "name": "inv1",
+              "size": 27,
+              "sides": [
+                "north",
+                "east",
+                "south",
+                "west"
               ]
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "type": "gui:container",
+      "entries": [
         {
-          "type": "gui:container",
-          "entries": [
+          "id": "box",
+          "bg": "stewblocks:textures/gui/container/container_3x9.png",
+          "slots": [
             {
-              "id": "box",
-              "bg": "stewblocks:textures/gui/container/container_3x9.png",
-              "slots": [
-                  {
-                    "name": "inv1",
-                    "rows": 3,
-                    "columns": 9,
-                    "x": 8,
-                    "y": 17
-                  },
-                  {
-                    "name": "player",
-                    "firstSlot": 9,
-                    "rows": 3,
-                    "columns": 9,
-                    "x": 8,
-                    "y": 84
-                  },
-                  {
-                    "name": "player",
-                    "rows": 1,
-                    "columns": 9,
-                    "x": 8,
-                    "y": 142
-                  }
-                ],
-                "shiftClickRules": [
-                  {
-                    "from": [0, 26],
-                    "to": [62, 27]
-                  },
-                  {
-                    "from": [27, 62],
-                    "to": [0, 26]
-                  }
-                ],
-                "labels": [
-                  {
-                    "text": "box",
-                    "x": 8,
-                    "y": 6
-                  },
-                  {
-                    "text": "container.inventory",
-                    "x": 8,
-                    "y": 73
-                  }
-                ]
-              }
-            ]
-          }        
+              "name": "inv1",
+              "rows": 3,
+              "columns": 9,
+              "x": 8,
+              "y": 17
+            },
+            {
+              "name": "player",
+              "firstSlot": 9,
+              "rows": 3,
+              "columns": 9,
+              "x": 8,
+              "y": 84
+            },
+            {
+              "name": "player",
+              "rows": 1,
+              "columns": 9,
+              "x": 8,
+              "y": 142
+            }
+          ],
+          "shiftClickRules": [
+            {
+              "from": [
+                0,
+                26
+              ],
+              "to": [
+                62,
+                27
+              ]
+            },
+            {
+              "from": [
+                27,
+                62
+              ],
+              "to": [
+                0,
+                26
+              ]
+            }
+          ],
+          "labels": [
+            {
+              "text": "box",
+              "x": 8,
+              "y": 6
+            },
+            {
+              "text": "container.inventory",
+              "x": 8,
+              "y": 73
+            }
+          ]
+        }
       ]
     }
+  ]
+}

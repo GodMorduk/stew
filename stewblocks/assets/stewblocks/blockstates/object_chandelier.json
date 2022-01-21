@@ -1,5 +1,7 @@
 {
     "variants": {
-        "normal": { "model": "stewblocks:object_chandelier" }
+        "normal": {
+            "model": "stewblocks:object_chandelier"
+        }
     }
 }

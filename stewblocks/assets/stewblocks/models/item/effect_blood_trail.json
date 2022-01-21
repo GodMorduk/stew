@@ -1,6 +1,6 @@
   {
     "parent": "item/generated",
     "textures": {
-        "layer0": "stewblocks:blocks/effect_blood_trail"
+      "layer0": "stewblocks:blocks/effect_blood_trail"
     }
-    }
+  }

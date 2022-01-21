@@ -1,23 +1,85 @@
 {
-    "parent": "block/orientable",
-    "textures": {  
-      "top": "stewblocks:blocks/sensor_emerald",
-      "bottom": "stewblocks:blocks/sensor_emerald",
-      "side": "stewblocks:blocks/sensor_emerald",          
-      "face": "stewblocks:blocks/sensor_iron"
-    },
-    "elements": [
-      {
-        "from": [0, 0, 15],
-        "to": [16, 16, 16],
-        "faces": {
-          "down": {"uv": [0, 15, 16, 16], "rotation": 180, "texture": "#bottom", "cullface": "down" },
-          "up": {"uv": [0, 15, 16, 16], "texture": "#top" },
-          "north": { "uv": [0, 0, 16, 16], "texture": "#face", "cullface": "north" },
-          "south": { "uv": [0, 0, 16, 16], "texture": "#face", "cullface": "south" },
-          "west": {"uv": [0, 0, 1, 16], "texture": "#side", "cullface": "west" },
-          "east": {"uv": [0, 0, 1, 16], "texture": "#side", "cullface": "east" }
+  "parent": "block/orientable",
+  "textures": {
+    "top": "stewblocks:blocks/sensor_emerald",
+    "bottom": "stewblocks:blocks/sensor_emerald",
+    "side": "stewblocks:blocks/sensor_emerald",
+    "face": "stewblocks:blocks/sensor_iron"
+  },
+  "elements": [
+    {
+      "from": [
+        0,
+        0,
+        15
+      ],
+      "to": [
+        16,
+        16,
+        16
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0,
+            15,
+            16,
+            16
+          ],
+          "rotation": 180,
+          "texture": "#bottom",
+          "cullface": "down"
+        },
+        "up": {
+          "uv": [
+            0,
+            15,
+            16,
+            16
+          ],
+          "texture": "#top"
+        },
+        "north": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#face",
+          "cullface": "north"
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#face",
+          "cullface": "south"
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            1,
+            16
+          ],
+          "texture": "#side",
+          "cullface": "west"
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            1,
+            16
+          ],
+          "texture": "#side",
+          "cullface": "east"
         }
       }
-    ]
-  }
+    }
+  ]
+}

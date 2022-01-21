@@ -1,5 +1,7 @@
 {
-    "variants": {
-      "normal": {"model": "stewblocks:metal_rough_louvers_full"}
+  "variants": {
+    "normal": {
+      "model": "stewblocks:metal_rough_louvers_full"
     }
+  }
 }

@@ -1,5 +1,7 @@
 {
     "variants": {
-        "normal": { "model": "stewblocks:effect_rising_steam" }
+        "normal": {
+            "model": "stewblocks:effect_rising_steam"
+        }
     }
-  }
+}

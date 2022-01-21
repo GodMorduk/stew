@@ -1,1 +1,6 @@
-{"parent": "item/generated", "textures": {"layer0": "stewprops:items/box_yellow"}}
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "stewprops:items/box_yellow"
+  }
+}

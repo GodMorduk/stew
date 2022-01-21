@@ -1,5 +1,7 @@
 {
     "variants": {
-        "normal": { "model": "stewblocks:object_tincan" }
+        "normal": {
+            "model": "stewblocks:object_tincan"
+        }
     }
 }

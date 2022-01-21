@@ -1,6 +1,10 @@
 {
   "variants": {
-    "half=bottom": {"model": "stewblocks:bedrock_brick_half_slab"},
-    "half=top": {"model": "stewblocks:bedrock_brick_upper_slab"}
+    "half=bottom": {
+      "model": "stewblocks:bedrock_brick_half_slab"
+    },
+    "half=top": {
+      "model": "stewblocks:bedrock_brick_upper_slab"
+    }
   }
 }

@@ -1,9 +1,19 @@
-
-  {
-    "variants": {
-    "facing=north": { "model": "stewblocks:scrap_hardware_speaker" },
-    "facing=south": { "model": "stewblocks:scrap_hardware_speaker", "y": 180 },
-    "facing=west":  { "model": "stewblocks:scrap_hardware_speaker", "y": 270 },
-    "facing=east":  { "model": "stewblocks:scrap_hardware_speaker", "y": 90 }
-}
+{
+  "variants": {
+    "facing=north": {
+      "model": "stewblocks:scrap_hardware_speaker"
+    },
+    "facing=south": {
+      "model": "stewblocks:scrap_hardware_speaker",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "stewblocks:scrap_hardware_speaker",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "stewblocks:scrap_hardware_speaker",
+      "y": 90
+    }
+  }
 }

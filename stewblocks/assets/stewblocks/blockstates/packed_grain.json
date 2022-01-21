@@ -1,5 +1,7 @@
 {
   "variants": {
-	"normal": {"model": "stewblocks:packed_grain"}
+    "normal": {
+      "model": "stewblocks:packed_grain"
+    }
   }
 }

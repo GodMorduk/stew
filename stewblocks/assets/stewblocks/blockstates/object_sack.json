@@ -1,5 +1,7 @@
 {
     "variants": {
-        "normal": { "model": "stewblocks:object_sack" }
+        "normal": {
+            "model": "stewblocks:object_sack"
+        }
     }
 }

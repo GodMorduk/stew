@@ -1,5 +1,7 @@
 {
-    "variants": {
-      "normal": {"model": "stewblocks:glass_colorful_cross"}
+  "variants": {
+    "normal": {
+      "model": "stewblocks:glass_colorful_cross"
     }
+  }
 }

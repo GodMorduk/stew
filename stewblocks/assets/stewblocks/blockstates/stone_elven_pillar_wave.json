@@ -1,5 +1,7 @@
 {
-    "variants": {
-      "normal": {"model": "stewblocks:stone_elven_pillar_wave"}
+  "variants": {
+    "normal": {
+      "model": "stewblocks:stone_elven_pillar_wave"
     }
+  }
 }

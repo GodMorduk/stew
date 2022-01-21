@@ -1,5 +1,7 @@
 {
   "variants": {
-	"normal": {"model": "stewblocks:tiles_clay_light"}
+    "normal": {
+      "model": "stewblocks:tiles_clay_light"
+    }
   }
 }

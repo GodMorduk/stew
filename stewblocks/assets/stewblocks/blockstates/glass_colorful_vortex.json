@@ -1,5 +1,7 @@
 {
-    "variants": {
-      "normal": {"model": "stewblocks:glass_colorful_vortex"}
+  "variants": {
+    "normal": {
+      "model": "stewblocks:glass_colorful_vortex"
     }
+  }
 }

@@ -2,7 +2,7 @@
     "parent": "stewblocks:block/top_side_face",
     "textures": {
         "face": "stewblocks:blocks/pile_books_front",
-        "top": "stewblocks:blocks/pile_books_top",        
+        "top": "stewblocks:blocks/pile_books_top",
         "side": "stewblocks:blocks/pile_books_side"
     }
 }

@@ -1,8 +1,8 @@
 {
-    "parent": "stewblocks:block/thin_slab",
-    "textures": {  
-      "front": "minecraft:blocks/wool_colored_light_blue",
-      "back": "minecraft:blocks/wool_colored_light_blue",     
-      "side": "minecraft:blocks/wool_colored_light_blue"
-    }
+  "parent": "stewblocks:block/thin_slab",
+  "textures": {
+    "front": "minecraft:blocks/wool_colored_light_blue",
+    "back": "minecraft:blocks/wool_colored_light_blue",
+    "side": "minecraft:blocks/wool_colored_light_blue"
   }
+}

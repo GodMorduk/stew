@@ -1,5 +1,7 @@
 {
-    "variants": {
-      "normal": {"model": "stewblocks:cobblestone_granite"}
+  "variants": {
+    "normal": {
+      "model": "stewblocks:cobblestone_granite"
     }
   }
+}

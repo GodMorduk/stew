@@ -1,5 +1,7 @@
 {
-    "variants": {
-      "normal": {"model": "stewblocks:ruin_urban_rebar"}
+  "variants": {
+    "normal": {
+      "model": "stewblocks:ruin_urban_rebar"
     }
   }
+}

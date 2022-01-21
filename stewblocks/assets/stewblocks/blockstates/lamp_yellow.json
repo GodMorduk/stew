@@ -1,5 +1,7 @@
 {
-    "variants": {
-      "normal": {"model": "stewblocks:lamp_yellow"}
+  "variants": {
+    "normal": {
+      "model": "stewblocks:lamp_yellow"
     }
+  }
 }

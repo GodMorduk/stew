@@ -1,5 +1,7 @@
 {
-    "variants": {
-      "normal": {"model": "stewblocks:stonearch_window"}
+  "variants": {
+    "normal": {
+      "model": "stewblocks:stonearch_window"
     }
   }
+}

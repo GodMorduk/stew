@@ -1,5 +1,7 @@
 {
     "variants": {
-        "normal": { "model": "stewblocks:object_herbs" }
+        "normal": {
+            "model": "stewblocks:object_herbs"
+        }
     }
 }

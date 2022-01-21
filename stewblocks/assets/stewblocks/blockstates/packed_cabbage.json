@@ -1,5 +1,7 @@
 {
   "variants": {
-	"normal": {"model": "stewblocks:packed_cabbage"}
+    "normal": {
+      "model": "stewblocks:packed_cabbage"
+    }
   }
 }

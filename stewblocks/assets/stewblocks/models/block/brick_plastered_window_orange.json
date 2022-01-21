@@ -1,8 +1,8 @@
 {
   "parent": "block/cube_bottom_top",
   "textures": {
-      "bottom": "stewblocks:blocks/brick_plastered_orange",
-      "top": "stewblocks:blocks/brick_plastered_orange",
-      "side": "stewblocks:blocks/brick_plastered_window_orange"
+    "bottom": "stewblocks:blocks/brick_plastered_orange",
+    "top": "stewblocks:blocks/brick_plastered_orange",
+    "side": "stewblocks:blocks/brick_plastered_window_orange"
   }
 }

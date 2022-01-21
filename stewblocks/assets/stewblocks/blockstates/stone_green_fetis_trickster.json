@@ -1,8 +1,19 @@
 {
     "variants": {
-    "facing=north": { "model": "stewblocks:stone_green_fetis_trickster" },
-    "facing=south": { "model": "stewblocks:stone_green_fetis_trickster", "y": 180 },
-    "facing=west":  { "model": "stewblocks:stone_green_fetis_trickster", "y": 270 },
-    "facing=east":  { "model": "stewblocks:stone_green_fetis_trickster", "y": 90 }
-}
+        "facing=north": {
+            "model": "stewblocks:stone_green_fetis_trickster"
+        },
+        "facing=south": {
+            "model": "stewblocks:stone_green_fetis_trickster",
+            "y": 180
+        },
+        "facing=west": {
+            "model": "stewblocks:stone_green_fetis_trickster",
+            "y": 270
+        },
+        "facing=east": {
+            "model": "stewblocks:stone_green_fetis_trickster",
+            "y": 90
+        }
+    }
 }

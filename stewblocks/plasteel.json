@@ -1,8 +1,8 @@
 {
-    "blocks":[
-       {
+   "blocks": [
+      {
          "type": "block:simple",
-         "entries":[
+         "entries": [
             {
                "id": "plasteel_panel_white_wayline",
                "material": "iron",
@@ -12,7 +12,7 @@
       },
       {
          "type": "block:orientable:directional",
-         "entries":[
+         "entries": [
             {
                "id": "plasteel_panel_white_pillar",
                "creativeTab": "stew_blocks_metal",
@@ -20,12 +20,12 @@
                "itemModel": "stewblocks:plasteel_panel_white_pillar",
                "hardness": 1,
                "faceBySide": true
-             }
+            }
          ]
       },
       {
          "type": "block:orientable:directional",
-         "entries":[
+         "entries": [
             {
                "id": "plasteel_panel_aseptic_grid",
                "creativeTab": "stew_blocks_metal",
@@ -33,12 +33,12 @@
                "itemModel": "stewblocks:plasteel_panel_aseptic_grid",
                "hardness": 1,
                "faceBySide": true
-             }
+            }
          ]
       },
       {
          "type": "block:simple",
-         "entries":[
+         "entries": [
             {
                "id": "plasteel_panel_white_marked",
                "material": "iron",
@@ -48,7 +48,7 @@
       },
       {
          "type": "block:simple",
-         "entries":[
+         "entries": [
             {
                "id": "plasteel_panel_white_horizontal",
                "material": "iron",
@@ -58,7 +58,7 @@
       },
       {
          "type": "block:orientable:directional",
-         "entries":[
+         "entries": [
             {
                "id": "plasteel_panel_white_capital",
                "creativeTab": "stew_blocks_metal",
@@ -66,12 +66,12 @@
                "itemModel": "stewblocks:plasteel_panel_white_capital",
                "hardness": 1,
                "faceBySide": true
-             }
+            }
          ]
       },
       {
          "type": "block:simple",
-         "entries":[
+         "entries": [
             {
                "id": "plasteel_panel_ocher_cross",
                "material": "iron",
@@ -81,7 +81,7 @@
       },
       {
          "type": "block:simple",
-         "entries":[
+         "entries": [
             {
                "id": "plasteel_panel_lime_rhomb",
                "material": "iron",
@@ -91,7 +91,7 @@
       },
       {
          "type": "block:simple",
-         "entries":[
+         "entries": [
             {
                "id": "plasteel_panel_lime_cross",
                "material": "iron",
@@ -101,7 +101,7 @@
       },
       {
          "type": "block:simple",
-         "entries":[
+         "entries": [
             {
                "id": "plasteel_panel_lime_checkered",
                "material": "iron",
@@ -111,7 +111,7 @@
       },
       {
          "type": "block:orientable:directional",
-         "entries":[
+         "entries": [
             {
                "id": "plasteel_panel_gray",
                "creativeTab": "stew_blocks_metal",
@@ -119,12 +119,12 @@
                "itemModel": "stewblocks:plasteel_panel_gray",
                "hardness": 1,
                "faceBySide": true
-             }
+            }
          ]
       },
       {
          "type": "block:orientable:directional",
-         "entries":[
+         "entries": [
             {
                "id": "plasteel_panel_green",
                "creativeTab": "stew_blocks_metal",
@@ -132,12 +132,12 @@
                "itemModel": "stewblocks:plasteel_panel_green",
                "hardness": 1,
                "faceBySide": true
-             }
+            }
          ]
       },
       {
          "type": "block:orientable:directional",
-         "entries":[
+         "entries": [
             {
                "id": "plasteel_panel_greengray",
                "creativeTab": "stew_blocks_metal",
@@ -145,12 +145,12 @@
                "itemModel": "stewblocks:plasteel_panel_greengray",
                "hardness": 1,
                "faceBySide": true
-             }
+            }
          ]
       },
       {
          "type": "block:orientable:directional",
-         "entries":[
+         "entries": [
             {
                "id": "plasteel_panel_ocher",
                "creativeTab": "stew_blocks_metal",
@@ -158,12 +158,12 @@
                "itemModel": "stewblocks:plasteel_panel_ocher",
                "hardness": 1,
                "faceBySide": true
-             }
+            }
          ]
       },
       {
          "type": "block:orientable:directional",
-         "entries":[
+         "entries": [
             {
                "id": "plasteel_panel_ocher_barred",
                "creativeTab": "stew_blocks_metal",
@@ -171,12 +171,12 @@
                "itemModel": "stewblocks:plasteel_panel_ocher_barred",
                "hardness": 1,
                "faceBySide": true
-             }
+            }
          ]
       },
       {
          "type": "block:simple",
-         "entries":[
+         "entries": [
             {
                "id": "plasteel_panel_gray_tile",
                "material": "iron",
@@ -186,7 +186,7 @@
       },
       {
          "type": "block:simple",
-         "entries":[
+         "entries": [
             {
                "id": "plasteel_panel_gray_pimply",
                "material": "iron",
@@ -196,7 +196,7 @@
       },
       {
          "type": "block:simple",
-         "entries":[
+         "entries": [
             {
                "id": "plasteel_panel_dark_gray",
                "material": "iron",
@@ -206,7 +206,7 @@
       },
       {
          "type": "block:simple",
-         "entries":[
+         "entries": [
             {
                "id": "plasteel_panel_cyan",
                "material": "iron",
@@ -216,7 +216,7 @@
       },
       {
          "type": "block:simple",
-         "entries":[
+         "entries": [
             {
                "id": "plasteel_panel_blue",
                "material": "iron",
@@ -226,7 +226,7 @@
       },
       {
          "type": "block:orientable:directional",
-         "entries":[
+         "entries": [
             {
                "id": "plasteel_panel_black",
                "creativeTab": "stew_blocks_metal",
@@ -234,12 +234,12 @@
                "itemModel": "stewblocks:plasteel_panel_black",
                "hardness": 1,
                "faceBySide": true
-             }
+            }
          ]
       },
       {
          "type": "block:simple",
-         "entries":[
+         "entries": [
             {
                "id": "plasteel_panel_black_tile",
                "material": "iron",
@@ -249,7 +249,7 @@
       },
       {
          "type": "block:orientable:directional",
-         "entries":[
+         "entries": [
             {
                "id": "plasteel_panel_black_grid",
                "creativeTab": "stew_blocks_metal",
@@ -257,12 +257,12 @@
                "itemModel": "stewblocks:plasteel_panel_black_grid",
                "hardness": 1,
                "faceBySide": true
-             }
+            }
          ]
       },
       {
          "type": "block:simple",
-         "entries":[
+         "entries": [
             {
                "id": "plasteel_panel_aseptic",
                "material": "iron",
@@ -272,7 +272,7 @@
       },
       {
          "type": "block:simple",
-         "entries":[
+         "entries": [
             {
                "id": "plasteel_grid_big",
                "material": "iron",
@@ -282,7 +282,7 @@
       },
       {
          "type": "block:simple",
-         "entries":[
+         "entries": [
             {
                "id": "plasteel_flor_black",
                "material": "iron",
@@ -292,7 +292,7 @@
       },
       {
          "type": "block:simple",
-         "entries":[
+         "entries": [
             {
                "id": "plasteel_eyepiece_white",
                "material": "iron",
@@ -302,7 +302,7 @@
       },
       {
          "type": "block:simple",
-         "entries":[
+         "entries": [
             {
                "id": "plasteel_eyepiece_green",
                "material": "iron",
@@ -312,7 +312,7 @@
       },
       {
          "type": "block:simple",
-         "entries":[
+         "entries": [
             {
                "id": "plasteel_eyepiece_gray",
                "material": "iron",
@@ -322,7 +322,7 @@
       },
       {
          "type": "block:simple",
-         "entries":[
+         "entries": [
             {
                "id": "plasteel_cells_gray",
                "material": "iron",
@@ -332,7 +332,7 @@
       },
       {
          "type": "block:simple",
-         "entries":[
+         "entries": [
             {
                "id": "plasteel_cells_gray_mossy",
                "material": "iron",
@@ -342,7 +342,7 @@
       },
       {
          "type": "block:simple",
-         "entries":[
+         "entries": [
             {
                "id": "plasteel_panel_white",
                "material": "iron",
@@ -352,142 +352,736 @@
       },
       {
          "type": "block:simple",
-         "entries":[
+         "entries": [
             {
                "id": "plasteel_cell_ocherus",
                "material": "iron",
-               "creativeTab":"stew_blocks_metal" 
+               "creativeTab": "stew_blocks_metal"
             }
          ]
       },
-       {
-         "type": "block:orientable:directional",
-         "entries":[
-      {
-        "id": "plasteel_window",
-        "creativeTab": "stew_blocks_metal",
-        "material": "glass",
-        "soundType" : "glass",
-        "itemModel": "stewblocks:plasteel_window",
-        "hardness": 1,
-        "renderLayer": "mippedCutout",
-        "faceBySide": true,
-        "isPassable": false,
-        "isFullCube": false,
-        "isOpaqueCube": false,
-        "opacity": 0,
-        "bounds": {
-         "0": { "from": [0, 0.9167, 0], "to": [1, 1, 1] },
-         "1": { "from": [0, 0, 0], "to": [1, 0.08330000000000004, 1] },
-         "2": { "from": [0, 0, 0.9167], "to": [1, 1, 1] },
-         "3": { "from": [0, 0, 0], "to": [1, 1, 0.08330000000000004] },
-         "4": { "from": [0.9167, 0, 0], "to": [1, 1, 1] },
-         "5": { "from": [0, 0, 0], "to": [0.08330000000000004, 1, 1] }
-      },
-      "selectionBounds": {
-         "0": { "from": [0, 0.9167, 0], "to": [1, 1, 1] },
-         "1": { "from": [0, 0, 0], "to": [1, 0.08330000000000004, 1] },
-         "2": { "from": [0, 0, 0.9167], "to": [1, 1, 1] },
-         "3": { "from": [0, 0, 0], "to": [1, 1, 0.08330000000000004] },
-         "4": { "from": [0.9167, 0, 0], "to": [1, 1, 1] },
-         "5": { "from": [0, 0, 0], "to": [0.08330000000000004, 1, 1] }
-      },
-      "collisionBounds": {
-         "0": { "from": [0, 0.9167, 0], "to": [1, 1, 1] },
-         "1": { "from": [0, 0, 0], "to": [1, 0.08330000000000004, 1] },
-         "2": { "from": [0, 0, 0.9167], "to": [1, 1, 1] },
-         "3": { "from": [0, 0, 0], "to": [1, 1, 0.08330000000000004] },
-         "4": { "from": [0.9167, 0, 0], "to": [1, 1, 1] },
-         "5": { "from": [0, 0, 0], "to": [0.08330000000000004, 1, 1] }
-       }
-      }
-      ]
-      },
       {
          "type": "block:orientable:directional",
-         "entries":[
-      {
-        "id": "plasteel_container_gray",
-        "creativeTab": "stew_blocks_metal",
-        "material": "iron",
-        "soundType" : "metal",
-        "itemModel": "stewblocks:plasteel_container_gray",
-        "hardness": 1,
-        "renderLayer": "mippedCutout",
-        "faceBySide": true,
-        "isPassable": false,
-        "isFullCube": false,
-        "isOpaqueCube": false,
-        "opacity": 0,
-        "bounds": {
-         "0": { "from": [0, 0.9167, 0], "to": [1, 1, 1] },
-         "1": { "from": [0, 0, 0], "to": [1, 0.08330000000000004, 1] },
-         "2": { "from": [0, 0, 0.9167], "to": [1, 1, 1] },
-         "3": { "from": [0, 0, 0], "to": [1, 1, 0.08330000000000004] },
-         "4": { "from": [0.9167, 0, 0], "to": [1, 1, 1] },
-         "5": { "from": [0, 0, 0], "to": [0.08330000000000004, 1, 1] }
-      },
-      "selectionBounds": {
-         "0": { "from": [0, 0.9167, 0], "to": [1, 1, 1] },
-         "1": { "from": [0, 0, 0], "to": [1, 0.08330000000000004, 1] },
-         "2": { "from": [0, 0, 0.9167], "to": [1, 1, 1] },
-         "3": { "from": [0, 0, 0], "to": [1, 1, 0.08330000000000004] },
-         "4": { "from": [0.9167, 0, 0], "to": [1, 1, 1] },
-         "5": { "from": [0, 0, 0], "to": [0.08330000000000004, 1, 1] }
-      },
-      "collisionBounds": {
-         "0": { "from": [0, 0.9167, 0], "to": [1, 1, 1] },
-         "1": { "from": [0, 0, 0], "to": [1, 0.08330000000000004, 1] },
-         "2": { "from": [0, 0, 0.9167], "to": [1, 1, 1] },
-         "3": { "from": [0, 0, 0], "to": [1, 1, 0.08330000000000004] },
-         "4": { "from": [0.9167, 0, 0], "to": [1, 1, 1] },
-         "5": { "from": [0, 0, 0], "to": [0.08330000000000004, 1, 1] }
-       }
-      }
-      ]
+         "entries": [
+            {
+               "id": "plasteel_window",
+               "creativeTab": "stew_blocks_metal",
+               "material": "glass",
+               "soundType": "glass",
+               "itemModel": "stewblocks:plasteel_window",
+               "hardness": 1,
+               "renderLayer": "mippedCutout",
+               "faceBySide": true,
+               "isPassable": false,
+               "isFullCube": false,
+               "isOpaqueCube": false,
+               "opacity": 0,
+               "bounds": {
+                  "0": {
+                     "from": [
+                        0,
+                        0.9167,
+                        0
+                     ],
+                     "to": [
+                        1,
+                        1,
+                        1
+                     ]
+                  },
+                  "1": {
+                     "from": [
+                        0,
+                        0,
+                        0
+                     ],
+                     "to": [
+                        1,
+                        0.08330000000000004,
+                        1
+                     ]
+                  },
+                  "2": {
+                     "from": [
+                        0,
+                        0,
+                        0.9167
+                     ],
+                     "to": [
+                        1,
+                        1,
+                        1
+                     ]
+                  },
+                  "3": {
+                     "from": [
+                        0,
+                        0,
+                        0
+                     ],
+                     "to": [
+                        1,
+                        1,
+                        0.08330000000000004
+                     ]
+                  },
+                  "4": {
+                     "from": [
+                        0.9167,
+                        0,
+                        0
+                     ],
+                     "to": [
+                        1,
+                        1,
+                        1
+                     ]
+                  },
+                  "5": {
+                     "from": [
+                        0,
+                        0,
+                        0
+                     ],
+                     "to": [
+                        0.08330000000000004,
+                        1,
+                        1
+                     ]
+                  }
+               },
+               "selectionBounds": {
+                  "0": {
+                     "from": [
+                        0,
+                        0.9167,
+                        0
+                     ],
+                     "to": [
+                        1,
+                        1,
+                        1
+                     ]
+                  },
+                  "1": {
+                     "from": [
+                        0,
+                        0,
+                        0
+                     ],
+                     "to": [
+                        1,
+                        0.08330000000000004,
+                        1
+                     ]
+                  },
+                  "2": {
+                     "from": [
+                        0,
+                        0,
+                        0.9167
+                     ],
+                     "to": [
+                        1,
+                        1,
+                        1
+                     ]
+                  },
+                  "3": {
+                     "from": [
+                        0,
+                        0,
+                        0
+                     ],
+                     "to": [
+                        1,
+                        1,
+                        0.08330000000000004
+                     ]
+                  },
+                  "4": {
+                     "from": [
+                        0.9167,
+                        0,
+                        0
+                     ],
+                     "to": [
+                        1,
+                        1,
+                        1
+                     ]
+                  },
+                  "5": {
+                     "from": [
+                        0,
+                        0,
+                        0
+                     ],
+                     "to": [
+                        0.08330000000000004,
+                        1,
+                        1
+                     ]
+                  }
+               },
+               "collisionBounds": {
+                  "0": {
+                     "from": [
+                        0,
+                        0.9167,
+                        0
+                     ],
+                     "to": [
+                        1,
+                        1,
+                        1
+                     ]
+                  },
+                  "1": {
+                     "from": [
+                        0,
+                        0,
+                        0
+                     ],
+                     "to": [
+                        1,
+                        0.08330000000000004,
+                        1
+                     ]
+                  },
+                  "2": {
+                     "from": [
+                        0,
+                        0,
+                        0.9167
+                     ],
+                     "to": [
+                        1,
+                        1,
+                        1
+                     ]
+                  },
+                  "3": {
+                     "from": [
+                        0,
+                        0,
+                        0
+                     ],
+                     "to": [
+                        1,
+                        1,
+                        0.08330000000000004
+                     ]
+                  },
+                  "4": {
+                     "from": [
+                        0.9167,
+                        0,
+                        0
+                     ],
+                     "to": [
+                        1,
+                        1,
+                        1
+                     ]
+                  },
+                  "5": {
+                     "from": [
+                        0,
+                        0,
+                        0
+                     ],
+                     "to": [
+                        0.08330000000000004,
+                        1,
+                        1
+                     ]
+                  }
+               }
+            }
+         ]
       },
       {
          "type": "block:orientable:directional",
-         "entries":[
+         "entries": [
+            {
+               "id": "plasteel_container_gray",
+               "creativeTab": "stew_blocks_metal",
+               "material": "iron",
+               "soundType": "metal",
+               "itemModel": "stewblocks:plasteel_container_gray",
+               "hardness": 1,
+               "renderLayer": "mippedCutout",
+               "faceBySide": true,
+               "isPassable": false,
+               "isFullCube": false,
+               "isOpaqueCube": false,
+               "opacity": 0,
+               "bounds": {
+                  "0": {
+                     "from": [
+                        0,
+                        0.9167,
+                        0
+                     ],
+                     "to": [
+                        1,
+                        1,
+                        1
+                     ]
+                  },
+                  "1": {
+                     "from": [
+                        0,
+                        0,
+                        0
+                     ],
+                     "to": [
+                        1,
+                        0.08330000000000004,
+                        1
+                     ]
+                  },
+                  "2": {
+                     "from": [
+                        0,
+                        0,
+                        0.9167
+                     ],
+                     "to": [
+                        1,
+                        1,
+                        1
+                     ]
+                  },
+                  "3": {
+                     "from": [
+                        0,
+                        0,
+                        0
+                     ],
+                     "to": [
+                        1,
+                        1,
+                        0.08330000000000004
+                     ]
+                  },
+                  "4": {
+                     "from": [
+                        0.9167,
+                        0,
+                        0
+                     ],
+                     "to": [
+                        1,
+                        1,
+                        1
+                     ]
+                  },
+                  "5": {
+                     "from": [
+                        0,
+                        0,
+                        0
+                     ],
+                     "to": [
+                        0.08330000000000004,
+                        1,
+                        1
+                     ]
+                  }
+               },
+               "selectionBounds": {
+                  "0": {
+                     "from": [
+                        0,
+                        0.9167,
+                        0
+                     ],
+                     "to": [
+                        1,
+                        1,
+                        1
+                     ]
+                  },
+                  "1": {
+                     "from": [
+                        0,
+                        0,
+                        0
+                     ],
+                     "to": [
+                        1,
+                        0.08330000000000004,
+                        1
+                     ]
+                  },
+                  "2": {
+                     "from": [
+                        0,
+                        0,
+                        0.9167
+                     ],
+                     "to": [
+                        1,
+                        1,
+                        1
+                     ]
+                  },
+                  "3": {
+                     "from": [
+                        0,
+                        0,
+                        0
+                     ],
+                     "to": [
+                        1,
+                        1,
+                        0.08330000000000004
+                     ]
+                  },
+                  "4": {
+                     "from": [
+                        0.9167,
+                        0,
+                        0
+                     ],
+                     "to": [
+                        1,
+                        1,
+                        1
+                     ]
+                  },
+                  "5": {
+                     "from": [
+                        0,
+                        0,
+                        0
+                     ],
+                     "to": [
+                        0.08330000000000004,
+                        1,
+                        1
+                     ]
+                  }
+               },
+               "collisionBounds": {
+                  "0": {
+                     "from": [
+                        0,
+                        0.9167,
+                        0
+                     ],
+                     "to": [
+                        1,
+                        1,
+                        1
+                     ]
+                  },
+                  "1": {
+                     "from": [
+                        0,
+                        0,
+                        0
+                     ],
+                     "to": [
+                        1,
+                        0.08330000000000004,
+                        1
+                     ]
+                  },
+                  "2": {
+                     "from": [
+                        0,
+                        0,
+                        0.9167
+                     ],
+                     "to": [
+                        1,
+                        1,
+                        1
+                     ]
+                  },
+                  "3": {
+                     "from": [
+                        0,
+                        0,
+                        0
+                     ],
+                     "to": [
+                        1,
+                        1,
+                        0.08330000000000004
+                     ]
+                  },
+                  "4": {
+                     "from": [
+                        0.9167,
+                        0,
+                        0
+                     ],
+                     "to": [
+                        1,
+                        1,
+                        1
+                     ]
+                  },
+                  "5": {
+                     "from": [
+                        0,
+                        0,
+                        0
+                     ],
+                     "to": [
+                        0.08330000000000004,
+                        1,
+                        1
+                     ]
+                  }
+               }
+            }
+         ]
+      },
       {
-        "id": "plasteel_container_ocher",
-        "creativeTab": "stew_blocks_metal",
-        "material": "iron",
-        "soundType" : "metal",
-        "itemModel": "stewblocks:plasteel_container_ocher",
-        "hardness": 1,
-        "renderLayer": "mippedCutout",
-        "faceBySide": true,
-        "isPassable": false,
-        "isFullCube": false,
-        "isOpaqueCube": false,
-        "opacity": 0,
-        "bounds": {
-         "0": { "from": [0, 0.9167, 0], "to": [1, 1, 1] },
-         "1": { "from": [0, 0, 0], "to": [1, 0.08330000000000004, 1] },
-         "2": { "from": [0, 0, 0.9167], "to": [1, 1, 1] },
-         "3": { "from": [0, 0, 0], "to": [1, 1, 0.08330000000000004] },
-         "4": { "from": [0.9167, 0, 0], "to": [1, 1, 1] },
-         "5": { "from": [0, 0, 0], "to": [0.08330000000000004, 1, 1] }
-      },
-      "selectionBounds": {
-         "0": { "from": [0, 0.9167, 0], "to": [1, 1, 1] },
-         "1": { "from": [0, 0, 0], "to": [1, 0.08330000000000004, 1] },
-         "2": { "from": [0, 0, 0.9167], "to": [1, 1, 1] },
-         "3": { "from": [0, 0, 0], "to": [1, 1, 0.08330000000000004] },
-         "4": { "from": [0.9167, 0, 0], "to": [1, 1, 1] },
-         "5": { "from": [0, 0, 0], "to": [0.08330000000000004, 1, 1] }
-      },
-      "collisionBounds": {
-         "0": { "from": [0, 0.9167, 0], "to": [1, 1, 1] },
-         "1": { "from": [0, 0, 0], "to": [1, 0.08330000000000004, 1] },
-         "2": { "from": [0, 0, 0.9167], "to": [1, 1, 1] },
-         "3": { "from": [0, 0, 0], "to": [1, 1, 0.08330000000000004] },
-         "4": { "from": [0.9167, 0, 0], "to": [1, 1, 1] },
-         "5": { "from": [0, 0, 0], "to": [0.08330000000000004, 1, 1] }
-       }
+         "type": "block:orientable:directional",
+         "entries": [
+            {
+               "id": "plasteel_container_ocher",
+               "creativeTab": "stew_blocks_metal",
+               "material": "iron",
+               "soundType": "metal",
+               "itemModel": "stewblocks:plasteel_container_ocher",
+               "hardness": 1,
+               "renderLayer": "mippedCutout",
+               "faceBySide": true,
+               "isPassable": false,
+               "isFullCube": false,
+               "isOpaqueCube": false,
+               "opacity": 0,
+               "bounds": {
+                  "0": {
+                     "from": [
+                        0,
+                        0.9167,
+                        0
+                     ],
+                     "to": [
+                        1,
+                        1,
+                        1
+                     ]
+                  },
+                  "1": {
+                     "from": [
+                        0,
+                        0,
+                        0
+                     ],
+                     "to": [
+                        1,
+                        0.08330000000000004,
+                        1
+                     ]
+                  },
+                  "2": {
+                     "from": [
+                        0,
+                        0,
+                        0.9167
+                     ],
+                     "to": [
+                        1,
+                        1,
+                        1
+                     ]
+                  },
+                  "3": {
+                     "from": [
+                        0,
+                        0,
+                        0
+                     ],
+                     "to": [
+                        1,
+                        1,
+                        0.08330000000000004
+                     ]
+                  },
+                  "4": {
+                     "from": [
+                        0.9167,
+                        0,
+                        0
+                     ],
+                     "to": [
+                        1,
+                        1,
+                        1
+                     ]
+                  },
+                  "5": {
+                     "from": [
+                        0,
+                        0,
+                        0
+                     ],
+                     "to": [
+                        0.08330000000000004,
+                        1,
+                        1
+                     ]
+                  }
+               },
+               "selectionBounds": {
+                  "0": {
+                     "from": [
+                        0,
+                        0.9167,
+                        0
+                     ],
+                     "to": [
+                        1,
+                        1,
+                        1
+                     ]
+                  },
+                  "1": {
+                     "from": [
+                        0,
+                        0,
+                        0
+                     ],
+                     "to": [
+                        1,
+                        0.08330000000000004,
+                        1
+                     ]
+                  },
+                  "2": {
+                     "from": [
+                        0,
+                        0,
+                        0.9167
+                     ],
+                     "to": [
+                        1,
+                        1,
+                        1
+                     ]
+                  },
+                  "3": {
+                     "from": [
+                        0,
+                        0,
+                        0
+                     ],
+                     "to": [
+                        1,
+                        1,
+                        0.08330000000000004
+                     ]
+                  },
+                  "4": {
+                     "from": [
+                        0.9167,
+                        0,
+                        0
+                     ],
+                     "to": [
+                        1,
+                        1,
+                        1
+                     ]
+                  },
+                  "5": {
+                     "from": [
+                        0,
+                        0,
+                        0
+                     ],
+                     "to": [
+                        0.08330000000000004,
+                        1,
+                        1
+                     ]
+                  }
+               },
+               "collisionBounds": {
+                  "0": {
+                     "from": [
+                        0,
+                        0.9167,
+                        0
+                     ],
+                     "to": [
+                        1,
+                        1,
+                        1
+                     ]
+                  },
+                  "1": {
+                     "from": [
+                        0,
+                        0,
+                        0
+                     ],
+                     "to": [
+                        1,
+                        0.08330000000000004,
+                        1
+                     ]
+                  },
+                  "2": {
+                     "from": [
+                        0,
+                        0,
+                        0.9167
+                     ],
+                     "to": [
+                        1,
+                        1,
+                        1
+                     ]
+                  },
+                  "3": {
+                     "from": [
+                        0,
+                        0,
+                        0
+                     ],
+                     "to": [
+                        1,
+                        1,
+                        0.08330000000000004
+                     ]
+                  },
+                  "4": {
+                     "from": [
+                        0.9167,
+                        0,
+                        0
+                     ],
+                     "to": [
+                        1,
+                        1,
+                        1
+                     ]
+                  },
+                  "5": {
+                     "from": [
+                        0,
+                        0,
+                        0
+                     ],
+                     "to": [
+                        0.08330000000000004,
+                        1,
+                        1
+                     ]
+                  }
+               }
+            }
+         ]
       }
-      ]
-      }
-          ]
-       }
+   ]
+}

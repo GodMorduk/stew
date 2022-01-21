@@ -1,5 +1,7 @@
 {
-    "variants": {
-      "normal": {"model": "stewblocks:plasteel_panel_lime_rhomb"}
+  "variants": {
+    "normal": {
+      "model": "stewblocks:plasteel_panel_lime_rhomb"
     }
   }
+}

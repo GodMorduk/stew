@@ -1,6 +1,7 @@
 {
   "variants": {
-  "normal": {"model": "stewblocks:bedrock_tile_square"}
+    "normal": {
+      "model": "stewblocks:bedrock_tile_square"
+    }
   }
 }
- 

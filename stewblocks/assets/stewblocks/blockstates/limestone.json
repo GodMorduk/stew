@@ -1,5 +1,7 @@
 {
-    "variants": {
-      "normal": {"model": "stewblocks:limestone"}
+  "variants": {
+    "normal": {
+      "model": "stewblocks:limestone"
     }
   }
+}

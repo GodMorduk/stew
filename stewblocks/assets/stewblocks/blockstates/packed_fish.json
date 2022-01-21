@@ -1,5 +1,7 @@
 {
   "variants": {
-	"normal": {"model": "stewblocks:packed_fish"}
+    "normal": {
+      "model": "stewblocks:packed_fish"
+    }
   }
 }

@@ -1,5 +1,7 @@
 {
-    "variants": {
-      "normal": {"model": "stewblocks:wood_carved_zoak"}
+  "variants": {
+    "normal": {
+      "model": "stewblocks:wood_carved_zoak"
     }
   }
+}

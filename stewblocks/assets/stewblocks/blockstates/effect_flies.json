@@ -1,5 +1,8 @@
 {
     "variants": {
-        "normal": { "model": "stewblocks:effect_flies","uvlock": true }
+        "normal": {
+            "model": "stewblocks:effect_flies",
+            "uvlock": true
+        }
     }
-  }
+}

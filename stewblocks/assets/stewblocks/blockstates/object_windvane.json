@@ -1,5 +1,7 @@
 {
     "variants": {
-        "normal": { "model": "stewblocks:object_windvane" }
+        "normal": {
+            "model": "stewblocks:object_windvane"
+        }
     }
 }

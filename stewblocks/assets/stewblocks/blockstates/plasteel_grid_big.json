@@ -1,5 +1,7 @@
 {
-    "variants": {
-      "normal": {"model": "stewblocks:plasteel_grid_big"}
+  "variants": {
+    "normal": {
+      "model": "stewblocks:plasteel_grid_big"
     }
   }
+}

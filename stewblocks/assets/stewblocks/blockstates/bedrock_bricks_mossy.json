@@ -1,5 +1,7 @@
 {
   "variants": {
-  "normal": {"model": "stewblocks:bedrock_bricks_mossy"}
+    "normal": {
+      "model": "stewblocks:bedrock_bricks_mossy"
+    }
   }
 }

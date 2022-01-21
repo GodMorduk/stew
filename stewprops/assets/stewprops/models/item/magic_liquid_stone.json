@@ -1,1 +1,6 @@
-{"parent": "item/generated", "textures": {"layer0": "stewprops:items/magic_liquid_stone"}}
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "stewprops:items/magic_liquid_stone"
+  }
+}

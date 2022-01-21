@@ -1,1 +1,6 @@
-{"parent": "item/generated", "textures": {"layer0": "stewprops:items/equipment_glove_1"}}
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "stewprops:items/equipment_glove_1"
+  }
+}

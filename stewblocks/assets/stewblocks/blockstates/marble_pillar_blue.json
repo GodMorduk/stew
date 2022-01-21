@@ -1,5 +1,7 @@
 {
     "variants": {
-    "normal": {"model": "stewblocks:marble_pillar_blue"}  
+        "normal": {
+            "model": "stewblocks:marble_pillar_blue"
+        }
     }
 }

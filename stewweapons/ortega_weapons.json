@@ -1,553 +1,654 @@
 {
-	"items": [{
+	"items": [
+		{
 			"type": "item:sword",
-			"entries": [{
-				"id": "anicent_blade",
-				"creativeTab": "stew_weapons",
-				"attackSpeed": -2.4,
-				"damage": 18,
-				"material": "diamond",
-				"maxDamage": 5000
-			}]
+			"entries": [
+				{
+					"id": "anicent_blade",
+					"creativeTab": "stew_weapons",
+					"attackSpeed": -2.4,
+					"damage": 18,
+					"material": "diamond",
+					"maxDamage": 5000
+				}
+			]
 		},
 		{
 			"type": "item:axe",
-			"entries": [{
-				"id": "axe",
-				"creativeTab": "stew_weapons",
-				"attackSpeed": -3,
-				"damage": 11,
-				"material": "iron",
-				"maxDamage": 800
-			}]
+			"entries": [
+				{
+					"id": "axe",
+					"creativeTab": "stew_weapons",
+					"attackSpeed": -3,
+					"damage": 11,
+					"material": "iron",
+					"maxDamage": 800
+				}
+			]
 		},
 		{
 			"type": "item:sword",
-			"entries": [{
-				"id": "basalt_cleaver",
-				"creativeTab": "stew_weapons",
-				"attackSpeed": -2.8,
-				"damage": 7,
-				"material": "iron",
-				"maxDamage": 900
-			}]
+			"entries": [
+				{
+					"id": "basalt_cleaver",
+					"creativeTab": "stew_weapons",
+					"attackSpeed": -2.8,
+					"damage": 7,
+					"material": "iron",
+					"maxDamage": 900
+				}
+			]
 		},
 		{
 			"type": "item:sword",
-			"entries": [{
-				"id": "blade_trost",
-				"creativeTab": "stew_weapons",
-				"attackSpeed": -2.4,
-				"damage": 5,
-				"material": "wood",
-				"maxDamage": 250
-			}]
+			"entries": [
+				{
+					"id": "blade_trost",
+					"creativeTab": "stew_weapons",
+					"attackSpeed": -2.4,
+					"damage": 5,
+					"material": "wood",
+					"maxDamage": 250
+				}
+			]
 		},
 		{
 			"type": "item:axe",
-			"entries": [{
-				"id": "blader_cutter",
-				"creativeTab": "stew_weapons",
-				"attackSpeed": -2.7,
-				"damage": 10,
-				"material": "iron",
-				"maxDamage": 900
-			}]
+			"entries": [
+				{
+					"id": "blader_cutter",
+					"creativeTab": "stew_weapons",
+					"attackSpeed": -2.7,
+					"damage": 10,
+					"material": "iron",
+					"maxDamage": 900
+				}
+			]
 		},
 		{
 			"type": "item:sword",
-			"entries": [{
-				"id": "blader_cutter_1",
-				"creativeTab": "stew_weapons",
-				"attackSpeed": -2.9,
-				"damage": 11,
-				"material": "iron",
-				"maxDamage": 800
-			}]
+			"entries": [
+				{
+					"id": "blader_cutter_1",
+					"creativeTab": "stew_weapons",
+					"attackSpeed": -2.9,
+					"damage": 11,
+					"material": "iron",
+					"maxDamage": 800
+				}
+			]
 		},
 		{
 			"type": "item:sword",
-			"entries": [{
-				"id": "blue_laser_sword",
-				"creativeTab": "stew_weapons",
-				"attackSpeed": -2.4,
-				"damage": 14,
-				"material": "diamond",
-				"maxDamage": 2000
-			}]
+			"entries": [
+				{
+					"id": "blue_laser_sword",
+					"creativeTab": "stew_weapons",
+					"attackSpeed": -2.4,
+					"damage": 14,
+					"material": "diamond",
+					"maxDamage": 2000
+				}
+			]
 		},
 		{
 			"type": "item:axe",
-			"entries": [{
-				"id": "chainsaw",
-				"creativeTab": "stew_weapons",
-				"attackSpeed": -2.9,
-				"damage": 8,
-				"material": "iron",
-				"maxDamage": 1200
-			}]
+			"entries": [
+				{
+					"id": "chainsaw",
+					"creativeTab": "stew_weapons",
+					"attackSpeed": -2.9,
+					"damage": 8,
+					"material": "iron",
+					"maxDamage": 1200
+				}
+			]
 		},
 		{
 			"type": "item:axe",
-			"entries": [{
-				"id": "chainsaw_1",
-				"creativeTab": "stew_weapons",
-				"attackSpeed": -2.4,
-				"damage": 9,
-				"material": "iron",
-				"maxDamage": 900
-			}]
+			"entries": [
+				{
+					"id": "chainsaw_1",
+					"creativeTab": "stew_weapons",
+					"attackSpeed": -2.4,
+					"damage": 9,
+					"material": "iron",
+					"maxDamage": 900
+				}
+			]
 		},
 		{
 			"type": "item:sword",
-			"entries": [{
-				"id": "crystal_sword",
-				"creativeTab": "stew_weapons",
-				"attackSpeed": -2.6,
-				"damage": 15,
-				"material": "diamond",
-				"maxDamage": 16
-			}]
+			"entries": [
+				{
+					"id": "crystal_sword",
+					"creativeTab": "stew_weapons",
+					"attackSpeed": -2.6,
+					"damage": 15,
+					"material": "diamond",
+					"maxDamage": 16
+				}
+			]
 		},
 		{
 			"type": "item:sword",
-			"entries": [{
-				"id": "curved_sword",
-				"creativeTab": "stew_weapons",
-				"attackSpeed": -2.3,
-				"damage": 8,
-				"material": "iron",
-				"maxDamage": 350
-			}]
+			"entries": [
+				{
+					"id": "curved_sword",
+					"creativeTab": "stew_weapons",
+					"attackSpeed": -2.3,
+					"damage": 8,
+					"material": "iron",
+					"maxDamage": 350
+				}
+			]
 		},
 		{
 			"type": "item:sword",
-			"entries": [{
-				"id": "cutter",
-				"creativeTab": "stew_weapons",
-				"attackSpeed": -3,
-				"damage": 18,
-				"material": "iron",
-				"maxDamage": 1500
-			}]
+			"entries": [
+				{
+					"id": "cutter",
+					"creativeTab": "stew_weapons",
+					"attackSpeed": -3,
+					"damage": 18,
+					"material": "iron",
+					"maxDamage": 1500
+				}
+			]
 		},
 		{
 			"type": "item:sword",
-			"entries": [{
-				"id": "dagger",
-				"creativeTab": "stew_weapons",
-				"attackSpeed": -2,
-				"damage": 5,
-				"material": "iron",
-				"maxDamage": 350
-			}]
+			"entries": [
+				{
+					"id": "dagger",
+					"creativeTab": "stew_weapons",
+					"attackSpeed": -2,
+					"damage": 5,
+					"material": "iron",
+					"maxDamage": 350
+				}
+			]
 		},
 		{
 			"type": "item:pickaxe",
-			"entries": [{
-				"id": "deepdrill",
-				"creativeTab": "stew_weapons",
-				"attackSpeed": -3.1,
-				"damage": 8,
-				"material": "iron",
-				"maxDamage": 1300
-			}]
+			"entries": [
+				{
+					"id": "deepdrill",
+					"creativeTab": "stew_weapons",
+					"attackSpeed": -3.1,
+					"damage": 8,
+					"material": "iron",
+					"maxDamage": 1300
+				}
+			]
 		},
 		{
 			"type": "item:pickaxe",
-			"entries": [{
-				"id": "hand_drill",
-				"creativeTab": "stew_weapons",
-				"attackSpeed": -2.4,
-				"damage": 7,
-				"material": "iron",
-				"maxDamage": 1100
-			}]
+			"entries": [
+				{
+					"id": "hand_drill",
+					"creativeTab": "stew_weapons",
+					"attackSpeed": -2.4,
+					"damage": 7,
+					"material": "iron",
+					"maxDamage": 1100
+				}
+			]
 		},
 		{
 			"type": "item:sword",
-			"entries": [{
-				"id": "dragon_wrath",
-				"creativeTab": "stew_weapons",
-				"attackSpeed": -2.45,
-				"damage": 10,
-				"material": "iron",
-				"maxDamage": 550
-			}]
+			"entries": [
+				{
+					"id": "dragon_wrath",
+					"creativeTab": "stew_weapons",
+					"attackSpeed": -2.45,
+					"damage": 10,
+					"material": "iron",
+					"maxDamage": 550
+				}
+			]
 		},
 		{
 			"type": "item:pickaxe",
-			"entries": [{
-				"id": "drill",
-				"creativeTab": "stew_weapons",
-				"attackSpeed": -2.7,
-				"damage": 7,
-				"material": "iron",
-				"maxDamage": 1300
-			}]
+			"entries": [
+				{
+					"id": "drill",
+					"creativeTab": "stew_weapons",
+					"attackSpeed": -2.7,
+					"damage": 7,
+					"material": "iron",
+					"maxDamage": 1300
+				}
+			]
 		},
 		{
 			"type": "item:axe",
-			"entries": [{
-				"id": "electroaxe",
-				"creativeTab": "stew_weapons",
-				"attackSpeed": -3,
-				"damage": 10,
-				"material": "diamond",
-				"maxDamage": 2100
-			}]
+			"entries": [
+				{
+					"id": "electroaxe",
+					"creativeTab": "stew_weapons",
+					"attackSpeed": -3,
+					"damage": 10,
+					"material": "diamond",
+					"maxDamage": 2100
+				}
+			]
 		},
 		{
 			"type": "item:sword",
-			"entries": [{
-				"id": "energy_glavie",
-				"creativeTab": "stew_weapons",
-				"attackSpeed": -2.6,
-				"damage": 11,
-				"material": "iron",
-				"maxDamage": 1100
-			}]
+			"entries": [
+				{
+					"id": "energy_glavie",
+					"creativeTab": "stew_weapons",
+					"attackSpeed": -2.6,
+					"damage": 11,
+					"material": "iron",
+					"maxDamage": 1100
+				}
+			]
 		},
 		{
 			"type": "item:sword",
-			"entries": [{
-				"id": "energy_whip",
-				"creativeTab": "stew_weapons",
-				"attackSpeed": -2,
-				"damage": 10,
-				"material": "iron",
-				"maxDamage": 1900
-			}]
+			"entries": [
+				{
+					"id": "energy_whip",
+					"creativeTab": "stew_weapons",
+					"attackSpeed": -2,
+					"damage": 10,
+					"material": "iron",
+					"maxDamage": 1900
+				}
+			]
 		},
 		{
 			"type": "item:sword",
-			"entries": [{
-				"id": "long_dagger",
-				"creativeTab": "stew_weapons",
-				"attackSpeed": -2.1,
-				"damage": 6,
-				"material": "iron",
-				"maxDamage": 700
-			}]
+			"entries": [
+				{
+					"id": "long_dagger",
+					"creativeTab": "stew_weapons",
+					"attackSpeed": -2.1,
+					"damage": 6,
+					"material": "iron",
+					"maxDamage": 700
+				}
+			]
 		},
 		{
 			"type": "item:axe",
-			"entries": [{
-				"id": "fireaxe",
-				"creativeTab": "stew_weapons",
-				"attackSpeed": -2.9,
-				"damage": 11,
-				"material": "iron",
-				"maxDamage": 300
-			}]
+			"entries": [
+				{
+					"id": "fireaxe",
+					"creativeTab": "stew_weapons",
+					"attackSpeed": -2.9,
+					"damage": 11,
+					"material": "iron",
+					"maxDamage": 300
+				}
+			]
 		},
 		{
 			"type": "item:sword",
-			"entries": [{
-				"id": "garmonizator",
-				"creativeTab": "stew_weapons",
-				"attackSpeed": -2.3,
-				"damage": 10,
-				"material": "diamond",
-				"maxDamage": 1500
-			}]
+			"entries": [
+				{
+					"id": "garmonizator",
+					"creativeTab": "stew_weapons",
+					"attackSpeed": -2.3,
+					"damage": 10,
+					"material": "diamond",
+					"maxDamage": 1500
+				}
+			]
 		},
 		{
 			"type": "item:sword",
-			"entries": [{
-				"id": "glavie",
-				"creativeTab": "stew_weapons",
-				"attackSpeed": -2.6,
-				"damage": 13,
-				"material": "iron",
-				"maxDamage": 600
-			}]
+			"entries": [
+				{
+					"id": "glavie",
+					"creativeTab": "stew_weapons",
+					"attackSpeed": -2.6,
+					"damage": 13,
+					"material": "iron",
+					"maxDamage": 600
+				}
+			]
 		},
 		{
 			"type": "item:sword",
-			"entries": [{
-				"id": "industrial_hammer",
-				"creativeTab": "stew_weapons",
-				"attackSpeed": -3.5,
-				"damage": 30,
-				"material": "iron",
-				"maxDamage": 1700
-			}]
+			"entries": [
+				{
+					"id": "industrial_hammer",
+					"creativeTab": "stew_weapons",
+					"attackSpeed": -3.5,
+					"damage": 30,
+					"material": "iron",
+					"maxDamage": 1700
+				}
+			]
 		},
 		{
 			"type": "item:sword",
-			"entries": [{
-				"id": "katana",
-				"creativeTab": "stew_weapons",
-				"attackSpeed": -2.3,
-				"damage": 12,
-				"material": "iron",
-				"maxDamage": 700
-			}]
+			"entries": [
+				{
+					"id": "katana",
+					"creativeTab": "stew_weapons",
+					"attackSpeed": -2.3,
+					"damage": 12,
+					"material": "iron",
+					"maxDamage": 700
+				}
+			]
 		},
 		{
 			"type": "item:sword",
-			"entries": [{
-				"id": "khopesh",
-				"creativeTab": "stew_weapons",
-				"attackSpeed": -2.65,
-				"damage": 13,
-				"material": "iron",
-				"maxDamage": 800
-			}]
+			"entries": [
+				{
+					"id": "khopesh",
+					"creativeTab": "stew_weapons",
+					"attackSpeed": -2.65,
+					"damage": 13,
+					"material": "iron",
+					"maxDamage": 800
+				}
+			]
 		},
 		{
 			"type": "item:sword",
-			"entries": [{
-				"id": "kris",
-				"creativeTab": "stew_weapons",
-				"attackSpeed": -2.1,
-				"damage": 7,
-				"material": "iron",
-				"maxDamage": 700
-			}]
+			"entries": [
+				{
+					"id": "kris",
+					"creativeTab": "stew_weapons",
+					"attackSpeed": -2.1,
+					"damage": 7,
+					"material": "iron",
+					"maxDamage": 700
+				}
+			]
 		},
 		{
 			"type": "item:sword",
-			"entries": [{
-				"id": "laser_razor",
-				"creativeTab": "stew_weapons",
-				"attackSpeed": -2.6,
-				"damage": 20,
-				"material": "iron",
-				"maxDamage": 1700
-			}]
+			"entries": [
+				{
+					"id": "laser_razor",
+					"creativeTab": "stew_weapons",
+					"attackSpeed": -2.6,
+					"damage": 20,
+					"material": "iron",
+					"maxDamage": 1700
+				}
+			]
 		},
 		{
 			"type": "item:axe",
-			"entries": [{
-				"id": "machete",
-				"creativeTab": "stew_weapons",
-				"attackSpeed": -2.3,
-				"damage": 7,
-				"material": "iron",
-				"maxDamage": 1800
-			}]
+			"entries": [
+				{
+					"id": "machete",
+					"creativeTab": "stew_weapons",
+					"attackSpeed": -2.3,
+					"damage": 7,
+					"material": "iron",
+					"maxDamage": 1800
+				}
+			]
 		},
 		{
 			"type": "item:axe",
-			"entries": [{
-				"id": "machete_1",
-				"creativeTab": "stew_weapons",
-				"attackSpeed": -2.5,
-				"damage": 8,
-				"material": "iron",
-				"maxDamage": 1500
-			}]
+			"entries": [
+				{
+					"id": "machete_1",
+					"creativeTab": "stew_weapons",
+					"attackSpeed": -2.5,
+					"damage": 8,
+					"material": "iron",
+					"maxDamage": 1500
+				}
+			]
 		},
 		{
 			"type": "item:sword",
-			"entries": [{
-				"id": "magnet_mace",
-				"creativeTab": "stew_weapons",
-				"attackSpeed": -2.9,
-				"damage": 20,
-				"material": "iron",
-				"maxDamage": 400
-			}]
+			"entries": [
+				{
+					"id": "magnet_mace",
+					"creativeTab": "stew_weapons",
+					"attackSpeed": -2.9,
+					"damage": 20,
+					"material": "iron",
+					"maxDamage": 400
+				}
+			]
 		},
 		{
 			"type": "item:sword",
-			"entries": [{
-				"id": "monomolecural_blade",
-				"creativeTab": "stew_weapons",
-				"attackSpeed": -2.1,
-				"damage": 16,
-				"material": "diamond",
-				"maxDamage": 2100
-			}]
+			"entries": [
+				{
+					"id": "monomolecural_blade",
+					"creativeTab": "stew_weapons",
+					"attackSpeed": -2.1,
+					"damage": 16,
+					"material": "diamond",
+					"maxDamage": 2100
+				}
+			]
 		},
 		{
 			"type": "item:sword",
-			"entries": [{
-				"id": "negotiator",
-				"creativeTab": "stew_weapons",
-				"attackSpeed": -2.3,
-				"damage": 8,
-				"material": "diamond",
-				"maxDamage": 800
-			}]
+			"entries": [
+				{
+					"id": "negotiator",
+					"creativeTab": "stew_weapons",
+					"attackSpeed": -2.3,
+					"damage": 8,
+					"material": "diamond",
+					"maxDamage": 800
+				}
+			]
 		},
 		{
 			"type": "item:sword",
-			"entries": [{
-				"id": "plasma_torch",
-				"creativeTab": "stew_weapons",
-				"attackSpeed": -2.5,
-				"damage": 11,
-				"material": "gold",
-				"maxDamage": 500
-			}]
+			"entries": [
+				{
+					"id": "plasma_torch",
+					"creativeTab": "stew_weapons",
+					"attackSpeed": -2.5,
+					"damage": 11,
+					"material": "gold",
+					"maxDamage": 500
+				}
+			]
 		},
 		{
 			"type": "item:sword",
-			"entries": [{
-				"id": "poison_dagger",
-				"creativeTab": "stew_weapons",
-				"attackSpeed": -2,
-				"damage": 6,
-				"material": "iron",
-				"maxDamage": 650
-			}]
+			"entries": [
+				{
+					"id": "poison_dagger",
+					"creativeTab": "stew_weapons",
+					"attackSpeed": -2,
+					"damage": 6,
+					"material": "iron",
+					"maxDamage": 650
+				}
+			]
 		},
 		{
 			"type": "item:sword",
-			"entries": [{
-				"id": "positron_opressor",
-				"creativeTab": "stew_weapons",
-				"attackSpeed": -3.1,
-				"damage": 10,
-				"material": "iron",
-				"maxDamage": 900
-			}]
+			"entries": [
+				{
+					"id": "positron_opressor",
+					"creativeTab": "stew_weapons",
+					"attackSpeed": -3.1,
+					"damage": 10,
+					"material": "iron",
+					"maxDamage": 900
+				}
+			]
 		},
 		{
 			"type": "item:sword",
-			"entries": [{
-				"id": "rogosvet",
-				"creativeTab": "stew_weapons",
-				"attackSpeed": -2.4,
-				"damage": 14,
-				"material": "diamond",
-				"maxDamage": 1900
-			}]
+			"entries": [
+				{
+					"id": "rogosvet",
+					"creativeTab": "stew_weapons",
+					"attackSpeed": -2.4,
+					"damage": 14,
+					"material": "diamond",
+					"maxDamage": 1900
+				}
+			]
 		},
 		{
 			"type": "item:sword",
-			"entries": [{
-				"id": "rope_hook",
-				"creativeTab": "stew_weapons",
-				"attackSpeed": -2.9,
-				"damage": 8,
-				"material": "iron",
-				"maxDamage": 500
-			}]
+			"entries": [
+				{
+					"id": "rope_hook",
+					"creativeTab": "stew_weapons",
+					"attackSpeed": -2.9,
+					"damage": 8,
+					"material": "iron",
+					"maxDamage": 500
+				}
+			]
 		},
 		{
 			"type": "item:sword",
-			"entries": [{
-				"id": "rusty_sword",
-				"creativeTab": "stew_weapons",
-				"attackSpeed": -2.4,
-				"damage": 12,
-				"material": "iron",
-				"maxDamage": 340
-			}]
+			"entries": [
+				{
+					"id": "rusty_sword",
+					"creativeTab": "stew_weapons",
+					"attackSpeed": -2.4,
+					"damage": 12,
+					"material": "iron",
+					"maxDamage": 340
+				}
+			]
 		},
 		{
 			"type": "item:sword",
-			"entries": [{
-				"id": "shock_baton",
-				"creativeTab": "stew_weapons",
-				"attackSpeed": -2.4,
-				"damage": 9,
-				"material": "iron",
-				"maxDamage": 900
-			}]
+			"entries": [
+				{
+					"id": "shock_baton",
+					"creativeTab": "stew_weapons",
+					"attackSpeed": -2.4,
+					"damage": 9,
+					"material": "iron",
+					"maxDamage": 900
+				}
+			]
 		},
 		{
 			"type": "item:sword",
-			"entries": [{
-				"id": "short_blade",
-				"creativeTab": "stew_weapons",
-				"attackSpeed": -2.3,
-				"damage": 14,
-				"material": "iron",
-				"maxDamage": 800
-			}]
+			"entries": [
+				{
+					"id": "short_blade",
+					"creativeTab": "stew_weapons",
+					"attackSpeed": -2.3,
+					"damage": 14,
+					"material": "iron",
+					"maxDamage": 800
+				}
+			]
 		},
 		{
 			"type": "item:sword",
-			"entries": [{
-				"id": "solid_light_baton",
-				"creativeTab": "stew_weapons",
-				"attackSpeed": -2.2,
-				"damage": 16,
-				"material": "diamond",
-				"maxDamage": 1700
-			}]
+			"entries": [
+				{
+					"id": "solid_light_baton",
+					"creativeTab": "stew_weapons",
+					"attackSpeed": -2.2,
+					"damage": 16,
+					"material": "diamond",
+					"maxDamage": 1700
+				}
+			]
 		},
 		{
 			"type": "item:sword",
-			"entries": [{
-				"id": "spear",
-				"creativeTab": "stew_weapons",
-				"attackSpeed": -2.8,
-				"damage": 20,
-				"material": "iron",
-				"maxDamage": 4000
-			}]
+			"entries": [
+				{
+					"id": "spear",
+					"creativeTab": "stew_weapons",
+					"attackSpeed": -2.8,
+					"damage": 20,
+					"material": "iron",
+					"maxDamage": 4000
+				}
+			]
 		},
 		{
 			"type": "item:sword",
-			"entries": [{
-				"id": "strange_sword",
-				"creativeTab": "stew_weapons",
-				"attackSpeed": -2.5,
-				"damage": 22,
-				"material": "diamond",
-				"maxDamage": 1600
-			}]
+			"entries": [
+				{
+					"id": "strange_sword",
+					"creativeTab": "stew_weapons",
+					"attackSpeed": -2.5,
+					"damage": 22,
+					"material": "diamond",
+					"maxDamage": 1600
+				}
+			]
 		},
 		{
 			"type": "item:sword",
-			"entries": [{
-				"id": "sword",
-				"creativeTab": "stew_weapons",
-				"attackSpeed": -2.8,
-				"damage": 18,
-				"material": "iron",
-				"maxDamage": 850
-			}]
+			"entries": [
+				{
+					"id": "sword",
+					"creativeTab": "stew_weapons",
+					"attackSpeed": -2.8,
+					"damage": 18,
+					"material": "iron",
+					"maxDamage": 850
+				}
+			]
 		},
 		{
 			"type": "item:sword",
-			"entries": [{
-				"id": "thermal_blade",
-				"creativeTab": "stew_weapons",
-				"attackSpeed": -2.2,
-				"damage": 13,
-				"material": "gold",
-				"maxDamage": 400
-			}]
+			"entries": [
+				{
+					"id": "thermal_blade",
+					"creativeTab": "stew_weapons",
+					"attackSpeed": -2.2,
+					"damage": 13,
+					"material": "gold",
+					"maxDamage": 400
+				}
+			]
 		},
 		{
 			"type": "item:sword",
-			"entries": [{
-				"id": "vibroblade",
-				"creativeTab": "stew_weapons",
-				"attackSpeed": -2.4,
-				"damage": 7,
-				"material": "iron",
-				"maxDamage": 900
-			}]
+			"entries": [
+				{
+					"id": "vibroblade",
+					"creativeTab": "stew_weapons",
+					"attackSpeed": -2.4,
+					"damage": 7,
+					"material": "iron",
+					"maxDamage": 900
+				}
+			]
 		},
 		{
 			"type": "item:sword",
-			"entries": [{
-				"id": "vibroblade_1",
-				"creativeTab": "stew_weapons",
-				"attackSpeed": -2.3,
-				"damage": 10,
-				"material": "diamond",
-				"maxDamage": 700
-			}]
+			"entries": [
+				{
+					"id": "vibroblade_1",
+					"creativeTab": "stew_weapons",
+					"attackSpeed": -2.3,
+					"damage": 10,
+					"material": "diamond",
+					"maxDamage": 700
+				}
+			]
 		},
 		{
 			"type": "item:sword",
-			"entries": [{
-				"id": "winged_sword",
-				"creativeTab": "stew_weapons",
-				"attackSpeed": -3,
-				"damage": 11,
-				"material": "iron",
-				"maxDamage": 700
-			}]
+			"entries": [
+				{
+					"id": "winged_sword",
+					"creativeTab": "stew_weapons",
+					"attackSpeed": -3,
+					"damage": 11,
+					"material": "iron",
+					"maxDamage": 700
+				}
+			]
 		}
 	]
 }

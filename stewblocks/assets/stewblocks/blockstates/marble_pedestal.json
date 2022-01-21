@@ -1,5 +1,7 @@
 {
     "variants": {
-    "normal": {"model": "stewblocks:marble_pedestal"}  
+        "normal": {
+            "model": "stewblocks:marble_pedestal"
+        }
     }
 }

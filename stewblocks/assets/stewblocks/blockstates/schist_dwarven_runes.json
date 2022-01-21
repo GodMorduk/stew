@@ -1,5 +1,7 @@
 {
-    "variants": {
-      "normal": {"model": "stewblocks:schist_dwarven_runes"}
+  "variants": {
+    "normal": {
+      "model": "stewblocks:schist_dwarven_runes"
     }
+  }
 }

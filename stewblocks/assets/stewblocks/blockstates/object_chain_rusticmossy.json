@@ -1,5 +1,7 @@
 {
     "variants": {
-        "normal": { "model": "stewblocks:object_chain_rusticmossy" }
+        "normal": {
+            "model": "stewblocks:object_chain_rusticmossy"
+        }
     }
 }

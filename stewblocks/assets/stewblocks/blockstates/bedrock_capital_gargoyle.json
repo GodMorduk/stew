@@ -1,5 +1,7 @@
 {
   "variants": {
-  "normal": {"model": "stewblocks:bedrock_capital_gargoyle"}
+    "normal": {
+      "model": "stewblocks:bedrock_capital_gargoyle"
+    }
   }
 }

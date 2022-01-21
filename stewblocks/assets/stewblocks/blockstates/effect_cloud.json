@@ -1,5 +1,7 @@
 {
-    "variants": {
-      "normal": {"model": "stewblocks:effect_cloud"}
+  "variants": {
+    "normal": {
+      "model": "stewblocks:effect_cloud"
     }
   }
+}

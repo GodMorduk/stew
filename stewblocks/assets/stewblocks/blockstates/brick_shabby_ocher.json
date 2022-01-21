@@ -1,5 +1,7 @@
 {
   "variants": {
-	"normal": {"model": "stewblocks:brick_shabby_ocher"}
+    "normal": {
+      "model": "stewblocks:brick_shabby_ocher"
+    }
   }
 }

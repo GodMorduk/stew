@@ -1,5 +1,7 @@
 {
     "variants": {
-        "normal": { "model": "stewblocks:object_sandglass" }
+        "normal": {
+            "model": "stewblocks:object_sandglass"
+        }
     }
 }

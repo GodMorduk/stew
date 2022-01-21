@@ -1,5 +1,7 @@
 {
-    "variants": {
-      "normal": {"model": "stewblocks:stone_elven_cross"}
+  "variants": {
+    "normal": {
+      "model": "stewblocks:stone_elven_cross"
     }
+  }
 }

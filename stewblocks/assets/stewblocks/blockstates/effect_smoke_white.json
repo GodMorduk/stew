@@ -1,5 +1,7 @@
 {
     "variants": {
-        "normal": { "model": "stewblocks:effect_smoke_white" }
+        "normal": {
+            "model": "stewblocks:effect_smoke_white"
+        }
     }
-  }
+}

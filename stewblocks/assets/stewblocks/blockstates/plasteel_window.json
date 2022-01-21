@@ -1,10 +1,37 @@
 {
-    "variants": {
-      "facing=north": { "model": "stewblocks:plasteel_window", "x": 90, "y": 0, "uvlock": true},
-      "facing=east": { "model": "stewblocks:plasteel_window", "x": 90, "y": 90, "uvlock": true },
-      "facing=south": { "model": "stewblocks:plasteel_window", "x": 90, "y": 180, "uvlock": true },
-      "facing=west": { "model": "stewblocks:plasteel_window", "x": 90, "y": 270, "uvlock": true },
-      "facing=up": { "model": "stewblocks:plasteel_window", "uvlock": true },
-      "facing=down": { "model": "stewblocks:plasteel_window", "x": 180, "uvlock": true }
+  "variants": {
+    "facing=north": {
+      "model": "stewblocks:plasteel_window",
+      "x": 90,
+      "y": 0,
+      "uvlock": true
+    },
+    "facing=east": {
+      "model": "stewblocks:plasteel_window",
+      "x": 90,
+      "y": 90,
+      "uvlock": true
+    },
+    "facing=south": {
+      "model": "stewblocks:plasteel_window",
+      "x": 90,
+      "y": 180,
+      "uvlock": true
+    },
+    "facing=west": {
+      "model": "stewblocks:plasteel_window",
+      "x": 90,
+      "y": 270,
+      "uvlock": true
+    },
+    "facing=up": {
+      "model": "stewblocks:plasteel_window",
+      "uvlock": true
+    },
+    "facing=down": {
+      "model": "stewblocks:plasteel_window",
+      "x": 180,
+      "uvlock": true
     }
   }
+}

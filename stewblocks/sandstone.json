@@ -1,98 +1,98 @@
 {
-    "blocks":[
+   "blocks": [
       {
          "type": "block:simple",
-         "entries":[
+         "entries": [
             {
                "id": "polychrome_capital_corinthian",
                "material": "rock",
-              "creativeTab": "stew_blocks_stone"
+               "creativeTab": "stew_blocks_stone"
             }
          ]
-        },
-        {
+      },
+      {
          "type": "block:simple",
-         "entries":[
+         "entries": [
             {
                "id": "sandstone_cornice",
                "material": "rock",
-              "creativeTab": "stew_blocks_stone"
+               "creativeTab": "stew_blocks_stone"
             }
          ]
-        },
-        {
+      },
+      {
          "type": "block:simple",
-         "entries":[
+         "entries": [
             {
                "id": "sandstone_dorian_base",
                "material": "rock",
-              "creativeTab": "stew_blocks_stone"
+               "creativeTab": "stew_blocks_stone"
             }
          ]
-        },
-        {
+      },
+      {
          "type": "block:simple",
-         "entries":[
+         "entries": [
             {
                "id": "sandstone_polished",
                "material": "rock",
-              "creativeTab": "stew_blocks_stone"
+               "creativeTab": "stew_blocks_stone"
             }
          ]
-        },
-        {
+      },
+      {
          "type": "block:simple",
-         "entries":[
+         "entries": [
             {
                "id": "sandstone_brick",
                "material": "rock",
-              "creativeTab": "stew_blocks_stone"
+               "creativeTab": "stew_blocks_stone"
             }
          ]
-        },
-        {
+      },
+      {
          "type": "block:simple",
-         "entries":[
+         "entries": [
             {
                "id": "sandstone_pillar_blue",
                "material": "rock",
-              "creativeTab": "stew_blocks_stone"
+               "creativeTab": "stew_blocks_stone"
             }
          ]
-        },
-        {
+      },
+      {
          "type": "block:simple",
-         "entries":[
+         "entries": [
             {
                "id": "sandstone_pillar_gold",
                "material": "rock",
-              "creativeTab": "stew_blocks_stone"
+               "creativeTab": "stew_blocks_stone"
             }
          ]
-        },
-        {
+      },
+      {
          "type": "block:simple",
-         "entries":[
+         "entries": [
             {
                "id": "sandstone_pillar_red",
                "material": "rock",
-              "creativeTab": "stew_blocks_stone"
+               "creativeTab": "stew_blocks_stone"
             }
          ]
-        },
-        {
+      },
+      {
          "type": "block:simple",
-         "entries":[
+         "entries": [
             {
                "id": "sandstone_pillar_dorian",
                "material": "rock",
-              "creativeTab": "stew_blocks_stone"
+               "creativeTab": "stew_blocks_stone"
             }
          ]
-        },
-        {
+      },
+      {
          "type": "block:orientable:directional",
-         "entries":[
+         "entries": [
             {
                "id": "sandstone_inscribed",
                "creativeTab": "stew_blocks_stone",
@@ -100,28 +100,28 @@
                "itemModel": "stewblocks:sandstone_inscribed",
                "hardness": 1,
                "faceBySide": true
-              }
-           ]
-         },
-      {
-       "type": "block:simple",
-       "entries":[
-          {
-             "id": "sandstone_capital_eagle",
-             "material": "rock",
-            "creativeTab": "stew_blocks_stone"
-          }
-       ]
+            }
+         ]
       },
       {
-       "type": "block:simple",
-       "entries":[
-          {
-             "id": "sandstone_capital_face",
-             "material": "rock",
-            "creativeTab": "stew_blocks_stone"
-          }
-       ]
+         "type": "block:simple",
+         "entries": [
+            {
+               "id": "sandstone_capital_eagle",
+               "material": "rock",
+               "creativeTab": "stew_blocks_stone"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries": [
+            {
+               "id": "sandstone_capital_face",
+               "material": "rock",
+               "creativeTab": "stew_blocks_stone"
+            }
+         ]
       }
-     ]   
- }   
+   ]
+}

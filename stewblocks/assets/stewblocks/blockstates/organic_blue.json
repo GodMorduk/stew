@@ -1,5 +1,7 @@
 {
-    "variants": {
-      "normal": {"model": "stewblocks:organic_blue"}
+  "variants": {
+    "normal": {
+      "model": "stewblocks:organic_blue"
     }
   }
+}

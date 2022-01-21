@@ -1,12 +1,28 @@
   {
     "variants": {
-        "layers=1":  { "model": "stewblocks:garbage_height2" },
-        "layers=2":  { "model": "stewblocks:garbage_height4" },
-        "layers=3":  { "model": "stewblocks:garbage_height6" },
-        "layers=4":  { "model": "stewblocks:garbage_height8" },
-        "layers=5":  { "model": "stewblocks:garbage_height10" },
-        "layers=6":  { "model": "stewblocks:garbage_height12" },
-        "layers=7":  { "model": "stewblocks:garbage_height14" },
-        "layers=8":  { "model": "stewblocks:garbage" }
+      "layers=1": {
+        "model": "stewblocks:garbage_height2"
+      },
+      "layers=2": {
+        "model": "stewblocks:garbage_height4"
+      },
+      "layers=3": {
+        "model": "stewblocks:garbage_height6"
+      },
+      "layers=4": {
+        "model": "stewblocks:garbage_height8"
+      },
+      "layers=5": {
+        "model": "stewblocks:garbage_height10"
+      },
+      "layers=6": {
+        "model": "stewblocks:garbage_height12"
+      },
+      "layers=7": {
+        "model": "stewblocks:garbage_height14"
+      },
+      "layers=8": {
+        "model": "stewblocks:garbage"
+      }
     }
-}
+  }

@@ -1,6 +1,6 @@
 {
   "parent": "block/cube_all",
   "textures": {
-      "all": "stewblocks:blocks/bedrock_smooth"
+    "all": "stewblocks:blocks/bedrock_smooth"
   }
 }

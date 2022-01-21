@@ -1,5 +1,7 @@
 {
-    "variants": {
-      "normal": {"model": "stewblocks:glass_clear"}
+  "variants": {
+    "normal": {
+      "model": "stewblocks:glass_clear"
     }
   }
+}

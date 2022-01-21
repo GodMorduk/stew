@@ -1,37 +1,43 @@
 {
-    "blocks":[
-{
-    "type": "block:simple",
-    "entries":[
-       {
-          "id": "seedling_box_wooden",
-          "material": "ground",
-          "soundType" : "ground",              
-          "canSustainLeaves" : true,
-          "hardness" : 0.5,
-          "sustainedPlants": ["Plains", "Desert"],                              
-          "creativeTab": "stew_blocks_decor",
-          "opacity": 0
-        }
-    ]
- },
-{
-   "type": "block:simple",
-   "entries":[
-{
-  "id": "flower_pot_large",
-  "creativeTab": "stew_blocks_decor",
-  "material": "rock",
-  "itemModel": "stewblocks:flower_pot_large",
-  "hardness": 1,
-  "sustainedPlants": ["Plains", "Desert"],   
-  "canSustainLeaves" : true,
-  "isPassable": false,
-  "isFullCube": false,
-  "isOpaqueCube": false,
-  "opacity": 0
-}
-]
-}
-]
+   "blocks": [
+      {
+         "type": "block:simple",
+         "entries": [
+            {
+               "id": "seedling_box_wooden",
+               "material": "ground",
+               "soundType": "ground",
+               "canSustainLeaves": true,
+               "hardness": 0.5,
+               "sustainedPlants": [
+                  "Plains",
+                  "Desert"
+               ],
+               "creativeTab": "stew_blocks_decor",
+               "opacity": 0
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries": [
+            {
+               "id": "flower_pot_large",
+               "creativeTab": "stew_blocks_decor",
+               "material": "rock",
+               "itemModel": "stewblocks:flower_pot_large",
+               "hardness": 1,
+               "sustainedPlants": [
+                  "Plains",
+                  "Desert"
+               ],
+               "canSustainLeaves": true,
+               "isPassable": false,
+               "isFullCube": false,
+               "isOpaqueCube": false,
+               "opacity": 0
+            }
+         ]
+      }
+   ]
 }

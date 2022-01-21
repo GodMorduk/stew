@@ -5,11 +5,35 @@
 	},
 	"elements": [
 		{
-			"from": [ 0, 0, 14 ],
-			"to": [ 16, 16, 14 ],
+			"from": [
+				0,
+				0,
+				14
+			],
+			"to": [
+				16,
+				16,
+				14
+			],
 			"faces": {
-				"north": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" },
-				"south": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" }
+				"north": {
+					"uv": [
+						0,
+						0,
+						16,
+						16
+					],
+					"texture": "#texture"
+				},
+				"south": {
+					"uv": [
+						0,
+						0,
+						16,
+						16
+					],
+					"texture": "#texture"
+				}
 			}
 		}
 	]

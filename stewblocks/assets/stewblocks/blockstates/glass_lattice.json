@@ -1,5 +1,7 @@
 {
-    "variants": {
-      "normal": {"model": "stewblocks:glass_lattice"}
+  "variants": {
+    "normal": {
+      "model": "stewblocks:glass_lattice"
     }
+  }
 }

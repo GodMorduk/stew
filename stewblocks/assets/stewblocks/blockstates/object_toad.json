@@ -1,5 +1,7 @@
 {
     "variants": {
-        "normal": { "model": "stewblocks:object_toad" }
+        "normal": {
+            "model": "stewblocks:object_toad"
+        }
     }
 }

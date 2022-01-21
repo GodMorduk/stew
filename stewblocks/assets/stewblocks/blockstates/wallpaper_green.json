@@ -1,5 +1,7 @@
 {
   "variants": {
-	"normal": {"model": "stewblocks:wallpaper_green"}
+    "normal": {
+      "model": "stewblocks:wallpaper_green"
+    }
   }
 }

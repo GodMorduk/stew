@@ -1,5 +1,7 @@
 {
-    "variants": {
-      "normal": {"model": "stewblocks:plasteel_eyepiece_green"}
+  "variants": {
+    "normal": {
+      "model": "stewblocks:plasteel_eyepiece_green"
     }
   }
+}

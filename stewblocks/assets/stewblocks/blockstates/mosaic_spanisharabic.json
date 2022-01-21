@@ -1,5 +1,7 @@
 {
     "variants": {
-    "normal": {"model": "stewblocks:mosaic_spanisharabic"}  
+        "normal": {
+            "model": "stewblocks:mosaic_spanisharabic"
+        }
     }
 }

@@ -1,5 +1,7 @@
 {
-    "variants": {
-      "normal": {"model": "stewblocks:cobblestone_andesite"}
+  "variants": {
+    "normal": {
+      "model": "stewblocks:cobblestone_andesite"
     }
   }
+}

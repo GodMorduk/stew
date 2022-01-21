@@ -1,5 +1,7 @@
 {
   "variants": {
-	"normal": {"model": "stewblocks:brick_plastered_light_gray"}
+    "normal": {
+      "model": "stewblocks:brick_plastered_light_gray"
+    }
   }
 }

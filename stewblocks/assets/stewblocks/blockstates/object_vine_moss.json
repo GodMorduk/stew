@@ -1,5 +1,7 @@
 {
     "variants": {
-        "normal": { "model": "stewblocks:object_vine_moss" }
+        "normal": {
+            "model": "stewblocks:object_vine_moss"
+        }
     }
 }

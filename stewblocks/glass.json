@@ -1,527 +1,527 @@
 {
-    "blocks":[
-        {
-           "type": "block:simple",
-           "entries":[
-              {
-                 "id": "glass_round_brown",
-                 "material": "glass",
-                 "creativeTab": "stew_blocks_glass",
-                 "soundType" : "glass",
-                 "hardness" : 1,
-                 "opacity": 0,
-                 "isFullCube": false,
-                 "isOpaqueCube": false,
-                 "hideAdjacentSides": true,
-                 "renderLayer": "translucent"
-                }
-            ]
-         },
-         {
-            "type": "block:simple",
-            "entries":[
-               {
-                  "id": "glass_clear",
-                  "material": "glass",
-                  "creativeTab": "stew_blocks_glass",
-                  "soundType" : "glass",
-                  "hardness" : 1,
-                  "opacity": 0,
-                  "isFullCube": false,
-                  "isOpaqueCube": false,
-                  "hideAdjacentSides": true,
-                  "renderLayer": "translucent"
-                 }
-             ]
-            },
+   "blocks": [
+      {
+         "type": "block:simple",
+         "entries": [
             {
-               "type": "block:simple",
-               "entries":[
-                  {
-                     "id": "glass_dragon",
-                     "material": "glass",
-                     "creativeTab": "stew_blocks_glass",
-                     "soundType" : "glass",
-                     "hardness" : 1,
-                     "opacity": 0,
-                     "isFullCube": false,
-                     "isOpaqueCube": false,
-                     "hideAdjacentSides": true,
-                     "renderLayer": "translucent"
-                    }
-                ]
-               },
-               {
-                  "type": "block:simple",
-                  "entries":[
-                     {
-                        "id": "glass_gothic_black",
-                        "material": "glass",
-                        "creativeTab": "stew_blocks_glass",
-                        "soundType" : "glass",
-                        "hardness" : 1,
-                        "opacity": 0,
-                        "isFullCube": false,
-                        "isOpaqueCube": false,
-                        "hideAdjacentSides": true,
-                        "renderLayer": "translucent"
-                       }
-                   ]
-                },
-                {
-                  "type": "block:simple",
-                  "entries":[
-                     {
-                        "id": "glass_colorful_cross",
-                        "material": "glass",
-                        "creativeTab": "stew_blocks_glass",
-                        "soundType" : "glass",
-                        "hardness" : 1,
-                        "opacity": 0,
-                        "isFullCube": false,
-                        "isOpaqueCube": false,
-                        "hideAdjacentSides": true,
-                        "renderLayer": "translucent"
-                       }
-                   ]
-               },
-               {
-                  "type": "block:simple",
-                  "entries":[
-                     {
-                        "id": "glass_colorful_diamond",
-                        "material": "glass",
-                        "creativeTab": "stew_blocks_glass",
-                        "soundType" : "glass",
-                        "hardness" : 1,
-                        "opacity": 0,
-                        "isFullCube": false,
-                        "isOpaqueCube": false,
-                        "hideAdjacentSides": true,
-                        "renderLayer": "translucent"
-                       }
-                   ]
-               },
-               {
-                  "type": "block:simple",
-                  "entries":[
-                     {
-                        "id": "glass_colorful_vortex",
-                        "material": "glass",
-                        "creativeTab": "stew_blocks_glass",
-                        "soundType" : "glass",
-                        "hardness" : 1,
-                        "opacity": 0,
-                        "isFullCube": false,
-                        "isOpaqueCube": false,
-                        "hideAdjacentSides": true,
-                        "renderLayer": "translucent"
-                       }
-                   ]
-               },
-               {
-                  "type": "block:simple",
-                  "entries":[
-                     {
-                        "id": "glass_colorful_web",
-                        "material": "glass",
-                        "creativeTab": "stew_blocks_glass",
-                        "soundType" : "glass",
-                        "hardness" : 1,
-                        "opacity": 0,
-                        "isFullCube": false,
-                        "isOpaqueCube": false,
-                        "hideAdjacentSides": true,
-                        "renderLayer": "translucent"
-                       }
-                   ]
-               },
-               {
-                  "type": "block:simple",
-                  "entries":[
-                     {
-                        "id": "glass_frame_boarded_up",
-                        "material": "glass",
-                        "creativeTab": "stew_blocks_glass",
-                        "soundType" : "glass",
-                        "hardness" : 1,
-                        "opacity": 0,
-                        "isFullCube": false,
-                        "isOpaqueCube": false,
-                        "hideAdjacentSides": true,
-                        "renderLayer": "translucent"
-                       }
-                   ]
-               },
-               {
-                  "type": "block:simple",
-                  "entries":[
-                     {
-                        "id": "glass_frame",
-                        "material": "glass",
-                        "creativeTab": "stew_blocks_glass",
-                        "soundType" : "glass",
-                        "hardness" : 1,
-                        "opacity": 0,
-                        "isFullCube": false,
-                        "isOpaqueCube": false,
-                        "hideAdjacentSides": true,
-                        "renderLayer": "translucent"
-                       }
-                   ]
-               },
-               {
-                  "type": "block:simple",
-                  "entries":[
-                     {
-                        "id": "glass_futuristic_black",
-                        "material": "glass",
-                        "creativeTab": "stew_blocks_glass",
-                        "soundType" : "glass",
-                        "hardness" : 1,
-                        "opacity": 0,
-                        "isFullCube": false,
-                        "isOpaqueCube": false,
-                        "hideAdjacentSides": true,
-                        "renderLayer": "translucent"
-                       }
-                   ]
-               },
-               {
-                  "type": "block:simple",
-                  "entries":[
-                     {
-                        "id": "glass_futuristic_magenta",
-                        "material": "glass",
-                        "creativeTab": "stew_blocks_glass",
-                        "soundType" : "glass",
-                        "hardness" : 1,
-                        "opacity": 0,
-                        "isFullCube": false,
-                        "isOpaqueCube": false,
-                        "hideAdjacentSides": true,
-                        "renderLayer": "translucent"
-                       }
-                   ]
-               },
-               {
-                  "type": "block:simple",
-                  "entries":[
-                     {
-                        "id": "glass_lattice",
-                        "material": "glass",
-                        "creativeTab": "stew_blocks_glass",
-                        "soundType" : "glass",
-                        "hardness" : 1,
-                        "opacity": 0,
-                        "isFullCube": false,
-                        "isOpaqueCube": false,
-                        "hideAdjacentSides": true,
-                        "renderLayer": "cutout"
-                       }
-                   ]
-               },
-               {
-                  "type": "block:simple",
-                  "entries":[
-                     {
-                        "id": "glass_mica_black",
-                        "material": "glass",
-                        "creativeTab": "stew_blocks_glass",
-                        "soundType" : "glass",
-                        "hardness" : 1,
-                        "opacity": 0,
-                        "isFullCube": false,
-                        "isOpaqueCube": false,
-                        "hideAdjacentSides": true,
-                        "renderLayer": "translucent"
-                       }
-                   ]
-               },
-               {
-                  "type": "block:simple",
-                  "entries":[
-                     {
-                        "id": "glass_mica_blue",
-                        "material": "glass",
-                        "creativeTab": "stew_blocks_glass",
-                        "soundType" : "glass",
-                        "hardness" : 1,
-                        "opacity": 0,
-                        "isFullCube": false,
-                        "isOpaqueCube": false,
-                        "hideAdjacentSides": true,
-                        "renderLayer": "translucent"
-                       }
-                   ]
-               },
-               {
-                  "type": "block:simple",
-                  "entries":[
-                     {
-                        "id": "glass_mica_brown",
-                        "material": "glass",
-                        "creativeTab": "stew_blocks_glass",
-                        "soundType" : "glass",
-                        "hardness" : 1,
-                        "opacity": 0,
-                        "isFullCube": false,
-                        "isOpaqueCube": false,
-                        "hideAdjacentSides": true,
-                        "renderLayer": "translucent"
-                       }
-                   ]
-               },
-               {
-                  "type": "block:simple",
-                  "entries":[
-                     {
-                        "id": "glass_mica_cyan",
-                        "material": "glass",
-                        "creativeTab": "stew_blocks_glass",
-                        "soundType" : "glass",
-                        "hardness" : 1,
-                        "opacity": 0,
-                        "isFullCube": false,
-                        "isOpaqueCube": false,
-                        "hideAdjacentSides": true,
-                        "renderLayer": "translucent"
-                       }
-                   ]
-               },
-               {
-                  "type": "block:simple",
-                  "entries":[
-                     {
-                        "id": "glass_mica_gray",
-                        "material": "glass",
-                        "creativeTab": "stew_blocks_glass",
-                        "soundType" : "glass",
-                        "hardness" : 1,
-                        "opacity": 0,
-                        "isFullCube": false,
-                        "isOpaqueCube": false,
-                        "hideAdjacentSides": true,
-                        "renderLayer": "translucent"
-                       }
-                   ]
-               },
-               {
-                  "type": "block:simple",
-                  "entries":[
-                     {
-                        "id": "glass_mica_green",
-                        "material": "glass",
-                        "creativeTab": "stew_blocks_glass",
-                        "soundType" : "glass",
-                        "hardness" : 1,
-                        "opacity": 0,
-                        "isFullCube": false,
-                        "isOpaqueCube": false,
-                        "hideAdjacentSides": true,
-                        "renderLayer": "translucent"
-                       }
-                   ]
-               },
-               {
-                  "type": "block:simple",
-                  "entries":[
-                     {
-                        "id": "glass_mica_light_blue",
-                        "material": "glass",
-                        "creativeTab": "stew_blocks_glass",
-                        "soundType" : "glass",
-                        "hardness" : 1,
-                        "opacity": 0,
-                        "isFullCube": false,
-                        "isOpaqueCube": false,
-                        "hideAdjacentSides": true,
-                        "renderLayer": "translucent"
-                       }
-                   ]
-               },
-               {
-                  "type": "block:simple",
-                  "entries":[
-                     {
-                        "id": "glass_mica_lime",
-                        "material": "glass",
-                        "creativeTab": "stew_blocks_glass",
-                        "soundType" : "glass",
-                        "hardness" : 1,
-                        "opacity": 0,
-                        "isFullCube": false,
-                        "isOpaqueCube": false,
-                        "hideAdjacentSides": true,
-                        "renderLayer": "translucent"
-                       }
-                   ]
-               },
-               {
-                  "type": "block:simple",
-                  "entries":[
-                     {
-                        "id": "glass_mica_magenta",
-                        "material": "glass",
-                        "creativeTab": "stew_blocks_glass",
-                        "soundType" : "glass",
-                        "hardness" : 1,
-                        "opacity": 0,
-                        "isFullCube": false,
-                        "isOpaqueCube": false,
-                        "hideAdjacentSides": true,
-                        "renderLayer": "translucent"
-                       }
-                   ]
-               },
-               {
-                  "type": "block:simple",
-                  "entries":[
-                     {
-                        "id": "glass_mica_orange",
-                        "material": "glass",
-                        "creativeTab": "stew_blocks_glass",
-                        "soundType" : "glass",
-                        "hardness" : 1,
-                        "opacity": 0,
-                        "isFullCube": false,
-                        "isOpaqueCube": false,
-                        "hideAdjacentSides": true,
-                        "renderLayer": "translucent"
-                       }
-                   ]
-               },
-               {
-                  "type": "block:simple",
-                  "entries":[
-                     {
-                        "id": "glass_mica_pink",
-                        "material": "glass",
-                        "creativeTab": "stew_blocks_glass",
-                        "soundType" : "glass",
-                        "hardness" : 1,
-                        "opacity": 0,
-                        "isFullCube": false,
-                        "isOpaqueCube": false,
-                        "hideAdjacentSides": true,
-                        "renderLayer": "translucent"
-                       }
-                   ]
-               },
-               {
-                  "type": "block:simple",
-                  "entries":[
-                     {
-                        "id": "glass_mica_purple",
-                        "material": "glass",
-                        "creativeTab": "stew_blocks_glass",
-                        "soundType" : "glass",
-                        "hardness" : 1,
-                        "opacity": 0,
-                        "isFullCube": false,
-                        "isOpaqueCube": false,
-                        "hideAdjacentSides": true,
-                        "renderLayer": "translucent"
-                       }
-                   ]
-               },
-               {
-                  "type": "block:simple",
-                  "entries":[
-                     {
-                        "id": "glass_mica_red",
-                        "material": "glass",
-                        "creativeTab": "stew_blocks_glass",
-                        "soundType" : "glass",
-                        "hardness" : 1,
-                        "opacity": 0,
-                        "isFullCube": false,
-                        "isOpaqueCube": false,
-                        "hideAdjacentSides": true,
-                        "renderLayer": "translucent"
-                       }
-                   ]
-               },
-               {
-                  "type": "block:simple",
-                  "entries":[
-                     {
-                        "id": "glass_mica_silver",
-                        "material": "glass",
-                        "creativeTab": "stew_blocks_glass",
-                        "soundType" : "glass",
-                        "hardness" : 1,
-                        "opacity": 0,
-                        "isFullCube": false,
-                        "isOpaqueCube": false,
-                        "hideAdjacentSides": true,
-                        "renderLayer": "translucent"
-                       }
-                   ]
-               },
-               {
-                  "type": "block:simple",
-                  "entries":[
-                     {
-                        "id": "glass_mica_white",
-                        "material": "glass",
-                        "creativeTab": "stew_blocks_glass",
-                        "soundType" : "glass",
-                        "hardness" : 1,
-                        "opacity": 0,
-                        "isFullCube": false,
-                        "isOpaqueCube": false,
-                        "hideAdjacentSides": true,
-                        "renderLayer": "translucent"
-                       }
-                   ]
-               },
-               {
-                  "type": "block:simple",
-                  "entries":[
-                     {
-                        "id": "glass_mica_yellow",
-                        "material": "glass",
-                        "creativeTab": "stew_blocks_glass",
-                        "soundType" : "glass",
-                        "hardness" : 1,
-                        "opacity": 0,
-                        "isFullCube": false,
-                        "isOpaqueCube": false,
-                        "hideAdjacentSides": true,
-                        "renderLayer": "translucent"
-                       }
-                   ]
-               },
-               {
-                  "type": "block:simple",
-                  "entries":[
-                     {
-                        "id": "glass_twisted",
-                        "material": "glass",
-                        "creativeTab": "stew_blocks_glass",
-                        "soundType" : "glass",
-                        "hardness" : 1,
-                        "opacity": 0,
-                        "isFullCube": false,
-                        "isOpaqueCube": false,
-                        "hideAdjacentSides": true,
-                        "renderLayer": "cutout"
-                       }
-                   ]
-                  },
-                  {
-                    "type": "block:pane",
-                    "entries": [
-                      {
-                      "id": "glass_twisted_pane",
-                      "material": "glass",
-                      "renderLayer": "cutout",
-                      "creativeTab": "stew_blocks_glass",
-                      "itemModel": "stewblocks:glass_twisted_pane",
-                      "hideAdjacentSides": true
-                    }
-                  ]
-                }  
-              ]
-             }
+               "id": "glass_round_brown",
+               "material": "glass",
+               "creativeTab": "stew_blocks_glass",
+               "soundType": "glass",
+               "hardness": 1,
+               "opacity": 0,
+               "isFullCube": false,
+               "isOpaqueCube": false,
+               "hideAdjacentSides": true,
+               "renderLayer": "translucent"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries": [
+            {
+               "id": "glass_clear",
+               "material": "glass",
+               "creativeTab": "stew_blocks_glass",
+               "soundType": "glass",
+               "hardness": 1,
+               "opacity": 0,
+               "isFullCube": false,
+               "isOpaqueCube": false,
+               "hideAdjacentSides": true,
+               "renderLayer": "translucent"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries": [
+            {
+               "id": "glass_dragon",
+               "material": "glass",
+               "creativeTab": "stew_blocks_glass",
+               "soundType": "glass",
+               "hardness": 1,
+               "opacity": 0,
+               "isFullCube": false,
+               "isOpaqueCube": false,
+               "hideAdjacentSides": true,
+               "renderLayer": "translucent"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries": [
+            {
+               "id": "glass_gothic_black",
+               "material": "glass",
+               "creativeTab": "stew_blocks_glass",
+               "soundType": "glass",
+               "hardness": 1,
+               "opacity": 0,
+               "isFullCube": false,
+               "isOpaqueCube": false,
+               "hideAdjacentSides": true,
+               "renderLayer": "translucent"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries": [
+            {
+               "id": "glass_colorful_cross",
+               "material": "glass",
+               "creativeTab": "stew_blocks_glass",
+               "soundType": "glass",
+               "hardness": 1,
+               "opacity": 0,
+               "isFullCube": false,
+               "isOpaqueCube": false,
+               "hideAdjacentSides": true,
+               "renderLayer": "translucent"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries": [
+            {
+               "id": "glass_colorful_diamond",
+               "material": "glass",
+               "creativeTab": "stew_blocks_glass",
+               "soundType": "glass",
+               "hardness": 1,
+               "opacity": 0,
+               "isFullCube": false,
+               "isOpaqueCube": false,
+               "hideAdjacentSides": true,
+               "renderLayer": "translucent"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries": [
+            {
+               "id": "glass_colorful_vortex",
+               "material": "glass",
+               "creativeTab": "stew_blocks_glass",
+               "soundType": "glass",
+               "hardness": 1,
+               "opacity": 0,
+               "isFullCube": false,
+               "isOpaqueCube": false,
+               "hideAdjacentSides": true,
+               "renderLayer": "translucent"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries": [
+            {
+               "id": "glass_colorful_web",
+               "material": "glass",
+               "creativeTab": "stew_blocks_glass",
+               "soundType": "glass",
+               "hardness": 1,
+               "opacity": 0,
+               "isFullCube": false,
+               "isOpaqueCube": false,
+               "hideAdjacentSides": true,
+               "renderLayer": "translucent"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries": [
+            {
+               "id": "glass_frame_boarded_up",
+               "material": "glass",
+               "creativeTab": "stew_blocks_glass",
+               "soundType": "glass",
+               "hardness": 1,
+               "opacity": 0,
+               "isFullCube": false,
+               "isOpaqueCube": false,
+               "hideAdjacentSides": true,
+               "renderLayer": "translucent"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries": [
+            {
+               "id": "glass_frame",
+               "material": "glass",
+               "creativeTab": "stew_blocks_glass",
+               "soundType": "glass",
+               "hardness": 1,
+               "opacity": 0,
+               "isFullCube": false,
+               "isOpaqueCube": false,
+               "hideAdjacentSides": true,
+               "renderLayer": "translucent"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries": [
+            {
+               "id": "glass_futuristic_black",
+               "material": "glass",
+               "creativeTab": "stew_blocks_glass",
+               "soundType": "glass",
+               "hardness": 1,
+               "opacity": 0,
+               "isFullCube": false,
+               "isOpaqueCube": false,
+               "hideAdjacentSides": true,
+               "renderLayer": "translucent"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries": [
+            {
+               "id": "glass_futuristic_magenta",
+               "material": "glass",
+               "creativeTab": "stew_blocks_glass",
+               "soundType": "glass",
+               "hardness": 1,
+               "opacity": 0,
+               "isFullCube": false,
+               "isOpaqueCube": false,
+               "hideAdjacentSides": true,
+               "renderLayer": "translucent"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries": [
+            {
+               "id": "glass_lattice",
+               "material": "glass",
+               "creativeTab": "stew_blocks_glass",
+               "soundType": "glass",
+               "hardness": 1,
+               "opacity": 0,
+               "isFullCube": false,
+               "isOpaqueCube": false,
+               "hideAdjacentSides": true,
+               "renderLayer": "cutout"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries": [
+            {
+               "id": "glass_mica_black",
+               "material": "glass",
+               "creativeTab": "stew_blocks_glass",
+               "soundType": "glass",
+               "hardness": 1,
+               "opacity": 0,
+               "isFullCube": false,
+               "isOpaqueCube": false,
+               "hideAdjacentSides": true,
+               "renderLayer": "translucent"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries": [
+            {
+               "id": "glass_mica_blue",
+               "material": "glass",
+               "creativeTab": "stew_blocks_glass",
+               "soundType": "glass",
+               "hardness": 1,
+               "opacity": 0,
+               "isFullCube": false,
+               "isOpaqueCube": false,
+               "hideAdjacentSides": true,
+               "renderLayer": "translucent"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries": [
+            {
+               "id": "glass_mica_brown",
+               "material": "glass",
+               "creativeTab": "stew_blocks_glass",
+               "soundType": "glass",
+               "hardness": 1,
+               "opacity": 0,
+               "isFullCube": false,
+               "isOpaqueCube": false,
+               "hideAdjacentSides": true,
+               "renderLayer": "translucent"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries": [
+            {
+               "id": "glass_mica_cyan",
+               "material": "glass",
+               "creativeTab": "stew_blocks_glass",
+               "soundType": "glass",
+               "hardness": 1,
+               "opacity": 0,
+               "isFullCube": false,
+               "isOpaqueCube": false,
+               "hideAdjacentSides": true,
+               "renderLayer": "translucent"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries": [
+            {
+               "id": "glass_mica_gray",
+               "material": "glass",
+               "creativeTab": "stew_blocks_glass",
+               "soundType": "glass",
+               "hardness": 1,
+               "opacity": 0,
+               "isFullCube": false,
+               "isOpaqueCube": false,
+               "hideAdjacentSides": true,
+               "renderLayer": "translucent"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries": [
+            {
+               "id": "glass_mica_green",
+               "material": "glass",
+               "creativeTab": "stew_blocks_glass",
+               "soundType": "glass",
+               "hardness": 1,
+               "opacity": 0,
+               "isFullCube": false,
+               "isOpaqueCube": false,
+               "hideAdjacentSides": true,
+               "renderLayer": "translucent"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries": [
+            {
+               "id": "glass_mica_light_blue",
+               "material": "glass",
+               "creativeTab": "stew_blocks_glass",
+               "soundType": "glass",
+               "hardness": 1,
+               "opacity": 0,
+               "isFullCube": false,
+               "isOpaqueCube": false,
+               "hideAdjacentSides": true,
+               "renderLayer": "translucent"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries": [
+            {
+               "id": "glass_mica_lime",
+               "material": "glass",
+               "creativeTab": "stew_blocks_glass",
+               "soundType": "glass",
+               "hardness": 1,
+               "opacity": 0,
+               "isFullCube": false,
+               "isOpaqueCube": false,
+               "hideAdjacentSides": true,
+               "renderLayer": "translucent"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries": [
+            {
+               "id": "glass_mica_magenta",
+               "material": "glass",
+               "creativeTab": "stew_blocks_glass",
+               "soundType": "glass",
+               "hardness": 1,
+               "opacity": 0,
+               "isFullCube": false,
+               "isOpaqueCube": false,
+               "hideAdjacentSides": true,
+               "renderLayer": "translucent"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries": [
+            {
+               "id": "glass_mica_orange",
+               "material": "glass",
+               "creativeTab": "stew_blocks_glass",
+               "soundType": "glass",
+               "hardness": 1,
+               "opacity": 0,
+               "isFullCube": false,
+               "isOpaqueCube": false,
+               "hideAdjacentSides": true,
+               "renderLayer": "translucent"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries": [
+            {
+               "id": "glass_mica_pink",
+               "material": "glass",
+               "creativeTab": "stew_blocks_glass",
+               "soundType": "glass",
+               "hardness": 1,
+               "opacity": 0,
+               "isFullCube": false,
+               "isOpaqueCube": false,
+               "hideAdjacentSides": true,
+               "renderLayer": "translucent"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries": [
+            {
+               "id": "glass_mica_purple",
+               "material": "glass",
+               "creativeTab": "stew_blocks_glass",
+               "soundType": "glass",
+               "hardness": 1,
+               "opacity": 0,
+               "isFullCube": false,
+               "isOpaqueCube": false,
+               "hideAdjacentSides": true,
+               "renderLayer": "translucent"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries": [
+            {
+               "id": "glass_mica_red",
+               "material": "glass",
+               "creativeTab": "stew_blocks_glass",
+               "soundType": "glass",
+               "hardness": 1,
+               "opacity": 0,
+               "isFullCube": false,
+               "isOpaqueCube": false,
+               "hideAdjacentSides": true,
+               "renderLayer": "translucent"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries": [
+            {
+               "id": "glass_mica_silver",
+               "material": "glass",
+               "creativeTab": "stew_blocks_glass",
+               "soundType": "glass",
+               "hardness": 1,
+               "opacity": 0,
+               "isFullCube": false,
+               "isOpaqueCube": false,
+               "hideAdjacentSides": true,
+               "renderLayer": "translucent"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries": [
+            {
+               "id": "glass_mica_white",
+               "material": "glass",
+               "creativeTab": "stew_blocks_glass",
+               "soundType": "glass",
+               "hardness": 1,
+               "opacity": 0,
+               "isFullCube": false,
+               "isOpaqueCube": false,
+               "hideAdjacentSides": true,
+               "renderLayer": "translucent"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries": [
+            {
+               "id": "glass_mica_yellow",
+               "material": "glass",
+               "creativeTab": "stew_blocks_glass",
+               "soundType": "glass",
+               "hardness": 1,
+               "opacity": 0,
+               "isFullCube": false,
+               "isOpaqueCube": false,
+               "hideAdjacentSides": true,
+               "renderLayer": "translucent"
+            }
+         ]
+      },
+      {
+         "type": "block:simple",
+         "entries": [
+            {
+               "id": "glass_twisted",
+               "material": "glass",
+               "creativeTab": "stew_blocks_glass",
+               "soundType": "glass",
+               "hardness": 1,
+               "opacity": 0,
+               "isFullCube": false,
+               "isOpaqueCube": false,
+               "hideAdjacentSides": true,
+               "renderLayer": "cutout"
+            }
+         ]
+      },
+      {
+         "type": "block:pane",
+         "entries": [
+            {
+               "id": "glass_twisted_pane",
+               "material": "glass",
+               "renderLayer": "cutout",
+               "creativeTab": "stew_blocks_glass",
+               "itemModel": "stewblocks:glass_twisted_pane",
+               "hideAdjacentSides": true
+            }
+         ]
+      }
+   ]
+}

@@ -1,8 +1,8 @@
 {
   "parent": "block/cube_bottom_top",
   "textures": {
-      "bottom": "stewblocks:blocks/bedrock_tile_square",
-      "top": "stewblocks:blocks/bedrock_tile_square",
-      "side": "stewblocks:blocks/bedrock_small_bricks_carved"
+    "bottom": "stewblocks:blocks/bedrock_tile_square",
+    "top": "stewblocks:blocks/bedrock_tile_square",
+    "side": "stewblocks:blocks/bedrock_small_bricks_carved"
   }
 }

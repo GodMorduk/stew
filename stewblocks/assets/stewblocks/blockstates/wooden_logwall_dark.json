@@ -1,5 +1,7 @@
 {
-    "variants": {
-      "normal": {"model": "stewblocks:wooden_logwall_dark"}
+  "variants": {
+    "normal": {
+      "model": "stewblocks:wooden_logwall_dark"
     }
   }
+}

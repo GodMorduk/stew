@@ -1,1 +1,6 @@
-{"parent": "item/generated", "textures": {"layer0": "stewprops:items/medicine_pills_pouch_03"}}
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "stewprops:items/medicine_pills_pouch_03"
+  }
+}

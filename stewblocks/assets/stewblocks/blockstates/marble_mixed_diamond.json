@@ -1,5 +1,7 @@
 {
     "variants": {
-    "normal": {"model": "stewblocks:marble_mixed_diamond"}  
+        "normal": {
+            "model": "stewblocks:marble_mixed_diamond"
+        }
     }
 }

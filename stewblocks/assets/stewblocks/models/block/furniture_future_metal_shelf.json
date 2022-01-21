@@ -1,9 +1,9 @@
 {
-    "parent": "stewblocks:block/refrigerator_retro",
-  	"textures": {
-      "0": "stewblocks:blocks/refrigerator_retro_white6",
-  		"1": "stewblocks:blocks/refrigerator_retro_white7",
-  		"2": "stewblocks:blocks/refrigerator_retro_white5",
-      "4": "stewblocks:blocks/refrigerator_retro_white8"
-  	}
+	"parent": "stewblocks:block/refrigerator_retro",
+	"textures": {
+		"0": "stewblocks:blocks/refrigerator_retro_white6",
+		"1": "stewblocks:blocks/refrigerator_retro_white7",
+		"2": "stewblocks:blocks/refrigerator_retro_white5",
+		"4": "stewblocks:blocks/refrigerator_retro_white8"
+	}
 }

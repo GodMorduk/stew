@@ -1,1 +1,6 @@
-{"parent": "item/generated", "textures": {"layer0": "stewprops:items/effect_condensed_energy"}}
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "stewprops:items/effect_condensed_energy"
+  }
+}

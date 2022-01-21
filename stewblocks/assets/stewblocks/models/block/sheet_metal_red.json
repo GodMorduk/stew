@@ -1,8 +1,8 @@
 {
-    "parent": "stewblocks:block/thin_slab",
-    "textures": {  
-      "front": "stewblocks:blocks/sheet_metal_red",
-      "back": "stewblocks:blocks/sheet_metal_red",     
-      "side": "stewblocks:blocks/sheet_metal_red"
-    }
+  "parent": "stewblocks:block/thin_slab",
+  "textures": {
+    "front": "stewblocks:blocks/sheet_metal_red",
+    "back": "stewblocks:blocks/sheet_metal_red",
+    "side": "stewblocks:blocks/sheet_metal_red"
+  }
 }

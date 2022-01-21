@@ -1,5 +1,7 @@
 {
     "variants": {
-        "normal": { "model": "stewblocks:object_ribcage" }
+        "normal": {
+            "model": "stewblocks:object_ribcage"
+        }
     }
 }

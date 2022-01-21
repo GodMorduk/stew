@@ -1,5 +1,7 @@
 {
-    "variants": {
-      "normal": {"model": "stewblocks:ruin_old_plaster_base"}
+  "variants": {
+    "normal": {
+      "model": "stewblocks:ruin_old_plaster_base"
     }
   }
+}

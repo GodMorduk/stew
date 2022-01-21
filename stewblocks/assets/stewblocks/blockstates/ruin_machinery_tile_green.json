@@ -1,5 +1,7 @@
 {
-    "variants": {
-      "normal": {"model": "stewblocks:ruin_machinery_tile_green"}
+  "variants": {
+    "normal": {
+      "model": "stewblocks:ruin_machinery_tile_green"
     }
   }
+}

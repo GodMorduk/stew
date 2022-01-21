@@ -1,5 +1,7 @@
 {
     "variants": {
-    "normal": {"model": "stewblocks:sandstone_pillar_gold"}  
+        "normal": {
+            "model": "stewblocks:sandstone_pillar_gold"
+        }
     }
 }

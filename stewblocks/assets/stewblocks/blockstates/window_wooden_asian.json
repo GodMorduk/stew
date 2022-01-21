@@ -1,5 +1,7 @@
 {
-    "variants": {
-      "normal": {"model": "stewblocks:window_wooden_asian"}
+  "variants": {
+    "normal": {
+      "model": "stewblocks:window_wooden_asian"
     }
   }
+}

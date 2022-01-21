@@ -1,5 +1,7 @@
 {
   "variants": {
-	"normal": {"model": "stewblocks:wallpaper_red_floristic"}
+    "normal": {
+      "model": "stewblocks:wallpaper_red_floristic"
+    }
   }
 }

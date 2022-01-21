@@ -1,8 +1,8 @@
 {
-    "parent": "stewblocks:block/thick_slab",
-    "textures": {  
-      "front": "stewblocks:blocks/object_wheel_iron",
-      "back": "stewblocks:blocks/object_wheel_iron",     
-      "side": "stewblocks:blocks/object_wheel_iron_side"
-    }
+  "parent": "stewblocks:block/thick_slab",
+  "textures": {
+    "front": "stewblocks:blocks/object_wheel_iron",
+    "back": "stewblocks:blocks/object_wheel_iron",
+    "side": "stewblocks:blocks/object_wheel_iron_side"
+  }
 }

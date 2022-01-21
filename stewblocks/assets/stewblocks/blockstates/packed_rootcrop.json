@@ -1,5 +1,7 @@
 {
   "variants": {
-	"normal": {"model": "stewblocks:packed_rootcrop"}
+    "normal": {
+      "model": "stewblocks:packed_rootcrop"
+    }
   }
 }
